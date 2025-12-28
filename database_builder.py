@@ -111,6 +111,10 @@ class ArchiveWorker():
         for tid in cheats_path.iterdir():
             tid_path = titles_path.joinpath(tid.stem)
             tid_path.mkdir()
+            try:
+                tid_path.mkdir()
+            except FileExistsError:
+                continue
             with open(tid, "r") as cheats_file:
                 cheats_dict = json.load(cheats_file)
             for key, value in cheats_dict.items():
