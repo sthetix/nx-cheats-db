@@ -242,7 +242,6 @@ if __name__ == '__main__':
 
         print("building complete cheat sheets")
         out_path = Path("complete")
-        out_path.mkdir()
         try:
            out_path.mkdir()
         except FileExistsError:
