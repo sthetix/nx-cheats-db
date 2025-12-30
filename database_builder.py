@@ -37,11 +37,41 @@ class DatabaseInfo:
 class GbatempCheatsInfo:
     def __init__(self):
         self.scraper = cloudscraper.create_scraper()
+        # Use GitHub mirror as primary source (more reliable than web scraping)
+        self.github_api_url = "https://api.github.com/repos/tomvita/NXCheatCode/releases/latest"
+        self.github_download_url = None
         self.page_url = "https://gbatemp.net/download/cheat-codes-sxos-and-ams-main-cheat-file-updated.36311/"
         self.latest_update_id = None
         self.gbatemp_version = self.fetch_gbatemp_version()
 
     def fetch_gbatemp_version(self):
+        # Try GitHub mirror first (more reliable)
+        try:
+            token = os.getenv('GITHUB_TOKEN')
+            headers = {'Authorization': f'token {token}'} if token else {}
+
+            response = self.scraper.get(self.github_api_url, headers=headers)
+            if response.status_code == 200:
+                release_data = response.json()
+
+                # Get the published date
+                published_at = release_data.get("published_at")
+                if published_at:
+                    version = datetime.fromisoformat(published_at.replace("Z", "+00:00"))
+                    print(f"Found GitHub mirror release: {release_data.get('tag_name')} from {version.date()}")
+
+                    # Get download URL for titles.zip
+                    for asset in release_data.get("assets", []):
+                        if asset.get("name") == "titles.zip":
+                            self.github_download_url = asset.get("browser_download_url")
+                            print(f"Using GitHub mirror download URL")
+                            break
+
+                    return version.date()
+        except Exception as e:
+            print(f"GitHub mirror fetch failed: {e}, falling back to GBAtemp scraping")
+
+        # Fallback to GBAtemp scraping
         try:
             page = self.scraper.get(f"{self.page_url}/updates")
             soup = BeautifulSoup(page.content, "html.parser")
@@ -65,7 +95,6 @@ class GbatempCheatsInfo:
 
             block_container = soup.find("div", {"class": "block-container"})
             if block_container is None:
-                # Fallback to current date if page structure changed
                 print("Warning: Could not parse GBAtemp page, using current date as version")
                 return date.today()
             dates = block_container.find_all("time", {"class": "u-dt"})
@@ -85,8 +114,13 @@ class GbatempCheatsInfo:
         return self.gbatemp_version
 
     def get_download_url(self):
+        # Prefer GitHub mirror if available
+        if self.github_download_url:
+            return self.github_download_url
+        # Try GBAtemp with update ID
         if self.latest_update_id:
             return f"{self.page_url}update/{self.latest_update_id}/download"
+        # Fallback to generic download
         return f"{self.page_url}download"
 
 
