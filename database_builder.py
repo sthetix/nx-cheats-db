@@ -38,22 +38,45 @@ class GbatempCheatsInfo:
     def __init__(self):
         self.scraper = cloudscraper.create_scraper()
         self.page_url = "https://gbatemp.net/download/cheat-codes-sxos-and-ams-main-cheat-file-updated.36311/"
+        self.latest_update_id = None
         self.gbatemp_version = self.fetch_gbatemp_version()
 
     def fetch_gbatemp_version(self):
-        page = self.scraper.get(f"{self.page_url}/updates")
-        soup = BeautifulSoup(page.content, "html.parser")
-        block_container = soup.find("div", {"class": "block-container"})
-        if block_container is None:
-            # Fallback to current date if page structure changed
-            print("Warning: Could not parse GBAtemp page, using current date as version")
+        try:
+            page = self.scraper.get(f"{self.page_url}/updates")
+            soup = BeautifulSoup(page.content, "html.parser")
+
+            # Try to find update links to get the latest update ID
+            update_links = soup.find_all("a", href=True)
+            update_ids = []
+            for link in update_links:
+                href = link.get("href", "")
+                if "/update/" in href:
+                    # Extract update ID from URL like /update/41725/
+                    parts = href.split("/update/")
+                    if len(parts) > 1:
+                        update_id = parts[1].strip("/")
+                        if update_id.isdigit():
+                            update_ids.append(int(update_id))
+
+            if update_ids:
+                self.latest_update_id = max(update_ids)
+                print(f"Found latest GBAtemp update ID: {self.latest_update_id}")
+
+            block_container = soup.find("div", {"class": "block-container"})
+            if block_container is None:
+                # Fallback to current date if page structure changed
+                print("Warning: Could not parse GBAtemp page, using current date as version")
+                return date.today()
+            dates = block_container.find_all("time", {"class": "u-dt"})
+            if not dates:
+                print("Warning: No dates found on GBAtemp page, using current date as version")
+                return date.today()
+            version = max([datetime.fromisoformat(date.get("datetime")) for date in dates])
+            return version.date()
+        except Exception as e:
+            print(f"Error fetching GBAtemp version: {e}")
             return date.today()
-        dates = block_container.find_all("time", {"class": "u-dt"})
-        if not dates:
-            print("Warning: No dates found on GBAtemp page, using current date as version")
-            return date.today()
-        version = max([datetime.fromisoformat(date.get("datetime")) for date in dates])
-        return version.date()
 
     def has_new_cheats(self, database_version):
         return self.gbatemp_version > database_version
@@ -62,7 +85,9 @@ class GbatempCheatsInfo:
         return self.gbatemp_version
 
     def get_download_url(self):
-        return f"{self.page_url}/download"
+        if self.latest_update_id:
+            return f"{self.page_url}update/{self.latest_update_id}/download"
+        return f"{self.page_url}download"
 
 
 class HighFPSCheatsInfo:
