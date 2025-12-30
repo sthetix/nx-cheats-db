@@ -43,7 +43,15 @@ class GbatempCheatsInfo:
     def fetch_gbatemp_version(self):
         page = self.scraper.get(f"{self.page_url}/updates")
         soup = BeautifulSoup(page.content, "html.parser")
-        dates = soup.find("div", {"class": "block-container"}).find_all("time", {"class": "u-dt"})
+        block_container = soup.find("div", {"class": "block-container"})
+        if block_container is None:
+            # Fallback to current date if page structure changed
+            print("Warning: Could not parse GBAtemp page, using current date as version")
+            return date.today()
+        dates = block_container.find_all("time", {"class": "u-dt"})
+        if not dates:
+            print("Warning: No dates found on GBAtemp page, using current date as version")
+            return date.today()
         version = max([datetime.fromisoformat(date.get("datetime")) for date in dates])
         return version.date()
 
