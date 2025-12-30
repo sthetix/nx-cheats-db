@@ -195,13 +195,24 @@ if __name__ == '__main__':
         print(f"Downloading cheats")
         archive_worker.download_archive(gbatemp.get_download_url(), archive_path)
         archive_worker.extract_archive(archive_path, "gbatemp")
+
+        # Debug: List what was extracted
+        gbatemp_path = Path("gbatemp")
+        if gbatemp_path.exists():
+            print(f"Contents of gbatemp directory: {list(gbatemp_path.iterdir())}")
+
         archive_worker.download_archive(highfps.get_download_url(), archive_path)
         archive_worker.extract_archive(archive_path)
 
         print("Processing the cheat sheets")
-        process_cheats.ProcessCheats("gbatemp/titles", cheats_gba_path)
+        gbatemp_titles_path = Path("gbatemp/titles")
+        if not gbatemp_titles_path.exists():
+            print(f"Warning: {gbatemp_titles_path} does not exist, skipping GBAtemp processing")
+        else:
+            process_cheats.ProcessCheats("gbatemp/titles", cheats_gba_path)
+            process_cheats.ProcessCheats("gbatemp/titles", cheats_path) # this could be done more elegantly
+
         process_cheats.ProcessCheats("NX-60FPS-RES-GFX-Cheats-main/titles", cheats_gfx_path)
-        process_cheats.ProcessCheats("gbatemp/titles", cheats_path) # this could be done more elegantly
         process_cheats.ProcessCheats("NX-60FPS-RES-GFX-Cheats-main/titles", cheats_path)
 
         print("building complete cheat sheets")
