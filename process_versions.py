@@ -87,8 +87,8 @@ class ProcessVersions:
 
 if __name__ == '__main__':
     processor = ProcessVersions(
-        "https://raw.githubusercontent.com/blawar/titledb/master/cnmts.json",
-        "https://raw.githubusercontent.com/blawar/titledb/master/US.en.json",
-        "https://raw.githubusercontent.com/blawar/titledb/master/versions.json"
+        "https://raw.githubusercontent.com/TitleDB/TitleDB/main/cnmts.json",
+        "https://raw.githubusercontent.com/TitleDB/TitleDB/main/US.en.json",
+        "https://raw.githubusercontent.com/TitleDB/TitleDB/main/versions.json"
     )
     processor.update_versions()
