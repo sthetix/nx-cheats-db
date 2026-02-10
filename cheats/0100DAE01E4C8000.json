@@ -1,4 +1,17 @@
 {
+    "14C62FBD356EB81B": {
+        "[pspmaster modified for eden emulator, credits to tekqart w55212235333]": "[pspmaster modified for eden emulator, credits to tekqart w55212235333]\n\n",
+        "[off enable]": "[off enable]\n04000000 02D21020 B9001509\n04000000 02CF823C F2E39449\n04000000 02D17DA0 6B130129\n04000000 02D18A40 6B140129\n04000000 02BD15C8 B9005268\n04000000 02B13B64 BD005100\n\n",
+        "[Display Items for Free \u5c55\u793a\u5546\u54c1\u7121\u6d88\u8017]": "[Display Items for Free \u5c55\u793a\u5546\u54c1\u7121\u6d88\u8017]\n04000000 02D21020 52800C69\n\n",
+        "[04000000 02D21020 B900151F]": "[04000000 02D21020 B900151F]\n\n",
+        "[Time Stop \u7981\u6b62\u6642\u9593]": "[Time Stop \u7981\u6b62\u6642\u9593]\n04000000 02CF823C 52800C69\n\n",
+        "[Inf. Farming Materials\u7121\u9650\u653e\u7f6e\u6750\u6599/\u64ad\u7a2e\u65bd\u80a5]": "[Inf. Farming Materials\u7121\u9650\u653e\u7f6e\u6750\u6599/\u64ad\u7a2e\u65bd\u80a5]\n04000000 02D17DA0  6B1F0129\n04000000 02D18A40  6B1F0129\n\n",
+        "[Inf. Watering Can\u7121\u9650\u5674\u6c34\u58fa]": "[Inf. Watering Can\u7121\u9650\u5674\u6c34\u58fa]\n04000000 02BD15C8 52800C68\n\n",
+        "[04000000 02B185D4 0B130AB5]": "[04000000 02B185D4 0B130AB5]\n\n",
+        "[04000000 02B185D4 0B1312B5]": "[04000000 02B185D4 0B1312B5]\n\n",
+        "[Money 1000X After Selling Items\u552e\u8ce3\u5f8c\u91d1\u9322\u00d71000]": "[Money 1000X After Selling Items\u552e\u8ce3\u5f8c\u91d1\u9322\u00d71000]\n04000000 02B185D4 0B132AB5\n\n",
+        "[Infinite Stamina \u9ad4\u529b\u4e0d\u6e1b]": "[Infinite Stamina \u9ad4\u529b\u4e0d\u6e1b]\n04000000 02B13B64 52800C60\n\n"
+    },
     "BA5C311BACCD1480": {
         "[Breeze beta99n STORY OF SEASONS: Grand Bazaar 1.0.4 TID: 0100DAE01E4C8000 BID: BA5C311BACCD1480]": "[Breeze beta99n STORY OF SEASONS: Grand Bazaar 1.0.4 TID: 0100DAE01E4C8000 BID: BA5C311BACCD1480]\n\n",
         "[time normal]": "[time normal]\n04000000 02F61E40 8B080128\n\n",
