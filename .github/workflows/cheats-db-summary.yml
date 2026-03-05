@@ -1,0 +1,64 @@
+name: Cheats Database Summary
+
+on:
+  push:
+    paths:
+      - 'cheats/**'
+      - 'versions/**'
+      - 'versions.json'
+  pull_request:
+    paths:
+      - 'cheats/**'
+      - 'versions/**'
+      - 'versions.json'
+  workflow_dispatch:  # Allow manual trigger
+  schedule:
+    - cron: '0 0 * * 0'  # Weekly on Sunday at midnight UTC
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Run Database Analysis
+        run: python .github/scripts/analyze_db.py
+        continue-on-error: true
+
+      - name: Upload Summary Report
+        uses: actions/upload-artifact@v4
+        with:
+          name: cheats-db-summary
+          path: |
+            cheats_db_summary.md
+            cheats_db_report.json
+
+      - name: Comment PR with Summary
+        if: github.event_name == 'pull_request'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const summary = fs.readFileSync('cheats_db_summary.md', 'utf8');
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: summary
+            });
