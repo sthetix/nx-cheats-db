@@ -1,0 +1,10 @@
+{
+    "404C24B13D16DA49": {
+        "[HP not decrease]": "[HP not decrease]\n04000000 000B4380 51000108\n\n",
+        "[Max Inf HP & Inf Lives]": "[Max Inf HP & Inf Lives]\n04000000 000AF1D8 D503201F\n\n",
+        "[No Restart Penalty]": "[No Restart Penalty]\n04000000 010D03B0 940000CE\n\n"
+    },
+    "attribution": {
+        "Battle Princess Madelyn Royal Edition v1.0.0 by Blackdeath.txt": "Not valid for mini games"
+    }
+}
