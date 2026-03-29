@@ -2,9 +2,35 @@
     "2C8FC0457727CC4E": {
         "[*Money Jericoss]": "[*Money Jericoss]\n580F0000 028983C0\n580F1000 000000B0\n580F1000 00000008\n580F1000 000000A0\n580F1000 00000018\n780F0000 00000040\n640F0000 00000000 054C5638\n\n",
         "[*Inf Hp All Players ]": "[*Inf Hp All Players ]\n580F0000 02899F78\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000118\n580F1000 00000050\n780F0000 000001F8\n640F0000 00000000 00000378\n\n",
-        "[*Inf Mp All Players]": "[*Inf Mp All Players]\n580F0000 02899F78\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000118\n580F1000 00000050\n780F0000 000001FC\n640F0000 00000000 00000378\n\n"
+        "[*Inf Mp All Players]": "[*Inf Mp All Players]\n580F0000 02899F78\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000118\n580F1000 00000050\n780F0000 000001FC\n640F0000 00000000 00000378\n\n",
+        "[Buy Items for Free (On)]": "[Buy Items for Free (On)]\n04000000 001D308C 52800000\n\n",
+        "[Unlock all Combos (Off)]": "[Unlock all Combos (Off)]\n04000000 002DF3AC F81D0FF5\n04000000 002DF3B0 A9014FF4\n\n",
+        "[Immune against Poison, Silence, Stun and Reaper (Off)]": "[Immune against Poison, Silence, Stun and Reaper (Off)]\n04000000 002AFA74 B9411809\n04000000 002AFA78 0B080120\n04000000 002AFA84 B9411C09\n04000000 002AFA88 0B080120\n04000000 002AFA94 B9412009\n04000000 002AFA98 0B080120\n04000000 002AF7A0 1A9F17E0\n\n",
+        "[HP & MP of enemy is always visible (On)]": "[HP & MP of enemy is always visible (On)]\n04000000 002DF7E0 52800020\n04000000 002DF7E4 D65F03C0\n\n",
+        "[Skills & Combos cost 0 MP (Off)]": "[Skills & Combos cost 0 MP (Off)]\n04000000 002C6450 B9404400\n04000000 002C5FEC B940A800\n\n",
+        "[Skills & Combos cost 0 MP (On)]": "[Skills & Combos cost 0 MP (On)]\n04000000 002C6450 52800000\n04000000 002C5FEC 52800000\n\n",
+        "[HP & MP of enemy is always visible (Off)]": "[HP & MP of enemy is always visible (Off)]\n04000000 002DF7E0 F81D0FF5\n04000000 002DF7E4 A9014FF4\n\n",
+        "[Buy Items for Free (Off)]": "[Buy Items for Free (Off)]\n04000000 001D308C B9403000\n\n",
+        "[Unlock all Combos (On)]": "[Unlock all Combos (On)]\n04000000 002DF3AC 52800020\n04000000 002DF3B0 D65F03C0\n\n",
+        "[Immune against Poison, Silence, Stun and Reaper (On)]": "[Immune against Poison, Silence, Stun and Reaper (On)]\n04000000 002AFA74 52800000\n04000000 002AFA78 11019000\n04000000 002AFA84 52800000\n04000000 002AFA88 11019000\n04000000 002AFA94 52800000\n04000000 002AFA98 11019000\n04000000 002AF7A0 52800020\n\n",
+        "[*Inf Hp All Players]": "[*Inf Hp All Players]\n580F0000 02899F78\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000118\n580F1000 00000050\n780F0000 000001F8\n640F0000 00000000 00000378\n\n"
     },
     "attribution": {
         "Azure Saga Pathfinder ver 1.0.0 by jericoss.txt": "Ammo 255 don't always work. The other two seems to be consistent"
+    },
+    "2C8FC0457727CC4EBFF8F9AADEC4FCAA00000000000000000000000000000000": {
+        "[*Inf Hp All Players]": "[*Inf Hp All Players]\n580F0000 02899F78\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000118\n580F1000 00000050\n780F0000 000001F8\n640F0000 00000000 00000378\n\n",
+        "[*Inf Mp All Players]": "[*Inf Mp All Players]\n580F0000 02899F78\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000118\n580F1000 00000050\n780F0000 000001FC\n640F0000 00000000 00000378\n\n",
+        "[*Money Jericoss]": "[*Money Jericoss]\n580F0000 028983C0\n580F1000 000000B0\n580F1000 00000008\n580F1000 000000A0\n580F1000 00000018\n780F0000 00000040\n640F0000 00000000 054C5638\n\n",
+        "[Buy Items for Free (Off)]": "[Buy Items for Free (Off)]\n04000000 001D308C B9403000\n\n",
+        "[Buy Items for Free (On)]": "[Buy Items for Free (On)]\n04000000 001D308C 52800000\n\n",
+        "[HP & MP of enemy is always visible (Off)]": "[HP & MP of enemy is always visible (Off)]\n04000000 002DF7E0 F81D0FF5\n04000000 002DF7E4 A9014FF4\n\n",
+        "[HP & MP of enemy is always visible (On)]": "[HP & MP of enemy is always visible (On)]\n04000000 002DF7E0 52800020\n04000000 002DF7E4 D65F03C0\n\n",
+        "[Immune against Poison, Silence, Stun and Reaper (Off)]": "[Immune against Poison, Silence, Stun and Reaper (Off)]\n04000000 002AFA74 B9411809\n04000000 002AFA78 0B080120\n04000000 002AFA84 B9411C09\n04000000 002AFA88 0B080120\n04000000 002AFA94 B9412009\n04000000 002AFA98 0B080120\n04000000 002AF7A0 1A9F17E0\n\n",
+        "[Immune against Poison, Silence, Stun and Reaper (On)]": "[Immune against Poison, Silence, Stun and Reaper (On)]\n04000000 002AFA74 52800000\n04000000 002AFA78 11019000\n04000000 002AFA84 52800000\n04000000 002AFA88 11019000\n04000000 002AFA94 52800000\n04000000 002AFA98 11019000\n04000000 002AF7A0 52800020\n\n",
+        "[Skills & Combos cost 0 MP (Off)]": "[Skills & Combos cost 0 MP (Off)]\n04000000 002C6450 B9404400\n04000000 002C5FEC B940A800\n\n",
+        "[Skills & Combos cost 0 MP (On)]": "[Skills & Combos cost 0 MP (On)]\n04000000 002C6450 52800000\n04000000 002C5FEC 52800000\n\n",
+        "[Unlock all Combos (Off)]": "[Unlock all Combos (Off)]\n04000000 002DF3AC F81D0FF5\n04000000 002DF3B0 A9014FF4\n\n",
+        "[Unlock all Combos (On)]": "[Unlock all Combos (On)]\n04000000 002DF3AC 52800020\n04000000 002DF3B0 D65F03C0\n\n"
     }
 }

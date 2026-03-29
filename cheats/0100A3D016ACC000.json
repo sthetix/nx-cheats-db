@@ -9,5 +9,13 @@
     },
     "attribution": {
         "Valis The Fantasm Soldier Collection by Dsrules.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
+    },
+    "F0E71BF7EB56937BADABC5F079C74C95AFE03DB0000000000000000000000000": {
+        "[Valis III Full Red Bar]": "[Valis III Full Red Bar]\n580F0000 00907378\n780F0000 0004B45C\n610F0000 00000000 0000002B\n\n",
+        "[Valis III Infinite HP]": "[Valis III Infinite HP]\n580F0000 00907378\n780F0000 0004B459\n610F0000 00000000 00000018\n\n",
+        "[Valis III Infinite Lives]": "[Valis III Infinite Lives]\n580F0000 00907378\n780F0000 0004B45F\n610F0000 00000000 00000003\n\n",
+        "[Valis III Infinite MP]": "[Valis III Infinite MP]\n580F0000 00907378\n780F0000 0004B45A\n610F0000 00000000 00000018\n\n",
+        "[Valis III Infinite Time]": "[Valis III Infinite Time]\n580F0000 00907378\n780F0000 0004C11A\n610F0000 00000000 00000009\n\n",
+        "[ZR+A Moonjump]": "[ZR+A Moonjump]\n80000201\n580F0000 00907378\n780F0000 0004B56C\n610F0000 00000000 000000FA\n20000000\n\n"
     }
 }

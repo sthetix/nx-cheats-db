@@ -7,10 +7,27 @@
         "[Infinite Lives]": "[Infinite Lives]\n01100000 017F90A0 00000009\n\n",
         "[Always Barrier All Powers PL1]": "[Always Barrier All Powers PL1]\n01100000 017F90EE 0000001F\n\n",
         "[Inf.Time]": "[Inf.Time]\n01100000 017F90AA 00000064\n\n",
-        "[Next Star always 70000pts PL1]": "[Next Star always 70000pts PL1]\n01100000 017F90BC 00000007\n\n"
+        "[Next Star always 70000pts PL1]": "[Next Star always 70000pts PL1]\n01100000 017F90BC 00000007\n\n",
+        "[Enemy on the ground does not appear (Hold ZL)]": "[Enemy on the ground does not appear (Hold ZL)]\n80000100\n041F0000 017F9170 00000000\n041F0000 017F9174 00000000\n041F0000 017F9178 00000000\n20000000\n\n",
+        "[hitanywhere]": "[hitanywhere]\n011F0000 017ED713 0000003A\n011F0000 017ED71C 0000003A\n011F0000 017ED722 0000003A\n011F0000 017ED72C 0000003A\n011F0000 017ED74D 0000003A\n011F0000 017ED757 0000003A\n\n",
+        "[Moon Jump]": "[Moon Jump]\n80000001\n011F0000 017F90DE 00000002\n20000000\n\n",
+        "[Time Stop]": "[Time Stop]\n011F0000 017F90AA 00000064\n\n"
     },
     "attribution": {
         "Arcade Archives RYGAR 1.0.0 by Neograzon.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code.",
         "Arcade Archives RYGAR by ZiT866.txt": "This Code Becomes Effective While The Motorcycle is Jumping."
+    },
+    "5B2E5BD36B0A27BAC0CB0831385B560000000000000000000000000000000000": {
+        "[Always Barrier All Powers PL1]": "[Always Barrier All Powers PL1]\n01100000 017F90EE 0000001F\n\n",
+        "[Enemy on the ground does not appear (Hold ZL)]": "[Enemy on the ground does not appear (Hold ZL)]\n80000100\n041F0000 017F9170 00000000\n041F0000 017F9174 00000000\n041F0000 017F9178 00000000\n20000000\n\n",
+        "[hitanywhere]": "[hitanywhere]\n011F0000 017ED713 0000003A\n011F0000 017ED71C 0000003A\n011F0000 017ED722 0000003A\n011F0000 017ED72C 0000003A\n011F0000 017ED74D 0000003A\n011F0000 017ED757 0000003A\n\n",
+        "[Inf.Credits]": "[Inf.Credits]\n01100000 017F903A 00000063\n\n",
+        "[Inf.Time]": "[Inf.Time]\n01100000 017F90AA 00000064\n\n",
+        "[Infinite Lives]": "[Infinite Lives]\n011F0000 017F90A0 00000007\n\n",
+        "[Invincibility]": "[Invincibility]\n01100000 017F15AA 000000C9\n\n",
+        "[Moon Jump]": "[Moon Jump]\n80000001\n011F0000 017F90DE 00000002\n20000000\n\n",
+        "[Next Star always 70000pts PL1]": "[Next Star always 70000pts PL1]\n01100000 017F90BC 00000007\n\n",
+        "[Rapid Fire]": "[Rapid Fire]\n041F0000 017F9038 00000000\n\n",
+        "[Time Stop]": "[Time Stop]\n011F0000 017F90AA 00000064\n\n"
     }
 }

@@ -2,6 +2,13 @@
     "CD7B66EE170AEF9A": {
         "[P1 Infinite HP]": "[P1 Infinite HP]\n02000000 0127c2f6 00000bff\n\n",
         "[P1 Infinite Super]": "[P1 Infinite Super]\n02000000 0127c302 0000ffff\n\n",
-        "[P2 CPU No Super]": "[P2 CPU No Super]\n02000000 0127c402 00000000\n\n"
+        "[P2 CPU No Super]": "[P2 CPU No Super]\n02000000 0127c402 00000000\n\n",
+        "[P2 NO HP]": "[P2 NO HP]\n02000000 0127C3F6 00000BFF\n\n"
+    },
+    "CD7B66EE170AEF9A87497D35950AADF700000000000000000000000000000000": {
+        "[P1 Infinite HP]": "[P1 Infinite HP]\n02000000 0127C2F6 00000BFF\n\n",
+        "[P1 Infinite Super]": "[P1 Infinite Super]\n02000000 0127C302 0000FFFF\n\n",
+        "[P2 CPU No Super]": "[P2 CPU No Super]\n02000000 0127C402 00000000\n\n",
+        "[P2 NO HP]": "[P2 NO HP]\n02000000 0127C3F6 00000BFF\n\n"
     }
 }

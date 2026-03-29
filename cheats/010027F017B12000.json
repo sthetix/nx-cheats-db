@@ -7,5 +7,10 @@
     },
     "attribution": {
         "Inscryption 1.34.0 by tomswitch.txt": ""
+    },
+    "25DDE567A0816046A17FABB36818E8AD00000000000000000000000000000000": {
+        "[Always have at least 1 life]": "[Always have at least 1 life]\n04000000 014A2A94 52800028\n\n",
+        "[off]": "[off]\n04000000 016C6AF8 0B080128\n04000000 014A2A94 51000508\n\n",
+        "[Won't loose when the scale tip against you]": "[Won't loose when the scale tip against you]\n04000000 016C6AF8 D503201F\n\n"
     }
 }

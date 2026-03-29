@@ -1,0 +1,36 @@
+{
+    "F0F1F7C836290C48": {
+        "[600000 Money When get (off)]": "[600000 Money When get (off)]\n04000000 004E5890 0B140000\n\n",
+        "[Exp x32 (off)]": "[Exp x32 (off)]\n04000000 001A2F78 0B150000\n\n",
+        "[02# 600000 Money When get]": "[02# 600000 Money When get]\n04000000 004E5890 529D4C00\n\n",
+        "[invulnerable]": "[invulnerable]\n04000000 004E5890 D65F03C0\n\n",
+        "[05# Exp x4]": "[05# Exp x4]\n04000000 001A2F78 0B152000\n\n",
+        "[06# Ignore Dark Shards]": "[06# Ignore Dark Shards]\n04000000 001A33F0 52800020\n04000000 001A33F4 D65F03C0\n\n",
+        "[04# 600000 Bloodstones When get]": "[04# 600000 Bloodstones When get]\n04000000 001A2D44 529D4C00\n\n",
+        "[03# Ignore Skill Points & Skill Cap]": "[03# Ignore Skill Points & Skill Cap]\n04000000 00247570 52800020\n04000000 00247574 D65F03C0\n04000000 001B2450 52800020\n04000000 001B2454 D65F03C0\n04000000 001AECD0 52800020\n04000000 001AECD4 D65F03C0\n\n",
+        "[Ignore Skill Points & Skill Cap (off)]": "[Ignore Skill Points & Skill Cap (off)]\n04000000 00247570 F81E0FF3\n04000000 00247574 A9017BFD\n04000000 001B2450 A9BD57F6\n04000000 001B2454 A9014FF4\n04000000 001AECD0 F81D0FF5\n04000000 001AECD4 A9014FF4\n\n",
+        "[600000 Bloodstones When get (off)]": "[600000 Bloodstones When get (off)]\n04000000 001A2D44 0B140000\n\n",
+        "[Ignore Dark Shards (off)]": "[Ignore Dark Shards (off)]\n04000000 001A33F0 F81D0FF5\n04000000 001A33F4 A9014FF4\n\n",
+        "[05# Exp x2]": "[05# Exp x2]\n04000000 001A2F78 0B151000\n\n",
+        "[05# Exp x32]": "[05# Exp x32]\n04000000 001A2F78 0B154000\n\n",
+        "[coin 10000000]": "[coin 10000000]\n580F0000 038FC2C0\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000054\n640F0000 00000000 009E5E9C\n\n",
+        "[05# Exp x8]": "[05# Exp x8]\n04000000 001A2F78 0B153000\n\n"
+    },
+    "F0F1F7C836290C48B70BAD342151862A00000000000000000000000000000000": {
+        "[02# 600000 Money When get]": "[02# 600000 Money When get]\n04000000 004E5890 529D4C00\n\n",
+        "[03# Ignore Skill Points & Skill Cap]": "[03# Ignore Skill Points & Skill Cap]\n04000000 00247570 52800020\n04000000 00247574 D65F03C0\n04000000 001B2450 52800020\n04000000 001B2454 D65F03C0\n04000000 001AECD0 52800020\n04000000 001AECD4 D65F03C0\n\n",
+        "[04# 600000 Bloodstones When get]": "[04# 600000 Bloodstones When get]\n04000000 001A2D44 529D4C00\n\n",
+        "[05# Exp x2]": "[05# Exp x2]\n04000000 001A2F78 0B151000\n\n",
+        "[05# Exp x32]": "[05# Exp x32]\n04000000 001A2F78 0B154000\n\n",
+        "[05# Exp x4]": "[05# Exp x4]\n04000000 001A2F78 0B152000\n\n",
+        "[05# Exp x8]": "[05# Exp x8]\n04000000 001A2F78 0B153000\n\n",
+        "[06# Ignore Dark Shards]": "[06# Ignore Dark Shards]\n04000000 001A33F0 52800020\n04000000 001A33F4 D65F03C0\n\n",
+        "[600000 Bloodstones When get (off)]": "[600000 Bloodstones When get (off)]\n04000000 001A2D44 0B140000\n\n",
+        "[600000 Money When get (off)]": "[600000 Money When get (off)]\n04000000 004E5890 0B140000\n\n",
+        "[coin 10000000]": "[coin 10000000]\n580F0000 038FC2C0\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000054\n640F0000 00000000 009E5E9C\n\n",
+        "[Exp x32 (off)]": "[Exp x32 (off)]\n04000000 001A2F78 0B150000\n\n",
+        "[Ignore Dark Shards (off)]": "[Ignore Dark Shards (off)]\n04000000 001A33F0 F81D0FF5\n04000000 001A33F4 A9014FF4\n\n",
+        "[Ignore Skill Points & Skill Cap (off)]": "[Ignore Skill Points & Skill Cap (off)]\n04000000 00247570 F81E0FF3\n04000000 00247574 A9017BFD\n04000000 001B2450 A9BD57F6\n04000000 001B2454 A9014FF4\n04000000 001AECD0 F81D0FF5\n04000000 001AECD4 A9014FF4\n\n",
+        "[invulnerable]": "[invulnerable]\n04000000 004E5890 D65F03C0\n\n"
+    }
+}

@@ -5,5 +5,12 @@
         "[P2 NO HP]": "[P2 NO HP]\n01000000 0124f3b1 00000001\n\n",
         "[P2 NO Power]": "[P2 NO Power]\n01000000 0124f3b3 00000000\n\n",
         "[hitanywhere]": "[hitanywhere]\n580F0000 0125F728\n780F0000 0000EC74\n640F0000 00000000 60024a47\n\n"
+    },
+    "54E692ACAA5F84E6FF7E1A12F9B7615600000000000000000000000000000000": {
+        "[hitanywhere]": "[hitanywhere]\n580F0000 0125F728\n780F0000 0000EC74\n640F0000 00000000 60024A47\n\n",
+        "[P1 Infinite HP]": "[P1 Infinite HP]\n01000000 0124F2B1 00000010\n\n",
+        "[P1 Infinite Power]": "[P1 Infinite Power]\n01000000 0124F2B3 00000010\n\n",
+        "[P2 NO HP]": "[P2 NO HP]\n01000000 0124F3B1 00000001\n\n",
+        "[P2 NO Power]": "[P2 NO Power]\n01000000 0124F3B3 00000000\n\n"
     }
 }

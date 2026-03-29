@@ -1,9 +1,43 @@
 {
     "883F54C67475ABAE": {
         "[Moon Jump]": "[Moon Jump]\n80000002\n580F0000 04a46888\n780F0000 0000026c\n640F0000 00000000 43000000\n20000000\n\n",
-        "[Go through ceiling]": "[Go through ceiling]\n580F0000 04a46888\n780F0000 00000150\n680F0000 00000000 00000000\n\n"
+        "[Go through ceiling]": "[Go through ceiling]\n580F0000 04a46888\n780F0000 00000150\n680F0000 00000000 00000000\n\n",
+        "[Always Devil Trigger On (Infinite)]": "[Always Devil Trigger On (Infinite)]\n041F0000 A0805C93 07500000\n\n",
+        "[Unlock all Achievements]": "[Unlock all Achievements]\n04100000 A0801F5C FFFFFFFF\n01100000 A0801F63 000000FF\n\n",
+        "[Have All Moves Alastor]": "[Have All Moves Alastor]\n01100000 A080266B 0000007F\n\n",
+        "[3/4 Blu Orbs]": "[3/4 Blu Orbs]\n01100000 A0802678 00000003\n\n",
+        "[Infinite Devil Trigger]": "[Infinite Devil Trigger]\n011F0000 A0805C93 00000008\n01100000 A0805C8E 000000B0\n\n",
+        "[Unlock all Game Modes]": "[Unlock all Game Modes]\n02100000 A0801F56 00007FFF\n\n",
+        "[99 Yellow Orbs]": "[99 Yellow Orbs]\n01100000 A0802660 00000063\n\n",
+        "[0 Times Saved]": "[0 Times Saved]\n01100000 A083B860 00000000\n01100000 A083AEF0 00000000\n\n",
+        "[Max Red Orbs]": "[Max Red Orbs]\n04100000 A080284C 3B9AC9FF\n\n",
+        "[Invincible (Press Dpad-Left to open Doors/Menus/Interact)]": "[Invincible (Press Dpad-Left to open Doors/Menus/Interact)]\n04100000 A0805864 00000009\n80001000 04100000 A0805864 00000000\n20000000\n\n",
+        "[Dynamic Contrast Mode]": "[Dynamic Contrast Mode]\n01100000 A0801F66 00000001\n\n",
+        "[Have All Moves Ifrit]": "[Have All Moves Ifrit]\n01100000 A080266A 000000FE\n\n",
+        "[Have All Enemy Files]": "[Have All Enemy Files]\n08100000 A08026FC 0000004F 0000004F\n08100000 A0802704 0000004F 0000004F\n08100000 A080270C 0000004F 0000004F\n08100000 A0802714 0000004F 0000004F\n08100000 A080271C 0000004F 0000004F\n08100000 A0802724 0000004F 0000004F\n08100000 A080272C 0000004F 0000004F\n08100000 A0802734 0000004F 0000004F\n08100000 A080273C 0000004F 0000004F\n08100000 A0802744 0000004F 0000004F\n\n",
+        "[Infinite Health]": "[Infinite Health]\n04100000 A0805862 00000BD0\n\n",
+        "[Max Red Orbs (Press L3)]": "[Max Red Orbs (Press L3)]\n80000010 04100000 A0802674 3B9AC9FF\n20000000\n\n"
     },
     "attribution": {
         "Devil May Cry By Zit866.txt": ""
+    },
+    "883F54C67475ABAE9611355F210059F800000000000000000000000000000000": {
+        "[0 Times Saved]": "[0 Times Saved]\n01100000 A083B860 00000000\n01100000 A083AEF0 00000000\n\n",
+        "[3/4 Blu Orbs]": "[3/4 Blu Orbs]\n01100000 A0802678 00000003\n\n",
+        "[99 Yellow Orbs]": "[99 Yellow Orbs]\n01100000 A0802660 00000063\n\n",
+        "[Always Devil Trigger On (Infinite)]": "[Always Devil Trigger On (Infinite)]\n041F0000 A0805C93 07500000\n\n",
+        "[Dynamic Contrast Mode]": "[Dynamic Contrast Mode]\n01100000 A0801F66 00000001\n\n",
+        "[Go through ceiling]": "[Go through ceiling]\n580F0000 04A46888\n780F0000 00000150\n680F0000 00000000 00000000\n\n",
+        "[Have All Enemy Files]": "[Have All Enemy Files]\n08100000 A08026FC 0000004F 0000004F\n08100000 A0802704 0000004F 0000004F\n08100000 A080270C 0000004F 0000004F\n08100000 A0802714 0000004F 0000004F\n08100000 A080271C 0000004F 0000004F\n08100000 A0802724 0000004F 0000004F\n08100000 A080272C 0000004F 0000004F\n08100000 A0802734 0000004F 0000004F\n08100000 A080273C 0000004F 0000004F\n08100000 A0802744 0000004F 0000004F\n\n",
+        "[Have All Moves Alastor]": "[Have All Moves Alastor]\n01100000 A080266B 0000007F\n\n",
+        "[Have All Moves Ifrit]": "[Have All Moves Ifrit]\n01100000 A080266A 000000FE\n\n",
+        "[Infinite Devil Trigger]": "[Infinite Devil Trigger]\n011F0000 A0805C93 00000008\n01100000 A0805C8E 000000B0\n\n",
+        "[Infinite Health]": "[Infinite Health]\n04100000 A0805862 00000BD0\n\n",
+        "[Invincible (Press Dpad-Left to open Doors/Menus/Interact)]": "[Invincible (Press Dpad-Left to open Doors/Menus/Interact)]\n04100000 A0805864 00000009\n80001000 04100000 A0805864 00000000\n20000000\n\n",
+        "[Max Red Orbs (Press L3)]": "[Max Red Orbs (Press L3)]\n80000010 04100000 A0802674 3B9AC9FF\n20000000\n\n",
+        "[Max Red Orbs]": "[Max Red Orbs]\n04100000 A080284C 3B9AC9FF\n\n",
+        "[Moon Jump]": "[Moon Jump]\n80000002\n580F0000 04A46888\n780F0000 0000026C\n640F0000 00000000 43000000\n20000000\n\n",
+        "[Unlock all Achievements]": "[Unlock all Achievements]\n04100000 A0801F5C FFFFFFFF\n01100000 A0801F63 000000FF\n\n",
+        "[Unlock all Game Modes]": "[Unlock all Game Modes]\n02100000 A0801F56 00007FFF\n\n"
     }
 }

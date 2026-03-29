@@ -19,5 +19,23 @@
     },
     "attribution": {
         "R-Type Dimensions EX made by Dsrules ver 1.0.0 and 1.1.0.txt": ""
+    },
+    "A9BAB930855CED47BCCBF29BA25CCFD600000000000000000000000000000000": {
+        "[Begin With Invincibility]": "[Begin With Invincibility]\n01000000 001A3BA8 00000029\n\n",
+        "[Max Bits on Pick Up]": "[Max Bits on Pick Up]\n01000000 001A4A35 00000009\n\n",
+        "[Max Missiles on Pick Up]": "[Max Missiles on Pick Up]\n01000000 001A4A15 0000000D\n\n",
+        "[Max Pod Power on Pick Up]": "[Max Pod Power on Pick Up]\n01000000 001A4A45 0000000D\n\n"
+    },
+    "D13345DE88C6F94FA9438DDD84FB7A9600000000000000000000000000000000": {
+        "[Begin With Invincibility]": "[Begin With Invincibility]\n01000000 001A3BF8 00000029\n\n",
+        "[Max Bits on Pick Up]": "[Max Bits on Pick Up]\n01000000 001A4A85 00000009\n\n",
+        "[Max Missiles on Pick Up]": "[Max Missiles on Pick Up]\n01000000 001A4A65 0000000D\n\n",
+        "[Max Pod Power on Pick Up]": "[Max Pod Power on Pick Up]\n01000000 001A4A95 0000000D\n\n"
+    },
+    "9987904475EA834698AABE3C5654241700000000000000000000000000000000": {
+        "[Begin With Invincibility]": "[Begin With Invincibility]\n01000000 00847538 00000029\n\n",
+        "[Max Bits on Pick Up]": "[Max Bits on Pick Up]\n01000000 008483C5 00000009\n\n",
+        "[Max Missiles on Pick Up]": "[Max Missiles on Pick Up]\n01000000 008483A5 0000000D\n\n",
+        "[Max Pod Power on Pick Up]": "[Max Pod Power on Pick Up]\n01000000 008483D5 0000000D\n\n"
     }
 }

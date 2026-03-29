@@ -188,5 +188,57 @@
     "attribution": {
         "Yo kai Watch 4++ Asia Version 2.0.0  by momotaro.txt": "",
         "Yo kai Watch 4 Asia Version Made by Zit866.txt": ""
+    },
+    "F014C53D501D35CF": {
+        "[Moon Jump (Hold B)]": "[Moon Jump (Hold B)]\n58000000 0575D550\n78001000 00000A00\n64000000 00000000 3F800000\n80000002\n58000000 0575D550\n78001000 00000A00\n64000000 00000000 BEF00000\n20000000\n\n",
+        "[Speed Up (Hold L)]": "[Speed Up (Hold L)]\n58000000 0142BBE0\n78000000 000000A8\n64000000 00000000 3F800000\n80000040\n58000000 0142BBE0\n78000000 000000A8\n64000000 00000000 40800000\n20000000\n\n",
+        "[High Jump (Hold R)]": "[High Jump (Hold R)]\n80000080\n58000000 0575D550\n78001000 00000038\n64000000 00000000 3FA00000\n20000000\n\n"
+    },
+    "042A9D9EEBC14B3CA54C65FAA1133A47E3A9133F000000000000000000000000": {
+        "[B button Super Dash]": "[B button Super Dash]\n04100000 43D15758 3F800000\n80000002\n04100000 43D15758 40800000\n20000000\n\n",
+        "[Equipped (Type)(1st)]": "[Equipped (Type)(1st)]\n04100000 4BEFBF64 0000XXXX\nXXXX = ID\nNEXT +10H\n\n",
+        "[Equipped x99 (1st)]": "[Equipped x99 (1st)]\n02100000 4BEFBF6C 00000001\nNEXT +10H\n\n",
+        "[Food and Tools (Type)(1st)]": "[Food and Tools (Type)(1st)]\n04100000 4BEFA024 0000XXXX\nXXXX = ID\nNEXT +10H\n\n",
+        "[Food and Tools x99 (1st)]": "[Food and Tools x99 (1st)]\n01100000 4BEFA02C 00000063\nNEXT +10H\n\n",
+        "[Gasha Point 9999]": "[Gasha Point 9999]\n02100000 4BEF3F40 0000270F\n\n",
+        "[Money 9999999]": "[Money 9999999]\n04100000 4BEF3F3C 0098967F\n\n",
+        "[Special Souls (Type)(1st)]": "[Special Souls (Type)(1st)]\n04100000 4BF04B5C 0000XXXX\nXXXX = ID\nNEXT +10\n\n",
+        "[Special Souls x999 (1st)]": "[Special Souls x999 (1st)]\n02100000 4BF04B64 000003E7\nNEXT +10H\n\n",
+        "[The Soul of Youkai (Gold) x99 (1st)]": "[The Soul of Youkai (Gold) x99 (1st)]\n01100000 4BF051A8 00000063\nNEXT +18H\n\n",
+        "[The Soul of Youkai (Red) x99 (1st)]": "[The Soul of Youkai (Red) x99 (1st)]\n01100000 4BF051A6 00000063\n\n",
+        "[The Soul of Youkai (Type)(1st)]": "[The Soul of Youkai (Type)(1st)]\n04100000 4BF0519C 0000XXXX\nXXXX = ID\nNEXT +18H\n\n",
+        "[The Soul of Youkai (White) x99 (1st)]": "[The Soul of Youkai (White) x99 (1st)]\n01100000 4BF051A4 00000063\n\n",
+        "[Today's Gasha 99/99]": "[Today's Gasha 99/99]\n02100000 4BEE13FB 00006363\n\n"
+    },
+    "DCFCCD795D18F3F9EC1FC8E83D892FD1BDFF6E39000000000000000000000000": {
+        "[B button Super Dash]": "[B button Super Dash]\n04100000 43D15758 3F800000\n80000002\n04100000 43D15758 40800000\n20000000\n\n",
+        "[Equipped (Type)(1st)]": "[Equipped (Type)(1st)]\n04100000 4BEFBF64 0000XXXX\nXXXX = ID\nNEXT +10H\n\n",
+        "[Equipped x99 (1st)]": "[Equipped x99 (1st)]\n02100000 4BEFBF6C 00000001\nNEXT +10H\n\n",
+        "[Food and Tools (Type)(1st)]": "[Food and Tools (Type)(1st)]\n04100000 4BEFA024 0000XXXX\nXXXX = ID\nNEXT +10H\n\n",
+        "[Food and Tools x99 (1st)]": "[Food and Tools x99 (1st)]\n01100000 4BEFA02C 00000063\nNEXT +10H\n\n",
+        "[Gasha Point 9999]": "[Gasha Point 9999]\n02100000 4BEF3F40 0000270F\n\n",
+        "[Money 9999999]": "[Money 9999999]\n04100000 4BEF3F3C 0098967F\n\n",
+        "[Special Souls (Type)(1st)]": "[Special Souls (Type)(1st)]\n04100000 4BF04B5C 0000XXXX\nXXXX = ID\nNEXT +10\n\n",
+        "[Special Souls x999 (1st)]": "[Special Souls x999 (1st)]\n02100000 4BF04B64 000003E7\nNEXT +10H\n\n",
+        "[The Soul of Youkai (Gold) x99 (1st)]": "[The Soul of Youkai (Gold) x99 (1st)]\n01100000 4BF051A8 00000063\nNEXT +18H\n\n",
+        "[The Soul of Youkai (Red) x99 (1st)]": "[The Soul of Youkai (Red) x99 (1st)]\n01100000 4BF051A6 00000063\n\n",
+        "[The Soul of Youkai (Type)(1st)]": "[The Soul of Youkai (Type)(1st)]\n04100000 4BF0519C 0000XXXX\nXXXX = ID\nNEXT +18H\n\n",
+        "[The Soul of Youkai (White) x99 (1st)]": "[The Soul of Youkai (White) x99 (1st)]\n01100000 4BF051A4 00000063\n\n",
+        "[Today's Gasha 99/99]": "[Today's Gasha 99/99]\n02100000 4BEE13FB 00006363\n\n"
+    },
+    "994C5FA1497445FF0534F718BFBCAEE8C49853C9000000000000000000000000": {
+        "[Food and Tools x99 (1st)]": "[Food and Tools x99 (1st)]\n02100000 4BF1591C 00000063\nNEXT +10H\n\n",
+        "[Gasha Point 9999]": "[Gasha Point 9999]\n02100000 4BF0F830 0000270F\n\n",
+        "[Money 9999999]": "[Money 9999999]\n04100000 4BF0F82C 0098967F\n\n",
+        "[Special Souls x999 (1st)]": "[Special Souls x999 (1st)]\n02100000 4BF20454 000003E7\nNEXT +10H\n\n",
+        "[The Soul of Youkai (Gold) x99 (1st)]": "[The Soul of Youkai (Gold) x99 (1st)]\n04100000 4BF20A98 00000063\nNEXT +18H\n\n",
+        "[The Soul of Youkai (Red) x99 (1st)]": "[The Soul of Youkai (Red) x99 (1st)]\n04100000 4BF20A96 00000063\n\n",
+        "[The Soul of Youkai (White) x99 (1st)]": "[The Soul of Youkai (White) x99 (1st)]\n04100000 4BF20A94 00000063\n\n",
+        "[Today's Gasha 99/99]": "[Today's Gasha 99/99]\n02100000 4BEFCCEB 00006363\n\n"
+    },
+    "F014C53D501D35CF3608463908E1DAD393EDEB9A000000000000000000000000": {
+        "[High Jump (Hold R)]": "[High Jump (Hold R)]\n80000080\n58000000 0575D550\n78001000 00000038\n64000000 00000000 3FA00000\n20000000\n\n",
+        "[Moon Jump (Hold B)]": "[Moon Jump (Hold B)]\n58000000 0575D550\n78001000 00000A00\n64000000 00000000 3F800000\n80000002\n58000000 0575D550\n78001000 00000A00\n64000000 00000000 BEF00000\n20000000\n\n",
+        "[Speed Up (Hold L)]": "[Speed Up (Hold L)]\n58000000 0142BBE0\n78000000 000000A8\n64000000 00000000 3F800000\n80000040\n58000000 0142BBE0\n78000000 000000A8\n64000000 00000000 40800000\n20000000\n\n"
     }
 }

@@ -6,9 +6,32 @@
         "[231 energy]": "[231 energy]\n01100000 019077b8 000000E7\n\n",
         "[231 looks]": "[231 looks]\n01100000 019077a8 000000E7\n\n",
         "[231 art]": "[231 art]\n01100000 01907798 000000E7\n\n",
-        "[231 culture]": "[231 culture]\n01100000 01907788 000000E7\n\n"
+        "[231 culture]": "[231 culture]\n01100000 01907788 000000E7\n\n",
+        "[GOLD COIN MAX]": "[GOLD COIN MAX]\n04100000 01907770\n05F5E0FF\n\n",
+        "[CAPACITY MAX]": "[CAPACITY MAX]\n01100000 019077A8\n0000005B\n\n",
+        "[ART MAX]": "[ART MAX]\n01100000 01907798\n0000005B\n\n",
+        "[CLOVER MAX]": "[CLOVER MAX]\n04100000 00CB7554\n05F5E0FF\n\n",
+        "[Purple five-pointed star MAX]": "[Purple five-pointed star MAX]\n04100000 00CB7550\n05F5E0FF\n\n",
+        "[Physical MAX]": "[Physical MAX]\n01100000 019077B8\n0000005B\n\n",
+        "[KNOWLEDGE MAX]": "[KNOWLEDGE MAX]\n01100000 01907788\n0000005B\n\n"
     },
     "attribution": {
         "Summer sweet heart  by IMnoob.txt": ""
+    },
+    "F203511733AE3449A0C6F47DC463E5E200000000000000000000000000000000": {
+        "[231 art]": "[231 art]\n01100000 01907798 000000E7\n\n",
+        "[231 culture]": "[231 culture]\n01100000 01907788 000000E7\n\n",
+        "[231 energy]": "[231 energy]\n01100000 019077B8 000000E7\n\n",
+        "[231 looks]": "[231 looks]\n01100000 019077A8 000000E7\n\n",
+        "[ART MAX]": "[ART MAX]\n01100000 01907798\n0000005B\n\n",
+        "[CAPACITY MAX]": "[CAPACITY MAX]\n01100000 019077A8\n0000005B\n\n",
+        "[CLOVER MAX]": "[CLOVER MAX]\n04100000 00CB7554\n05F5E0FF\n\n",
+        "[GOLD COIN MAX]": "[GOLD COIN MAX]\n04100000 01907770\n05F5E0FF\n\n",
+        "[KNOWLEDGE MAX]": "[KNOWLEDGE MAX]\n01100000 01907788\n0000005B\n\n",
+        "[max ability coin]": "[max ability coin]\n04100000 01907770 05F5E0FF\n\n",
+        "[max Gold coin for gasphon]": "[max Gold coin for gasphon]\n04100000 00CB7550 05F5E0FF\n\n",
+        "[max point]": "[max point]\n04100000 00CB7554 05F5E0FF\n\n",
+        "[Physical MAX]": "[Physical MAX]\n01100000 019077B8\n0000005B\n\n",
+        "[Purple five-pointed star MAX]": "[Purple five-pointed star MAX]\n04100000 00CB7550\n05F5E0FF\n\n"
     }
 }

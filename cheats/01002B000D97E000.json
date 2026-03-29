@@ -17,5 +17,21 @@
     },
     "attribution": {
         "Raiden V Director's Cut v1.0.txt": ""
+    },
+    "941057A850E286DFBE390A90B102D0BF00000000000000000000000000000000": {
+        "[Flash Lv 5]": "[Flash Lv 5]\n01000000 006A0FB6 0000004C\n\n",
+        "[Infinite Cheer Bar]": "[Infinite Cheer Bar]\n04000000 006A0FB8 0044AA20\n\n",
+        "[P1 Cheer Bar Special Rapid Fire]": "[P1 Cheer Bar Special Rapid Fire]\n04000000 006A0DB8 00000001\n04000000 006A0DC0 00000001\n\n",
+        "[P1 Infinite Bombs v100]": "[P1 Infinite Bombs v100]\n01000000 006A11F4 00000006\n\n",
+        "[P1 Infinite HP]": "[P1 Infinite HP]\n580F0000 006A0C40\n780F0000 000046D4\n640F0000 00000000 0009C57C\n\n",
+        "[P1 Infinite Shield]": "[P1 Infinite Shield]\n580F0000 006A0C40\n780F0000 00004745\n610F0000 00000000 00000001\n\n",
+        "[P1 Main Weapon Rapid Fire]": "[P1 Main Weapon Rapid Fire]\n04000000 006A0D38 00000001\n04000000 006A0D40 00000008\n\n",
+        "[P1 Missiles Rapid Fire]": "[P1 Missiles Rapid Fire]\n04000000 006A0D78 00000001\n04000000 006A0D80 00000001\n\n",
+        "[P1 ZL stop Cheer Bar Special]": "[P1 ZL stop Cheer Bar Special]\n80000100\n04000000 006A0FBC 00000000\n20000000\n\n",
+        "[P2 Cheer Bar Special Rapid Fire]": "[P2 Cheer Bar Special Rapid Fire]\n04000000 006A0F68 00000001\n04000000 006A0F70 00000001\n\n",
+        "[P2 Infinite HP]": "[P2 Infinite HP]\n580F0000 006A0DF0\n780F0000 000046D4\n640F0000 00000000 0009C57C\n\n",
+        "[P2 Infinite Shield]": "[P2 Infinite Shield]\n580F0000 006A0DF0\n780F0000 00004745\n610F0000 00000000 00000001\n\n",
+        "[P2 Main Weapon Rapid Fire]": "[P2 Main Weapon Rapid Fire]\n04000000 006A0EE8 00000001\n04000000 006A0EF0 00000008\n\n",
+        "[P2 Missiles Rapid Fire]": "[P2 Missiles Rapid Fire]\n04000000 006A0F28 00000001\n04000000 006A0F30 00000001\n\n"
     }
 }

@@ -25,7 +25,15 @@
         "[720p Overall Resolution (Handheld's Default)]": "[720p Overall Resolution (Handheld's Default)]\n580F0000 05163F60\n780F0000 000000C0\n680F0000 000002D0 00000500\n780F0000 00000008\n610F0000 00000000 00000001\n\n",
         "[810p Overall Resolution]": "[810p Overall Resolution]\n580F0000 05163F60\n780F0000 000000C0\n680F0000 0000032A 000005A0\n780F0000 00000008\n610F0000 00000000 00000001\n\n",
         "[900p Overall Resolution]": "[900p Overall Resolution]\n580F0000 05163F60\n780F0000 000000C0\n680F0000 00000384 00000640\n780F0000 00000008\n610F0000 00000000 00000001\n\n",
-        "[1080p Overall Resolution (Docked's Default)]": "[1080p Overall Resolution (Docked's Default)]\n580F0000 05163F60\n780F0000 000000C0\n680F0000 00000438 00000780\n780F0000 00000008\n610F0000 00000000 00000001\n\n"
+        "[1080p Overall Resolution (Docked's Default)]": "[1080p Overall Resolution (Docked's Default)]\n580F0000 05163F60\n780F0000 000000C0\n680F0000 00000438 00000780\n780F0000 00000008\n610F0000 00000000 00000001\n\n",
+        "[Restore Code (Use after unchecking any cheats below)]": "[Restore Code (Use after unchecking any cheats below)]\n040E0000 01B7E370 B9401800\n040E0000 01A0D500 D10183FF\n040E0000 01A0D504 A9025FF8\n040E0000 01A63690 F81D0FF5\n040E0000 01A63694 A9014FF4\n040E0000 01A63760 F81D0FF5\n040E0000 01A63764 A9014FF4\n040E0000 0195F0E0 D10103FF\n040E0000 00142940 F81D0FF5\n040E0000 01774160 F81D0FF5\n040E0000 01774164 A9014FF4\n040E0000 00A777C0 2A0103F4\n040E0000 01E06DEC 2A0103F3\n\n",
+        "[\u2116 1. Custom Character Maxout Attributes]": "[\u2116 1. Custom Character Maxout Attributes]\n040E0000 01B7E370 528000A0\n\n",
+        "[\u2116 2. 100% Success in Chance Dialog]": "[\u2116 2. 100% Success in Chance Dialog]\n040E0000 01A0D500 52800020\n040E0000 01A0D504 D65F03C0\n040E0000 01A63690 52800020\n040E0000 01A63694 D65F03C0\n040E0000 01A63760 52800020\n040E0000 01A63764 D65F03C0\n\n",
+        "[\u2116 3. No Damage to Endurance (Health)]": "[\u2116 3. No Damage to Endurance (Health)]\n040E0000 0195F0E0 D65F03C0\n\n",
+        "[\u2116 4. No Damage to Volition (Morale)]": "[\u2116 4. No Damage to Volition (Morale)]\n040E0000 00142940 D65F03C0\n\n",
+        "[\u2116 5. Pass all White Check]": "[\u2116 5. Pass all White Check]\n040E0000 01774160 52800020\n040E0000 01774164 D65F03C0\n\n",
+        "[\u2116 6. Set Skill Points to 10]": "[\u2116 6. Set Skill Points to 10]\n040E0000 00A777C0 52800154\n\n",
+        "[\u2116 7. Set Money to 500.00]": "[\u2116 7. Set Money to 500.00]\n040E0000 01E06DEC 52986A13\n\n"
     },
     "59609662D0D041C9": {
         "[60 FPS]": "[60 FPS]\n580F0000 04F8E698\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
@@ -51,10 +59,19 @@
         "[Pass all White Check]": "[Pass all White Check]\n040E0000 0170E59C 52800020\n\n",
         "[Created by Eiffel2018]": "[Created by Eiffel2018]\n20000000\n\n",
         "[60 FPS]": "[60 FPS]\n580F0000 04BACD58\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
-        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 04BACD58\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 04BACD58\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
+        "[Custom Character Maxout Attributes]": "[Custom Character Maxout Attributes]\n040E0000 02E607F0 528000A0\n\n"
     },
     "attribution": {
         "Disco Elysium - The Final Cut v1.0.1 (v65536) by Eiffel2018.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code.",
         "Disco Elysium - The Final Cut.txt": "By Hazerou, retole\n\nIncluded in the text file;\n\nOverall Resolution Cheats from [360p] up to [1080p]."
+    },
+    "8CD5ADBF3BBF1D5D526E21A9B42BFE2300000000000000000000000000000000": {
+        "[100% Success in Chance Dialog]": "[100% Success in Chance Dialog]\n080E0000 01771070 D65F03C0 52800020\n080E0000 01A99110 D65F03C0 52800020\n\n",
+        "[Created by Eiffel2018]": "[Created by Eiffel2018]\n20000000\n\n",
+        "[Custom Charater Maxout Attributes]": "[Custom Charater Maxout Attributes]\n040E0000 02E607F0 528000A0\n\n",
+        "[No Damage to Endurance (Health)]": "[No Damage to Endurance (Health)]\n040E0000 019D7B00 D65F03C0\n\n",
+        "[No Damage to Volition (Morale)]": "[No Damage to Volition (Morale)]\n040E0000 019D7950 D65F03C0\n\n",
+        "[Pass all White Check]": "[Pass all White Check]\n040E0000 0170E59C 52800020\n\n"
     }
 }

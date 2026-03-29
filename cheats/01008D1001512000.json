@@ -1,7 +1,9 @@
 {
     "6E191829548C2A41": {
         "[60 FPS]": "[60 FPS]\n580F0000 013D00B8\n780F0000 00000D14\n640F0000 00000000 00000001\n\n",
-        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 013D00B8\n780F0000 00000D14\n640F0000 00000000 00000002\n\n"
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 013D00B8\n780F0000 00000D14\n640F0000 00000000 00000002\n\n",
+        "[#01# Inf. Nitro]": "[#01# Inf. Nitro]\n580f0000 05066AF8\n580f1000 00000370\n580f1000 00000098\n780f0000 00000008\n640f0000 00000000 42c80000\n\n",
+        "[Infinite Nitro]": "[Infinite Nitro]\n580f0000 05066AF8\n580f1000 00000370\n580f1000 00000098\n780f0000 00000008\n640f0000 00000000 42c80000\n\n"
     },
     "attribution": {
         "Cars 3 Driven to Win.txt": "By Hazerou \n\nFPS will drop straight to 30 whenever it can't handle 60 FPS even at MAX OC + Handheld Mode.\n\nhttps://www.youtube.com/watch?v=FCIOTYbtUhk"

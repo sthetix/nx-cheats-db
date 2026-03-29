@@ -4,5 +4,46 @@
     },
     "attribution": {
         "WorldNeverland Elnea Kingdom ver 1.5.5 v1245184 by jhmiller.txt": "note: Infinite Jump can be used after learning double jump\n"
+    },
+    "28E19D6F448E5046": {
+        "[16x Exp earning rate]": "[16x Exp earning rate]\n040E0000 005EE0D0 531C6C34\n\n",
+        "[Invincible + One hit kill]": "[Invincible + One hit kill]\n080E0000 002D7D5C 97FFE922 AA1303E0\n080E0000 002D7D64 1A9F12A0 6B1F001F\n\n",
+        "[16x Job/Explore/School Points earning rate]": "[16x Job/Explore/School Points earning rate]\n010E0000 0083B609 00000011\n010E0000 0083B611 00000011\n\n",
+        "[Invincible w/o One hit kill]": "[Invincible w/o One hit kill]\n080E0000 002D7D5C 97FFE922 AA1303E0\n080E0000 002D7D64 1A9412A0 6B1F001F\n\n",
+        "[Max Money]": "[Max Money]\n040E0000 0095ED50 D65F03C0\n010E0000 0002BEE6 00000001\n\n",
+        "[999 items]": "[999 items]\n040E0000 001A2914 52807CE9\n\n"
+    },
+    "478010AD3501A94B": {
+        "[Max Money]": "[Max Money]\n040E0000 0095ED50 D65F03C0\n010E0000 0002BEE6 00000001\n\n",
+        "[999 items]": "[999 items]\n040E0000 001A2914 52807CE9\n\n",
+        "[16x Job/Explore/School Points earning rate]": "[16x Job/Explore/School Points earning rate]\n010E0000 0083B609 00000011\n010E0000 0083B611 00000011\n\n",
+        "[16x Exp earning rate]": "[16x Exp earning rate]\n040E0000 005EE0D0 531C6C34\n\n",
+        "[Invincible w/o One hit kill]": "[Invincible w/o One hit kill]\n080E0000 002D7D5C 97FFE922 AA1303E0\n080E0000 002D7D64 1A9412A0 6B1F001F\n\n",
+        "[Invincible + One hit kill]": "[Invincible + One hit kill]\n080E0000 002D7D5C 97FFE922 AA1303E0\n080E0000 002D7D64 1A9F12A0 6B1F001F\n\n"
+    },
+    "A07AEF606B787740": {
+        "[Money Freeze (Bea never decreases)]": "[Money Freeze (Bea never decreases)]\n040E0000 00160484 0AA17C34\n\n",
+        "[16x Item Gain ONLY]": "[16x Item Gain ONLY]\n040E0000 00131778 141B92E2\n040E0000 00816300 7100005F\n040E0000 00816304 531C6C49\n040E0000 00816308 1A82C13A\n040E0000 0081630C 2A0103F4\n040E0000 00816310 AA0003F3\n040E0000 00816314 17E46D1C\n\n",
+        "[16x Explore Points]": "[16x Explore Points]\n040E0000 00163C50 531C6C34\n\n",
+        "[16x EXP]": "[16x EXP]\n040E0000 0039D59C 531C6C35\n\n",
+        "[16x Job/School Points]": "[16x Job/School Points]\n040E0000 00163A08 531C6C35\n\n"
+    },
+    "60550640FC4F7C4D": {
+        "[Money Freeze (Bea never decreases)]": "[Money Freeze (Bea never decreases)]\n040E0000 001D5A90 0AA17C34\n\n",
+        "[16x Item Gain ONLY]": "[16x Item Gain ONLY]\n040E0000 001A69E0 14167D3E\n040E0000 00745ED8 7100005F\n040E0000 00745EDC 531C6C49\n040E0000 00745EE0 1A82C13A\n040E0000 00745EE4 2A0103F4\n040E0000 00745EE8 AA0003F3\n040E0000 00745EEC 17E982C0\n\n",
+        "[16x Explore Points]": "[16x Explore Points]\n040E0000 001D923C 531C6C34\n\n",
+        "[16x EXP]": "[16x EXP]\n040E0000 00899DC8 531C6C35\n\n",
+        "[16x Job/School Points]": "[16x Job/School Points]\n040E0000 001D8FF4 531C6C35\n\n"
+    },
+    "28E19D6F448E5046B6C41E95528623E100000000000000000000000000000000": {
+        "[16x Exp earning rate]": "[16x Exp earning rate]\n040E0000 005EE0D0 531C6C34\n\n",
+        "[16x Job/Explore/School Points earning rate]": "[16x Job/Explore/School Points earning rate]\n010E0000 0083B609 00000011\n010E0000 0083B611 00000011\n\n",
+        "[999 items]": "[999 items]\n040E0000 001A2914 52807CE9\n\n",
+        "[Invincible + One hit kill]": "[Invincible + One hit kill]\n080E0000 002D7D5C 97FFE922 AA1303E0\n080E0000 002D7D64 1A9F12A0 6B1F001F\n\n",
+        "[Invincible w/o One hit kill]": "[Invincible w/o One hit kill]\n080E0000 002D7D5C 97FFE922 AA1303E0\n080E0000 002D7D64 1A9412A0 6B1F001F\n\n",
+        "[Max Money]": "[Max Money]\n040E0000 0095ED50 D65F03C0\n010E0000 0002BEE6 00000001\n\n"
+    },
+    "6D89B45F36F95A4D90926D005226BF8200000000000000000000000000000000": {
+        "[Money 9.999.999]": "[Money 9.999.999]\n580F0000 024FC9F0\n580F1000 000000A0\n580F1000 00000138\n580F1000 000000B8\n580F1000 00000020\n780F0000 00000128\n640F0000 00000000 0098967F\n780F0000 00000004\n640F0000 00000000 01AB5110\n\n"
     }
 }

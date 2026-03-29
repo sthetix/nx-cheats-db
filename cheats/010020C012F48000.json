@@ -12,5 +12,15 @@
     },
     "attribution": {
         "Rising Hell v1.01 by DablackDeath and xtatu ver 1.0.0 by Dsrules.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    },
+    "B667F988DAB60947A1FE898084ADE06200000000000000000000000000000000": {
+        "[01# Invulnerable]": "[01# Invulnerable]\n04000000 01708C10 D65F03C0\n\n",
+        "[02# Inf Ammo]": "[02# Inf Ammo]\n04000000 02100BCC 51000108\n\n",
+        "[1p invicible]": "[1p invicible]\n04000000 017090F8 1E283000\n\n"
+    },
+    "062E5AB0B5BDA14F8ECB31993E28437900000000000000000000000000000000": {
+        "[Infinite Shields]": "[Infinite Shields]\n580F0000 03BBA3F8\n580F1000 000000B8\n580F1000 00000000\n780F0000 0000001C\n640F0000 00000000 42C80000\n\n",
+        "[L+B Moonjump]": "[L+B Moonjump]\n80000042\n580F0000 03E21B88\n580F1000 000000A0\n580F1000 00000120\n780F0000 00000044\n640F0000 00000000 41800000\n20000000\n\n",
+        "[Walk Speed 1.5x]": "[Walk Speed 1.5x]\n580F0000 03BBA440\n580F1000 000000B8\n580F1000 00000000\n780F0000 00000030\n640F0000 00000000 40F00000\n\n"
     }
 }

@@ -1,0 +1,16 @@
+{
+    "D07802E022207509": {
+        "[speed car 8x]": "[speed car 8x]\n04000000 012A7864 1E241000\n\n",
+        "[speed car 3x]": "[speed car 3x]\n04000000 012A7864 1E211000\n\n",
+        "[speed car 5x]": "[speed car 5x]\n04000000 012A7864 1E229000\n\n",
+        "[speed car normal]": "[speed car normal]\n04000000 012A7864 1E2E1000\n\n",
+        "[speed car 2x]": "[speed car 2x]\n04000000 012A7864 1E201000\n\n"
+    },
+    "D07802E022207509CCBE727BD978AF2DDD4E2217000000000000000000000000": {
+        "[speed car 2x]": "[speed car 2x]\n04000000 012A7864 1E201000\n\n",
+        "[speed car 3x]": "[speed car 3x]\n04000000 012A7864 1E211000\n\n",
+        "[speed car 5x]": "[speed car 5x]\n04000000 012A7864 1E229000\n\n",
+        "[speed car 8x]": "[speed car 8x]\n04000000 012A7864 1E241000\n\n",
+        "[speed car normal]": "[speed car normal]\n04000000 012A7864 1E2E1000\n\n"
+    }
+}

@@ -11,9 +11,24 @@
         "[99 x Forgotten Bone D Available infinite]": "[99 x Forgotten Bone D Available infinite]\n04000000 00bbc878 00000063\n\n",
         "[99 x Puniball E Available infinite]": "[99 x Puniball E Available infinite]\n04000000 00bbc87c 00000063\n\n",
         "[99 x Audras Tail C Available infinite]": "[99 x Audras Tail C Available infinite]\n04000000 00bbc880 00000063\n\n",
-        "[99 x Original Gem S Available infinite]": "[99 x Original Gem S Available infinite]\n04000000 00bbc884 00000063\n\n"
+        "[99 x Original Gem S Available infinite]": "[99 x Original Gem S Available infinite]\n04000000 00bbc884 00000063\n\n",
+        "[99 x Fest A Available infinite]": "[99 x Fest A Available infinite]\n04000000 00bbc864 00000063\n\n"
     },
     "attribution": {
         "AtelierTotora.txt": ""
+    },
+    "4FD4BFE66C5353D494C77F317673AAA600000000000000000000000000000000": {
+        "[99 x Audras Tail C Available infinite]": "[99 x Audras Tail C Available infinite]\n04000000 00BBC880 00000063\n\n",
+        "[99 x Fest A  Available infinite]": "[99 x Fest A  Available infinite]\n04000000 00BBC864 00000063\n\n",
+        "[99 x Forgotten Bone D Available infinite]": "[99 x Forgotten Bone D Available infinite]\n04000000 00BBC878 00000063\n\n",
+        "[99 x Globe Sphere E Available infinite]": "[99 x Globe Sphere E Available infinite]\n04000000 00BBC874 00000063\n\n",
+        "[99 x Magic Grass Available Infinite]": "[99 x Magic Grass Available Infinite]\n04000000 00BBC858 00000063\n\n",
+        "[99 x Magic Grass B Aromatic Available Infinite]": "[99 x Magic Grass B Aromatic Available Infinite]\n04000000 00BBC85C 00000063\n\n",
+        "[99 x Original Gem S Available infinite]": "[99 x Original Gem S Available infinite]\n04000000 00BBC884 00000063\n\n",
+        "[99 x Puniball E Available infinite]": "[99 x Puniball E Available infinite]\n04000000 00BBC87C 00000063\n\n",
+        "[99 x Serenity Flower E Available infinite]": "[99 x Serenity Flower E Available infinite]\n04000000 00BBC870 00000063\n\n",
+        "[99 xMandra Root E Available infinite]": "[99 xMandra Root E Available infinite]\n04000000 00BBC868 00000063\n\n",
+        "[99 xPhlogiston E Available infinite]": "[99 xPhlogiston E Available infinite]\n04000000 00BBC86C 00000063\n\n",
+        "[Infinite Money]": "[Infinite Money]\n04000000 00BB7968 0098967F\n\n"
     }
 }

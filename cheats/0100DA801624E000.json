@@ -1,13 +1,31 @@
 {
     "0909B4AC280D9D77": {
         "[60 FPS]": "[60 FPS]\n580F0000 038D9330 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
-        "[30 FPS (Default)]": "[30 FPS (Default)]\n580F0000 038D9330 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
+        "[30 FPS (Default)]": "[30 FPS (Default)]\n580F0000 038D9330 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n",
+        "[Master Code (include shared functions)]": "[Master Code (include shared functions)]\n580F0000 034D3D18\n580F1000 000000B8\n580F1000 00000168\nC10F0F10\n\n",
+        "[Restore Code (Use after unchecking any cheats below)]": "[Restore Code (Use after unchecking any cheats below)]\n040E0000 0176A364 6102004B\n\n",
+        "[#1. Invulnerable]": "[#1. Invulnerable]\n610F01D0 00000000 00000001\n\n",
+        "[#2. Inf. Health]": "[#2. Inf. Health]\n040E0000 0176A364 2A1303E1\n\n",
+        "[#3. Inf. Stamina]": "[#3. Inf. Stamina]\n780F0000 000001C4\n640F0000 00000000 447A0000\n\n",
+        "[#4. Inf. Ammo]": "[#4. Inf. Ammo]\n610F01D0 00000000 00000001\n\n"
     },
     "7FF1CE75DE313BBA": {
         "[60FPS]": "[60FPS]\n580F0000 038D5C70 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
-        "[30FPS (Default)]": "[30FPS (Default)]\n580F0000 038D5C70 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
+        "[30FPS (Default)]": "[30FPS (Default)]\n580F0000 038D5C70 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n",
+        "[off One hit kill enemy and player won't die]": "[off One hit kill enemy and player won't die]\n04000000 01BFB234 4B000261\n04000000 018C7174 4B150001\n\n",
+        "[One hit kill enemy and player won't die]": "[One hit kill enemy and player won't die]\n040E0000 01BFB234 2A1303E1\n04000000 018C7174 510FA001\n\n",
+        "[ZL HP=1000 for all who got hit]": "[ZL HP=1000 for all who got hit]\n04000000 018C7174 4B150001\n80000100\n04000000 018C7174 52807D01\n20000000\n\n"
     },
     "attribution": {
         "Tunic.txt": "by ChanseyIsTheBest, sds"
+    },
+    "EFE9C44348FFAA09": {
+        "[Master Code (include shared functions)]": "[Master Code (include shared functions)]\n580F0000 034D3D18\n580F1000 000000B8\n580F1000 00000168\nC10F0F10\n\n",
+        "[Restore Code (Use after unchecking any cheats below)]": "[Restore Code (Use after unchecking any cheats below)]\n040E0000 01768C24 6102004B\n\n",
+        "[#01. Invulnerable]": "[#01. Invulnerable]\n480D0000 00000000 000000C1\n610F01D0 00000000 00000001\n\n",
+        "[#02. Inf. Health]": "[#02. Inf. Health]\n040E0000 01768C24 2A1303E1\n\n",
+        "[#03. Inf. Stamina]": "[#03. Inf. Stamina]\n780F0000 000001C4\n640F0000 00000000 447A0000\n\n",
+        "[#04. Inf. Ammo]": "[#04. Inf. Ammo]\n480D0000 00000000 000003B0\n610F01D0 00000000 00000001\n\n",
+        "[#05. Walk Speed Modifier (3x)]": "[#05. Walk Speed Modifier (3x)]\n580F1000 00000230\n780F0000 00000010\n640F0000 00000000 41A80000\n\n"
     }
 }

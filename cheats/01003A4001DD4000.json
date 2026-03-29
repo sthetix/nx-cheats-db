@@ -1,0 +1,14 @@
+{
+    "854C8AAAA42727F8": {
+        "[Inf Time]": "[Inf Time]\n011F0000 007BEBA1 00000003\n\n",
+        "[Inf Help]": "[Inf Help]\n011F0000 007BEB99 00000003\n\n",
+        "[Timer Stop]": "[Timer Stop]\n011F0000 007B952D 00000081\n\n",
+        "[Inf Peep]": "[Inf Peep]\n011F0000 007BEB9D 00000003\n\n"
+    },
+    "854C8AAAA42727F88A128F28E5A9E07CEB3C1BE3000000000000000000000000": {
+        "[Inf Help]": "[Inf Help]\n011F0000 007BEB99 00000003\n\n",
+        "[Inf Peep]": "[Inf Peep]\n011F0000 007BEB9D 00000003\n\n",
+        "[Inf Time]": "[Inf Time]\n011F0000 007BEBA1 00000003\n\n",
+        "[Timer Stop]": "[Timer Stop]\n011F0000 007B952D 00000081\n\n"
+    }
+}

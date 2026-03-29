@@ -6,5 +6,10 @@
     },
     "attribution": {
         "Nickelodeon All-Star Brawl\u200b ver 1.0.1 by xtatu.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    },
+    "96637D97114249AE8AE9DB494473893D00000000000000000000000000000000": {
+        "[1p invincible]": "[1p invincible]\n04000000 0274D268 340000AD\nGRAFIC SIZE\n\n",
+        "[hit range 1.25x]": "[hit range 1.25x]\n04000000 009917D8 1E2E9001\n\n",
+        "[hit range normal]": "[hit range normal]\n04000000 009917D8 1E2E1001\n\n"
     }
 }

@@ -1,0 +1,10 @@
+{
+    "ED461DD4749922FF": {
+        "[infinite fuel]": "[infinite fuel]\n021F0000 47BD35FC 000003E8\n\n",
+        "[inf max money]": "[inf max money]\n041F0000 47779E14 05F5E0FF\n\n"
+    },
+    "ED461DD4749922FFFF4B695A740ACF0700000000000000000000000000000000": {
+        "[inf max money]": "[inf max money]\n041F0000 47779E14 05F5E0FF\n\n",
+        "[infinite fuel]": "[infinite fuel]\n021F0000 47BD35FC 000003E8\n\n"
+    }
+}

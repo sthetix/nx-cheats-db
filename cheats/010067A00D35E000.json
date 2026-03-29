@@ -6,5 +6,13 @@
         "[Infinite Vernier]": "[Infinite Vernier]\n01000000 01cbab9e 00000000\n\n",
         "[Infinite Missiles]": "[Infinite Missiles]\n01000000 01cbac0e 00000063\n\n",
         "[Infinite Time]": "[Infinite Time]\n01000000 01cbaa12 00000001\n\n"
+    },
+    "C32B8A1FDD88DCBE5C2B212EBAF7B36700000000000000000000000000000000": {
+        "[Infinite HP]": "[Infinite HP]\n01000000 01CBAB4E 00000064\n\n",
+        "[Infinite Missiles]": "[Infinite Missiles]\n01000000 01CBAC0E 00000063\n\n",
+        "[Infinite Shield]": "[Infinite Shield]\n02000000 01CBABBA 0000012C\n\n",
+        "[Infinite Time]": "[Infinite Time]\n01000000 01CBAA12 00000001\n\n",
+        "[Infinite Vernier]": "[Infinite Vernier]\n01000000 01CBAB9E 00000000\n\n",
+        "[Max Gun Power]": "[Max Gun Power]\n01000000 01CBAB4C 00000064\n\n"
     }
 }

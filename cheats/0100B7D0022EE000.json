@@ -1,0 +1,54 @@
+{
+    "46FBE5279DB0511B": {
+        "[Invincible]": "[Invincible]\n010F0000 0034BC9C 00000064\n\n",
+        "[Moon Jump (Hold A)]": "[Moon Jump (Hold A)]\n80000001\n040F0000 0034BC44 FFFFFB80\n20000000\n\n",
+        "[Max Air]": "[Max Air]\n040F0000 0034BCB0 000003F0\n\n",
+        "[Inf Heart]": "[Inf Heart]\n040F0000 0034BCA0 00000064\n\n",
+        "[Inf Missile]": "[Inf Missile]\n040F0000 002EF0C8 00000000\n\n",
+        "[Max Heart]": "[Max Heart]\n040F0000 0034BCA4 00000064\n\n",
+        "[Walk Through Walls:(Hold ZL)]": "[Walk Through Walls:(Hold ZL)]\n010F0000 0034BC5B 00000000\n80000100\n010F0000 0034BC5B 00000001\n20000000\n\n"
+    },
+    "5D678E584423275C": {
+        "[inf. Air]": "[inf. Air]\n040F0000 0052B4F8\n000003E8\n\n",
+        "[inf. HP x99]": "[inf. HP x99]\n040F0000 0052B4E8\n00000063\n\n",
+        "[Max XP]": "[Max XP]\n040F0000 004D40E0\n000000FF\n\n"
+    },
+    "C013B93E5320CF27": {
+        "[max xp]": "[max xp]\n040F0000 004D40E0 000000FF\n\n",
+        "[lvl 30]": "[lvl 30]\n040F0000 004D40DC 0000001E\n\n",
+        "[lvl 35]": "[lvl 35]\n040F0000 004D40DC 00000023\n\n",
+        "[lvl 25]": "[lvl 25]\n040F0000 004D40DC 00000019\n\n",
+        "[lvl 20]": "[lvl 20]\n040F0000 004D40DC 00000014\n\n",
+        "[max air]": "[max air]\n040F0000 0052B4F8 000003E8\n\n",
+        "[100 hearts]": "[100 hearts]\n040F0000 0052B4E8 00000064\n\n",
+        "[lvl 15]": "[lvl 15]\n040F0000 004D40DC 0000000F\n\n",
+        "[lvl 5]": "[lvl 5]\n040F0000 004D40DC 00000005\n\n",
+        "[lvl 10]": "[lvl 10]\n040F0000 004D40DC 0000000A\n\n",
+        "[lvl 36]": "[lvl 36]\n040F0000 004D40DC 00000024\n\n"
+    },
+    "5D678E584423275CC86DECA32930107E00000000000000000000000000000000": {
+        "[inf. Air]": "[inf. Air]\n040F0000 0052B4F8\n000003E8\n\n",
+        "[inf. HP x99]": "[inf. HP x99]\n040F0000 0052B4E8\n00000063\n\n",
+        "[Max XP]": "[Max XP]\n040F0000 004D40E0\n000000FF\n\n"
+    },
+    "C013B93E5320CF279FBC4EEBC68E561400000000000000000000000000000000": {
+        "[Inf Heart]": "[Inf Heart]\n040F0000 0034BCA0 00000064\n\n",
+        "[Inf Missile]": "[Inf Missile]\n040F0000 002EF0C8 00000000\n\n",
+        "[Invincible]": "[Invincible]\n010F0000 0034BC9C 00000064\n\n",
+        "[Max Air]": "[Max Air]\n040F0000 0034BCB0 000003F0\n\n",
+        "[Max Heart]": "[Max Heart]\n040F0000 0034BCA4 00000064\n\n",
+        "[Moon Jump (Hold A)]": "[Moon Jump (Hold A)]\n80000001\n040F0000 0034BC44 FFFFFB80\n20000000\n\n",
+        "[Walk Through Walls:(Hold ZL)]": "[Walk Through Walls:(Hold ZL)]\n010F0000 0034BC5B 00000000\n80000100\n010F0000 0034BC5B 00000001\n20000000\n\n",
+        "[100 hearts]": "[100 hearts]\n040F0000 0052B4E8 00000064\n\n",
+        "[lvl 10]": "[lvl 10]\n040F0000 004D40DC 0000000A\n\n",
+        "[lvl 15]": "[lvl 15]\n040F0000 004D40DC 0000000F\n\n",
+        "[lvl 20]": "[lvl 20]\n040F0000 004D40DC 00000014\n\n",
+        "[lvl 25]": "[lvl 25]\n040F0000 004D40DC 00000019\n\n",
+        "[lvl 30]": "[lvl 30]\n040F0000 004D40DC 0000001E\n\n",
+        "[lvl 35]": "[lvl 35]\n040F0000 004D40DC 00000023\n\n",
+        "[lvl 36]": "[lvl 36]\n040F0000 004D40DC 00000024\n\n",
+        "[lvl 5]": "[lvl 5]\n040F0000 004D40DC 00000005\n\n",
+        "[max air]": "[max air]\n040F0000 0052B4F8 000003E8\n\n",
+        "[max xp]": "[max xp]\n040F0000 004D40E0 000000FF\n\n"
+    }
+}

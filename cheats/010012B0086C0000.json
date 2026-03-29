@@ -41,6 +41,26 @@
         "[Inf.Energy Aiming Laser]": "[Inf.Energy Aiming Laser]\n580F0000 025A9A28 \n580F1000 00000088 \n780F0000 0000077B \n610F0000 00000000 00000060\n\n",
         "[Inf.Energy Double Cyclone]": "[Inf.Energy Double Cyclone]\n580F0000 025A9A28 \n580F1000 00000088 \n780F0000 0000077C \n610F0000 00000000 00000060\n\n",
         "[Inf.Energy Twin Slasher]": "[Inf.Energy Twin Slasher]\n580F0000 025A9A28 \n580F1000 00000088 \n780F0000 0000077D \n610F0000 00000000 00000060\n\n",
-        "[Original code by \u30cd\u30aa\u2022\u30b0\u30e9\u30f3\u30be\u30f3]": "[Original code by \u30cd\u30aa\u2022\u30b0\u30e9\u30f3\u30be\u30f3]\n20000000\n\n"
+        "[Original code by \u30cd\u30aa\u2022\u30b0\u30e9\u30f3\u30be\u30f3]": "[Original code by \u30cd\u30aa\u2022\u30b0\u30e9\u30f3\u30be\u30f3]\n20000000\n\n",
+        "[MMX4 9 Lives]": "[MMX4 9 Lives]\n01100000 133D0204 00000009\n\n",
+        "[mmx invincible]": "[mmx invincible]\n580F0000 02519240\n780F0000 00001D3B\n610F0000 00000000 00000028\n\n",
+        "[mmx auto chargeball]": "[mmx auto chargeball]\n580F0000 02519240\n780F0000 00001D28\n640F0000 00000000 02010004\n\n",
+        "[mmx4 inf hp]": "[mmx4 inf hp]\n580F0000 025A9FC0\n780F0000 00000B78\n610F0000 00000000 00000020\n\n",
+        "[mmx 3 inf hp]": "[mmx 3 inf hp]\n580F0000 02519240\n780F0000 00001B27\n610F0000 00000000 00000010\n\n",
+        "[mmx4 invincible]": "[mmx4 invincible]\n580F0000 025A9FC0\n780F0000 00000B88\n640F0000 00000000 42480000\n\n",
+        "[mmx inf hp]": "[mmx inf hp]\n580F0000 02519240\n780F0000 00001CF7\n610F0000 00000000 00000010\n\n",
+        "[mmx3 invincible]": "[mmx3 invincible]\n580F0000 02519240\n780F0000 00001B6B\n610F0000 00000000 00000018\n\n",
+        "[mmx rapid fire]": "[mmx rapid fire]\n580F0000 02519240\n780F0000 00001D04\n640F0000 00000000 00000000\n\n"
+    },
+    "BBAE8B50000E47AFF11733807F45347F00000000000000000000000000000000": {
+        "[mmx 3 inf hp]": "[mmx 3 inf hp]\n580F0000 02519240\n780F0000 00001B27\n610F0000 00000000 00000010\n\n",
+        "[mmx auto chargeball]": "[mmx auto chargeball]\n580F0000 02519240\n780F0000 00001D28\n640F0000 00000000 02010004\n\n",
+        "[mmx inf hp]": "[mmx inf hp]\n580F0000 02519240\n780F0000 00001CF7\n610F0000 00000000 00000010\n\n",
+        "[mmx invincible]": "[mmx invincible]\n580F0000 02519240\n780F0000 00001D3B\n610F0000 00000000 00000028\n\n",
+        "[mmx rapid fire]": "[mmx rapid fire]\n580F0000 02519240\n780F0000 00001D04\n640F0000 00000000 00000000\n\n",
+        "[mmx3 invincible]": "[mmx3 invincible]\n580F0000 02519240\n780F0000 00001B6B\n610F0000 00000000 00000018\n\n",
+        "[MMX4 9 Lives]": "[MMX4 9 Lives]\n01100000 133D0204 00000009\n\n",
+        "[mmx4 inf hp]": "[mmx4 inf hp]\n580F0000 025A9FC0\n780F0000 00000B78\n610F0000 00000000 00000020\n\n",
+        "[mmx4 invincible]": "[mmx4 invincible]\n580F0000 025A9FC0\n780F0000 00000B88\n640F0000 00000000 42480000\n\n"
     }
 }

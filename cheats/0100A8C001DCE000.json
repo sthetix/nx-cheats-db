@@ -17,5 +17,21 @@
     },
     "attribution": {
         "by optantic for ACA NEOGEO NAM 1975 1.0.1.txt": "[From MAX-CHEATS.com by optantic for ACA NEOGEO NAM 1975 1.0.1]\n\n"
+    },
+    "C09022663B2B7B12B060A6FE5603E9BE00000000000000000000000000000000": {
+        "[P1 Infinite Grenades]": "[P1 Infinite Grenades]\n01000000 01236D94\n00000010\n\n",
+        "[P1 Infinite Lives]": "[P1 Infinite Lives]\n01000000 01236D47\n00000088\n\n",
+        "[P1 Invincible]": "[P1 Invincible]\n02000000 01236D99\n000002FF\n\n",
+        "[P2 Infinite Grenades]": "[P2 Infinite Grenades]\n01000000 01236E94 00000099\n\n",
+        "[P2 Infinite Lives]": "[P2 Infinite Lives]\n01000000 01236E47\n00000088\n\n",
+        "[P2 Invincible]": "[P2 Invincible]\n02000000 01236E99 000002FF\n\n"
+    },
+    "E407E42F60E8616426154D76A8BE420900000000000000000000000000000000": {
+        "[P1 Infinite Grenades]": "[P1 Infinite Grenades]\n01000000 01237214\n00000099\n\n",
+        "[P1 Infinite Lives]": "[P1 Infinite Lives]\n01000000 012371C7\n00000088\n\n",
+        "[P1 Invincible]": "[P1 Invincible]\n02000000 01237219\n000002FF\n\n",
+        "[P2 Infinite Grenades]": "[P2 Infinite Grenades]\n01000000 01237314 00000099\n\n",
+        "[P2 Infinite Lives]": "[P2 Infinite Lives]\n01000000 012372C7\n00000088\n\n",
+        "[P2 Invincible]": "[P2 Invincible]\n02000000 01237319 000002FF\n\n"
     }
 }

@@ -5,5 +5,12 @@
         "[P1 Can use LV3 attack]": "[P1 Can use LV3 attack]\n01000000 012a55d3 00000030\n\n",
         "[P2 No Bombs]": "[P2 No Bombs]\n01000000 012a6568 00000000\n\n",
         "[P2 No Special attack]": "[P2 No Special attack]\n04000000 012a65d0 00000000\n\n"
+    },
+    "A6069D8D14422130C6440B6FE0327C0400000000000000000000000000000000": {
+        "[P1 Can use LV3 attack]": "[P1 Can use LV3 attack]\n01000000 012A55D3\n00000030\n\n",
+        "[P1 Infinite Bombs]": "[P1 Infinite Bombs]\n01000000 012A5568 00000003\n\n",
+        "[P1 Infinite HP]": "[P1 Infinite HP]\n01000000 012A555D\n00000028\n\n",
+        "[P2 No Bombs]": "[P2 No Bombs]\n01000000 012A6568\n00000000\n\n",
+        "[P2 No Special attack]": "[P2 No Special attack]\n04000000 012A65D0\n00000000\n\n"
     }
 }

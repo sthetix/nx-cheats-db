@@ -1,0 +1,28 @@
+{
+    "83ED8627CB8A9801": {
+        "[XP-up 9999]": "[XP-up 9999]\n04100000 B00E47B8 0000270F\n\n",
+        "[gatcha always Gao]": "[gatcha always Gao]\n04100000 B01F46C0 0000010D\n\n",
+        "[Sniper 9999]": "[Sniper 9999]\n04100000 B00E47BC 0000270F\n\n",
+        "[Speed-up 9999]": "[Speed-up 9999]\n04100000 B00E47A8 0000270F\n\n",
+        "[shop: 1 cat food for 2M XP]": "[shop: 1 cat food for 2M XP]\n04100000 AFE8CC10 00000001\n\n",
+        "[Stage before Moon Score - Set to 0 (Cat food + xp + silver ticket)]": "[Stage before Moon Score - Set to 0 (Cat food + xp + silver ticket)]\n04100000 B02453F4 00000000\n\n",
+        "[Energy 9999]": "[Energy 9999]\n04100000 B00E12F8 0000270F\n\n",
+        "[Treasure Radar 9999]": "[Treasure Radar 9999]\n04100000 B00E47AC 0000270F\n\n",
+        "[Max Worker Rate 9999]": "[Max Worker Rate 9999]\n04100000 B00E47B0 0000270F\n\n",
+        "[gatcha always Mitama]": "[gatcha always Mitama]\n04100000 B01F46C0 0000013E\n\n",
+        "[Cat-puter 9999]": "[Cat-puter 9999]\n04100000 B00E47B4 0000270F\n\n"
+    },
+    "83ED8627CB8A9801D9661A5F5490FEC300000000000000000000000000000000": {
+        "[Cat-puter 9999]": "[Cat-puter 9999]\n04100000 B00E47B4 0000270F\n\n",
+        "[Energy 9999]": "[Energy 9999]\n04100000 B00E12F8 0000270F\n\n",
+        "[gatcha always Gao]": "[gatcha always Gao]\n04100000 B01F46C0 0000010D\n\n",
+        "[gatcha always Mitama]": "[gatcha always Mitama]\n04100000 B01F46C0 0000013E\n\n",
+        "[Max Worker Rate 9999]": "[Max Worker Rate 9999]\n04100000 B00E47B0 0000270F\n\n",
+        "[shop: 1 cat food for 2M XP]": "[shop: 1 cat food for 2M XP]\n04100000 AFE8CC10 00000001\n\n",
+        "[Sniper 9999]": "[Sniper 9999]\n04100000 B00E47BC 0000270F\n\n",
+        "[Speed-up 9999]": "[Speed-up 9999]\n04100000 B00E47A8 0000270F\n\n",
+        "[Stage before Moon Score - Set to 0 (Cat food + xp + silver ticket)]": "[Stage before Moon Score - Set to 0 (Cat food + xp + silver ticket)]\n04100000 B02453F4 00000000\n\n",
+        "[Treasure Radar 9999]": "[Treasure Radar 9999]\n04100000 B00E47AC 0000270F\n\n",
+        "[XP-up 9999]": "[XP-up 9999]\n04100000 B00E47B8 0000270F\n\n"
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "18B01C2123631637": {
+        "[99999 Mana]": "[99999 Mana]\n04000000 00002C43\n0001869F\n\n",
+        "[Max HL]": "[Max HL]\n580F0000 0027CB78\n780F0000 00000290\n640F0000 7FFFFFFF\n\n",
+        "[999999 Money]": "[999999 Money]\n04000000 002C33D0\n000F423F\n\n"
+    },
+    "81F7AB934AD9A6DC": {
+        "[Unlimited HL]": "[Unlimited HL]\n580F0000 00288CD0\n780F0000 00000290\n640F0000 00000000 FFFFFFFF\n\n",
+        "[Unlimited SP]": "[Unlimited SP]\n04000000 00023108 4B1F0188\n\n",
+        "[Quick Max LV]": "[Quick Max LV]\n04000000 00058AA0 8B098A49\n\n",
+        "[Quick Max Weapon Mastery LV]": "[Quick Max Weapon Mastery LV]\n04000000 0004C4AC 8B084948\n\n",
+        "[Quick Max Special LV]": "[Quick Max Special LV]\n04000000 0004C59C 8B098A49\n\n",
+        "[Quick Max Mana]": "[Quick Max Mana]\n04000000 000588B8 8B098A49\n\n",
+        "[Max Yeas in Dark Assembly]": "[Max Yeas in Dark Assembly]\n04000000 0041734C 0001869F\n\n",
+        "[980000 HP for Prize in Netherworld Hospital]": "[980000 HP for Prize in Netherworld Hospital]\n04000000 002CF9E8 000EF420\n\n",
+        "[490000 SP for Prize in Netherworld Hospital]": "[490000 SP for Prize in Netherworld Hospital]\n04000000 002CF9F0 00077A10\n\n",
+        "[300 DEC. for Prize in Netherworld Hospital]": "[300 DEC. for Prize in Netherworld Hospital]\n04000000 00364C18 0000012C\n\n",
+        "[0 HP in Netherworld Hospital]": "[0 HP in Netherworld Hospital]\n04000000 002CF9E8 00000000\n\n",
+        "[0 SP in Netherworld Hospital]": "[0 SP in Netherworld Hospital]\n04000000 002CF9F0 00000000\n\n",
+        "[0 DEC. in Netherworld Hospital]": "[0 DEC. in Netherworld Hospital]\n04000000 00364C18 00000000\n\n",
+        "[Max Customer Rank]": "[Max Customer Rank]\n04000000 002CF9D8 01C9C380\n\n",
+        "[Max Bonus Gauge]": "[Max Bonus Gauge]\n04000000 00364C3C 00090000\n\n",
+        "[Max Nays in Dark Assembly]": "[Max Nays in Dark Assembly]\n04000000 00417344 0001869F\n\n",
+        "[200000 HP in Netherworld Hospital]": "[200000 HP in Netherworld Hospital]\n04000000 002CF9E8 00030D40\n\n",
+        "[50000 SP in Netherworld Hospital]": "[50000 SP in Netherworld Hospital]\n04000000 002CF9F0 0000C350\n\n",
+        "[300 DEC. in Netherworld Hospital]": "[300 DEC. in Netherworld Hospital]\n04000000 00364C18 0000012C\n\n",
+        "[Press L3 Instant Win]": "[Press L3 Instant Win]\n80000010\n300E0000 0000001E\n04000000 002A0104 00000000\n78000000 000006B8\n310E0000\n20000000\n\n",
+        "[1st Character Unlimited HP]": "[1st Character Unlimited HP]\n04000000 002D08BC 04C4B400\n\n",
+        "[1st Character Max Stats]": "[1st Character Max Stats]\n300E0000 00000008\n04000000 002D08E4 01312D00\n78000000 00000004\n310E0000\n20000000\n\n"
+    },
+    "BF963CA291D09C51": {
+        "[\ud544\uc218\ucf54\ub4dc]": "[\ud544\uc218\ucf54\ub4dc]\n080A0000 00000AF4 1E20100E 1E2109C2\n080A0000 00000AFC D65F03C0 1E2E0842\n080 A0000 03D151A0 72A0BEA8 529C1FE8 080A0000\n03D151A8 D65F03C0 B9006268\n\n",
+        "[\ubb34\ud55c\uc810\ud504]": "[\ubb34\ud55c\uc810\ud504]\n040A0000 00CD4A2C 1CFEAF84\n040A0000 00CD201C 3F000000\n80000002\n040A0000 00CD201C 00000000\n20000000\n\n",
+        "[\uc804\uc6a9 \uc2a4\ud0ac \uacc4\uc2b9 \uac00\ub2a5]": "[\uc804\uc6a9 \uc2a4\ud0ac \uacc4\uc2b9 \uac00\ub2a5]\n040A0000 014D6874 52800037\n040A0000 01AA6060 52800038\n040A0000 01AA64B4 52800039\n040A0000 019DEF24 2A0903E8\n\n",
+        "[\uc720\ubb3c 99]": "[\uc720\ubb3c 99]\n580F0000 07AD0AB0\n580F1000 00000C78\n580F1000 00000000\n580F1000 00000280\n580F1000 00000180\n580F1000 00000408\n980FF100 00000000 00000268\n300C0000 00000028\n610F1000 00000000 00000063\n310C0000\n\n",
+        "[\uadc0\uc911\ud488 1\uac1c\uc640 \ubbf8\uc158\uc18c\ud488 \ud68d\ub4dd]": "[\uadc0\uc911\ud488 1\uac1c\uc640 \ubbf8\uc158\uc18c\ud488 \ud68d\ub4dd]\n580F0000 07AD0AB0\n580F1000 00000C78\n580F1000 00000000\n580F1000 00000280\n580F1000 00000180\n580F1000 00000408\n980FF100 00000000 00000290\n300C0000 000000C8\n610F1000 00000000 00000001\n310C0000\n\n",
+        "[\ubaa8\ub4e0 \ud5c8\ubb3c \ud68d\ub4dd]": "[\ubaa8\ub4e0 \ud5c8\ubb3c \ud68d\ub4dd]\n580F0000 07AD0AB0\n580F1000 00000C78\n580F1000 00000000\n580F1000 00000280\n580F1000 00000180\n580F1000 00000408\n980FF100 00000000 00000137\n300C0000 00000131\n610F1000 00000000 00000001\n310C0000\n\n",
+        "[\ubaa8\ub4e0 \uce74\ubb34\uc774 \ud68d\ub4dd]": "[\ubaa8\ub4e0 \uce74\ubb34\uc774 \ud68d\ub4dd]\n580F0000 07AD0AB0\n580F1000 00000C78\n580F1000 00000000\n580F1000 00000280\n580F1000 00000180\n580F1000 00000318\n780F0000 00000001\n300C0000 00000091\n610F1000 00000000 00000007\n310C0000\n\n",
+        "[\uc18c\ube44 \uc544\uc774\ud15c 99]": "[\uc18c\ube44 \uc544\uc774\ud15c 99]\n580F0000 07AD0AB0\n580F1000 00000C78\n580F1000 00000000\n580F1000 00000280\n580F1000 00000180\n580F1000 00000408\n980FF100 00000000 00000001\n300C0000 000000DC\n610F1000 00000000 00000063\n310C0000\n\n"
+    },
+    "18B01C212363163715F42C7385DBB46800000000000000000000000000000000": {
+        "[99999 Mana]": "[99999 Mana]\n04000000 00002C43\n0001869F\n\n",
+        "[999999 Money]": "[999999 Money]\n04000000 002C33D0\n000F423F\n\n",
+        "[Max HL]": "[Max HL]\n580F0000 0027CB78\n780F0000 00000290\n640F0000 7FFFFFFF\n\n"
+    }
+}

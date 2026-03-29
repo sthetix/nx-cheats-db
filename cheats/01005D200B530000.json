@@ -5,5 +5,9 @@
     },
     "attribution": {
         "Capcom Beat Em Up Bundle ver 1.0.0 by Zit.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    },
+    "DEAB38CED1AC0D220593F124139971E300000000000000000000000000000000": {
+        "[Inf HP]": "[Inf HP]\n010F0000 01EE30FC 00000050\n\n",
+        "[Invincible]": "[Invincible]\n010F0000 01EE0865 000000FF\n\n"
     }
 }

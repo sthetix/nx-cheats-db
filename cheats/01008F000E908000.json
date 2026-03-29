@@ -4,6 +4,14 @@
         "[(Restore Code)]": "[(Restore Code)]\n04000000 000488E4 51000502 \n04000000 0004D2B4 71000508\n\n",
         "[Inf Hp]": "[Inf Hp]\n04000000 000488E4 0B1F0102\n\n",
         "[Inf Bullets]": "[Inf Bullets]\n04000000 0004D2B4 2B1F0108\n\n",
+        "[Original Code by herowang]": "[Original Code by herowang]\n20000000\n\n",
+        "[Infinite star]": "[Infinite star]\n011F0000 00716C64 00000004\n\n"
+    },
+    "07CDECB2CFDB33DB8C1C5DA8FE3B1AFF00000000000000000000000000000000": {
+        "[(Restore Code)]": "[(Restore Code)]\n04000000 000488E4 51000502\n04000000 0004D2B4 71000508\n\n",
+        "[Inf Bullets]": "[Inf Bullets]\n04000000 0004D2B4 2B1F0108\n\n",
+        "[Inf Hp]": "[Inf Hp]\n04000000 000488E4 0B1F0102\n\n",
+        "[Infinite star]": "[Infinite star]\n011F0000 00716C64 00000004\n\n",
         "[Original Code by herowang]": "[Original Code by herowang]\n20000000\n\n"
     }
 }

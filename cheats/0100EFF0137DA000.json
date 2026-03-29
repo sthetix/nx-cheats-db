@@ -1,0 +1,12 @@
+{
+    "AF17820C7D8C761E": {
+        "[Inf HP]": "[Inf HP]\n021F0000 BF485A6C 00000300\n\n",
+        "[Inf Lives]": "[Inf Lives]\n011F0000 BF48E45E 00000009\n\n",
+        "[Invincible (Push X)]": "[Invincible (Push X)]\n011F0000 BF485A5C 00000070\n80000004\n011F0000 BF485A50 00000010\n20000000\n\n"
+    },
+    "AF17820C7D8C761EB40320B8642D944725ED2687000000000000000000000000": {
+        "[Inf HP]": "[Inf HP]\n021F0000 BF485A6C 00000300\n\n",
+        "[Inf Lives]": "[Inf Lives]\n011F0000 BF48E45E 00000009\n\n",
+        "[Invincible (Push X)]": "[Invincible (Push X)]\n011F0000 BF485A5C 00000070\n80000004\n011F0000 BF485A50 00000010\n20000000\n\n"
+    }
+}

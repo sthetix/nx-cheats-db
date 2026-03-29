@@ -3,9 +3,27 @@
         "[Moon Jump]": "[Moon Jump]\n80000002\n040F0000 01238300 9AAA0007\n20000000\n\n",
         "[Invincible]": "[Invincible]\n010F0000 0123834E 00000010\n\n",
         "[Inf Time]": "[Inf Time]\n010F0000 012381ED 000000FF\n\n",
-        "[hitanywhere]": "[hitanywhere]\n021f0000 8DD780CA 00006002\n021f0000 8DD77DF6 00006002\n021f0000 8DD77E32 00006002\n021f0000 8DD04B36 0000018A\n\n"
+        "[hitanywhere]": "[hitanywhere]\n021f0000 8DD780CA 00006002\n021f0000 8DD77DF6 00006002\n021f0000 8DD77E32 00006002\n021f0000 8DD04B36 0000018A\n\n",
+        "[P1 Infinite Ammo]": "[P1 Infinite Ammo]\n02000000 01243184 0000FFFF\n\n",
+        "[P1 Infinite Lives]": "[P1 Infinite Lives]\n01000000 012380AF 00000009\n\n",
+        "[P2 Infinite Lives]": "[P2 Infinite Lives]\n01000000 01238157 00000009\n\n",
+        "[P1 Infinite Bombs]": "[P1 Infinite Bombs]\n01000000 01243181 000000FF\n\n",
+        "[P2 Infinite Ammo]": "[P2 Infinite Ammo]\n02000000 01238186 0000FFFF\n\n",
+        "[P2 Infinite Bombs]": "[P2 Infinite Bombs]\n01000000 01238180 000000FF\n\n"
     },
     "attribution": {
         "ACA NEOGEO METAL SLUG 2ver 1.0.0 by ZiT.txt": "Invincible is only useful for blows."
+    },
+    "32D6E6C4F9D89524BA2C40606A44F70000000000000000000000000000000000": {
+        "[hitanywhere]": "[hitanywhere]\n021F0000 8DD780CA 00006002\n021F0000 8DD77DF6 00006002\n021F0000 8DD77E32 00006002\n021F0000 8DD04B36 0000018A\n\n",
+        "[Inf Time]": "[Inf Time]\n010F0000 012381ED 000000FF\n\n",
+        "[Invincible]": "[Invincible]\n010F0000 0123834E 00000010\n\n",
+        "[Moon Jump]": "[Moon Jump]\n80000002\n040F0000 01238300 9AAA0007\n20000000\n\n",
+        "[P1 Infinite Ammo]": "[P1 Infinite Ammo]\n02000000 01243184 0000FFFF\n\n",
+        "[P1 Infinite Bombs]": "[P1 Infinite Bombs]\n01000000 01243181 000000FF\n\n",
+        "[P1 Infinite Lives]": "[P1 Infinite Lives]\n01000000 012380AF 00000009\n\n",
+        "[P2 Infinite Ammo]": "[P2 Infinite Ammo]\n02000000 01238186 0000FFFF\n\n",
+        "[P2 Infinite Bombs]": "[P2 Infinite Bombs]\n01000000 01238180 000000FF\n\n",
+        "[P2 Infinite Lives]": "[P2 Infinite Lives]\n01000000 01238157 00000009\n\n"
     }
 }

@@ -1,7 +1,15 @@
 {
     "AE324830FE37FC72": {
         "[60 FPS]": "[60 FPS]\n580F0000 005A7B10 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
-        "[30 FPS (Default)]": "[30 FPS (Default)]\n580F0000 005A7B10 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
+        "[30 FPS (Default)]": "[30 FPS (Default)]\n580F0000 005A7B10 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n",
+        "[Resotre]": "[Resotre]\n04000000 001BC170 51000508\n04000000 0012BF00 BD40AA60\n04000000 00144450 0B09014A\n04000000 001BB5EC BD400A80\n04000000 0018254C BD008A8A\n04000000 0005E3B0 B9023A60\n\n",
+        "[Inf. HP]": "[Inf. HP]\n04000000 0018254C BD008A8A\n04000000 0018254C 140A7C35\n04000000 00421620 A9376BF9\n04000000 00421624 B940929A\n04000000 00421628 3400005A\n04000000 0042162C 1E20400A\n04000000 00421630 BD008A8A\n04000000 00421634 A9776BF9\n04000000 00421638 17F583C6\n\n",
+        "[Item have 9 after use]": "[Item have 9 after use]\n04000000 001BC170 52800128\n\n",
+        "[Item no cooling time after use]": "[Item no cooling time after use]\n04000000 001BB5EC 1E2703E0\n\n",
+        "[Fast zeroing of detected alarm time]": "[Fast zeroing of detected alarm time]\n04000000 0012BF00 1E2703E0\n\n",
+        "[Score increased eightfold]": "[Score increased eightfold]\n04000000 00144450 0B090D4A\n\n",
+        "[point 99 after upgrade]": "[point 99 after upgrade]\n04000000 0005E3B0 B9023A60\n04000000 0005E3B0 140F0C9C\n04000000 00421620 52800C60\n04000000 00421624 B9023A60\n04000000 00421628 17F0F363\n\n",
+        "[Original Code]": "[Original Code]\n20000000\n\n"
     },
     "attribution": {
         "Mark of the Ninja: Remastered.txt": "By sds\n"

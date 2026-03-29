@@ -8,5 +8,15 @@
         "[Soul Orb Instant Refill]": "[Soul Orb Instant Refill]\n08100000 9EED7260 40B51900 00000000\n\n",
         "[Swarp Orb  Instant Refill]": "[Swarp Orb  Instant Refill]\n08100000 9EED7290 40B51900 00000000\n\n",
         "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
+    },
+    "8E5E5BD4A33BC64792F7DA689A8504A3DEC083EE000000000000000000000000": {
+        "[Bombs Inf]": "[Bombs Inf]\n08100000 9EED73B0 40220000 00000000\n\n",
+        "[Coins 999]": "[Coins 999]\n08100000 9EED75A0 408F3800 00000000\n\n",
+        "[HP Pet Max]": "[HP Pet Max]\n581E0000 9EED7660\nA8E00410 9EED7680\n\n",
+        "[HP Player Max]": "[HP Player Max]\n581D0000 9EED76A0\nA8D00410 9EED76C0\n\n",
+        "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n",
+        "[Soul Orb Instant Refill]": "[Soul Orb Instant Refill]\n08100000 9EED7260 40B51900 00000000\n\n",
+        "[Swarp Orb  Instant Refill]": "[Swarp Orb  Instant Refill]\n08100000 9EED7290 40B51900 00000000\n\n",
+        "[Treasure Keys 100]": "[Treasure Keys 100]\n08100000 9EED7370 40590000 00000000\n\n"
     }
 }

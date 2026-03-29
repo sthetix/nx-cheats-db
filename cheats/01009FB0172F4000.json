@@ -147,5 +147,46 @@
     },
     "attribution": {
         "SpongeBob SquarePants: The Cosmic Shake.txt": "v1.0.3 by sds\nGame runs at 40-50 fps @ 1785/921/1996 default settings\n"
+    },
+    "7592657B25736761EEAAE2E0E9DBFEE100000000000000000000000000000000": {
+        "[(ZR) Speed Up]": "[(ZR) Speed Up]\n80000200\n040C0000 00DCC698 94DE5E9D\n20000000\n\n",
+        "[Credits: crazy_p, Patjenova]": "[Credits: crazy_p, Patjenova]\n00000000 00000000 00000000\n\n",
+        "[Full Health]": "[Full Health]\n040A0000 003A0BCC 95070D5B\n\n",
+        "[Max Coins (Open Menu)]": "[Max Coins (Open Menu)]\n040C0000 00FD1FDC 94D64852\n\n",
+        "[Max Costume Tiers (Open Menu)]": "[Max Costume Tiers (Open Menu)]\n040A0000 00FD7EB8 94D630A8\n\n",
+        "[Max Jelly (Open Menu)]": "[Max Jelly (Open Menu)]\n040C0000 00FD1F50 94D64872\n\n",
+        "[Moonjump]": "[Moonjump]\n80000001\n040C0000 02E42DB0 945C84D4\n20000000\n\n",
+        "[No Gravity]": "[No Gravity]\n80000001\n040A0000 02E2E2A8 1E2703E0\n20000000\n\n"
+    },
+    "11DCE99532D49E78BF103401AD23330D00000000000000000000000000000000": {
+        "[(ZR) Speed Up]": "[(ZR) Speed Up]\n80000200\n040C0000 00DC6A58 94DE4FED\n20000000\n\n",
+        "[Credits: crazy_p, Patjenova]": "[Credits: crazy_p, Patjenova]\n00000000 00000000 00000000\n\n",
+        "[Full Health]": "[Full Health]\n040A0000 003A099C 9506E827\n\n",
+        "[Max Coins (Open Menu)]": "[Max Coins (Open Menu)]\n040C0000 00FCAD18 94D63F43\n\n",
+        "[Max Costume Tiers (Open Menu)]": "[Max Costume Tiers (Open Menu)]\n040A0000 00FD0BF4 94D62799\n\n",
+        "[Max Jelly (Open Menu)]": "[Max Jelly (Open Menu)]\n040C0000 00FCAC8C 94D63F63\n\n",
+        "[Moonjump]": "[Moonjump]\n80000001\n040C0000 02E33150 945C9E2C\n20000000\n\n",
+        "[No Gravity]": "[No Gravity]\n80000001\n040A0000 02E1E648 1E2703E0\n20000000\n\n"
+    },
+    "36C8DAD452C65A620BC0E8112187EDF500000000000000000000000000000000": {
+        "[(ZR) Speed Up]": "[(ZR) Speed Up]\n80000200\n040C0000 00DC27A0 94DE181B\n20000000\n\n",
+        "[Credits: crazy_p, Patjenova]": "[Credits: crazy_p, Patjenova]\n00000000 00000000 00000000\n\n",
+        "[Full Health]": "[Full Health]\n040A0000 003A03BC 9506A11F\n\n",
+        "[Max Coins (Open Menu)]": "[Max Coins (Open Menu)]\n040C0000 00FC5D30 94D60ABD\n\n",
+        "[Max Costume Tiers (Open Menu)]": "[Max Costume Tiers (Open Menu)]\n040A0000 00FCBDC4 94D5F2A5\n\n",
+        "[Max Jelly (Open Menu)]": "[Max Jelly (Open Menu)]\n040C0000 00FC5CA4 94D60ADD\n\n",
+        "[Moonjump]": "[Moonjump]\n80000001\n040C0000 02E210B0 945C9DD4\n20000000\n\n",
+        "[No Gravity]": "[No Gravity]\n80000001\n040A0000 02E0C5A8 1E2703E0\n20000000\n\n"
+    },
+    "F61911B562195493040735F588C25E9A00000000000000000000000000000000": {
+        "[(ZR) Speed Up]": "[(ZR) Speed Up]\n80000200\n040C0000 00DC2470 94DDF87F\n20000000\n\n",
+        "[Credits: crazy_p]": "[Credits: crazy_p]\n00000000 00000000 00000000\n\n",
+        "[Full Health]": "[Full Health]\n040A0000 003A026C 95068135\n\n",
+        "[Inf. Health]": "[Inf. Health]\n040C0000 00381934 D503201F\n\n",
+        "[Max Coins (Open Menu)]": "[Max Coins (Open Menu)]\n040C0000 00FAFC08 94D6429F\n\n",
+        "[Max Costume Tiers (Open Menu)]": "[Max Costume Tiers (Open Menu)]\n040A0000 00FC8698 94D5E032\n\n",
+        "[Max Jelly (Open Menu)]": "[Max Jelly (Open Menu)]\n040C0000 00FAFB7C 94D642BF\n\n",
+        "[Moonjump]": "[Moonjump]\n80000001\n040C0000 02E19210 945C9D14\n20000000\n\n",
+        "[No Gravity]": "[No Gravity]\n80000001\n040A0000 02E04708 1E2703E0\n20000000\n\n"
     }
 }

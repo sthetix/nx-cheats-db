@@ -11,5 +11,9 @@
     "D3D6C45A044DA864": {
         "[Vite infinite]": "[Vite infinite]\n01100000 014b304c 00000005\n\n",
         "[Crediti infiniti]": "[Crediti infiniti]\n01100000 014b301a 00000009\n\n"
+    },
+    "D3D6C45A044DA8641A076DEE0176EF8800000000000000000000000000000000": {
+        "[Crediti infiniti]": "[Crediti infiniti]\n01100000 014B301A 00000009\n\n",
+        "[Vite infinite]": "[Vite infinite]\n01100000 014B304C 00000005\n\n"
     }
 }

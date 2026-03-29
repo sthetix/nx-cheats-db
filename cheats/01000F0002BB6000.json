@@ -5,5 +5,45 @@
     },
     "attribution": {
         "Wargroove Update 7 (v1.3.0).txt": ""
+    },
+    "397BD5555E9A4C44": {
+        "[Select Unit/Building to Recover Health (ON)]": "[Select Unit/Building to Recover Health (ON)]\n04000000 0045FDA4 52800C89\n04000000 0045FDA8 B9000109\n04000000 0045FDAC D503201F\n\n",
+        "[9999 Gold Co-op Team]": "[9999 Gold Co-op Team]\n58000000 00C9BBD8\n58001000 00000190\n58001000 000000D8\n58001000 000000A8\n58001000 00000660\n58001000 00000008\n58001000 00000068\n78000000 00000000\n64000000 00000000 0000270F\n\n",
+        "[9999 Gold]": "[9999 Gold]\n58000000 00C9BBD8\n58001000 00000190\n58001000 000000D8\n58001000 000000A8\n58001000 00000660\n58001000 00000008\n58001000 00000030\n78000000 00000000\n64000000 00000000 0000270F\n\n",
+        "[Select Unit/Building to Recover Health (OFF)]": "[Select Unit/Building to Recover Health (OFF)]\n04000000 0045FDA4 B9400108\n04000000 0045FDA8 7100051F\n04000000 0045FDAC 54FFFF4B\n\n"
+    },
+    "7DC603C454F6517E": {
+        "[Select Unit/Building to recover Health (Disable)]": "[Select Unit/Building to recover Health (Disable)]\n04000000 0041AB54 B9400108\n04000000 0041AB58 7100051F\n04000000 0041AB5C 54FFFF4B\n\n",
+        "[Select Unit/Building to recover Health (Enable)]": "[Select Unit/Building to recover Health (Enable)]\n04000000 0041AB54 52800C89\n04000000 0041AB58 B9000109\n04000000 0041AB5C D503201F\n\n"
+    },
+    "A32AFC17C02B0E80": {
+        "[Select Unit/Building to recover Health (Disable)]": "[Select Unit/Building to recover Health (Disable)]\n04000000 0041B324 B9400108\n04000000 0041B328 7100051F\n04000000 0041B32C 54FFFF4B\n\n",
+        "[Select Unit/Building to recover Health (Enable)]": "[Select Unit/Building to recover Health (Enable)]\n04000000 0041B324 52800C89\n04000000 0041B328 B9000109\n04000000 0041B32C D503201F\n\n"
+    },
+    "B05C886DE8291583": {
+        "[Select Unit/Building to recover Health (Disable)]": "[Select Unit/Building to recover Health (Disable)]\n04000000 0041B204 B9400108\n04000000 0041B208 7100051F\n04000000 0041B20C 54FFFF4B\n\n",
+        "[Select Unit/Building to recover Health (Enable)]": "[Select Unit/Building to recover Health (Enable)]\n04000000 0041B204 52800C89\n04000000 0041B208 B9000109\n04000000 0041B20C D503201F\n\n"
+    },
+    "397BD5555E9A4C4427D9928821713662BF4A4943000000000000000000000000": {
+        "[9999 Gold Co-op Team]": "[9999 Gold Co-op Team]\n58000000 00C9BBD8\n58001000 00000190\n58001000 000000D8\n58001000 000000A8\n58001000 00000660\n58001000 00000008\n58001000 00000068\n78000000 00000000\n64000000 00000000 0000270F\n\n",
+        "[9999 Gold]": "[9999 Gold]\n58000000 00C9BBD8\n58001000 00000190\n58001000 000000D8\n58001000 000000A8\n58001000 00000660\n58001000 00000008\n58001000 00000030\n78000000 00000000\n64000000 00000000 0000270F\n\n",
+        "[Select Unit/Building to Recover Health (OFF)]": "[Select Unit/Building to Recover Health (OFF)]\n04000000 0045FDA4 B9400108\n04000000 0045FDA8 7100051F\n04000000 0045FDAC 54FFFF4B\n\n",
+        "[Select Unit/Building to Recover Health (ON)]": "[Select Unit/Building to Recover Health (ON)]\n04000000 0045FDA4 52800C89\n04000000 0045FDA8 B9000109\n04000000 0045FDAC D503201F\n\n"
+    },
+    "64771F8D1E0D6AC4E7E11F4F60F8750B00000000000000000000000000000000": {
+        "[Select Unit/Building to recover Health (off)]": "[Select Unit/Building to recover Health (off)]\n04000000 0043F834 B9400108\n04000000 0043F838 7100051F\n04000000 0043F83C 54FFFF4B\n\n",
+        "[Select Unit/Building to recover Health (on)]": "[Select Unit/Building to recover Health (on)]\n04000000 0043F834 52800C89\n04000000 0043F838 B9000109\n04000000 0043F83C D503201F\n\n"
+    },
+    "B05C886DE82915830F47F9EE3D5FFFEA00000000000000000000000000000000": {
+        "[Select Unit/Building to recover Health (Disable)]": "[Select Unit/Building to recover Health (Disable)]\n04000000 0041B204 B9400108\n04000000 0041B208 7100051F\n04000000 0041B20C 54FFFF4B\n\n",
+        "[Select Unit/Building to recover Health (Enable)]": "[Select Unit/Building to recover Health (Enable)]\n04000000 0041B204 52800C89\n04000000 0041B208 B9000109\n04000000 0041B20C D503201F\n\n"
+    },
+    "7DC603C454F6517E965519B183371D4100000000000000000000000000000000": {
+        "[Select Unit/Building to recover Health (Disable)]": "[Select Unit/Building to recover Health (Disable)]\n04000000 0041AB54 B9400108\n04000000 0041AB58 7100051F\n04000000 0041AB5C 54FFFF4B\n\n",
+        "[Select Unit/Building to recover Health (Enable)]": "[Select Unit/Building to recover Health (Enable)]\n04000000 0041AB54 52800C89\n04000000 0041AB58 B9000109\n04000000 0041AB5C D503201F\n\n"
+    },
+    "A32AFC17C02B0E807A290532308C0E3400000000000000000000000000000000": {
+        "[Select Unit/Building to recover Health (Disable)]": "[Select Unit/Building to recover Health (Disable)]\n04000000 0041B324 B9400108\n04000000 0041B328 7100051F\n04000000 0041B32C 54FFFF4B\n\n",
+        "[Select Unit/Building to recover Health (Enable)]": "[Select Unit/Building to recover Health (Enable)]\n04000000 0041B324 52800C89\n04000000 0041B328 B9000109\n04000000 0041B32C D503201F\n\n"
     }
 }

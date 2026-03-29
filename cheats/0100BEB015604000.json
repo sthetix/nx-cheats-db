@@ -3,5 +3,28 @@
         "[999999 points]": "[999999 points]\n040F0000 01B36A88 000F423F\n\n",
         "[Type-90 x99]": "[Type-90 x99]\n040F0000 01B2C06C 00000063\n\n",
         "[Type-Zero x99]": "[Type-Zero x99]\n040F0000 01B2C0A0 00000063\n\n"
+    },
+    "B38D51E0391187EC": {
+        "[Max Score]": "[Max Score]\n040F0000 0130BA50 0098967F\n\n",
+        "[Max Point]": "[Max Point]\n040F0000 01B3BB18 0098967F\n\n",
+        "[Infinite Health]": "[Infinite Health]\n2032D018 0001869F\n\n",
+        "[Infinite Film]": "[Infinite Film]\n201E9CE0 24050063\n\n",
+        "[Max all items]": "[Max all items]\n40326CB0 00040001\n00630063 00000001\n10326CD2 00000063\n\n"
+    },
+    "8BFBF5B8A7098443": {
+        "[Invincible]": "[Invincible]\n040E0000 00037B60 B90DBAE9\n040E0000 003FC910 B90DB90A\n040E0000 004C1384 B94DBD2B\n040E0000 004C3C2C B94DBD0A\n040E0000 005CDE90 B90DBA69\n040E0000 005CEC60 B90DBAC9\n040E0000 005F1C24 B90DB90A\n\n",
+        "[Infinite Films]": "[Infinite Films]\n040E0000 003C9B14 510001AB\n\n",
+        "[No cooldown]": "[No cooldown]\n040E0000 004AD48C BD00A66A\n\n",
+        "[Infinite Items]": "[Infinite Items]\n040E0000 003C8814 51000169\n\n",
+        "[16x Score]": "[16x Score]\n040E0000 004B693C 941E7931\n040E0000 004CEB6C 941E18A5\n040E0000 005DBDC8 531C6C15\n\n",
+        "[Free Costumes and Items]": "[Free Costumes and Items]\n040E0000 00825A1C 4B1F0001\n\n",
+        "[Have at least 1 ninty film]": "[Have at least 1 ninty film]\n14050000 01B300AC 00000000\n040E0000 01B300AC 00000001\n20000000\n\n",
+        "[Have at least 1 zero film]": "[Have at least 1 zero film]\n14050000 01B300E0 00000000\n040E0000 01B300E0 00000001\n20000000\n\n",
+        "[Have at least 1 ink bottle]": "[Have at least 1 ink bottle]\n14050000 01B30114 00000000\n040E0000 01B30114 00000001\n20000000\n\n"
+    },
+    "1527E76F9F1848337511A024D99CA092CB918C79000000000000000000000000": {
+        "[999999 points]": "[999999 points]\n040F0000 01B36A88 000F423F\n\n",
+        "[Type-90 x99]": "[Type-90 x99]\n040F0000 01B2C06C 00000063\n\n",
+        "[Type-Zero x99]": "[Type-Zero x99]\n040F0000 01B2C0A0 00000063\n\n"
     }
 }

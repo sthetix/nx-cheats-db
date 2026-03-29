@@ -11,5 +11,23 @@
         "[Always Cursor on ?]": "[Always Cursor on ?]\n80000200 \n580F0000 014E3FF8 \n580F1000 00000470 \n780F0000 0000106B \n610F0000 00000000 00000006 \n20000000\n\n",
         "[Always Cursor on !]": "[Always Cursor on !]\n80000004 \n580F0000 014E3FF8 \n580F1000 00000470 \n780F0000 0000106B \n610F0000 00000000 00000007 \n20000000\n\n",
         "[Original Code by \u30cd\u30aa\u2022\u30b0\u30e9\u30f3\u30be\u30f3]": "[Original Code by \u30cd\u30aa\u2022\u30b0\u30e9\u30f3\u30be\u30f3]\n20000000\n\n"
+    },
+    "18894B1DA8CCF481": {
+        "[Inf Option (Hold ZR)]": "[Inf Option (Hold ZR)]\n80000200\n011F0000 C1A6E06B 00000005\n20000000\n\n",
+        "[Inf ! (Hold ZL)]": "[Inf ! (Hold ZL)]\n80000100\n011F0000 C1A6E06B 00000007\n20000000\n\n",
+        "[invincible]": "[invincible]\n011F0000 C1A6E068 00000060\n\n",
+        "[Speed UP]": "[Speed UP]\n011F0000 C1A6E02D 00000004\n\n",
+        "[Inf Laser (Hold L)]": "[Inf Laser (Hold L)]\n80000040\n011F0000 C1A6E06B 00000004\n20000000\n\n",
+        "[Inf Double (Hold R)]": "[Inf Double (Hold R)]\n80000080\n011F0000 C1A6E06B 00000003\n20000000\n\n",
+        "[Inf Lives]": "[Inf Lives]\n011F0000 C1A6E051 0000000A\n\n"
+    },
+    "18894B1DA8CCF48176A9BC3883A46997D6631EF9000000000000000000000000": {
+        "[Inf ! (Hold ZL)]": "[Inf ! (Hold ZL)]\n80000100\n011F0000 C1A6E06B 00000007\n20000000\n\n",
+        "[Inf Double (Hold R)]": "[Inf Double (Hold R)]\n80000080\n011F0000 C1A6E06B 00000003\n20000000\n\n",
+        "[Inf Laser (Hold L)]": "[Inf Laser (Hold L)]\n80000040\n011F0000 C1A6E06B 00000004\n20000000\n\n",
+        "[Inf Lives]": "[Inf Lives]\n011F0000 C1A6E051 0000000A\n\n",
+        "[Inf Option (Hold ZR)]": "[Inf Option (Hold ZR)]\n80000200\n011F0000 C1A6E06B 00000005\n20000000\n\n",
+        "[invincible]": "[invincible]\n011F0000 C1A6E068 00000060\n\n",
+        "[Speed UP]": "[Speed UP]\n011F0000 C1A6E02D 00000004\n\n"
     }
 }

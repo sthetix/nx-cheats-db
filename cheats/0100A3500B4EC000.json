@@ -6,5 +6,10 @@
     },
     "attribution": {
         "Polandball Can Into Space ver 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    },
+    "DD522C070476294A91F9E13431AAAF8500000000000000000000000000000000": {
+        "[Inf Armor]": "[Inf Armor]\n580F0000 0299E5B8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000090\n780F0000 00000098\n640F0000 00000000 0001869F\n\n",
+        "[Inf Fugl]": "[Inf Fugl]\n580F0000 0299E5B8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000090\n780F0000 0000009C\n640F0000 00000000 447A0000\n\n",
+        "[Max Money]": "[Max Money]\n580F0000 0299E5B8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000090\n780F0000 00000090\n640F0000 00000000 000F423F\n\n"
     }
 }

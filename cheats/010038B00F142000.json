@@ -4,16 +4,42 @@
         "[super jump]": "[super jump]\n04000000 0152B480 D65F03C0\n\n",
         "[slow jump]": "[slow jump]\n04000000 01871D40 D65F03C0\n\n",
         "[inf get crystal big on ]": "[inf get crystal big on ]\n04000000 01523324 D503201F\n\n",
-        "[inf get crystal big off ]": "[inf get crystal big off ]\n04000000 01523324 360000C0\n\n"
+        "[inf get crystal big off ]": "[inf get crystal big off ]\n04000000 01523324 360000C0\n\n",
+        "[inf get crystal big off]": "[inf get crystal big off]\n04000000 01523324 360000C0\n\n",
+        "[inf get crystal big on]": "[inf get crystal big on]\n04000000 01523324 D503201F\n\n"
     },
     "7A1598FA5877F246": {
         "[1p invicible]": "[1p invicible]\n04000000 0023A308 D503201F\n\n",
         "[super jump]": "[super jump]\n04000000 0161AD00 D65F03C0\n\n",
         "[slow jump]": "[slow jump]\n04000000 01684270 D65F03C0\n\n",
         "[inf get crystal big on ]": "[inf get crystal big on ]\n04000000 016881E4 D503201F\n\n",
-        "[inf get crystal big off ]": "[inf get crystal big off ]\n04000000 016881E4 360000C0\n\n"
+        "[inf get crystal big off ]": "[inf get crystal big off ]\n04000000 016881E4 360000C0\n\n",
+        "[inf get crystal big off]": "[inf get crystal big off]\n04000000 016881E4 360000C0\n\n",
+        "[inf get crystal big on]": "[inf get crystal big on]\n04000000 016881E4 D503201F\n\n"
     },
     "attribution": {
         "Kaze and the Wild Masks Base ver by xtatu.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}"
+    },
+    "2F1789637369AB41": {
+        "[Jump in Midair]": "[Jump in Midair]\n04000000 01888E04 94A2C03F\n08000000 04138F00 B40000A0 F9401FE0\n08000000 04138F08 34000060 3954C000\n08000000 04138F10 1E270001 52A83800\n08000000 04138F18 D65F03C0 F9402260\n\n",
+        "[Invincibility]": "[Invincibility]\n04000000 017728C4 52800008\n\n",
+        "[\ue0a7 Disable Swimming]": "[\ue0a7 Disable Swimming]\n04000000 019AF860 14000007\n80000200\n04000000 019AF860 B40000F3\n20000000\n\n",
+        "[Infinite Time Bonus Stages]": "[Infinite Time Bonus Stages]\n04000000 016941C4 D503201F\n\n",
+        "[Always Get Gold Medal in Time Trials]": "[Always Get Gold Medal in Time Trials]\n04000000 0142215C 1400001E\n\n",
+        "[Get 1 Crystal/Kill 1 Enemy in Bonus Stages to Get Prize]": "[Get 1 Crystal/Kill 1 Enemy in Bonus Stages to Get Prize]\n04000000 016966EC 6B09013F\n04000000 01695478 6B01003F\n04000000 0169604C 52800008\n\n"
+    },
+    "7A1598FA5877F2468A75484FEC927EBA00000000000000000000000000000000": {
+        "[1p invicible]": "[1p invicible]\n04000000 0023A308 D503201F\n\n",
+        "[inf get crystal big off]": "[inf get crystal big off]\n04000000 016881E4 360000C0\n\n",
+        "[inf get crystal big on]": "[inf get crystal big on]\n04000000 016881E4 D503201F\n\n",
+        "[slow jump]": "[slow jump]\n04000000 01684270 D65F03C0\n\n",
+        "[super jump]": "[super jump]\n04000000 0161AD00 D65F03C0\n\n"
+    },
+    "3F1E5C8189629F4F84DA296AECED9F7E00000000000000000000000000000000": {
+        "[1p invicible]": "[1p invicible]\n04000000 00237C08 D503201F\n\n",
+        "[inf get crystal big off]": "[inf get crystal big off]\n04000000 01523324 360000C0\n\n",
+        "[inf get crystal big on]": "[inf get crystal big on]\n04000000 01523324 D503201F\n\n",
+        "[slow jump]": "[slow jump]\n04000000 01871D40 D65F03C0\n\n",
+        "[super jump]": "[super jump]\n04000000 0152B480 D65F03C0\n\n"
     }
 }

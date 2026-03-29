@@ -9,5 +9,15 @@
         "[Coins No Decrease]": "[Coins No Decrease]\n04000000 024BD9B4 5100016A\n\n",
         "[Coins No Decrease Off]": "[Coins No Decrease Off]\n04000000 024BD9B4 4B0A016A\n\n",
         "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
+    },
+    "763CFE0F0F29B8133CDD248591C6F4C600000000000000000000000000000000": {
+        "[Coins Max Off]": "[Coins Max Off]\n04000000 024DFA94 1A8AB149\n\n",
+        "[Coins No Decrease Off]": "[Coins No Decrease Off]\n04000000 024BD9B4 4B0A016A\n\n",
+        "[Coins No Decrease]": "[Coins No Decrease]\n04000000 024BD9B4 5100016A\n\n",
+        "[HP Inf Off]": "[HP Inf Off]\n04000000 0255C6A4 1A93B108\n\n",
+        "[HP Inf]": "[HP Inf]\n04000000 0255C6A4 1A88B108\n\n",
+        "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n",
+        "[Sta Inf Off]": "[Sta Inf Off]\n04000000 0255C85C 1A94B108\n\n",
+        "[Sta Inf]": "[Sta Inf]\n04000000 0255C85C 1A88B108\n\n"
     }
 }

@@ -10,7 +10,8 @@
         "[Unlock All Skins]": "[Unlock All Skins]\n04000000 010729C4 52800020\n\n",
         "[cpu no move]": "[cpu no move]\n04000000 01743E2C 1E27D000\n\n",
         "[car speed mod 1.75x]": "[car speed mod 1.75x]\n04000000 005D27F0 1E2F9001\n\n",
-        "[jump size mod 2x]": "[jump size mod 2x]\n04000000 00EB7738 1E201001\n\n"
+        "[jump size mod 2x]": "[jump size mod 2x]\n04000000 00EB7738 1E201001\n\n",
+        "[jump size mod1.75x]": "[jump size mod1.75x]\n04000000 00EB4A64 1E2F9000\n\n"
     },
     "20E862BD6C39D8AE": {
         "[RelicRace Crate add 30sec to freeze timer]": "[RelicRace Crate add 30sec to freeze timer]\n04000000 00FA25CC 1E27D000\n\n",
@@ -30,7 +31,8 @@
         "[Unlock N.Tropy]": "[Unlock N.Tropy]\n04000000 0106D0F4 52800020\n\n",
         "[Unlock Penta Pinguin]": "[Unlock Penta Pinguin]\n04000000 0106C6C8 52800020\n\n",
         "[Beat All Oxide Times - Digital NTropy Skin]": "[Beat All Oxide Times - Digital NTropy Skin]\n04000000 0106D3A0 52800020\n\n",
-        "[Unlock All Skins]": "[Unlock All Skins]\n04000000 0106C9BC 52800020\n\n"
+        "[Unlock All Skins]": "[Unlock All Skins]\n04000000 0106C9BC 52800020\n\n",
+        "[Unl. Boost]": "[Unl. Boost]\n041F0000 0F4DA7BC 00000000\n041F0000 0F4DA7C0 00000000\n\n"
     },
     "47E60871471F1CE9": {
         "[RelicRace Crate add 30sec to freeze timer]": "[RelicRace Crate add 30sec to freeze timer]\n04000000 00FBBB4C 1E27D000\n\n",
@@ -106,5 +108,189 @@
         "Crash Team Racing Nitro Fueled v1.0.10 and v1.10.11by Dablackdeath.txt": "WARNING - Enable these when IN-GAME ONLY or will Crash the Full Game",
         "crash team racing 1v015 by xtatu.txt": "",
         "Crash Team Racing Nitro-Fueled v1.0.7 by DBlackDeath.txt": ""
+    },
+    "6C34F9D999E908E8": {
+        "[Unlock All Pit Stop Items]": "[Unlock All Pit Stop Items]\n04000000 010624AC 52800020\n\n",
+        "[Unlock All Ordinary Items]": "[Unlock All Ordinary Items]\n04000000 01061188 52800020\n\n",
+        "[Beat All Oxide Times - Digital NTropy Skin]": "[Beat All Oxide Times - Digital NTropy Skin]\n04000000 01062200 52800020\n\n",
+        "[RelicRace Crate add 30sec to freeze timer]": "[RelicRace Crate add 30sec to freeze timer]\n04000000 00FB4958 1E27D000\n\n",
+        "[Unlock All Skins]": "[Unlock All Skins]\n04000000 0106181C 52800020\n\n",
+        "[Unlock N.Tropy]": "[Unlock N.Tropy]\n04000000 01061F54 52800020\n\n",
+        "[Unlock Penta Pinguin]": "[Unlock Penta Pinguin]\n04000000 01061528 52800020\n\n"
+    },
+    "BE5EE5A46FCDE180": {
+        "[Unlock All Pit Stop / Grand Prix Items]": "[Unlock All Pit Stop / Grand Prix Items]\n04000000 007F0C0C 52800029\n\n"
+    },
+    "C25BB998C6D3C629": {
+        "[Unlock All Ordinary Items]": "[Unlock All Ordinary Items]\n04000000 007BD2C0 52800020\n\n",
+        "[Unlock N.Tropy]": "[Unlock N.Tropy]\n04000000 007BDB28 52800020\n\n",
+        "[Unlock All Pit Stop Items]": "[Unlock All Pit Stop Items]\n04000000 007BDE4C 52800020\n\n",
+        "[Unlock All Skins]": "[Unlock All Skins]\n04000000 007BD5F8 52800020\n\n",
+        "[Beat All Oxide Times - Digital NTropy Skin]": "[Beat All Oxide Times - Digital NTropy Skin]\n04000000 007BDCB8 52800020\n\n",
+        "[RelicRace Crate add 900sec to freeze timer]": "[RelicRace Crate add 900sec to freeze timer]\n04000000 0071251C 1E27D000\n04000000 00712520 1E200800\n\n",
+        "[Unlock Penta Pinguin]": "[Unlock Penta Pinguin]\n04000000 007BD45C 52800020\n\n",
+        "[RelicRace Crate add 30sec to freeze timer]": "[RelicRace Crate add 30sec to freeze timer]\n04000000 00712520 1E27D000\n\n"
+    },
+    "EC79BF385ED287E8": {
+        "[Unlock All Skins]": "[Unlock All Skins]\n04000000 007BDE68 52800020\n\n",
+        "[RelicRace Crate add 30sec to freeze timer]": "[RelicRace Crate add 30sec to freeze timer]\n04000000 007126A0 1E27D000\n\n",
+        "[Beat All Oxide Times - Digital NTropy Skin]": "[Beat All Oxide Times - Digital NTropy Skin]\n04000000 007BE528 52800020\n\n",
+        "[Unlock All Pit Stop Items]": "[Unlock All Pit Stop Items]\n04000000 007BE720 52800020\n\n",
+        "[Unlock Penta Pinguin]": "[Unlock Penta Pinguin]\n04000000 007BDCCC 52800020\n\n",
+        "[Unlock All Ordinary Items]": "[Unlock All Ordinary Items]\n04000000 007BDB30 52800020\n\n",
+        "[Unlock N.Tropy]": "[Unlock N.Tropy]\n04000000 007BE398 52800020\n\n"
+    },
+    "ED5D2D9DF7A61C7D": {
+        "[Unlock All Ordinary Items]": "[Unlock All Ordinary Items]\n04000000 01051DF0 52800020\n\n",
+        "[RelicRace Crate add 30sec to freeze timer]": "[RelicRace Crate add 30sec to freeze timer]\n04000000 00FA7A0C 1E27D000\n\n",
+        "[Unlock All Skins]": "[Unlock All Skins]\n04000000 01052414 52800020\n\n",
+        "[Unlock N.Tropy]": "[Unlock N.Tropy]\n04000000 01052B0C 52800020\n\n",
+        "[Beat All Oxide Times - Digital NTropy Skin]": "[Beat All Oxide Times - Digital NTropy Skin]\n04000000 01052D78 52800020\n\n",
+        "[Unlock Penta Pinguin]": "[Unlock Penta Pinguin]\n04000000 01052140 52800020\n\n",
+        "[Unlock All Pit Stop / Grand Prix Items]": "[Unlock All Pit Stop / Grand Prix Items]\n04000000 01053018 52800020\n\n"
+    },
+    "1C689518406930512C13DDF4217E767600000000000000000000000000000000": {
+        "[Beat All Oxide Times - Digital NTropy Skin]": "[Beat All Oxide Times - Digital NTropy Skin]\n04000000 01073328 52800020\n\n",
+        "[car speed mod 1.75x]": "[car speed mod 1.75x]\n04000000 00EB4040 1E2F9001\n\n",
+        "[cpu no move]": "[cpu no move]\n04000000 01743E2C 1E27D000\n\n",
+        "[CrystalRace 1 Crystal is worth 5]": "[CrystalRace 1 Crystal is worth 5]\n04000000 00E664F0 11001508\n\n",
+        "[jump size mod 2x]": "[jump size mod 2x]\n04000000 00EB7738 1E201001\n\n",
+        "[jump size mod1.75x]": "[jump size mod1.75x]\n04000000 00EB4A64 1E2F9000\n\n",
+        "[RelicRace Crate add 30sec to freeze timer]": "[RelicRace Crate add 30sec to freeze timer]\n04000000 00FBC3DC 1E27D000\n\n",
+        "[Unlock All Ordinary Items]": "[Unlock All Ordinary Items]\n04000000 010723DC 52800020\n\n",
+        "[Unlock All Pit Stop Items]": "[Unlock All Pit Stop Items]\n04000000 01073CC8 52800020\n\n",
+        "[Unlock All Skins]": "[Unlock All Skins]\n04000000 010729C4 52800020\n\n",
+        "[Unlock N.Tropy]": "[Unlock N.Tropy]\n04000000 010730BC 52800020\n\n",
+        "[Unlock Penta Pinguin]": "[Unlock Penta Pinguin]\n04000000 010726F0 52800020\n\n"
+    },
+    "47E60871471F1CE9E212B81DEC5A624900000000000000000000000000000000": {
+        "[Beat All Oxide Times - Digital NTropy Skin]": "[Beat All Oxide Times - Digital NTropy Skin]\n04000000 010718C8 52800020\n\n",
+        "[CrystalRace 1 Crystal is worth 5]": "[CrystalRace 1 Crystal is worth 5]\n04000000 00E65EE0 11001508\n\n",
+        "[RelicRace Crate add 30sec to freeze timer]": "[RelicRace Crate add 30sec to freeze timer]\n04000000 00FBBB4C 1E27D000\n\n",
+        "[Unlock All Ordinary Items]": "[Unlock All Ordinary Items]\n04000000 0107097C 52800020\n\n",
+        "[Unlock All Pit Stop Items]": "[Unlock All Pit Stop Items]\n04000000 01072268 52800020\n\n",
+        "[Unlock All Skins]": "[Unlock All Skins]\n04000000 01070F64 52800020\n\n",
+        "[Unlock N.Tropy]": "[Unlock N.Tropy]\n04000000 0107165C 52800020\n\n",
+        "[Unlock Penta Pinguin]": "[Unlock Penta Pinguin]\n04000000 01070C90 52800020\n\n"
+    },
+    "DFCFAFF44673EF2BD02AD0D52DA67A6400000000000000000000000000000000": {
+        "[Beat All Oxide Times - Digital NTropy Skin]": "[Beat All Oxide Times - Digital NTropy Skin]\n04000000 010712D8 52800020\n\n",
+        "[CrystalRace 1 Crystal is worth 5]": "[CrystalRace 1 Crystal is worth 5]\n04000000 00E66E80 11001508\n\n",
+        "[RelicRace Crate add 30sec to freeze timer]": "[RelicRace Crate add 30sec to freeze timer]\n04000000 00FBD74C 1E27D000\n\n",
+        "[Unlock All Ordinary Items]": "[Unlock All Ordinary Items]\n04000000 0107038C 52800020\n\n",
+        "[Unlock All Pit Stop Items]": "[Unlock All Pit Stop Items]\n04000000 010717B8 52800020\n\n",
+        "[Unlock All Skins]": "[Unlock All Skins]\n04000000 0107093C 52800020\n\n",
+        "[Unlock N.Tropy]": "[Unlock N.Tropy]\n04000000 0107106C 52800020\n\n",
+        "[Unlock Penta Pinguin]": "[Unlock Penta Pinguin]\n04000000 010706A0 52800020\n\n"
+    },
+    "64736428D344E78EC1593488EBBF6E9A00000000000000000000000000000000": {
+        "[Beat All Oxide Times - Digital NTropy Skin]": "[Beat All Oxide Times - Digital NTropy Skin]\n04000000 010711E8 52800020\n\n",
+        "[CrystalRace 1 Crystal is worth 5]": "[CrystalRace 1 Crystal is worth 5]\n04000000 00E66D90 11001508\n\n",
+        "[RelicRace Crate add 30sec to freeze timer]": "[RelicRace Crate add 30sec to freeze timer]\n04000000 00FBD65C 1E27D000\n\n",
+        "[Unlock All Ordinary Items]": "[Unlock All Ordinary Items]\n04000000 0107029C 52800020\n\n",
+        "[Unlock All Pit Stop Items]": "[Unlock All Pit Stop Items]\n04000000 010716C8 52800020\n\n",
+        "[Unlock All Skins]": "[Unlock All Skins]\n04000000 0107084C 52800020\n\n",
+        "[Unlock N.Tropy]": "[Unlock N.Tropy]\n04000000 01070F7C 52800020\n\n",
+        "[Unlock Penta Pinguin]": "[Unlock Penta Pinguin]\n04000000 010705B0 52800020\n\n"
+    },
+    "6D693314DAC7B040950D79FA8E9A4A3500000000000000000000000000000000": {
+        "[Beat All Oxide Times - Digital NTropy Skin]": "[Beat All Oxide Times - Digital NTropy Skin]\n04000000 010712F8 52800020\n\n",
+        "[CrystalRace 1 Crystal is worth 5]": "[CrystalRace 1 Crystal is worth 5]\n04000000 00E661B0 11001508\n\n",
+        "[RelicRace Crate add 30sec to freeze timer]": "[RelicRace Crate add 30sec to freeze timer]\n04000000 00FBDE3C 1E27D000\n\n",
+        "[Unlock All Ordinary Items]": "[Unlock All Ordinary Items]\n04000000 010703AC 52800020\n\n",
+        "[Unlock All Pit Stop Items]": "[Unlock All Pit Stop Items]\n04000000 010717D8 52800020\n\n",
+        "[Unlock All Skins]": "[Unlock All Skins]\n04000000 01070994 52800020\n\n",
+        "[Unlock N.Tropy]": "[Unlock N.Tropy]\n04000000 0107108C 52800020\n\n",
+        "[Unlock Penta Pinguin]": "[Unlock Penta Pinguin]\n04000000 010706C0 52800020\n\n"
+    },
+    "20E862BD6C39D8AE4D708B15BBFF635200000000000000000000000000000000": {
+        "[Beat All Oxide Times - Digital NTropy Skin]": "[Beat All Oxide Times - Digital NTropy Skin]\n04000000 010519E8 52800020\n\n",
+        "[CrystalRace 1 Crystal is worth 5]": "[CrystalRace 1 Crystal is worth 5]\n04000000 00E572E0 11001508\n\n",
+        "[RelicRace Crate add 30sec to freeze timer]": "[RelicRace Crate add 30sec to freeze timer]\n04000000 00FA25CC 1E27D000\n\n",
+        "[Unlock All Ordinary Items]": "[Unlock All Ordinary Items]\n04000000 01050B20 52800020\n\n",
+        "[Unlock All Pit Stop Items]": "[Unlock All Pit Stop Items]\n04000000 01051C88 52800020\n\n",
+        "[Unlock All Skins]": "[Unlock All Skins]\n04000000 010510E8 52800020\n\n",
+        "[Unlock N.Tropy]": "[Unlock N.Tropy]\n04000000 0105177C 52800020\n\n",
+        "[Unlock Penta Pinguin]": "[Unlock Penta Pinguin]\n04000000 01050E70 52800020\n\n"
+    },
+    "D614A20DDE59E4D77F1066ED17329FF500000000000000000000000000000000": {
+        "[Beat All Oxide Times - Digital NTropy Skin]": "[Beat All Oxide Times - Digital NTropy Skin]\n04000000 01054E30 52800020\n\n",
+        "[CrystalRace 1 Crystal is worth 5]": "[CrystalRace 1 Crystal is worth 5]\n04000000 00E527F0 11001508\n\n",
+        "[RelicRace Crate add 30sec to freeze timer]": "[RelicRace Crate add 30sec to freeze timer]\n04000000 00FA4D2C 1E27D000\n\n",
+        "[Unlock All Ordinary Items]": "[Unlock All Ordinary Items]\n04000000 01053FA8 52800020\n\n",
+        "[Unlock All Pit Stop Items]": "[Unlock All Pit Stop Items]\n04000000 010550FC 52800020\n\n",
+        "[Unlock All Skins]": "[Unlock All Skins]\n04000000 01054578 52800020\n\n",
+        "[Unlock N.Tropy]": "[Unlock N.Tropy]\n04000000 01054BF0 52800020\n\n",
+        "[Unlock Penta Pinguin]": "[Unlock Penta Pinguin]\n04000000 010542D0 52800020\n\n"
+    },
+    "9A5CF70301FBEB93F3D9739BCA15864100000000000000000000000000000000": {
+        "[Beat All Oxide Times - Digital NTropy Skin]": "[Beat All Oxide Times - Digital NTropy Skin]\n04000000 01054D20 52800020\n\n",
+        "[CrystalRace 1 Crystal is worth 5]": "[CrystalRace 1 Crystal is worth 5]\n04000000 00E526E0 11001508\n\n",
+        "[RelicRace Crate add 30sec to freeze timer]": "[RelicRace Crate add 30sec to freeze timer]\n04000000 00FA4C1C 1E27D000\n\n",
+        "[Unlock All Ordinary Items]": "[Unlock All Ordinary Items]\n04000000 01053E98 52800020\n\n",
+        "[Unlock All Pit Stop Items]": "[Unlock All Pit Stop Items]\n04000000 01054FEC 52800020\n\n",
+        "[Unlock All Skins]": "[Unlock All Skins]\n04000000 01054468 52800020\n\n",
+        "[Unlock N.Tropy]": "[Unlock N.Tropy]\n04000000 01054AE0 52800020\n\n",
+        "[Unlock Penta Pinguin]": "[Unlock Penta Pinguin]\n04000000 010541C0 52800020\n\n"
+    },
+    "22DF179B89611807DA37054F86CE401B00000000000000000000000000000000": {
+        "[Beat All Oxide Times - Digital NTropy Skin]": "[Beat All Oxide Times - Digital NTropy Skin]\n04000000 0106D3A0 52800020\n\n",
+        "[CrystalRace 1 Crystal is worth 5]": "[CrystalRace 1 Crystal is worth 5]\n04000000 00E65CF0 11001508\n\n",
+        "[RelicRace Crate add 30sec to freeze timer]": "[RelicRace Crate add 30sec to freeze timer]\n04000000 00FBCAF8 1E27D000\n\n",
+        "[Unl. Boost]": "[Unl. Boost]\n041F0000 0F4DA7BC 00000000\n041F0000 0F4DA7C0 00000000\n\n",
+        "[Unlock All Ordinary Items]": "[Unlock All Ordinary Items]\n04000000 0106C328 52800020\n\n",
+        "[Unlock All Pit Stop Items]": "[Unlock All Pit Stop Items]\n04000000 0106D64C 52800020\n\n",
+        "[Unlock All Skins]": "[Unlock All Skins]\n04000000 0106C9BC 52800020\n\n",
+        "[Unlock N.Tropy]": "[Unlock N.Tropy]\n04000000 0106D0F4 52800020\n\n",
+        "[Unlock Penta Pinguin]": "[Unlock Penta Pinguin]\n04000000 0106C6C8 52800020\n\n"
+    },
+    "6C34F9D999E908E816E7BF032D6E300E00000000000000000000000000000000": {
+        "[Beat All Oxide Times - Digital NTropy Skin]": "[Beat All Oxide Times - Digital NTropy Skin]\n04000000 01062200 52800020\n\n",
+        "[RelicRace Crate add 30sec to freeze timer]": "[RelicRace Crate add 30sec to freeze timer]\n04000000 00FB4958 1E27D000\n\n",
+        "[Unlock All Ordinary Items]": "[Unlock All Ordinary Items]\n04000000 01061188 52800020\n\n",
+        "[Unlock All Pit Stop Items]": "[Unlock All Pit Stop Items]\n04000000 010624AC 52800020\n\n",
+        "[Unlock All Skins]": "[Unlock All Skins]\n04000000 0106181C 52800020\n\n",
+        "[Unlock N.Tropy]": "[Unlock N.Tropy]\n04000000 01061F54 52800020\n\n",
+        "[Unlock Penta Pinguin]": "[Unlock Penta Pinguin]\n04000000 01061528 52800020\n\n"
+    },
+    "ED5D2D9DF7A61C7D21D18800D857C05B00000000000000000000000000000000": {
+        "[Beat All Oxide Times - Digital NTropy Skin]": "[Beat All Oxide Times - Digital NTropy Skin]\n04000000 01052D78 52800020\n\n",
+        "[RelicRace Crate add 30sec to freeze timer]": "[RelicRace Crate add 30sec to freeze timer]\n04000000 00FA7A0C 1E27D000\n\n",
+        "[Unlock All Ordinary Items]": "[Unlock All Ordinary Items]\n04000000 01051DF0 52800020\n\n",
+        "[Unlock All Pit Stop / Grand Prix Items]": "[Unlock All Pit Stop / Grand Prix Items]\n04000000 01053018 52800020\n\n",
+        "[Unlock All Skins]": "[Unlock All Skins]\n04000000 01052414 52800020\n\n",
+        "[Unlock N.Tropy]": "[Unlock N.Tropy]\n04000000 01052B0C 52800020\n\n",
+        "[Unlock Penta Pinguin]": "[Unlock Penta Pinguin]\n04000000 01052140 52800020\n\n"
+    },
+    "BE5EE5A46FCDE180C6DAE642FA5571CC00000000000000000000000000000000": {
+        "[Unlock All Pit Stop / Grand Prix Items]": "[Unlock All Pit Stop / Grand Prix Items]\n04000000 007F0C0C 52800029\n\n"
+    },
+    "67813B3F857829913E3344671F23B13000000000000000000000000000000000": {
+        "[Beat All Oxide Times - Digital NTropy Skin]": "[Beat All Oxide Times - Digital NTropy Skin]\n04000000 007BEC78 52800020\n\n",
+        "[RelicRace Crate add 30sec to freeze timer]": "[RelicRace Crate add 30sec to freeze timer]\n04000000 00712DF0 1E27D000\n\n",
+        "[Unlock All Ordinary Items]": "[Unlock All Ordinary Items]\n04000000 007BE280 52800020\n\n",
+        "[Unlock All Pit Stop Items]": "[Unlock All Pit Stop Items]\n04000000 007BEE70 52800020\n\n",
+        "[Unlock All Skins]": "[Unlock All Skins]\n04000000 007BE5B8 52800020\n\n",
+        "[Unlock N.Tropy]": "[Unlock N.Tropy]\n04000000 007BEAE8 52800020\n\n",
+        "[Unlock Penta Pinguin]": "[Unlock Penta Pinguin]\n04000000 007BE41C 52800020\n\n"
+    },
+    "EC79BF385ED287E8D198384D66D28B7B00000000000000000000000000000000": {
+        "[Beat All Oxide Times - Digital NTropy Skin]": "[Beat All Oxide Times - Digital NTropy Skin]\n04000000 007BE528 52800020\n\n",
+        "[RelicRace Crate add 30sec to freeze timer]": "[RelicRace Crate add 30sec to freeze timer]\n04000000 007126A0 1E27D000\n\n",
+        "[Unlock All Ordinary Items]": "[Unlock All Ordinary Items]\n04000000 007BDB30 52800020\n\n",
+        "[Unlock All Pit Stop Items]": "[Unlock All Pit Stop Items]\n04000000 007BE720 52800020\n\n",
+        "[Unlock All Skins]": "[Unlock All Skins]\n04000000 007BDE68 52800020\n\n",
+        "[Unlock N.Tropy]": "[Unlock N.Tropy]\n04000000 007BE398 52800020\n\n",
+        "[Unlock Penta Pinguin]": "[Unlock Penta Pinguin]\n04000000 007BDCCC 52800020\n\n"
+    },
+    "C25BB998C6D3C6291F444E5F52DF43EE00000000000000000000000000000000": {
+        "[Beat All Oxide Times - Digital NTropy Skin]": "[Beat All Oxide Times - Digital NTropy Skin]\n04000000 007BDCB8 52800020\n\n",
+        "[RelicRace Crate add 30sec to freeze timer]": "[RelicRace Crate add 30sec to freeze timer]\n04000000 00712520 1E27D000\n\n",
+        "[RelicRace Crate add 900sec to freeze timer]": "[RelicRace Crate add 900sec to freeze timer]\n04000000 0071251C 1E27D000\n04000000 00712520 1E200800\n\n",
+        "[Unlock All Ordinary Items]": "[Unlock All Ordinary Items]\n04000000 007BD2C0 52800020\n\n",
+        "[Unlock All Pit Stop Items]": "[Unlock All Pit Stop Items]\n04000000 007BDE4C 52800020\n\n",
+        "[Unlock All Skins]": "[Unlock All Skins]\n04000000 007BD5F8 52800020\n\n",
+        "[Unlock N.Tropy]": "[Unlock N.Tropy]\n04000000 007BDB28 52800020\n\n",
+        "[Unlock Penta Pinguin]": "[Unlock Penta Pinguin]\n04000000 007BD45C 52800020\n\n"
     }
 }

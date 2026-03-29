@@ -46,7 +46,14 @@
         "[o Invisible Wing Cap Mario]": "[o Invisible Wing Cap Mario]\n02100000 387429E6 00008800\n\n",
         "[o Invisible Wing Cap Mario - (Invincible)]": "[o Invisible Wing Cap Mario - (Invincible)]\n02100000 387429E6 00008a00\n\n",
         "[o Invisible Wing Cap Metal Mario]": "[o Invisible Wing Cap Metal Mario]\n02100000 387429E6 00008c00\n\n",
-        "[o Invisible Wing Cap Metal Mario - (Invincible)]": "[o Invisible Wing Cap Metal Mario - (Invincible)]\n02100000 387429E6 00008e00\n\n"
+        "[o Invisible Wing Cap Metal Mario - (Invincible)]": "[o Invisible Wing Cap Metal Mario - (Invincible)]\n02100000 387429E6 00008e00\n\n",
+        "[8 Red Coins]": "[8 Red Coins]\n02100000 3875515F 00000008\n\n",
+        "[Classic Debug Display]": "[Classic Debug Display]\n80000010\n01100000 38731CE8 00000059\n20000000\n80000020\n01100000 38731CE8 00000000\n20000000\n\n",
+        "[Level Select]": "[Level Select]\n02100000 38731CDC 00000001\n\n",
+        "[All Complete Save slot 2]": "[All Complete Save slot 2]\n04100000 38628F98 FFFFFFFF\n04100000 38628F9C FFFFFFFF\n04100000 38628FA0 FFFFFFFF\n04100000 38628FA4 FFFFFFFF\n04100000 38628FA8 FFFFFFFF\n04100000 38628FAC FFFFFFFF\n\n",
+        "[All Complete Save slot 3]": "[All Complete Save slot 3]\n04100000 38629008 FFFFFFFF\n04100000 3862900C FFFFFFFF\n04100000 38629010 FFFFFFFF\n04100000 38629014 FFFFFFFF\n04100000 38629018 FFFFFFFF\n04100000 3862901C FFFFFFFF\n\n",
+        "[All Complete Save slot 1]": "[All Complete Save slot 1]\n04100000 38628F28 FFFFFFFF\n04100000 38628F2C FFFFFFFF\n04100000 38628F30 FFFFFFFF\n04100000 38628F34 FFFFFFFF\n04100000 38628F38 FFFFFFFF\n04100000 38628F3C FFFFFFFF\n\n",
+        "[All Complete Save slot 4]": "[All Complete Save slot 4]\n04100000 38629078 FFFFFFFF\n04100000 3862907C FFFFFFFF\n04100000 38629080 FFFFFFFF\n04100000 38629084 FFFFFFFF\n04100000 38629088 FFFFFFFF\n04100000 3862908C FFFFFFFF\n\n"
     },
     "attribution": {
         "Super Mario 3D All-Star ver 1.0.0 by Patjenova and satelman.txt": "Super Mario Allstars\nSuper Mario 3",

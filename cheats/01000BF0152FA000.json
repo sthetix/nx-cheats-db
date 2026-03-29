@@ -1,9 +1,55 @@
 {
     "12024D08CCFD25EB": {
         "[60 FPS]": "[60 FPS]\n580F0000 02576810\n580F1000 00002408\n780F0000 00000F24\n640F0000 00000000 00000001\n\n",
-        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 02576810\n580F1000 00002408\n780F0000 00000F24\n640F0000 00000000 00000002\n\n"
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 02576810\n580F1000 00002408\n780F0000 00000F24\n640F0000 00000000 00000002\n\n",
+        "[01# Inf HP]": "[01# Inf HP]\n040A0000 011DBE80 7100051F\n040A0000 011DBE84 54000041\n040A0000 011DBE88 1E2703E0\n040A0000 011DBE8C 4EA01C09\n040A0000 011DBE90 D65F03C0\n040A0000 00607C6C 942F5085\n\n",
+        "[Inf HP (off)]": "[Inf HP (off)]\n040A0000 00607C6C 4EA01C09\n\n",
+        "[02# Instant Kill]": "[02# Instant Kill]\n040A0000 011DBEA0 BD406000\n040A0000 011DBEA4 7100051F\n040A0000 011DBEA8 54000040\n040A0000 011DBEAC 1E204009\n040A0000 011DBEB0 D65F03C0\n040A0000 00607C70 942F508C\n\n",
+        "[Instant Kill (off)]": "[Instant Kill (off)]\n040A0000 00607C70 BD406000\n\n",
+        "[03# Inf Ammo/Grenades/Mines (Press R)]": "[03# Inf Ammo/Grenades/Mines (Press R)]\n040A0000 00FDC3EC B9003008\n80000080\n040A0000 011DBEC0 52800C68\n040A0000 011DBEC4 B9003008\n040A0000 011DBEC8 D65F03C0\n040A0000 00FDC3EC 9407FEB5\n20000000\n\n",
+        "[Inf Ammo/Grenades/Mines (off)]": "[Inf Ammo/Grenades/Mines (off)]\n040A0000 00FDC3EC B9003008\n\n",
+        "[04# Inf Stamina]": "[04# Inf Stamina]\n040A0000 00AE6E7C 1E204020\n\n",
+        "[Inf Stamina(off)]": "[Inf Stamina(off)]\n040A0000 00AE6E7C 1E202820\n\n",
+        "[05# No Reload]": "[05# No Reload]\n040A0000 00FB04B0 6B1F014A\n\n",
+        "[No Reload (off)]": "[No Reload (off)]\n040A0000 00FB04B0 6B14014A\n\n",
+        "[06# No Recoil]": "[06# No Recoil]\n040A0000 00FAA9B0 14000003\n040A0000 00FAAA44 14000003\n040A0000 00FAAB4C 14000003\n040A0000 00FAABEC 14000003\n040A0000 00FAAF44 14000003\n040A0000 00FAB074 14000003\n\n",
+        "[No Recoil (off)]": "[No Recoil (off)]\n040A0000 00FAA9B0 54000060\n040A0000 00FAAA44 54000060\n040A0000 00FAAB4C 54000060\n040A0000 00FAABEC 54000060\n040A0000 00FAAF44 54000060\n040A0000 00FAB074 54000060\n\n",
+        "[07# Increase Fire Rate]": "[07# Increase Fire Rate]\n040A0000 0100138C 4479C000\n040A0000 00FA161C 1C2FEB80\n\n",
+        "[Increase Fire Rate (off)]": "[Increase Fire Rate (off)]\n040A0000 00FA161C 1E212800\n\n",
+        "[08# Skills No Cooldown]": "[08# Skills No Cooldown]\n040A0000 00D833E0 1E204001\n\n",
+        "[Skills No Cooldown (off)]": "[Skills No Cooldown (off)]\n040A0000 00D833E0 1E20CC21\n\n",
+        "[09# Max Score]": "[09# Max Score]\n040A0000 011A67EC 52A77349\n040A0000 011A67F0 72993FE9\n\n",
+        "[Max Score (off)]": "[Max Score (off)]\n040A0000 011A67EC 2B392129\n040A0000 011A67F0 5A9F3129\n\n",
+        "[10# Edit Upgrade Kits]": "[10# Edit Upgrade Kits]\n040A0000 0109F408 52800C68\n\n",
+        "[Edit Upgrade Kits (off)]": "[Edit Upgrade Kits (off)]\n040A0000 0109F408 79474D08\n\n",
+        "[11# Max Exp]": "[11# Max Exp]\n040A0000 009BB100 0B08414A\n\n",
+        "[Max Exp (off)]": "[Max Exp (off)]\n040A0000 009BB100 0B08014A\n\n"
     },
     "attribution": {
         "Zombie Army 4 Dead War.txt": "By Hazerou"
+    },
+    "CEC15ED08AA67444": {
+        "[01# Inf HP]": "[01# Inf HP]\n040A0000 011DBD40 7100051F\n040A0000 011DBD44 54000041 040A0000 011DBD48\n1E2703E0 040A0000 011DBD4C\n4EA01C09 040A0000\n011DBD50 D65F03C0\n040A0000 00607B6C 942F5075\n\n",
+        "[Inf HP (off)]": "[Inf HP (off)]\n040A0000 00607BBC 4EA01C09\n\n",
+        "[02# Instant Kill]": "[02# Instant Kill]\n040A0000 011DBD60 BD406000\n040A0000 011DBD64 7100051F\n040A0000 011DBD68 54000040\n040A0000 011DBD6C 1E204009\n040A0000 011DBD70 D65F03C0\n040A0000 00607B70 942F507C\n\n",
+        "[Instant Kill (off)]": "[Instant Kill (off)]\n040A0000 00607BC0 BD406000\n\n",
+        "[03# Inf Ammo/Grenades/Mines (Press R)]": "[03# Inf Ammo/Grenades/Mines (Press R)]\n040A0000 00FDC2EC B9003008\n80000080\n040A0000 011DBD80 52800C68\n040A0000 011DBD84 B9003008\n040A0000 011DBD88 D65F03C0\n040A0000 00FDC2EC 9407FEA5\n20000000\n\n",
+        "[Inf Ammo/Grenades/Mines (off)]": "[Inf Ammo/Grenades/Mines (off)]\n040A0000 00FDC2EC B9003008\n\n",
+        "[04# Inf Stamina]": "[04# Inf Stamina]\n040A0000 00AE6D7C 1E204020\n\n",
+        "[Inf Stamina(off)]": "[Inf Stamina(off)]\n040A0000 00AE6D7C 1E202820\n\n",
+        "[05# No Reload]": "[05# No Reload]\n040A0000 00FB03B0 6B1F014A\n\n",
+        "[No Reload (off)]": "[No Reload (off)]\n040A0000 00FB03B0 6B14014A\n\n",
+        "[06# No Recoil]": "[06# No Recoil]\n040A0000 00FAA8B0 14000003\n040A0000 00FAA944 14000003 040A0000 00FAAA4C\n14000003 040A0000 00FAAAEC\n14000003 040A0000\n00FAAE44 14000003\n040A0000 00FAAF74 14000003\n\n",
+        "[No Recoil (off)]": "[No Recoil (off)]\n040A0000 00FAA8B0 54000060\n040A0000 00FAA944 54000060\n040A0000 00FAAA4C 54000060\n040A0000 00FAAAEC 54000060 040A0000\n00FAAE44 54000060\n040A0000 00FAAF74 54000060\n\n",
+        "[07# Increase Fire Rate]": "[07# Increase Fire Rate]\n040A0000 0100123C 4479C000\n040A0000 00FA151C 1C2FE900\n\n",
+        "[Increase Fire Rate (off)]": "[Increase Fire Rate (off)]\n040A0000 00FA151C 1E212800\n\n",
+        "[08# Skills No Cooldown]": "[08# Skills No Cooldown]\n040A0000 00D832E0 1E204001\n\n",
+        "[Skills No Cooldown (off)]": "[Skills No Cooldown (off)]\n040A0000 00D832E0 1E20CC21\n\n",
+        "[09# max Score]": "[09# max Score]\n040A0000 011A66AC 52A77349\n040A0000 011A66B0 72993FE9\n\n",
+        "[Max Score (off)]": "[Max Score (off)]\n040A0000 011A66AC 2B392129\n040A0000 011A66B0 5A9F3129\n\n",
+        "[10# Edit Upgrade Kits]": "[10# Edit Upgrade Kits]\n040A0000 0109F2C8 52800C68\n\n",
+        "[Edit Upgrade Kits (off)]": "[Edit Upgrade Kits (off)]\n040A0000 0109F2C8 79474D08\n\n",
+        "[11# Max Exp]": "[11# Max Exp]\n040A0000 009BB000 0B08414A\n\n",
+        "[Max Exp (off)]": "[Max Exp (off)]\n040A0000 009BB000 0B08014A\n\n"
     }
 }

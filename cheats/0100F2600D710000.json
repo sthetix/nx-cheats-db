@@ -18,5 +18,17 @@
     "attribution": {
         "Contra Rogue Corps 1.0 and 1.0.1 by optanic.txt": "",
         "CONTRA ROGUE CORPS.txt": "By masagrator\n\nFirst line - highest resolution in handheld (0.9 = 648p)\nSecond line - lowest resolution in handheld (0.5 = 360p)\nThird line - lowest resolution in docked (0.7 = 504p)\nfyi Docked highest res is 1.0 = 720p\n"
+    },
+    "8B5602A415099D59863D64FA7E4589B500000000000000000000000000000000": {
+        "[Infinite Bombs]": "[Infinite Bombs]\n01000000 015E2E20 00000009\n01000000 015E2E30 00000009\n\n",
+        "[Infinite HP 300]": "[Infinite HP 300]\n08000000 015E2E14 43960000 43960000\n\n",
+        "[Infinite Lives]": "[Infinite Lives]\n01000000 015E2E1C 00000009\n01000000 015E2E28 00000009\n\n",
+        "[Orange Money 50000764]": "[Orange Money 50000764]\n08000000 0155E4D0 29640B42 F6C2C31B\n01000000 0155E4D8 00000088\n\n"
+    },
+    "CC28259144A178C091EC78F3DC054B5100000000000000000000000000000000": {
+        "[Infinite Bombs]": "[Infinite Bombs]\n01000000 015E2E20 00000009\n01000000 015E2E30 00000009\n\n",
+        "[Infinite HP 300]": "[Infinite HP 300]\n08000000 015E2E14 43960000 43960000\n\n",
+        "[Infinite Lives]": "[Infinite Lives]\n01000000 015E2E1C 00000009\n01000000 015E2E28 00000009\n\n",
+        "[Orange Money 50000764]": "[Orange Money 50000764]\n08000000 0155E4D0 29640B42 F6C2C31B\n01000000 0155E4D8 00000088\n\n"
     }
 }

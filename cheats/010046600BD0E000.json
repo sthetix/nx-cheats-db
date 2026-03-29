@@ -1,0 +1,14 @@
+{
+    "DC2E82A825E4B747": {
+        "[Energy unlimited]": "[Energy unlimited]\n580F0000 02857D50\n780F1000 000002CC\n640F0000 00000000 0000000A\n\n",
+        "[Weapon 2 unlimited]": "[Weapon 2 unlimited]\n580F0000 02857D50\n780F1000 000002BC\n640F0000 00000000 00000063\n\n",
+        "[Lives unlimited]": "[Lives unlimited]\n580F0000 02857D50\n780F1000 000002C0\n640F0000 00000000 00000063\n\n",
+        "[Weapon 1 unlimited]": "[Weapon 1 unlimited]\n580F0000 02857D50\n780F1000 000002B8\n640F0000 00000000 00000063\n\n"
+    },
+    "DC2E82A825E4B747AE6DA3EF9787715900000000000000000000000000000000": {
+        "[Energy unlimited]": "[Energy unlimited]\n580F0000 02857D50\n780F1000 000002CC\n640F0000 00000000 0000000A\n\n",
+        "[Lives unlimited]": "[Lives unlimited]\n580F0000 02857D50\n780F1000 000002C0\n640F0000 00000000 00000063\n\n",
+        "[Weapon 1 unlimited]": "[Weapon 1 unlimited]\n580F0000 02857D50\n780F1000 000002B8\n640F0000 00000000 00000063\n\n",
+        "[Weapon 2 unlimited]": "[Weapon 2 unlimited]\n580F0000 02857D50\n780F1000 000002BC\n640F0000 00000000 00000063\n\n"
+    }
+}

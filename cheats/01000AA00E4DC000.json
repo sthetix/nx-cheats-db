@@ -6,9 +6,22 @@
         "[our side hp inf ON]": "[our side hp inf ON]\n04000000 00191B38 D65F03C0\n\n",
         "[our side hp inf OFF]": "[our side hp inf OFF]\n04000000 00191B38 B9006101\n\n",
         "[instant win/kill ON]": "[instant win/kill ON]\n04000000 00191B44 B900051F\n\n",
-        "[instant win/kill OFF]": "[instant win/kill OFF]\n04000000 00191B44 B9000501\n\n"
+        "[instant win/kill OFF]": "[instant win/kill OFF]\n04000000 00191B44 B9000501\n\n",
+        "[money 999999]": "[money 999999]\n580F0000 004E0260\n780F0000 000119B8\n640F0000 00000000 000F423F\n\n",
+        "[10 card points,only working in the battele ,press R+L]": "[10 card points,only working in the battele ,press R+L]\n800000C0\n580F0000 004D60B0\n580F1000 00000008\n580F1000 00000018\n780F0000 000000C4\n640F0000 00000000 41200000\n20000000\n\n"
     },
     "attribution": {
         "SteamWorld Quest Hand of Gilgamech by 91wii translated by felonious.txt": "caution\ncan some problems"
+    },
+    "D1E6EA9384C3674BDABDD6FC7C5089142600B62F000000000000000000000000": {
+        "[10 card points,only working in the battele ,press R+L]": "[10 card points,only working in the battele ,press R+L]\n800000C0\n580F0000 004D60B0\n580F1000 00000008\n580F1000 00000018\n780F0000 000000C4\n640F0000 00000000 41200000\n20000000\n\n",
+        "[instant win/kill OFF]": "[instant win/kill OFF]\n04000000 00191B44 B9000501\n\n",
+        "[instant win/kill ON]": "[instant win/kill ON]\n04000000 00191B44 B900051F\n\n",
+        "[item after sell not reduced]": "[item after sell not reduced]\n04000000 00150388 52800014\n04000000 001AA9D0 4B1F014A\n\n",
+        "[material inf]": "[material inf]\n04000000 00151148 52800014\n04000000 001AA9D0 4B1F014A\n\n",
+        "[money 1 mil after spend]": "[money 1 mil after spend]\n04000000 001AA724 52884808\n04000000 001AA728 72A001E8\n\n",
+        "[money 999999]": "[money 999999]\n580F0000 004E0260\n780F0000 000119B8\n640F0000 00000000 000F423F\n\n",
+        "[our side hp inf OFF]": "[our side hp inf OFF]\n04000000 00191B38 B9006101\n\n",
+        "[our side hp inf ON]": "[our side hp inf ON]\n04000000 00191B38 D65F03C0\n\n"
     }
 }

@@ -1,0 +1,18 @@
+{
+    "772010C59B988E26": {
+        "[Invisible]": "[Invisible]\n02100000 008283E6\n00004008 20000000\n\n",
+        "[Lives unlimited]": "[Lives unlimited]\n02100000 00827EE6\n00004008 20000000\n\n"
+    },
+    "98D835A423BDBCFA": {
+        "[Invisible]": "[Invisible]\n02100000 008285E6\n00004008 20000000\n\n",
+        "[Lives unlimited]": "[Lives unlimited]\n02100000 008280E6\n00004008 20000000\n\n"
+    },
+    "772010C59B988E267D2F3CA437C5DF2500000000000000000000000000000000": {
+        "[Invisible]": "[Invisible]\n02100000 008283E6\n00004008 20000000\n\n",
+        "[Lives unlimited]": "[Lives unlimited]\n02100000 00827EE6\n00004008 20000000\n\n"
+    },
+    "98D835A423BDBCFACDAD99EE22E4EC4C00000000000000000000000000000000": {
+        "[Invisible]": "[Invisible]\n02100000 008285E6\n00004008 20000000\n\n",
+        "[Lives unlimited]": "[Lives unlimited]\n02100000 008280E6\n00004008 20000000\n\n"
+    }
+}

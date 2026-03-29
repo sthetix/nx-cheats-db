@@ -7,5 +7,11 @@
     },
     "attribution": {
         "Arcade Archives P.O.W. -PRISONERS OF WAR by ZIT.txt": "Activate the code on the title screen."
+    },
+    "4F61B94412A715BAE156C7825E50D6D987316FE4000000000000000000000000": {
+        "[Inf Ammo]": "[Inf Ammo]\n011F0000 018AF0B8 00000079\n\n",
+        "[Inf Life]": "[Inf Life]\n011F0000 018AF0B7 0000001F\n\n",
+        "[Inf Lives]": "[Inf Lives]\n011F0000 018AF0BA 00000063\n\n",
+        "[Invincible]": "[Invincible]\n011F0000 018AF0D2 000000FF\n\n"
     }
 }

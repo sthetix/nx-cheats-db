@@ -1,7 +1,30 @@
 {
     "8BB29E319CCE6357": {
         "[60 FPS]": "[60 FPS]\n580F0000 010A23D8 \n580F1000 000000A0 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
-        "[30 FPS (Default)]": "[30 FPS (Default)]\n580F0000 010A23D8 \n580F1000 000000A0 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
+        "[30 FPS (Default)]": "[30 FPS (Default)]\n580F0000 010A23D8 \n580F1000 000000A0 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n",
+        "[Money]": "[Money]\n04000000 010512E0 0098967F\n\n",
+        "[Idea points]": "[Idea points]\n04000000 00FDAE50 00016AED\n\n",
+        "[Damage multiply & One Hit KO off]": "[Damage multiply & One Hit KO off]\n04000000 003695C8 4B080128\n\n",
+        "[Hold ZL to One Hit KO]": "[Hold ZL to One Hit KO]\n04000000 003695C8 4B080128\n80000100\n04000000 003695C8 4B080108\n20000000\n\n",
+        "[Hold ZL to damage multiply x8]": "[Hold ZL to damage multiply x8]\n04000000 003695C8 4B080128\n80000100\n04000000 003695C8 4B080D28\n20000000\n\n",
+        "[Milk points]": "[Milk points]\n04000000 010512E4 000026E1\n\n",
+        "[Milk points multiply off]": "[Milk points multiply off]\n04000000 00441B4C 0B000129\n\n",
+        "[Milk points multiply x8]": "[Milk points multiply x8]\n04000000 00441B4C 0B000D29\n\n",
+        "[Infinite stamina off]": "[Infinite stamina off]\n04000000 00442718 0B140268\n\n",
+        "[Infinite stamina]": "[Infinite stamina]\n04000000 00442718 52800C88\n\n",
+        "[Infinite idea points off]": "[Infinite idea points off]\n04000000 0032D0EC 0B000129\n\n",
+        "[Infinite idea points on]": "[Infinite idea points on]\n04000000 0032D0EC 5284E1E9\n\n",
+        "[EXP disabler]": "[EXP disabler]\n04000000 002B3D60 D503201F\n\n",
+        "[EXP multiplier & disabler off]": "[EXP multiplier & disabler off]\n04000000 002B3D60 0B010108\n\n",
+        "[EXP x2]": "[EXP x2]\n04000000 002B3D60 0B010508\n\n",
+        "[EXP x4]": "[EXP x4]\n04000000 002B3D60 0B013908\n\n",
+        "[EXP x8]": "[EXP x8]\n04000000 002B3D60 0B010D08\n\n",
+        "[EXP x16]": "[EXP x16]\n04000000 002B3D60 0B011108\n\n",
+        "[Alchemy EXP multiplier off]": "[Alchemy EXP multiplier off]\n04000000 00127978 0B080148\n\n",
+        "[Alchemy EXP x2]": "[Alchemy EXP x2]\n04000000 00127978 0B080548\n\n",
+        "[Alchemy EXP x4]": "[Alchemy EXP x4]\n04000000 00127978 0B080948\n\n",
+        "[Alchemy EXP x8]": "[Alchemy EXP x8]\n04000000 00127978 0B080D48\n\n",
+        "[Alchemy EXP x16]": "[Alchemy EXP x16]\n04000000 00127978 0B081148\n\n"
     },
     "attribution": {
         "Atelier Firis The Alchemist and the Mysterious Journey DX.txt": "By retole\n\nNeed OC: GPU 768+; CPU  1326+"

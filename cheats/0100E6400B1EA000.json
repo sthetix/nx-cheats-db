@@ -1,0 +1,10 @@
+{
+    "D95BAAADDE3908EF": {
+        "[1p inf health]": "[1p inf health]\n04000000 02760C4C 1E3E1000\n\n",
+        "[1p hit kill]": "[1p hit kill]\n04000000 0276094C 1E27F000\n\n"
+    },
+    "DB01B4FABB2411D15AB98592465B2B0900000000000000000000000000000000": {
+        "[1p hit kill]": "[1p hit kill]\n04000000 0276094C 1E27F000\n\n",
+        "[1p inf health]": "[1p inf health]\n04000000 02760C4C 1E3E1000\n\n"
+    }
+}

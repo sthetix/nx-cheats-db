@@ -22,5 +22,12 @@
         "[P2 Weapon Max only 1 PowerUp]": "[P2 Weapon Max only 1 PowerUp]\n01000000 0055F3B4 00000005\n\n",
         "[P2 Missile Max A,H,M Only 1 PowerUp]": "[P2 Missile Max A,H,M Only 1 PowerUp]\n01000000 0055F3EC 00000003\n\n",
         "[Original Code by \u30cd\u30aa\u2022\u30b0\u30e9\u30f3\u30be\u30f3]": "[Original Code by \u30cd\u30aa\u2022\u30b0\u30e9\u30f3\u30be\u30f3]\n20000000\n\n"
+    },
+    "30BA6F1A40C482578FDDD9933CB72F67C931DBB7000000000000000000000000": {
+        "[bomb 5]": "[bomb 5]\n04000000 0055F370 00000005\n\n",
+        "[bomb no dec]": "[bomb no dec]\n04000000 000A1278 51000508\n04000000 000A1278 51000108\n\n",
+        "[life 5]": "[life 5]\n04000000 0055F2EC 00000005\n\n",
+        "[life no dec]": "[life no dec]\n04000000 0009FF78 51000508\n04000000 0009FF78 51000108\n\n",
+        "[off]": "[off]\n04000000 0009FF78 51000508\n04000000 000A1278 51000508\n\n"
     }
 }

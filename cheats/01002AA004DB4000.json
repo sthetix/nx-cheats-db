@@ -4,5 +4,11 @@
         "[P1 Infinite Lives]": "[P1 Infinite Lives]\n01000000 01336f89 00000009\n\n",
         "[P2 Infinite HP]": "[P2 Infinite HP]\n01000000 01336ff8 000000ff\n\n",
         "[P2 Infinite Lives]": "[P2 Infinite Lives]\n01000000 01337009 00000009\n\n"
+    },
+    "BDEE92E5EC9697C6E148F3348CAFA31300000000000000000000000000000000": {
+        "[P1 Infinite HP]": "[P1 Infinite HP]\n01000000 01336F78\n000000FF\n\n",
+        "[P1 Infinite Lives]": "[P1 Infinite Lives]\n01000000 01336F89 00000009\n\n",
+        "[P2 Infinite HP]": "[P2 Infinite HP]\n01000000 01336FF8 000000FF\n\n",
+        "[P2 Infinite Lives]": "[P2 Infinite Lives]\n01000000 01337009\n00000009\n\n"
     }
 }

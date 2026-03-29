@@ -72,5 +72,15 @@
     },
     "attribution": {
         "Hellblade Senua's Sacrifice.txt": "Included in the text file;\n\n[RRS]\n[Film Grain]\n[CHROM AB]\n[Lens Flare]\n[Adaptive Exposure]\n[View Distance Scale]\n[DOF]\n[Anisotropic Filtering]\n[MSAA]\n[AA]\n[Shadow]\n[Shadow Distance]\n[SSAO]\n[Bloom]\n[Motion Blur]\n[MIN/MAX/Default GFX Quality]\n\nNote;\n\nThe [GFX Quality] Are For;\n\n[Adaptive Exposure]\n[View Distance Scale]\n[DOF]\n[Anisotropic Filtering]\n[MSAA]\n[AA]\n[Shadow]\n[Shadow Distance]\n[SSAO]\n[Bloom]\n\n=====\n\n[RRS] is Render Resolution Scale. For some reason, Dynamic Resolution Function & Min/Max Screen Percentage doesn't exist in the memory. So we can only reach 100% 720p. But RRS should persists the resolution as long as the cheat is active.\n\nSome GFX Codes has no Function/Effect to the Game.\nBy @Hazerou"
+    },
+    "052FCB358955ED48": {
+        "[Master Code]": "[Master Code]\n04000000 02EA0400 B000D5A9\n04000000 02EA0404 F9008128\n04000000 02EA0408 BD40F101\n04000000 02EA040C D65F03C0\n04000000 0024239C 94B17819\n\n",
+        "[Inf HP]": "[Inf HP]\n04000000 02EA0410 B000D5A1\n04000000 02EA0414 F9408021\n04000000 02EA0418 F94416C2\n04000000 02EA041C F100005F\n04000000 02EA0420 54000080\n04000000 02EA0424 EB02003F\n04000000 02EA0428 54000041\n04000000 02EA042C 1E2703E0\n04000000 02EA0430 AA1703E0\n04000000 02EA0434 D65F03C0\n04000000 001D6630 94B32778\n\n",
+        "[Inf HP Disable]": "[Inf HP Disable]\n04000000 001D6630 AA1703E0\n\n"
+    },
+    "052FCB358955ED489217313A058D7A2900000000000000000000000000000000": {
+        "[Inf HP Disable]": "[Inf HP Disable]\n04000000 001D6630 AA1703E0\n\n",
+        "[Inf HP]": "[Inf HP]\n04000000 02EA0410 B000D5A1\n04000000 02EA0414 F9408021\n04000000 02EA0418 F94416C2\n04000000 02EA041C F100005F\n04000000 02EA0420 54000080\n04000000 02EA0424 EB02003F\n04000000 02EA0428 54000041\n04000000 02EA042C 1E2703E0\n04000000 02EA0430 AA1703E0\n04000000 02EA0434 D65F03C0\n04000000 001D6630 94B32778\n\n",
+        "[Master Code]": "[Master Code]\n04000000 02EA0400 B000D5A9\n04000000 02EA0404 F9008128\n04000000 02EA0408 BD40F101\n04000000 02EA040C D65F03C0\n04000000 0024239C 94B17819\n\n"
     }
 }

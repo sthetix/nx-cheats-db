@@ -24,5 +24,27 @@
     "attribution": {
         "MELTY BLOOD, TYPE LUMINA and dsrules v1.0.1 by Eiffel2018.txt": "Note: Better use NOEXES to avoid game lag",
         "MELTY BLOOD TYPE LUMINA ver 1.1.15 by Gamerjin v1.0.4 by dsrules.txt": " Not reccommended to use on SX OS, game becomes super lag after accessed Cheat menu"
+    },
+    "B8030081E944E1002D708F14AF722283888BF986000000000000000000000000": {
+        "[CPU No Magic Circuit Gauge]": "[CPU No Magic Circuit Gauge]\n04000000 092725B8 00000000\n\n",
+        "[CPU No Moon Gauge]": "[CPU No Moon Gauge]\n04000000 09272F14 00000000\n\n",
+        "[Player Infinite HP]": "[Player Infinite HP]\n08000000 0927187C 00002AF8 00002AF8\n\n",
+        "[Player Infinite Magic Gauge]": "[Player Infinite Magic Gauge]\n04000000 09271890 00009C40\n\n",
+        "[Player Infinite Moon Gauge]": "[Player Infinite Moon Gauge]\n04000000 092721EC 00002710\n\n"
+    },
+    "030E8ED4B6ECD104CC5E59CDC2C1A7355DA10D47000000000000000000000000": {
+        "[CPU No Magic Circuit Gague]": "[CPU No Magic Circuit Gague]\n04000000 09262708 00000000\n\n",
+        "[CPU No Moon Gauge]": "[CPU No Moon Gauge]\n04000000 09263054 00000000\n\n",
+        "[Player Infinite HP v104]": "[Player Infinite HP v104]\n08000000 092619E4 00002AF8 00002AF8\n\n",
+        "[Player Infinite Magic Circuit Count]": "[Player Infinite Magic Circuit Count]\n04000000 092619F8 00009C40\n\n",
+        "[Player Infinite Moon Gauge]": "[Player Infinite Moon Gauge]\n04000000 09262344 00002710\n\n"
+    },
+    "46FFD77D1647F1AECA866EA9037B3F1982763176000000000000000000000000": {
+        "[CPU Infinite Magic Circuit Gague]": "[CPU Infinite Magic Circuit Gague]\n04000000 0925B708 00000000\n\n",
+        "[CPU No Moon Gauge]": "[CPU No Moon Gauge]\n04000000 0925C054 00000000\n\n",
+        "[Invincible by Eiffel2018]": "[Invincible by Eiffel2018]\n080E0000 004F7E00 6B1F013F 39402269\n080E0000 004F7E08 4B1A0108 1A9A03FA\n080E0000 004F7E10 D65F03C0 B900D7FA\n040E0000 000E4080 94104F60\n\n",
+        "[Player Infinite HP]": "[Player Infinite HP]\n08000000 0925A9E4 00002AF8 00002AF8\n\n",
+        "[Player Infinite Magic Circuit Count]": "[Player Infinite Magic Circuit Count]\n04000000 0925A9F8 00009C40\n\n",
+        "[PLayer Infinite Moon Gauge]": "[PLayer Infinite Moon Gauge]\n04000000 0925B344 00002710\n\n"
     }
 }

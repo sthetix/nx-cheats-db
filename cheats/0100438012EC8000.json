@@ -87,5 +87,10 @@
     "attribution": {
         "Balan Wonderworld by xtatu.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}",
         "BALAN WONDERWORLD.txt": "Included in the text file;\n\n[Enable / Disable Dynamic Resolution]\n[RRS]\n[Motion Blur]\n[Film Grain]\n[CHROM AB]\n[Lens Flare]\n[Sky Lighting Quality]\n[Adaptive Exposure]\n[View Distance Scale]\n[DOF]\n[Anisotropic Filtering]\n[MSAA]\n[AA]\n[Shadow]\n[Shadow Distance]\n[SSAO]\n[Bloom]\n[MIN/MAX/Default GFX Quality]\n\nNote;\n\nThe [GFX Quality] Are For;\n\n[Adaptive Exposure]\n[View Distance Scale]\n[DOF]\n[Anisotropic Filtering]\n[MSAA]\n[AA]\n[Shadow]\n[Shadow Distance]\n[SSAO]\n[Bloom]\n\n=====\n\n[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.\nPlease use;\nHandheld RRS for Handheld Mode.\nDocked RRS for Docked Mode.\n\nSome GFX Codes has no Function/Effect to the Game.\nBy @Hazerou"
+    },
+    "6B584C5C7CF33FC78D576E4B1E3C056400000000000000000000000000000000": {
+        "[inf jump]": "[inf jump]\n04000000 00AF3BB8 D503201F\n\n",
+        "[L pad on no dead call at fight time]": "[L pad on no dead call at fight time]\n80000040\n04000000 0301BBD0 D65F03C0\n20000000\n\n",
+        "[R pad off no dead call at fight time]": "[R pad off no dead call at fight time]\n80000080\n0400000 0301BBD0 D10243FF\n20000000\n\n"
     }
 }

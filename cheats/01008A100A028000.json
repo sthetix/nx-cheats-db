@@ -1,0 +1,18 @@
+{
+    "280589B597ABE848": {
+        "[MAX Coins - Disable]": "[MAX Coins - Disable]\n04000000 005C932C F9401008\n04000000 005C9330 B9401500\n\n",
+        "[MAX Coins - Enable]": "[MAX Coins - Enable]\n04000000 005C932C 5290D3E0\n04000000 005C9330 72A00020\n\n",
+        "[UNL Health - Disable]": "[UNL Health - Disable]\n04000000 002E3978 B9401800\n\n",
+        "[Freeze Mana - Enable]": "[Freeze Mana - Enable]\n04000000 0051C710 D65F03C0\n\n",
+        "[UNL Health - Enable]": "[UNL Health - Enable]\n04000000 002E3978 D65F03C0\n\n",
+        "[Freeze Mana - Disable]": "[Freeze Mana - Disable]\n04000000 0051C710 FC1D0FE8\n\n"
+    },
+    "280589B597ABE8488FB0506BBDE16DEA00000000000000000000000000000000": {
+        "[Freeze Mana - Disable]": "[Freeze Mana - Disable]\n04000000 0051C710 FC1D0FE8\n\n",
+        "[Freeze Mana - Enable]": "[Freeze Mana - Enable]\n04000000 0051C710 D65F03C0\n\n",
+        "[MAX Coins - Disable]": "[MAX Coins - Disable]\n04000000 005C932C F9401008\n04000000 005C9330 B9401500\n\n",
+        "[MAX Coins - Enable]": "[MAX Coins - Enable]\n04000000 005C932C 5290D3E0\n04000000 005C9330 72A00020\n\n",
+        "[UNL Health - Disable]": "[UNL Health - Disable]\n04000000 002E3978 B9401800\n\n",
+        "[UNL Health - Enable]": "[UNL Health - Enable]\n04000000 002E3978 D65F03C0\n\n"
+    }
+}

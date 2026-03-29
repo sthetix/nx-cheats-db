@@ -1,0 +1,10 @@
+{
+    "BD89832DCE35BD0B": {
+        "[invincible (Hold ZL)]": "[invincible (Hold ZL)]\n040F0000 00B1BC7C 404E0000\n80000100\n040F0000 00B1BC7C 414E0000\n20000000\n\n",
+        "[Inf Lives]": "[Inf Lives]\n040F0000 00B1BBF0 000003E7\n\n"
+    },
+    "BD89832DCE35BD0BECF224F5E189017DD9421AB0000000000000000000000000": {
+        "[Inf Lives]": "[Inf Lives]\n040F0000 00B1BBF0 000003E7\n\n",
+        "[invincible (Hold ZL)]": "[invincible (Hold ZL)]\n040F0000 00B1BC7C 404E0000\n80000100\n040F0000 00B1BC7C 414E0000\n20000000\n\n"
+    }
+}

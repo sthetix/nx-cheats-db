@@ -1,7 +1,18 @@
 {
     "1F4A4708615F76F7": {
         "[60 FPS  (Default)]": "[60 FPS  (Default)]\n580F0000 03264CD0 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
-        "[30 FPS (Game Speed Slow)]": "[30 FPS (Game Speed Slow)]\n580F0000 03264CD0 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
+        "[30 FPS (Game Speed Slow)]": "[30 FPS (Game Speed Slow)]\n580F0000 03264CD0 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n",
+        "[invincible on]": "[invincible on]\n040B0000 005D7454 52800028\n\n",
+        "[invincible off]": "[invincible off]\n040B0000 005D7454 B8686A68\n\n",
+        "[Life not decrease]": "[Life not decrease]\n040B0000 005F16E8 4B1F012A\n040B0000 005F1720 1400000E\n\n",
+        "[Undiminished magic]": "[Undiminished magic]\n040B0000 0087AAE8 1E204020\n\n",
+        "[Halo 8X]": "[Halo 8X]\n040B0000 0087AF94 0B010D29\n\n",
+        "[Halo undiminished]": "[Halo undiminished]\n040B0000 0087AFC0 4B1F0129\n\n",
+        "[infinite jump]": "[infinite jump]\n040B0000 005EFD28 14000007\n040B0000 005EFD7C D503201F\n\n",
+        "[4X combo]": "[4X combo]\n040B0000 00027814 0B080928\n040B0000 00053A6C 0B000914\n\n",
+        "[Unlimited durability of weapons]": "[Unlimited durability of weapons]\n040B0000 002434EC 11000108\n\n",
+        "[Items in the equipment column will not be reduced]": "[Items in the equipment column will not be reduced]\n040B0000 00200EF8 7100010A\n\n",
+        "[Unlimited bullets for shooting games]": "[Unlimited bullets for shooting games]\n040B0000 0089F75C 71000108\n\n"
     },
     "7AE22DDABCE854F5": {
         "[ 1p invelcible mode]": "[ 1p invelcible mode]\n04000000 005D8430 D65F03C0\n\n",
@@ -17,10 +28,41 @@
         "[1p invelcible mode]": "[1p invelcible mode]\n04000000 00020C14 D65F03C0\n\n",
         "[inf jump]": "[inf jump]\n04000000 000312F4 D10543FF\n80000002 04000000 000312F4 D65F03C0\n20000000\n\n",
         "[hitanywhere weapon]": "[hitanywhere weapon]\n04000000 00AFD700 D65F03C0\n\n",
-        "[unlimited Combo]": "[unlimited Combo]\n04000000 00062194 52A01309\n04000000 00062198 7292CFE9\n\n"
+        "[unlimited Combo]": "[unlimited Combo]\n04000000 00062194 52A01309\n04000000 00062198 7292CFE9\n\n",
+        "[Inf Halos]": "[Inf Halos]\n04000000 0320AE64 05F5E0FF\n\n",
+        "[Climax Mode]": "[Climax Mode]\n01000000 031FBF50 00000004\n\n",
+        "[Easy Mode]": "[Easy Mode]\n01000000 031FBF50 00000001\n\n",
+        "[Hard Mode]": "[Hard Mode]\n01000000 031FBF50 00000003\n\n",
+        "[Very Easy Mode]": "[Very Easy Mode]\n01000000 031FBF50 00000000\n\n",
+        "[Inf. Jumps]": "[Inf. Jumps]\n580F0000 010ACBF0\n780F0000 00000C30\n640F0000 00000000\n\n",
+        "[Inf. Magic]": "[Inf. Magic]\n04000000 0320AE5C 44480000\n\n",
+        "[Normal Mode]": "[Normal Mode]\n01000000 031FBF50 00000002\n\n"
     },
     "attribution": {
         "Bayonetta BY XTATU.txt": "?After the 2th person, please add +08 to the following code\n580F1000 00000020",
         "Bayonetta.txt": "By retole\n\nIn Bayonetta 30 FPS code also slow game speed"
+    },
+    "7AE22DDABCE854F51E76ED76A773CDD300000000000000000000000000000000": {
+        "[1p invelcible mode]": "[1p invelcible mode]\n040000000 005D8430 D65F03C0\n\n",
+        "[1p damger 100x]": "[1p damger 100x]\n04000000 005DBE64 52A85909\n\n",
+        "[1p invecible]": "[1p invecible]\n04000000 005D8430 D65F03C0\n\n",
+        "[1p speed 100x]": "[1p speed 100x]\n04000000 005DA4E8 52A85909\n\n",
+        "[1p speed 2x]": "[1p speed 2x]\n04000000 005DA4E8 320203E9\n\n",
+        "[Climax Mode]": "[Climax Mode]\n01000000 031FBF50 00000004\n\n",
+        "[Easy Mode]": "[Easy Mode]\n01000000 031FBF50 00000001\n\n",
+        "[Hard Mode]": "[Hard Mode]\n01000000 031FBF50 00000003\n\n",
+        "[hitanywhere gun shot gun off code]": "[hitanywhere gun shot gun off code]\n04000000 00043264 A9BF7BFD\n\n",
+        "[hitanywhere gun shot gun]": "[hitanywhere gun shot gun]\n04000000 00043264 D65F03C0\n\n",
+        "[hitanywhere gun]": "[hitanywhere gun]\n04000000 00AFD470 D65F03C0\n\n",
+        "[hitanywhere weapon]": "[hitanywhere weapon]\n04000000 00AFD700 D65F03C0\n\n",
+        "[Inf Halos]": "[Inf Halos]\n04000000 0320AE64 05F5E0FF\n\n",
+        "[inf health+protection hit+damger0]": "[inf health+protection hit+damger0]\n04000000 0001D5CC D503201F\n\n",
+        "[inf jump]": "[inf jump]\n04000000 000312F4 D10543FF\n80000002 04000000 000312F4 D65F03C0\n20000000\n\n",
+        "[Inf. Jumps]": "[Inf. Jumps]\n580F0000 010ACBF0\n780F0000 00000C30\n640F0000 00000000\n\n",
+        "[Inf. Magic]": "[Inf. Magic]\n04000000 0320AE5C 44480000\n\n",
+        "[Normal Mode]": "[Normal Mode]\n01000000 031FBF50 00000002\n\n",
+        "[throw anywhere mode]": "[throw anywhere mode]\n04000000 008A8B18 D65F03C0\n\n",
+        "[unlimited Combo]": "[unlimited Combo]\n04000000 00062194 52A01309\n04000000 00062198 7292CFE9\n\n",
+        "[Very Easy Mode]": "[Very Easy Mode]\n01000000 031FBF50 00000000\n\n"
     }
 }

@@ -9,5 +9,25 @@
         "[Player Cross Level 4]": "[Player Cross Level 4]\n01000000 0192EE40 00000004\n\n",
         "[CPU 1 1-Hit Kill]": "[CPU 1 1-Hit Kill]\n580f0000 018581A8\n780f0000 00000BD8\n640f0000 00000000 00000000\n\n",
         "[CPU 2 1-Hit Kill]": "[CPU 2 1-Hit Kill]\n580f0000 018581B8\n780f0000 00000BD8\n640f0000 00000000 00000000\n\n"
+    },
+    "2DE1664F7B114BE5": {
+        "[Inf Coins]": "[Inf Coins]\n04000000 013C6C10\n0098967F\n\n",
+        "[Player 1 Inf HP]": "[Player 1 Inf HP]\n580f0000 018581A0\n780f0000 00000BD8\n640f0000 00000000\n00003E80 780f0000\n00000004 640f0000\n00000000 00003E80\n\n",
+        "[Player 2 Inf HP]": "[Player 2 Inf HP]\n580f0000 018581B0\n780f0000 00000BD8\n640f0000 00000000\n00003E80 780f0000\n00000004640f0000\n00000000 00003E80\n\n",
+        "[Player Inf Skill Gauge]": "[Player Inf Skill Gauge]\n04000000 0192EE08\n0000AFC8 04000000\n0192EE0C 0000AFC8\n\n",
+        "[Player Inf Cross Gauge]": "[Player Inf Cross Gauge]\n04000000 0192EE10\n00002710\n\n",
+        "[Player inf Resonance Blaze]": "[Player inf Resonance Blaze]\n01000000 0192EE30\n00000001\n\n",
+        "[Player Cross Level 4]": "[Player Cross Level 4]\n01000000 0192EE40\n00000004\n\n"
+    },
+    "1AE1F9F6E9756C303BA0C1E70114736100000000000000000000000000000000": {
+        "[CPU 1 1-Hit Kill]": "[CPU 1 1-Hit Kill]\n580F0000 018581A8\n780F0000 00000BD8\n640F0000 00000000 00000000\n\n",
+        "[CPU 2 1-Hit Kill]": "[CPU 2 1-Hit Kill]\n580F0000 018581B8\n780F0000 00000BD8\n640F0000 00000000\n00000000\n\n",
+        "[Inf Coins]": "[Inf Coins]\n04000000 013C6C10\n0098967F\n\n",
+        "[Player 1 Inf HP]": "[Player 1 Inf HP]\n580F0000 018581A0\n780F0000 00000BD8\n640F0000 00000000 00003E80\n780F0000 00000004\n640F0000 00000000 00003E80\n\n",
+        "[Player 2 Inf HP]": "[Player 2 Inf HP]\n580F0000 018581B0\n780F0000 00000BD8\n640F0000 00000000 00003E80\n780F0000 00000004\n640F0000 00000000 00003E80\n\n",
+        "[Player Cross Level 4]": "[Player Cross Level 4]\n01000000 0192EE40 00000004\n\n",
+        "[Player Inf Cross Gauge]": "[Player Inf Cross Gauge]\n04000000 0192EE10\n00002710\n\n",
+        "[Player inf Resonance Blaze]": "[Player inf Resonance Blaze]\n01000000 0192EE30 00000001\n\n",
+        "[Player Inf Skill Gauge]": "[Player Inf Skill Gauge]\n04000000 0192EE08 0000AFC8\n04000000 0192EE0C 0000AFC8\n\n"
     }
 }

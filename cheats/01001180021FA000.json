@@ -4,9 +4,30 @@
         "[Size Up]": "[Size Up]\n580F0000 00b29a68\n780F1000 00000B6C\n640F0000 00000000 40000000\n\n",
         "[Invincible]": "[Invincible]\n580F0000 00b29a68\n780F1000 00000540\n680F0000 3F800000 3F800000\n\n",
         "[ATK Speed]": "[ATK Speed]\n580F0000 00b29a68\n780F0000 00000CB0\n640F0000 00000000 40800000\n\n",
-        "[Moon Jump]": "[Moon Jump]\n80000002\n580F0000 00b29a68\n780F0000 00000E3C\n640F0000 00000000 41D00000\n20000000\n\n"
+        "[Moon Jump]": "[Moon Jump]\n80000002\n580F0000 00b29a68\n780F0000 00000E3C\n640F0000 00000000 41D00000\n20000000\n\n",
+        "[99999 GP]": "[99999 GP]\n04000000 00B37EE4 0001869F\n\n",
+        "[Max HP Upgrade]": "[Max HP Upgrade]\n01000000 00B37ED8 00000006\n\n",
+        "[Best Weapons]": "[Best Weapons]\n01000000 00B37EF8 00000007\n\n",
+        "[Have all Curios]": "[Have all Curios]\n04000000 00B37F04 FFFFE001\n\n",
+        "[All Challenges Completed]": "[All Challenges Completed]\n04000000 00B328B0 007FFFFF\n\n",
+        "[Max Darkness Upgrade]": "[Max Darkness Upgrade]\n01000000 00B37EEC 00000003\n\n",
+        "[Unlock Challenge, Sound Test Mode]": "[Unlock Challenge, Sound Test Mode]\n01000000 00B32880 00000007\n\n"
     },
     "attribution": {
         "Shovel Knight Specter of Torment by ZiT866.txt": "\u203bThe Moon Jump code must return to the title or die."
+    },
+    "5EABC1E307D28486D43B0E5FE0C147C300000000000000000000000000000000": {
+        "[99999 GP]": "[99999 GP]\n04000000 00B37EE4 0001869F\n\n",
+        "[All Challenges Completed]": "[All Challenges Completed]\n04000000 00B328B0 007FFFFF\n\n",
+        "[ATK Speed]": "[ATK Speed]\n580F0000 00B29A68\n780F0000 00000CB0\n640F0000 00000000 40800000\n\n",
+        "[Best Weapons]": "[Best Weapons]\n01000000 00B37EF8 00000007\n\n",
+        "[Have all Curios]": "[Have all Curios]\n04000000 00B37F04 FFFFE001\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 00B29A68\n780F1000 00000540\n680F0000 3F800000 3F800000\n\n",
+        "[Max Darkness Upgrade]": "[Max Darkness Upgrade]\n01000000 00B37EEC 00000003\n\n",
+        "[Max HP Upgrade]": "[Max HP Upgrade]\n01000000 00B37ED8 00000006\n\n",
+        "[Moon Jump]": "[Moon Jump]\n80000002\n580F0000 00B29A68\n780F0000 00000E3C\n640F0000 00000000 41D00000\n20000000\n\n",
+        "[Size Up]": "[Size Up]\n580F0000 00B29A68\n780F1000 00000B6C\n640F0000 00000000 40000000\n\n",
+        "[Speed Up]": "[Speed Up]\n580F0000 00B29A68\n780F1000 00000BF8\n640F0000 00000000 40400000\n\n",
+        "[Unlock Challenge Sound Test Mode]": "[Unlock Challenge Sound Test Mode]\n01000000 00B32880 00000007\n\n"
     }
 }

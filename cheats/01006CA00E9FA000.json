@@ -6,5 +6,12 @@
         "[Inf. Armor]": "[Inf. Armor]\n04000000 0195DB34 D503201F\n\n",
         "[Inf. Ammo]": "[Inf. Ammo]\n04000000 018F1CF8 4B1F0120\n\n",
         "[Credits: crazy_p]": "[Credits: crazy_p]\n00000000 00000000 00000000\n\n"
+    },
+    "643E6D877544B5987F543C658217092D00000000000000000000000000000000": {
+        "[Credits: crazy_p]": "[Credits: crazy_p]\n00000000 00000000 00000000\n\n",
+        "[Inf. Ammo]": "[Inf. Ammo]\n04000000 018F1CF8 4B1F0120\n\n",
+        "[Inf. Armor]": "[Inf. Armor]\n04000000 0195DB34 D503201F\n\n",
+        "[Inf. Health]": "[Inf. Health]\n04000000 0195DB40 D503201F\n\n",
+        "[Moonjump]": "[Moonjump]\n80000002\n04000000 01E0C420 1E221001\n20000000\n\n"
     }
 }

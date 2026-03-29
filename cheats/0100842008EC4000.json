@@ -1,0 +1,21 @@
+{
+    "CDE43AAC8C49C618": {
+        "[mm7 inf hp]": "[mm7 inf hp]\n01000000 052D3468 00000023\n\n",
+        "[mm10 inf hp]": "[mm10 inf hp]\n01000000 0567E358 0000001C\n\n",
+        "[mm9 inf hp]": "[mm9 inf hp]\n01000000 0542EB52 0000001E\n\n",
+        "[mm8 inf hp]": "[mm8 inf hp]\n01000000 0531F92F 00000040\n\n"
+    },
+    "7A0202BA840A6E72": {
+        "[mm7 inf hp]": "[mm7 inf hp]\n01000000 052D4468 0000001C\n\n",
+        "[mm7 Screw 255]": "[mm7 Screw 255]\n01000000 052D4304 000000FF\n\n",
+        "[mm8 inf hp]": "[mm8 inf hp]\n01000000 0532092E 00000040\n\n",
+        "[mm9 inf hp]": "[mm9 inf hp]\n01000000 0542FB52 0000001E\n\n",
+        "[mm10 inf hp]": "[mm10 inf hp]\n01000000 0567F358 0000001C\n\n"
+    },
+    "CDE43AAC8C49C6181DC5C651228EF8B500000000000000000000000000000000": {
+        "[mm10 inf hp]": "[mm10 inf hp]\n01000000 0567E358 0000001C\n\n",
+        "[mm7 inf hp]": "[mm7 inf hp]\n01000000 052D3468 00000023\n\n",
+        "[mm8 inf hp]": "[mm8 inf hp]\n01000000 0531F92F 00000040\n\n",
+        "[mm9 inf hp]": "[mm9 inf hp]\n01000000 0542EB52 0000001E\n\n"
+    }
+}

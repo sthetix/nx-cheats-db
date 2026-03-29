@@ -7,5 +7,33 @@
     },
     "attribution": {
         "AtelierLydieSuelle.txt": ""
+    },
+    "32EB581C7D9BE094": {
+        "[Max Cole]": "[Max Cole]\n04000000 0109F4C0 000F423F\n\n",
+        "[Damage x16 and One Hit KO off]": "[Damage x16 and One Hit KO off]\n04000000 001902B4 4B080128\n\n",
+        "[Hold ZL to One Hit KO]": "[Hold ZL to One Hit KO]\n04000000 001902B4 4B080128\n80000100\n04000000 001902B4 4B080108\n20000000\n\n",
+        "[Hold ZL to damage x16]": "[Hold ZL to damage x16]\n04000000 001902B4 4B080128\n80000100\n04000000 001902B4 4B081128\n20000000\n\n",
+        "[EXP disabler]": "[EXP disabler]\n04000000 001121A0 D503201F\n\n",
+        "[EXP boost and disabler off]": "[EXP boost and disabler off]\n04000000 001121A0 0B010108\n\n",
+        "[EXP boost x2]": "[EXP boost x2]\n04000000 001121A0 0B010508\n\n",
+        "[EXP boost x4]": "[EXP boost x4]\n04000000 001121A0 0B010908\n\n",
+        "[EXP boost x8]": "[EXP boost x8]\n04000000 001121A0 0B010D08\n\n",
+        "[EXP boost x16]": "[EXP boost x16]\n04000000 001121A0 0B011108\n\n",
+        "[Alchemy EXP boost off]": "[Alchemy EXP boost off]\n04000000 003D96B0 0B0B014A\n\n",
+        "[Alchemy EXP x2]": "[Alchemy EXP x2]\n04000000 003D96B0 0B0B054A\n\n",
+        "[Alchemy EXP x4]": "[Alchemy EXP x4]\n04000000 003D96B0 0B0B094A\n\n",
+        "[Alchemy EXP x8]": "[Alchemy EXP x8]\n04000000 003D96B0 0B0B0D4A\n\n",
+        "[Alchemy EXP x16]": "[Alchemy EXP x16]\n04000000 003D96B0 0B0B114A\n\n",
+        "[Cole multiplier off]": "[Cole multiplier off]\n04000000 00487870 0B130129\n\n",
+        "[Cole x2]": "[Cole x2]\n04000000 00487870 0B130529\n\n",
+        "[Cole x4]": "[Cole x4]\n04000000 00487870 0B130929\n\n",
+        "[Cole x8]": "[Cole x8]\n04000000 00487870 0B130D29\n\n",
+        "[Cole x16]": "[Cole x16]\n04000000 00487870 0B131129\n\n"
+    },
+    "4D266D1AD3E90E7449031FAC23CFBED800000000000000000000000000000000": {
+        "[Unlimited Money 1.0.4 version]": "[Unlimited Money 1.0.4 version]\n04000000 01402980 0098967F\n\n"
+    },
+    "BDDCDA1760494F3597950F1B9639829500000000000000000000000000000000": {
+        "[Infinite Money]": "[Infinite Money]\n04000000 013B29A0 0098967F\n\n"
     }
 }

@@ -4,6 +4,15 @@
         "[P1 Infinite Super]": "[P1 Infinite Super]\n01000000 012a18BA 00000005\n\n",
         "[P2 NO HP]": "[P2 NO HP]\n04000000 012a1A10 00000000\n\n",
         "[P2 NO Super]": "[P2 NO Super]\n01000000 012A1ABA 00000000\n\n",
-        "[hitanywhere]": "[hitanywhere]\n04000000 0067B02660 600208F8\n\n"
+        "[hitanywhere]": "[hitanywhere]\n04000000 0067B02660 600208F8\n\n",
+        "[hitanywhre]": "[hitanywhre]\n580F0000 012A9EB8\n780F0000 00002660\n640F0000 00000000 600208F8\n\n"
+    },
+    "2FDA10318A75886A119F3DFCF163A6D500000000000000000000000000000000": {
+        "[hitanywhere]": "[hitanywhere]\n00000000 0067B02660 600208F8\n\n",
+        "[hitanywhre]": "[hitanywhre]\n580F0000 012A9EB8\n780F0000 00002660\n640F0000 00000000 600208F8\n\n",
+        "[P1 Infinite HP]": "[P1 Infinite HP]\n04000000 012A1810\n00000066\n\n",
+        "[P1 Infinite Super]": "[P1 Infinite Super]\n01000000 012A18BA\n00000005\n\n",
+        "[P2 NO HP]": "[P2 NO HP]\n04000000 012A1A10\n00000000\n\n",
+        "[P2 NO Super]": "[P2 NO Super]\n01000000 012A1ABA\n00000000\n\n"
     }
 }

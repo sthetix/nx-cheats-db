@@ -6,5 +6,18 @@
         "[Ammo Inf]": "[Ammo Inf]\n04000000 014AF084 52800033\n\n",
         "[Ammo Inf Off]": "[Ammo Inf Off]\n04000000 014AF084 4B150273\n\n",
         "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
+    },
+    "9032E325A28CAEF0": {
+        "[HP Inf]": "[HP Inf]\n04000000 01567B74 52800C97\n\n",
+        "[HP Inf Off]": "[HP Inf Off]\n04000000 01567B74 0B140117\n\n",
+        "[Ammo Inf]": "[Ammo Inf]\n04000000 014E86F4 52800033\n\n",
+        "[Ammo Inf Off]": "[Ammo Inf Off]\n04000000 014E86F4 4B150273\n\n"
+    },
+    "E65F2D1C5F2391546E6FF2D356E0485400000000000000000000000000000000": {
+        "[Ammo Inf Off]": "[Ammo Inf Off]\n04000000 014AF084 4B150273\n\n",
+        "[Ammo Inf]": "[Ammo Inf]\n04000000 014AF084 52800033\n\n",
+        "[HP Inf Off]": "[HP Inf Off]\n04000000 014DD184 0B140117\n\n",
+        "[HP Inf]": "[HP Inf]\n04000000 014DD184 52800C97\n\n",
+        "[Made by jhmiller]": "[Made by jhmiller]\n00000000 00000000 00000000\n\n"
     }
 }

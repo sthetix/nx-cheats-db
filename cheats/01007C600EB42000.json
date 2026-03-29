@@ -3,9 +3,24 @@
         "[Invincible]": "[Invincible]\n010E0000 01A1A8EE 00000088\n\n",
         "[Unlimited Energy]": "[Unlimited Energy]\n010E0000 01A1AF5A 0000001F\n\n",
         "[Max UC Money]": "[Max UC Money]\n010E0000 01BE74F0 00000008\n\n",
-        "[Instant Kill (Not Suggest)]": "[Instant Kill (Not Suggest)]\n010E0000 019561D0 0000001F\n\n"
+        "[Instant Kill (Not Suggest)]": "[Instant Kill (Not Suggest)]\n010E0000 019561D0 0000001F\n\n",
+        "[Max WESN]": "[Max WESN]\n010E0000 01BE7560 00000008\n010E0000 01BE7574 00000008\n\n"
     },
     "attribution": {
         "No More Heroes 3 v1.0.1 (v65536) Created by Eiffel2018.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    },
+    "8F55F6F72C9E9F4E": {
+        "[Invincible]": "[Invincible]\n010E0000 01A1A8EE 00000088\n\n",
+        "[Unlimited Energy]": "[Unlimited Energy]\n010E0000 01A1AF5A 0000001F\n\n",
+        "[Max UC Money]": "[Max UC Money]\n010E0000 01BE74F0 00000008\n\n",
+        "[Max WESN]": "[Max WESN]\n010E0000 01BE7560 00000008\n010E0000 01BE7574 00000008\n\n",
+        "[Instant Kill (Not Suggest)]": "[Instant Kill (Not Suggest)]\n010E0000 019561D0 0000001F\n\n"
+    },
+    "C3AF706F3F7844EA042FFE9686A4602500000000000000000000000000000000": {
+        "[Instant Kill (Not Suggest)]": "[Instant Kill (Not Suggest)]\n010E0000 019561D0 0000001F\n\n",
+        "[Invincible]": "[Invincible]\n010E0000 01A1A8EE 00000088\n\n",
+        "[Max UC Money]": "[Max UC Money]\n010E0000 01BE74F0 00000008\n\n",
+        "[Max WESN]": "[Max WESN]\n010E0000 01BE7560 00000008\n010E0000 01BE7574 00000008\n\n",
+        "[Unlimited Energy]": "[Unlimited Energy]\n010E0000 01A1AF5A 0000001F\n\n"
     }
 }

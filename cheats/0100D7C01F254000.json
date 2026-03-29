@@ -20,6 +20,12 @@
         "[15# No restrictions on equipment class or gender]": "[15# No restrictions on equipment class or gender]\n040A0000 0094C4D4 52800020\n040A0000 0094C4D8 D65F03C0\n\n",
         "[16# No level limit when changing jobs]": "[16# No level limit when changing jobs]\n040A0000 00D74558 D503201F\n\n",
         "[17# Can change jobs to Hero]": "[17# Can change jobs to Hero]\n040A0000 00D743B4 14000004\n\n",
-        "[18# Character movement speed x2.0]": "[18# Character movement speed x2.0]\n040A0000 04695FCC BC686A6B\n040A0000 04695FD0 1C00006D\n040A0000 04695FD4 1E2D096B\n040A0000 04695FD8 1706DFA7\n040A0000 04695FDC 40000000\n040A0000 0084DE70 14F92057\n\n"
+        "[18# Character movement speed x2.0]": "[18# Character movement speed x2.0]\n040A0000 04695FCC BC686A6B\n040A0000 04695FD0 1C00006D\n040A0000 04695FD4 1E2D096B\n040A0000 04695FD8 1706DFA7\n040A0000 04695FDC 40000000\n040A0000 0084DE70 14F92057\n\n",
+        "[RESTORE CODE]": "[RESTORE CODE]\n04000000 007417B0 B901A408\n04000000 007417CC B901AC08\n\n",
+        "[Items Don't Decrease when (ZL) is held]": "[Items Don't Decrease when (ZL) is held]\n04000000 009781AC B9000109\n80000100\n04000000 009781AC D503201F\n20000000\n\n",
+        "[Max Gold]": "[Max Gold]\n580F0000 057E45F8\n580F1000 000005A8\n580F1000 00000020\n780F0000 00000038\n640F0000 00000108 000F423F\n\n",
+        "[HP Doesn't Decrease (Hold (ZR) to damage enemies)]": "[HP Doesn't Decrease (Hold (ZR) to damage enemies)]\n04000000 007417B0 D503201F\n80000200\n04000000 007417B0 B901A408\n20000000\n\n",
+        "[MP Doesn't Decrease]": "[MP Doesn't Decrease]\n04000000 007417CC D503201F\n\n",
+        "[Speed Up (Press B)]": "[Speed Up (Press B)]\n80000002\n580F0000 064A03C0\n580F1000 00000000\n580F1000 00000020\n780F0000 00000098\n640F0000 00000000 40400000\n20000000\n\n"
     }
 }

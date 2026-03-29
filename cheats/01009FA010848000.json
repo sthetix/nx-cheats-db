@@ -6,5 +6,10 @@
     },
     "attribution": {
         "Rogue Heroes by Gamerjin.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}"
+    },
+    "A066C2C4CA84AFA4442EE65B5784E1B96BB72FF4000000000000000000000000": {
+        "[flying duration(witch or Pirate special ability)]": "[flying duration(witch or Pirate special ability)]\n80000002\n04100000 758B8954 44A28000\n20000000\n\n",
+        "[Inf Class Ability usage(aka no cooldown)]": "[Inf Class Ability usage(aka no cooldown)]\n04100000 758B8A68 00000000\n\n",
+        "[invinicble]": "[invinicble]\n04100000 758B8D14 447A0000\n\n"
     }
 }

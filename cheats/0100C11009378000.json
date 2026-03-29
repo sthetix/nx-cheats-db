@@ -1,0 +1,16 @@
+{
+    "13197CCF3745E1C5": {
+        "[99999999 exp]": "[99999999 exp]\n04000000 00E90168 3B9AC9FF\n\n",
+        "[20cp]": "[20cp]\n01000000 00FDFF34 00000014\n\n",
+        "[kai(infinite ammo,operate,hp)test]": "[kai(infinite ammo,operate,hp)test]\n01000000 00FE0209 00000000\n02000000 00FE00FC 00000100\n01000000 00FE01B1 00000001\n\n",
+        "[AP(active point) 99999999]": "[AP(active point) 99999999]\n04000000 00E9016C 3B9AC9FF\n\n",
+        "[99999999 money]": "[99999999 money]\n04000000 01027FEC 3B9AC9FF\n\n"
+    },
+    "13197CCF3745E1C5AFEF8383187708E200000000000000000000000000000000": {
+        "[20cp]": "[20cp]\n01000000 00FDFF34 00000014\n\n",
+        "[99999999 exp]": "[99999999 exp]\n04000000 00E90168 3B9AC9FF\n\n",
+        "[99999999 money]": "[99999999 money]\n04000000 01027FEC 3B9AC9FF\n\n",
+        "[AP(active point) 99999999]": "[AP(active point) 99999999]\n04000000 00E9016C 3B9AC9FF\n\n",
+        "[kai(infinite ammo,operate,hp)test]": "[kai(infinite ammo,operate,hp)test]\n01000000 00FE0209 00000000\n02000000 00FE00FC 00000100\n01000000 00FE01B1 00000001\n\n"
+    }
+}

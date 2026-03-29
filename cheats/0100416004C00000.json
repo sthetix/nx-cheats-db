@@ -7,9 +7,27 @@
         "[noFiringSpread]": "[noFiringSpread]\n04000000 073BB4A8 00000001\n\n",
         "[noWeaponDrift]": "[noWeaponDrift]\n04000000 073BB530 00000001\n\n",
         "[alwaysAllowDoubleJump]": "[alwaysAllowDoubleJump]\n04000000 073A8558 00000001\n\n",
-        "[pallowInfiniteDoubleJumps]": "[pallowInfiniteDoubleJumps]\n04000000 072A2428 00000001\n\n"
+        "[pallowInfiniteDoubleJumps]": "[pallowInfiniteDoubleJumps]\n04000000 072A2428 00000001\n\n",
+        "[g_permaGodMode]": "[g_permaGodMode]\n04000000 0739B9D8 00000001\n\n",
+        "[g_infiniteAmmo]": "[g_infiniteAmmo]\n04000000 073BB310 00000001\n\n",
+        "[g_infiniteClips]": "[g_infiniteClips]\n04000000 073BB398 00000001\n\n",
+        "[g_infiniteThrowItems]": "[g_infiniteThrowItems]\n04000000 073BB420 00000001\n\n",
+        "[g_noFiringSpread]": "[g_noFiringSpread]\n04000000 073BB4A8 00000001\n\n",
+        "[g_noWeaponDrift]": "[g_noWeaponDrift]\n04000000 073BB530 00000001\n\n",
+        "[pm_alwaysAllowDoubleJump]": "[pm_alwaysAllowDoubleJump]\n04000000 073A8558 00000001\n\n",
+        "[pm_allowInfiniteDoubleJumps]": "[pm_allowInfiniteDoubleJumps]\n04000000 072A2428 00000001\n\n"
     },
     "attribution": {
         "Doom 2016 by smoker1.txt": "caution\ncan some problems"
+    },
+    "01ACE43E724259C3772742BC7598EE2B00000000000000000000000000000000": {
+        "[g_infiniteAmmo]": "[g_infiniteAmmo]\n04000000 073BB310 00000001\n\n",
+        "[g_infiniteClips]": "[g_infiniteClips]\n04000000 073BB398 00000001\n\n",
+        "[g_infiniteThrowItems]": "[g_infiniteThrowItems]\n04000000 073BB420 00000001\n\n",
+        "[g_noFiringSpread]": "[g_noFiringSpread]\n04000000 073BB4A8 00000001\n\n",
+        "[g_noWeaponDrift]": "[g_noWeaponDrift]\n04000000 073BB530 00000001\n\n",
+        "[g_permaGodMode]": "[g_permaGodMode]\n04000000 0739B9D8 00000001\n\n",
+        "[pm_allowInfiniteDoubleJumps]": "[pm_allowInfiniteDoubleJumps]\n04000000 072A2428 00000001\n\n",
+        "[pm_alwaysAllowDoubleJump]": "[pm_alwaysAllowDoubleJump]\n04000000 073A8558 00000001\n\n"
     }
 }

@@ -1,7 +1,22 @@
 {
     "9C95108FD8F7464A": {
         "[60 FPS]": "[60 FPS]\n580F0000 013E5940 \n580F1000 00000008 \n580F1000 00003C68 \n580F1000 00000018 \n780F0000 00000F24 \n640F0000 00000000 00000001\n\n",
-        "[30 FPS (Default)]": "[30 FPS (Default)]\n580F0000 013E5940 \n580F1000 00000008 \n580F1000 00003C68 \n580F1000 00000018 \n780F0000 00000F24 \n640F0000 00000000 00000002\n\n"
+        "[30 FPS (Default)]": "[30 FPS (Default)]\n580F0000 013E5940 \n580F1000 00000008 \n580F1000 00003C68 \n580F1000 00000018 \n780F0000 00000F24 \n640F0000 00000000 00000002\n\n",
+        "[Max Cole]": "[Max Cole]\n04000000 013BED20 0098967F\n\n",
+        "[ZL hold One Hit KO]": "[ZL hold One Hit KO]\n04000000 0037DCDC 0B080128\n80000100\n04000000 0037DCDC 4B080108\n20000000\n\n",
+        "[ZL hold damage mod x8]": "[ZL hold damage mod x8]\n04000000 0037DCDC 0B080128\n80000100\n04000000 0037DCDC 4B081D28\n20000000\n\n",
+        "[ZL hold damage mod x16]": "[ZL hold damage mod x16]\n04000000 0037DCDC 4B080128\n80000100\n04000000 0037DCDC 4B081128\n20000000\n\n",
+        "[Damage mod & One Hit KO off]": "[Damage mod & One Hit KO off]\n04000000 0037DCDC 4B080128\n\n",
+        "[9999 vouchers]": "[9999 vouchers]\n04000000 013CDBC8 0000270F\n\n",
+        "[Cole x16 off]": "[Cole x16 off]\n04000000 0049EA6C 0B13010A\n\n",
+        "[Cole x16 on]": "[Cole x16 on]\n04000000 0049EA6C 0B13110A\n\n",
+        "[Alchemy EXP boost off]": "[Alchemy EXP boost off]\n04000000 00299EE0 0B09016B\n\n",
+        "[Alchemy EXP boost x8]": "[Alchemy EXP boost x8]\n04000000 00299EE0 0B090D6B\n\n",
+        "[EXP boost and disabler off]": "[EXP boost and disabler off]\n04000000 002AC8F0 0B010108\n\n",
+        "[EXP boost x2]": "[EXP boost x2]\n04000000 002AC8F0 0B010508\n\n",
+        "[EXP boost x4]": "[EXP boost x4]\n04000000 002AC8F0 0B010908\n\n",
+        "[EXP boost x8]": "[EXP boost x8]\n04000000 002AC8F0 0B010D08\n\n",
+        "[EXP gain disabler]": "[EXP gain disabler]\n04000000 002AC8F0 D503201F\n\n"
     },
     "attribution": {
         "Atelier Sophie: The Alchemist of the Mysterious Book DX.txt": "v1.0.3 by sds\n"

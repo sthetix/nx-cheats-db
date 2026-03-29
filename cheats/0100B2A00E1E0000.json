@@ -33,5 +33,19 @@
         "Super Monkey Ball Banana Blitz HD ver1.0 by merlin555.txt": "",
         "Super Monkey Ball Banana Blitz  V 1.0.0 and 1.0.1 by merlin555.txt": "",
         "Super Monkey Ball Banana Blitz HD.txt": "By ChanseyIsTheBest\nMUST ACTIVATE RESOLUTION CHEAT OF YOUR CHOICE BEFORE BOOTING THE GAME FOR IT TO TAKE PROPER EFFECT aka toogles.txt\nSwitching between Docked and Handheld causes issues\n"
+    },
+    "82BCE946568DD0418805A28247D03E9500000000000000000000000000000000": {
+        "[Baby Robo Enable]": "[Baby Robo Enable]\n04000000 00774CF0 52800020\n04000000 00774CF4 D65F03C0\n\n",
+        "[Lives unlimited]": "[Lives unlimited]\n04000000 003DCE60 52800C60\n\n",
+        "[Sonic Enable]": "[Sonic Enable]\n04000000 00774C40 52800020\n04000000 00774C44 D65F03C0\n\n",
+        "[Time Freeze OFF]": "[Time Freeze OFF]\n04000000 003DCCB0 BD401800\n\n",
+        "[Time Freeze ON]": "[Time Freeze ON]\n04000000 003DCCB0 1C000040\n04000000 003DCCB8 42700000\n04000000 0025EB20 D65F03C0\n\n"
+    },
+    "5814A3099A30B54AAB1103895B6C1CA700000000000000000000000000000000": {
+        "[Baby Robo Enable]": "[Baby Robo Enable]\n04000000 00774CF0 52800020\n04000000 00774CF4 D65F03C0\n\n",
+        "[Lives unlimited]": "[Lives unlimited]\n04000000 003DCE60 52800C60\n\n",
+        "[Sonic Enable]": "[Sonic Enable]\n04000000 00774C40 52800020\n04000000 00774C44 D65F03C0\n\n",
+        "[Time Freeze OFF]": "[Time Freeze OFF]\n04000000 003DCCB0 BD401800\n\n",
+        "[Time Freeze ON]": "[Time Freeze ON]\n04000000 003DCCB0 1C000040\n04000000 003DCCB8 42700000\n04000000 0025EB20 D65F03C0\n\n"
     }
 }

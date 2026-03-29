@@ -353,7 +353,12 @@
         "[Suffolk Wool+]": "[Suffolk Wool+]\n640C0000 00000000 0001B1A0\n\n",
         "[Wool]": "[Wool]\n640C0000 00000000 0001B198\n\n",
         "[Wool+]": "[Wool+]\n640C0000 00000000 0001B19F\n\n",
-        "[{Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555}]": "[{Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555}]\n20000000\n\n"
+        "[{Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555}]": "[{Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555}]\n20000000\n\n",
+        "[/!\\  Master Item Slot 1 Row 2  /!\\]": "[/!\\  Master Item Slot 1 Row 2  /!\\]\n580D0000 0465AD10\n580D1000 000000B8\n580D1000 00000000\n580D1000 00000028\n580D1000 00000010\n580D1000 00000018\n580D1000 000000F0\n780D0000 00000014\n640D0000 00000000 00000001\n580C0000 0465AD10\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000018\n580C1000 000000F0\n780C0000 00000010\n\n",
+        "[Black Pansy]": "[Black Pansy]\n640C0000 00000000 00019A2C\n\n",
+        "[Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555]": "[Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555]\n20000000\n\n",
+        "[Golden Peach]": "[Golden Peach]\n640C0000 00000000 00019E1C\n\n",
+        "[Olive]": "[Olive]\n640C0000 00000000 00019E20\n\n"
     },
     "A4095ADD59310847": {
         "[Row 3 Slot 5 999]": "[Row 3 Slot 5 999]\n58060000 04671B88\n58061000 000000B8\n58061000 00000000\n58061000 00000028\n58061000 00000010\n58061000 00000018\n58061000 00000210\n78060000 00000014\n64060000 00000000 000003E7\n\n",

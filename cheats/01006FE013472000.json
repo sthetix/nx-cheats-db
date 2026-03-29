@@ -25,5 +25,16 @@
         "[- Misc. -]": "[- Misc. -]\n20000000\n\n",
         "[Inf. Coins]": "[Inf. Coins]\n580C0000 01608760\n580C1000 000008B8\n580C1000 00000328\n580C1000 00000030\n780C0000 00000010\n640C0000 00000000 0001869F\n\n",
         "[Credits: crazy_p]": "[Credits: crazy_p]\n00000000 00000000 00000000\n\n"
+    },
+    "0849177680386645": {
+        "[Inf Coins in Village]": "[Inf Coins in Village]\n021F0000 BFB3A070 0001869F\n\n",
+        "[Inf Coins Upper Left Player]": "[Inf Coins Upper Left Player]\n021F0000 BFB3AD1C 000003E7\n\n",
+        "[0 Coins Upper Left Player]": "[0 Coins Upper Left Player]\n021F0000 BFB3AD1C 00000000\n\n",
+        "[Inf Coins Upper Right Player]": "[Inf Coins Upper Right Player]\n021F0000 BFB3AD2E 000003E7\n\n",
+        "[0 Coins Upper Right Player]": "[0 Coins Upper Right Player]\n021F0000 BFB3AD2E 00000000\n\n",
+        "[Inf Coins Bottom Left Player]": "[Inf Coins Bottom Left Player]\n021F0000 BFB3AD40 000003E7\n\n",
+        "[0 Coin Bottom Left Player]": "[0 Coin Bottom Left Player]\n021F0000 BFB3AD40 00000000\n\n",
+        "[Inf Coins Bottom Right Player]": "[Inf Coins Bottom Right Player]\n021F0000 BFB3AD52 000003E7\n\n",
+        "[0 Coins Bottom Right Player]": "[0 Coins Bottom Right Player]\n021F0000 BFB3AD52 00000000\n\n"
     }
 }

@@ -201,5 +201,14 @@
     "attribution": {
         "HOT WHEELS UNLEASHED v1.0.2 (v131072) by Eiffel2018 and Patjenova and Tomswitch.txt": "[For EXP rate: 05,09,0D,12,15,19,1D,etc can be used]\n[Created by Eiffel2018]",
         "HOT WHEELS UNLEASHED.txt": "By Hazerou, JotaGBA\nHOT WHEELS UNLEASHED 1.0.13 by halop\n\nIncluded in the text file;\n\n[Enable / Disable Dynamic Resolution]\n[RRS]\n[Image Sharpening]\n[Vignette]\n[Motion Blur]\n[Film Grain]\n[CHROM AB]\n[Lens Flare]\n[Sky Lighting Quality]\n[Adaptive Exposure]\n[View Distance Scale]\n[DOF]\n[Anisotropic Filtering]\n[MSAA]\n[AA]\n[Shadow]\n[Shadow Distance]\n[SSAO]\n[Bloom]\n[MIN/MAX/Default GFX Quality]\n\nNote;\n\nSome GFX Codes has no Function/ Effect to the Game.\n\nChanging the [AA] in Dock Mode Crashes the Game.\n\nThe [GFX Quality (For Handheld Mode only)] Are For;\n\n[Adaptive Exposure]\n[View Distance Scale]\n[DOF]\n[Anisotropic Filtering]\n[MSAA]\n[AA]\n[Shadow]\n[Shadow Distance]\n[SSAO]\n[Bloom]\n\n\nThe [GFX Quality (For Dock Mode only)] Are For;\n\n[Adaptive Exposure]\n[View Distance Scale]\n[DOF]\n[Anisotropic Filtering]\n[MSAA]\n[Shadow]\n[Shadow Distance]\n[SSAO]\n[Bloom]\n\n=====\n\n[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.\nPlease use;\nHandheld RRS for Handheld Mode.\nDocked RRS for Docked Mode.\n\nSome GFX Codes has no Function/Effect to the Game.\n=====\n\nDynamic Resolution if Enabled;\n\nHandheld RRS : 50% (360p) <-> 80% (576p)\n\nDocked RRS : 80% (864p) <-> 100% (1080p)\n"
+    },
+    "E8EDED95565F2F990648791B59F8C0BE00000000000000000000000000000000": {
+        "[A Nitro normal]": "[A Nitro normal]\n80000001\n04000000 00AD8314 BD412C02\n20000000\n\n",
+        "[coins 2M]": "[coins 2M]\n580F0000 095A5C88\n580F1000 000000E8\n580F1000 00000050\n580F1000 00000028\n580F1000 00000290\n780F0000 00000140\n640F0000 00000000 004C4B40\n\n",
+        "[Gear Hack (10x obtain & no decrease)]": "[Gear Hack (10x obtain & no decrease)]\n080E0000 050B4E20 1B137C33 52800153\n080E0000 050B4E28 1A9FA261 7100003F\n080E0000 050B4E30 D65F03C0 2A0103F3\n040E0000 018E5578 94DF3E2A\n\n",
+        "[gears 1000]": "[gears 1000]\n580F0000 095A5C88\n580F1000 000000E8\n580F1000 00000050\n580F1000 00000028\n580F1000 00000290\n780F0000 00000144\n640F0000 00000000 000003E8\n\n",
+        "[Inf Nitro by Patjenova]": "[Inf Nitro by Patjenova]\n040A0000 00AD8314 BD412C02\n\n",
+        "[Money Hack (20x obtain & no decrease)]": "[Money Hack (20x obtain & no decrease)]\n080E0000 050B4E00 1B147C34 52800294\n080E0000 050B4E08 1A9FA281 7100003F\n080E0000 050B4E10 D65F03C0 2A0103F4\n040E0000 018C61A8 94DFBB16\n\n",
+        "[X Nitro=15]": "[X Nitro=15]\n80000004\n040A0000 00AD8314 1E25D002\n20000000\n\n"
     }
 }

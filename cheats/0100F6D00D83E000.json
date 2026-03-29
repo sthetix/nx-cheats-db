@@ -5,5 +5,13 @@
     },
     "attribution": {
         "SteamWorldQuest.txt": ""
+    },
+    "D1E6EA9384C3674B": {
+        "[money 999999]": "[money 999999]\n580F0000 004E0260\n780F0000 000119B8\n640F0000 00000000 000F423F\n\n",
+        "[10 card points,only working in the battele ,press R+L]": "[10 card points,only working in the battele ,press R+L]\n800000C0\n580F0000 004D60B0\n580F1000 00000008\n580F1000 00000018\n780F0000 000000C4\n640F0000 00000000 41200000\n20000000\n\n"
+    },
+    "A3179FEF845709238B47109E5CEE0D4500000000000000000000000000000000": {
+        "[999999 Infinite Coins]": "[999999 Infinite Coins]\n04100000 009429D0 000F423F\n\n",
+        "[Armily 9999 Hp]": "[Armily 9999 Hp]\n04100000 85355A20 0000270F\n\n"
     }
 }

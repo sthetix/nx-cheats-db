@@ -1,5 +1,17 @@
 {
     "attribution": {
         "ExZeus Collection v1.0 by Eiffel2018.txt": "[For EXP rate: 05,09,0D,12,15,19,1D,etc can be used]\n[Created by Eiffel2018]"
+    },
+    "1394940F0A5B44": {
+        "[Inf. Lock Energy (For Missile) / ExZeus 2]": "[Inf. Lock Energy (For Missile) / ExZeus 2]\n040E0000 0173BDB0 51000149\n040E0000 0173B0FC 51000149\n\n",
+        "[Inf. Shield / ExZeus 2]": "[Inf. Shield / ExZeus 2]\n040E0000 0167E000 4B1F0148\n\n",
+        "[Inf. Shield / ExZeus 1]": "[Inf. Shield / ExZeus 1]\n040E0000 022B00B8 4B1F0108\n040E0000 022AFDF0 5400164A\n\n",
+        "[Inf. Lock Energy (For Missile) / ExZeus 1]": "[Inf. Lock Energy (For Missile) / ExZeus 1]\n040E0000 02227680 51000129\n\n",
+        "[Inf. Gold / ExZeus 1]": "[Inf. Gold / ExZeus 1]\n040E0000 02284920 4B1F0288\n\n",
+        "[Inf. Energy (HP) / ExZeus 1]": "[Inf. Energy (HP) / ExZeus 1]\n040E0000 022B01D4 1E204001\n\n",
+        "[Inf. Gold / ExZeus 2]": "[Inf. Gold / ExZeus 2]\n040E0000 0137EB50 4B1F0129\n\n",
+        "[Inf. Bomb / ExZeus 1]": "[Inf. Bomb / ExZeus 1]\n040E0000 022B3DA8 71000108\n040E0000 022B6720 71000108\n\n",
+        "[Inf. Energy (HP) / ExZeus 2]": "[Inf. Energy (HP) / ExZeus 2]\n040E0000 01672174 4B1F0129\n\n",
+        "[Inf. Bomb / ExZeus 2]": "[Inf. Bomb / ExZeus 2]\n040E0000 0167A628 51000129\n\n"
     }
 }

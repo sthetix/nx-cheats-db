@@ -1,9 +1,17 @@
 {
     "0D63B368B4161CAC": {
         "[inf hp]": "[inf hp]\n580F0000 00E2B390\n780F0000 000A5964\n640F0000 00000000 43CF0000\n\n",
-        "[inf special]": "[inf special]\n580F0000 00E2B760\n780F1000 00000040\n640F0000 00000000 000186A0\n\n"
+        "[inf special]": "[inf special]\n580F0000 00E2B760\n780F1000 00000040\n640F0000 00000000 000186A0\n\n",
+        "[Max Money]": "[Max Money]\n041F0000 195D35D4 0098967F\n\n",
+        "[Max Gems]": "[Max Gems]\n041F0000 195D5212 0000270F\n041F0000 1BEBDC04 0000270F\n\n"
     },
     "attribution": {
         "dynasty warriors 8 xtreme legends definitive edition ver 1.0.0.txt": "caution\ncan some problems"
+    },
+    "0D63B368B4161CACAE0ADDD6D9468FAD00000000000000000000000000000000": {
+        "[inf hp]": "[inf hp]\n580F0000 00E2B390\n780F0000 000A5964\n640F0000 00000000 43CF0000\n\n",
+        "[inf special]": "[inf special]\n580F0000 00E2B760\n780F1000 00000040\n640F0000 00000000 000186A0\n\n",
+        "[Max Gems]": "[Max Gems]\n041F0000 195D5212 0000270F\n041F0000 1BEBDC04 0000270F\n\n",
+        "[Max Money]": "[Max Money]\n041F0000 195D35D4 0098967F\n\n"
     }
 }

@@ -1,8 +1,17 @@
 {
     "607440A612128046": {
-        "[Ships unlimited]": "[Ships unlimited]\n01100000 019E18A5 00000005\n\n"
+        "[Ships unlimited]": "[Ships unlimited]\n01100000 019E18A5 00000005\n\n",
+        "[Inf Option]": "[Inf Option]\n01100000 019DE5B9 00000002\n01100000 019DE5BB 00000002\n01100000 019DE5BD 00000002\n01100000 019DE5BF 00000002\n\n",
+        "[Invincible (OFF ZL)]": "[Invincible (OFF ZL)]\n01100000 019DE5AB 00000020\n80000100\n01100000 019DE5AB 00000001\n20000000\n\n",
+        "[Inf Lives]": "[Inf Lives]\n01100000 019E18A5 00000009\n\n"
     },
     "attribution": {
         "Arcade Archives IMAGE FIGHT CHEAT file v1.0.1 By merlin555.txt": ""
+    },
+    "607440A61212804656ED28B374C557F500000000000000000000000000000000": {
+        "[Inf Lives]": "[Inf Lives]\n01100000 019E18A5 00000009\n\n",
+        "[Inf Option]": "[Inf Option]\n01100000 019DE5B9 00000002\n01100000 019DE5BB 00000002\n01100000 019DE5BD 00000002\n01100000 019DE5BF 00000002\n\n",
+        "[Invincible (OFF ZL)]": "[Invincible (OFF ZL)]\n01100000 019DE5AB 00000020\n80000100\n01100000 019DE5AB 00000001\n20000000\n\n",
+        "[Ships unlimited]": "[Ships unlimited]\n01100000 019E18A5 00000005\n\n"
     }
 }

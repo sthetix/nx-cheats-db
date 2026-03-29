@@ -1,0 +1,12 @@
+{
+    "3E06EE2FFD061DF1": {
+        "[Moon Jump]": "[Moon Jump]\n80000008\n041F0000 007C63A8 3900FF04\n20000000\n\n",
+        "[Inf Power]": "[Inf Power]\n021F0000 007C6286 00000180\n\n",
+        "[Inf Lives]": "[Inf Lives]\n011F0000 007C6284 00000009\n\n"
+    },
+    "3E06EE2FFD061DF1F8BA06491953B330F83EE185000000000000000000000000": {
+        "[Inf Lives]": "[Inf Lives]\n011F0000 007C6284 00000009\n\n",
+        "[Inf Power]": "[Inf Power]\n021F0000 007C6286 00000180\n\n",
+        "[Moon Jump]": "[Moon Jump]\n80000008\n041F0000 007C63A8 3900FF04\n20000000\n\n"
+    }
+}

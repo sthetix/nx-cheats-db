@@ -17,5 +17,10 @@
     },
     "attribution": {
         "Lost Command.txt": "v1.0.6b4 by sds\n"
+    },
+    "C27DE8222584F64F86ED60F233A87C6500000000000000000000000000000000": {
+        "[Infinite Sprint]": "[Infinite Sprint]\n04000000 0158CBB8 51000108\n\n",
+        "[Invincible]": "[Invincible]\n04000000 0157D608 1E204000\n\n",
+        "[No reduction in energy]": "[No reduction in energy]\n04000000 0158DF28 1E204001\n\n"
     }
 }

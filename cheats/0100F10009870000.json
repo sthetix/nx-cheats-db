@@ -1,0 +1,18 @@
+{
+    "A4FDDC7FD35B30CB": {
+        "[Get Combo max in Battle]": "[Get Combo max in Battle]\n04000000 0009D554 11018D09\n\n",
+        "[Oxygen Max]": "[Oxygen Max]\n04000000 000789AC 52800008\n\n",
+        "[Combo no Cancel in Battle]": "[Combo no Cancel in Battle]\n04000000 000703F8 2A0003E0\n\n",
+        "[Change Demon Fang Max]": "[Change Demon Fang Max]\n04000000 0013E150 5284E1E2\n\n",
+        "[Curse Max]": "[Curse Max]\n04000000 000704B4 52800008\n\n",
+        "[Change Money Max]": "[Change Money Max]\n08000000 0013E2C0 2A0003F3 97FE8A7E\n\n"
+    },
+    "A4FDDC7FD35B30CB763BF70C3213DCB700000000000000000000000000000000": {
+        "[Change Demon Fang Max]": "[Change Demon Fang Max]\n04000000 0013E150 5284E1E2\n\n",
+        "[Change Money Max]": "[Change Money Max]\n08000000 0013E2C0 2A0003F3 97FE8A7E\n\n",
+        "[Combo no Cancel in Battle]": "[Combo no Cancel in Battle]\n04000000 000703F8 2A0003E0\n\n",
+        "[Curse Max]": "[Curse Max]\n04000000 000704B4 52800008\n\n",
+        "[Get Combo max in Battle]": "[Get Combo max in Battle]\n04000000 0009D554 11018D09\n\n",
+        "[Oxygen Max]": "[Oxygen Max]\n04000000 000789AC 52800008\n\n"
+    }
+}

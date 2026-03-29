@@ -5,7 +5,19 @@
         "[60 FPS (Alternative)]": "[60 FPS (Alternative)]\n580F0000 00B26840 \n580F1000 000019D8 \n780F0000 00000E84 \n640F0000 00000000 00000001\n\n",
         "[30 FPS (Default, Alternative)]": "[30 FPS (Default, Alternative)]\n580F0000 00B26840 \n580F1000 000019D8 \n780F0000 00000E84 \n640F0000 00000000 00000002\n\n",
         "[60 FPS (Alternative two)]": "[60 FPS (Alternative two)]\n580F0000 01133B38 \n580F1000 00004710 \n580F1000 00000018 \n580F1000 000000D8 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
-        "[30 FPS (Default, Alternative two)]": "[30 FPS (Default, Alternative two)]\n580F0000 01133B38 \n580F1000 00004710 \n580F1000 00000018 \n580F1000 000000D8 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
+        "[30 FPS (Default, Alternative two)]": "[30 FPS (Default, Alternative two)]\n580F0000 01133B38 \n580F1000 00004710 \n580F1000 00000018 \n580F1000 000000D8 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n",
+        "[PLayer HP battle lock 9999]": "[PLayer HP battle lock 9999]\n04000000 00AEA050 0000270F\n\n",
+        "[The enemy's HP is cleared to 0]": "[The enemy's HP is cleared to 0]\n04000000 00AEA358 00000000\n\n",
+        "[Player GUTS 9999]": "[Player GUTS 9999]\n04000000 00AEA068 0000270F\n\n",
+        "[Money Max]": "[Money Max]\n04100000 0D91785C 05F5E0FF\n\n",
+        "[Lock training week to 1]": "[Lock training week to 1]\n04100000 0D917854 00000001\n04000000 000A4F3C B9403109\n\n",
+        "[Locked training weeks to 2]": "[Locked training weeks to 2]\n04100000 0D917854 00000002\n04000000 000A4F3C B9403109\n\n",
+        "[Locked training weeks to 3]": "[Locked training weeks to 3]\n04100000 0D917854 00000003\n04000000 000A4F3C B9403109\n\n",
+        "[Locked training weeks to 4]": "[Locked training weeks to 4]\n04100000 0D917854 00000004\n04000000 000A4F3C B9403109\n\n",
+        "[OFF]": "[OFF]\n04000000 000A4F3C B900350A\n\n",
+        "[After successful training, this ability is changed to 10,000 values]": "[After successful training, this ability is changed to 10,000 values]\n04000000 0009DCF8 79009917\n\n",
+        "[Successful training pet ability is cleared to 0 and released]": "[Successful training pet ability is cleared to 0 and released]\n04000000 0009DCF8 7900991F\n\n",
+        "[HP ability value permanently changes by 3000]": "[HP ability value permanently changes by 3000]\n04100000 0D91DD24 00000BB8\n\n"
     },
     "attribution": {
         "Ultra Kaiju Monster Rancher.txt": "By retole"

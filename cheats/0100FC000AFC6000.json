@@ -4,5 +4,11 @@
         "[P2 HP 0 English Version]": "[P2 HP 0 English Version]\n01000000 01280778 00000000\n\n",
         "[P1 Infinite HP Japanese Version]": "[P1 Infinite HP Japanese Version]\n01000000 01280478 00000048\n\n",
         "[P2 HP 0 Japanese Version]": "[P2 HP 0 Japanese Version]\n01000000 01280578 00000000\n\n"
+    },
+    "9EA96E90474DEA510A0C1159905866B900000000000000000000000000000000": {
+        "[P1 Infinite HP English Version]": "[P1 Infinite HP English Version]\n01000000 01280678 00000048\n\n",
+        "[P1 Infinite HP Japanese Version]": "[P1 Infinite HP Japanese Version]\n01000000 01280478 00000048\n\n",
+        "[P2 HP 0 English Version]": "[P2 HP 0 English Version]\n01000000 01280778\n00000000\n\n",
+        "[P2 HP 0 Japanese Version]": "[P2 HP 0 Japanese Version]\n01000000 01280578 00000000\n\n"
     }
 }

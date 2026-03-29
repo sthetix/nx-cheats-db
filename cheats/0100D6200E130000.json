@@ -5,5 +5,9 @@
     },
     "attribution": {
         "pillars of eternity Version 2.55.09 by Patjenova.txt": ""
+    },
+    "A40DA7C8DE72FA41AEA5D2E5B5D1441C00000000000000000000000000000000": {
+        "[No Damage (off)]": "[No Damage (off)]\n04000000 016189D0 EB2BBA6D\n\n",
+        "[No Damage (On)]": "[No Damage (On)]\n04000000 016189D0 D65F03C0\n\n"
     }
 }

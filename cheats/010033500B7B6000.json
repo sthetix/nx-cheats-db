@@ -10,5 +10,44 @@
     },
     "attribution": {
         "Darkwood ver 1.0.4 by DaBkackDeath.txt": "Controls:\nZL + Left = Fireflower\nZL + Right = Style Specific Power-Up #1\nZL + Up = Style Specific Power-Up #2\nZL + Down = Mushroom (Hammer Suit for 3D World)"
+    },
+    "1CC75C05B5C0CB40": {
+        "[inf stamina]": "[inf stamina]\n04000000 0013EC8C 1E204020\n\n",
+        "[inf durability]": "[inf durability]\n04000000 004AF1A0 D65F03C0\n\n",
+        "[inf health - 1hit kill]": "[inf health - 1hit kill]\n04000000 002B5090 1E204001\n\n"
+    },
+    "207231A04B2F3744": {
+        "[inf durability]": "[inf durability]\n04000000 005BDF90 D65F03C0\n\n",
+        "[inf stamina]": "[inf stamina]\n04000000 0013ED8C 1E204020\n\n",
+        "[inf health - 1hit kill]": "[inf health - 1hit kill]\n04000000 003963D0 1E204001\n\n"
+    },
+    "39A33D59F1F2B841": {
+        "[inf durability]": "[inf durability]\n04000000 005C2830 D65F03C0\n\n",
+        "[inf stamina]": "[inf stamina]\n04000000 0013EC1C 1E204020\n\n",
+        "[inf health - 1hit kill]": "[inf health - 1hit kill]\n04000000 00368D70 1E204001\n\n"
+    },
+    "250CE7C4A4DE1940B3B192FADA10B71B00000000000000000000000000000000": {
+        "[crafting materials do not reduce]": "[crafting materials do not reduce]\n04000000 01256DE0 D65F03C0\n\n",
+        "[free shopping]": "[free shopping]\n04000000 013BB024 52800000\n\n",
+        "[Freeze Durability]": "[Freeze Durability]\n04000000 014F1660 D65F03C0\n\n",
+        "[INF HP OFF]": "[INF HP OFF]\n04000000 010EF61C 1E2E3800\n04000000 010EDF08 1E283800\n\n",
+        "[INF SP]": "[INF SP]\n04000000 010E2E40 D65F03C0\n\n",
+        "[INF+ Durability]": "[INF+ Durability]\n04000000 014F1660 FC1A0FE8\n04000000 014F1714 1E27D000\n04000000 014F1718 1E200800\n\n",
+        "[Quick EXP Gain]": "[Quick EXP Gain]\n04000000 010C70E4 0B013D08\n\n"
+    },
+    "39A33D59F1F2B84188CFA52B08D0CFCB00000000000000000000000000000000": {
+        "[inf durability]": "[inf durability]\n04000000 005C2830 D65F03C0\n\n",
+        "[inf health - 1hit kill]": "[inf health - 1hit kill]\n04000000 00368D70 1E204001\n\n",
+        "[inf stamina]": "[inf stamina]\n04000000 0013EC1C 1E204020\n\n"
+    },
+    "207231A04B2F3744A3013E15580C6D5800000000000000000000000000000000": {
+        "[inf durability]": "[inf durability]\n04000000 005BDF90 D65F03C0\n\n",
+        "[inf health - 1hit kill]": "[inf health - 1hit kill]\n04000000 003963D0 1E204001\n\n",
+        "[inf stamina]": "[inf stamina]\n04000000 0013ED8C 1E204020\n\n"
+    },
+    "1CC75C05B5C0CB4091EB867477EB20A600000000000000000000000000000000": {
+        "[inf durability]": "[inf durability]\n04000000 004AF1A0 D65F03C0\n\n",
+        "[inf health - 1hit kill]": "[inf health - 1hit kill]\n04000000 002B5090 1E204001\n\n",
+        "[inf stamina]": "[inf stamina]\n04000000 0013EC8C 1E204020\n\n"
     }
 }

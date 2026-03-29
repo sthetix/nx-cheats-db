@@ -5,5 +5,9 @@
     },
     "attribution": {
         "Heaven Dust v1.0 by DaBlackDeath.txt": " [Walk through Walls]\nHold R : Right & Left\nHold R+L : Down\n"
+    },
+    "188CF8540B9817498415BC731259860A00000000000000000000000000000000": {
+        "[99 Token on change]": "[99 Token on change]\n04000000 0021A348 52800C74\n\n",
+        "[Inf Ammo / No Reload]": "[Inf Ammo / No Reload]\n04000000 00322800 52800C80\n\n"
     }
 }

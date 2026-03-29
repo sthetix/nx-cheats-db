@@ -9,5 +9,21 @@
     },
     "attribution": {
         "Atelier Sophie 2 The Alchemist of the Mysterious Dream.txt": "By Hazerou"
+    },
+    "4A1B406278346C2B": {
+        "[Max cole]": "[Max cole]\n04000000 019550BC 0098967F\n\n",
+        "[Damage mod and One Hit KO off]": "[Damage mod and One Hit KO off]\n04000000 00371E58 4B080128\n\n",
+        "[Hold ZL to One Hit KO]": "[Hold ZL to One Hit KO]\n04000000 00371E58 0B080128\n80000100\n04000000 00371E58 4B080108\n20000000\n\n",
+        "[Hold ZL for damage mod]": "[Hold ZL for damage mod]\n04000000 00371E58 0B080128\n80000100\n04000000 00371E58 4B081D28\n20000000\n\n",
+        "[Certificates]": "[Certificates]\n04000000 019550C4 00000063\n\n",
+        "[EXP multiplier and disabler off]": "[EXP multiplier and disabler off]\n04000000 002DACC8 0B010108\n\n",
+        "[EXP x2]": "[EXP x2]\n04000000 002DACC8 0B010508\n\n",
+        "[EXP x4]": "[EXP x4]\n04000000 002DACC8 0B010908\n\n",
+        "[EXP x8]": "[EXP x8]\n04000000 002DACC8 0B010D08\n\n",
+        "[No EXP]": "[No EXP]\n04000000 002DACC8 D503201F\n\n",
+        "[Alchemy EXP]": "[Alchemy EXP]\n04000000 0064B988 0B00014A\n\n",
+        "[Alchemy EXP x4]": "[Alchemy EXP x4]\n04000000 0064B988 0B00094A\n\n",
+        "[Alchemy EXP x8]": "[Alchemy EXP x8]\n04000000 0064B988 0B000D4A\n\n",
+        "[Alchemy EXP x32]": "[Alchemy EXP x32]\n04000000 0064B988 0B00154A\n\n"
     }
 }

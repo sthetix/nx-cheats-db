@@ -1,0 +1,24 @@
+{
+    "F1D71307616AB7E4": {
+        "[Infinite Health]": "[Infinite Health]\n580F0000 044BA350\n780F0000 00000974\n640F0000 00000000 497423F0\n\n",
+        "[30.000 Scrap]": "[30.000 Scrap]\n580F0000 044BA350\n780F0000 00002BE8\n640F0000 00000000 00007530\n\n",
+        "[Infinite Vehicle Health (On)]": "[Infinite Vehicle Health (On)]\n08000000 006730DC 52800009 B8296808\n\n",
+        "[Infinite Ammo (On)]": "[Infinite Ammo (On)]\n04000000 006C4A94 D503201F\n\n",
+        "[Infinite Vehicle Health (Off)]": "[Infinite Vehicle Health (Off)]\n08000000 006730DC 4B090109 B8696809\n\n",
+        "[Infinite Charges (Off)]": "[Infinite Charges (Off)]\n08000000 006C089C 0B080128 B942BE69\n\n",
+        "[Infinite Charges (On)]": "[Infinite Charges (On)]\n08000000 006C089C B902BA69 52800C49\n\n",
+        "[Infinite Ammo (Off)]": "[Infinite Ammo (Off)]\n04000000 006C4A94 51000508\n\n",
+        "[Infinite Jetpack]": "[Infinite Jetpack]\n580F0000 044BA350\n780F0000 00000E68\n640F0000 00000000 3F800000\n\n"
+    },
+    "F1D71307616AB7E41A8CD6E5485DDB8200000000000000000000000000000000": {
+        "[30.000 Scrap]": "[30.000 Scrap]\n580F0000 044BA350\n780F0000 00002BE8\n640F0000 00000000 00007530\n\n",
+        "[Infinite Ammo (Off)]": "[Infinite Ammo (Off)]\n04000000 006C4A94 51000508\n\n",
+        "[Infinite Ammo (On)]": "[Infinite Ammo (On)]\n04000000 006C4A94 D503201F\n\n",
+        "[Infinite Charges (Off)]": "[Infinite Charges (Off)]\n08000000 006C089C 0B080128 B942BE69\n\n",
+        "[Infinite Charges (On)]": "[Infinite Charges (On)]\n08000000 006C089C B902BA69 52800C49\n\n",
+        "[Infinite Health]": "[Infinite Health]\n580F0000 044BA350\n780F0000 00000974\n640F0000 00000000 497423F0\n\n",
+        "[Infinite Jetpack]": "[Infinite Jetpack]\n580F0000 044BA350\n780F0000 00000E68\n640F0000 00000000 3F800000\n\n",
+        "[Infinite Vehicle Health (Off)]": "[Infinite Vehicle Health (Off)]\n08000000 006730DC 4B090109 B8696809\n\n",
+        "[Infinite Vehicle Health (On)]": "[Infinite Vehicle Health (On)]\n08000000 006730DC 52800009 B8296808\n\n"
+    }
+}

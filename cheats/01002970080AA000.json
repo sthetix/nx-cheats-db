@@ -5,5 +5,9 @@
     },
     "attribution": {
         "Tennis In The Face ver 1.0..0 by jericoss.txt": "Super Mario Allstars\nSuper Mario 3"
+    },
+    "6A819AD63D809D959A1BE44C12A4A7FA00000000000000000000000000000000": {
+        "[*Inf Balls Activate This Both]": "[*Inf Balls Activate This Both]\n04000000 0031030C 00000004\n\n",
+        "[*Inf Balls Jericoss]": "[*Inf Balls Jericoss]\n04000000 00310348 00000001\n04000000 0031030C 00000004\n\n"
     }
 }

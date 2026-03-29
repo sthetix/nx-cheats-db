@@ -5,5 +5,16 @@
         "[Money no decrease when buying]": "[Money no decrease when buying]\n04000000 025707F0 D503201F\n\n",
         "[Shots don't decrease]": "[Shots don't decrease]\n04000000 01D41350 11000108\n\n",
         "[items qty 99]": "[items qty 99]\n04000000 025752C0 142B830A \n04000000 03055EE8 52800C77 \n04000000 03055EEC B8018E97 \n04000000 03055EF0 17D47CF5\n\n"
+    },
+    "49A60B9FB8A62BF3": {
+        "[Money doesn't decrease when buying]": "[Money doesn't decrease when buying]\n04000000 025143E4 D503201F\n\n",
+        "[Infinite items]": "[Infinite items]\n04000000 02518EC0 142CF42B\n04000000 03055F6C 52800C77\n04000000 03055F70 B8018E97\n04000000 03055F74 17D30BD4\n\n",
+        "[Unlimited shots]": "[Unlimited shots]\n04000000 01CE1370 11000108\n\n"
+    },
+    "54274C14E7A05FAE4B098F8103FBAF0C00000000000000000000000000000000": {
+        "[items qty 99]": "[items qty 99]\n04000000 025752C0 142B830A\n04000000 03055EE8 52800C77\n04000000 03055EEC B8018E97\n04000000 03055EF0 17D47CF5\n\n",
+        "[Money no decrease when buying]": "[Money no decrease when buying]\n04000000 025707F0 D503201F\n\n",
+        "[Off]": "[Off]\n04000000 025707F0 1E283800\n04000000 01D41350 11000508\n04000000 025752C0 B8418E97\n\n",
+        "[Shots don't decrease]": "[Shots don't decrease]\n04000000 01D41350 11000108\n\n"
     }
 }

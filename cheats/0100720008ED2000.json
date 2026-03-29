@@ -29,5 +29,54 @@
     },
     "attribution": {
         "Strikers 1945 II ver 1.0.3 by smoker 1.txt": "[From MAX-CHEATS.com by optantic for STRIKERS1945II for Nintendo Switch 1.0.1]\n\n[P1 Infinite Lives]\n01000000 000cf2d0 00000009\n\n[P1 Infinite Bombs]\n01000000 000cf242 00000009\n\n[P1 Max Power]\n02000000 000cf2f5 00000404\n\n[P1 Full Special Bar]\n02000000 000cf326 00007FFF\n\n[P2 Infinite Lives]\n01000000 000cf36c 00000009\n\n[P2 Infinite Bombs]\n01000000 000cf36e 00000009\n\n[P2 Max Power]\n02000000 000cf391 00000404\n\n[P2 Full Special Bar]\n02000000 000cf3c2 00007FFF"
+    },
+    "FE906F0365D9DCFE": {
+        "[P1 Infinite Lives]": "[P1 Infinite Lives]\n01000000 020e8ecc 00000009\n\n",
+        "[P1 Infinite Bombs]": "[P1 Infinite Bombs]\n01000000 020e8ed0 00000009\n\n",
+        "[P1 Max Power]": "[P1 Max Power]\n01000000 020e8ed2 00000003\n\n",
+        "[P2 Infinite Lives]": "[P2 Infinite Lives]\n01000000 020e8f40 00000009\n\n",
+        "[P2 Infinite Bombs]": "[P2 Infinite Bombs]\n01000000 020e8f44 00000009\n\n",
+        "[P2 Max Power]": "[P2 Max Power]\n01000000 020e8f46 00000003\n\n"
+    },
+    "349E43D4F0E71AAA": {
+        "[P1 Infinite Lives]": "[P1 Infinite Lives]\n01000000 020f6ed0 00000009\n\n",
+        "[P1 Infinite Bombs]": "[P1 Infinite Bombs]\n01000000 020f6ed4 00000009\n\n",
+        "[P1 Max Power]": "[P1 Max Power]\n01000000 020f6ed6 00000003\n\n",
+        "[P2 Infinite Lives]": "[P2 Infinite Lives]\n01000000 020f6f44 00000009\n\n",
+        "[P2 Infinite Bombs]": "[P2 Infinite Bombs]\n01000000 020f6f48 00000009\n\n",
+        "[P2 Max Power]": "[P2 Max Power]\n01000000 020f6f4a 00000003\n\n"
+    },
+    "13A66415DFD9FC45": {
+        "[P1 Inf Lives]": "[P1 Inf Lives]\n01000000 0215DEC0 00000009\n\n",
+        "[P1 Inf Bombs]": "[P1 Inf Bombs]\n01000000 0215DEC4 00000009\n\n",
+        "[P1 Max Power]": "[P1 Max Power]\n01000000 0215DEC6 00000003\n\n"
+    },
+    "44B325524B98375BEF67D1260290B33800000000000000000000000000000000": {
+        "[P1 Full Special Bar]": "[P1 Full Special Bar]\n02000000 000C9302 00007FFF\n\n",
+        "[P1 Inf Bombs]": "[P1 Inf Bombs]\n01000000 000C92AE 00000009\n\n",
+        "[P1 Inf Lives]": "[P1 Inf Lives]\n01000000 000C92AC 00000009\n\n",
+        "[P1 Invincible OFF]": "[P1 Invincible OFF]\n01000000 000C92E5 00000000\n01000000 000C92E6 00000001\n\n",
+        "[P1 Invincible ON]": "[P1 Invincible ON]\n01000000 000C92E5 00000001\n01000000 000C92E6 000000FF\n\n",
+        "[P1 Max Power]": "[P1 Max Power]\n02000000 000C92D1 00000404\n\n"
+    },
+    "C1FCD151248425E78FC68A8CE86B684600000000000000000000000000000000": {
+        "[P1 Full Special Bar]": "[P1 Full Special Bar]\n02000000 000CF326 00007FFF\n\n",
+        "[P1 Infinite Bombs]": "[P1 Infinite Bombs]\n01000000 000CF242 00000009\n\n",
+        "[P1 Infinite Lives]": "[P1 Infinite Lives]\n01000000 000CF2D0 00000009\n\n",
+        "[P1 Max Power]": "[P1 Max Power]\n02000000 000CF2F5 00000404\n\n",
+        "[P2 Full Special Bar]": "[P2 Full Special Bar]\n02000000 000CF3C2 00007FFF\n\n",
+        "[P2 Infinite Bombs]": "[P2 Infinite Bombs]\n01000000 000CF36E 00000009\n\n",
+        "[P2 Infinite Lives]": "[P2 Infinite Lives]\n01000000 000CF36C 00000009\n\n",
+        "[P2 Max Power]": "[P2 Max Power]\n02000000 000CF391 00000404\n\n"
+    },
+    "6CD0059343D5C11A8D2A319C48A3B99000000000000000000000000000000000": {
+        "[P1 Full Special Bar]": "[P1 Full Special Bar]\n02000000 000CF326 00007FFF\n\n",
+        "[P1 Infinite Bombs]": "[P1 Infinite Bombs]\n01000000 000CF242 00000009\n\n",
+        "[P1 Infinite Lives]": "[P1 Infinite Lives]\n01000000 000CF2D0 00000009\n\n",
+        "[P1 Max Power]": "[P1 Max Power]\n02000000 000CF2F5 00000404\n\n",
+        "[P2 Full Special Bar]": "[P2 Full Special Bar]\n02000000 000CF3C2 00007FFF\n\n",
+        "[P2 Infinite Bombs]": "[P2 Infinite Bombs]\n01000000 000CF36E 00000009\n\n",
+        "[P2 Infinite Lives]": "[P2 Infinite Lives]\n01000000 000CF36C 00000009\n\n",
+        "[P2 Max Power]": "[P2 Max Power]\n02000000 000CF391 00000404\n\n"
     }
 }

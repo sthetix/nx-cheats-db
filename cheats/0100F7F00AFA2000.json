@@ -4,5 +4,17 @@
         "[Infinite Pistol Ammo]": "[Infinite Pistol Ammo]\n02000000 0127C916 00000999\n\n",
         "[Infinite Machine Gun Ammo]": "[Infinite Machine Gun Ammo]\n02000000 0127C974 00000999\n\n",
         "[Knife Infinite Durability]": "[Knife Infinite Durability]\n01000000 0127C995 00000010\n\n"
+    },
+    "0100F7F00AFA2000": {
+        "[Infinite Pistol Ammo]": "[Infinite Pistol Ammo]\n02000000 0127C916 00000999\n\n",
+        "[Infinite HP]": "[Infinite HP]\n01000000 0127C93E 00000008\n\n",
+        "[Infinite Machine Gun Ammo]": "[Infinite Machine Gun Ammo]\n02000000 0127C974 00000999\n\n",
+        "[Knife Infinite Durability]": "[Knife Infinite Durability]\n01000000 0127C995 00000010\n\n"
+    },
+    "F8BA90E5CF567C5BCE9A874EF9E3062A00000000000000000000000000000000": {
+        "[Infinite HP]": "[Infinite HP]\n01000000 0127C93E\n00000008\n\n",
+        "[Infinite Machine Gun Ammo]": "[Infinite Machine Gun Ammo]\n02000000 0127C974 00000999\n\n",
+        "[Infinite Pistol Ammo]": "[Infinite Pistol Ammo]\n02000000 0127C916\n00000999\n\n",
+        "[Knife Infinite Durability]": "[Knife Infinite Durability]\n01000000 0127C995\n00000010\n\n"
     }
 }

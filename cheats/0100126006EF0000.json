@@ -3,6 +3,20 @@
         "[Max gold on]": "[Max gold on]\n04000000 002704C0 17F63ED9\n04000000 00000024 5292CFE0\n04000000 00000028 72A01300\n04000000 0000002C D65F03C0\n\n",
         "[Max gold off]": "[Max gold off]\n04000000 002704C0 B9403400\n\n",
         "[Max EXP after Battle on]": "[Max EXP after Battle on]\n04000000 00270460 B9002800\n\n",
-        "[Max EXP after Battle off]": "[Max EXP after Battle off]\n04000000 00270460 B9402800\n\n"
+        "[Max EXP after Battle off]": "[Max EXP after Battle off]\n04000000 00270460 B9402800\n\n",
+        "[Max AP off]": "[Max AP off]\n040F0000 00270670 B9408400\n\n",
+        "[Max AP on]": "[Max AP on]\n04000000 00270670 17F63E6D\n04000000 00000024 5292CFE0\n04000000 00000028 72A01300\n04000000 0000002C D65F03C0\n\n",
+        "[Herb heals 9999 HP off]": "[Herb heals 9999 HP off]\n040F0000 00306200 B9403000\n\n",
+        "[Herb heals 9999 HP on]": "[Herb heals 9999 HP on]\n040F0000 00306200 D284E1E1\n\n"
+    },
+    "CF79603EFD9E774D9AFA4324BD882FD700000000000000000000000000000000": {
+        "[Herb heals 9999 HP off]": "[Herb heals 9999 HP off]\n040F0000 00306200 B9403000\n\n",
+        "[Herb heals 9999 HP on]": "[Herb heals 9999 HP on]\n040F0000 00306200 D284E1E1\n\n",
+        "[Max AP off]": "[Max AP off]\n040F0000 00270670 B9408400\n\n",
+        "[Max AP on]": "[Max AP on]\n04000000 00270670 17F63E6D\n04000000 00000024 5292CFE0\n04000000 00000028 72A01300\n04000000 0000002C D65F03C0\n\n",
+        "[Max EXP after Battle off]": "[Max EXP after Battle off]\n04000000 00270460 B9402800\n\n",
+        "[Max EXP after Battle on]": "[Max EXP after Battle on]\n04000000 00270460 B9002800\n\n",
+        "[Max gold off]": "[Max gold off]\n04000000 002704C0 B9403400\n\n",
+        "[Max gold on]": "[Max gold on]\n04000000 002704C0 17F63ED9\n04000000 00000024 5292CFE0\n04000000 00000028 72A01300\n04000000 0000002C D65F03C0\n\n"
     }
 }

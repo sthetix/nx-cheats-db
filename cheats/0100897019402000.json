@@ -4,5 +4,11 @@
         "[Moving speed{ZR)]": "[Moving speed{ZR)]\n80000200\n040E0000 0011BEB8 00004400\n20000000\n\n",
         "[Heart]": "[Heart]\n040E0000 0011C070 00000018\n040E0000 0011C074 00000018\n\n",
         "[energy cao]": "[energy cao]\n040E0000 0011C078 00000064\n\n"
+    },
+    "4A242ED7F31DB4F68BB0BD4B586794E34F4BCB0B000000000000000000000000": {
+        "[energy cao]": "[energy cao]\n040E0000 0011C078 00000064\n\n",
+        "[Heart]": "[Heart]\n040E0000 0011C070 00000018\n\n",
+        "[Jump(ZL+B)]": "[Jump(ZL+B)]\n80000102\n040E0000 0011BEA0 FFFFC08E\n20000000\n\n",
+        "[Moving speed{ZR)]": "[Moving speed{ZR)]\n80000200\n040E0000 0011BEB8 00004400\n20000000\n\n"
     }
 }

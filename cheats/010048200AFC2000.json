@@ -5,5 +5,12 @@
         "[P2 NO HP]": "[P2 NO HP]\n01000000 01285958 00000000\n\n",
         "[P2 NO Super]": "[P2 NO Super]\n01000000 01285A02 00000000\n\n",
         "[hitanywhere]": "[hitanywhere]\n04000000 0067902678 60020880\n\n"
+    },
+    "8C918DDFD8DC2D21D3FB86481412BCB200000000000000000000000000000000": {
+        "[hitanywhere]": "[hitanywhere]\n580F0000 0128DDF8\n780F0000 00002678\n640F0000 00000000 60020880\n\n",
+        "[P1 Infinite HP]": "[P1 Infinite HP]\n01000000 01285758 00000066\n\n",
+        "[P1 Infinite Super]": "[P1 Infinite Super]\n01000000 01285802 00000004\n\n",
+        "[P2 NO HP]": "[P2 NO HP]\n01000000 01285958 00000000\n\n",
+        "[P2 NO Super]": "[P2 NO Super]\n01000000 01285A02 00000000\n\n"
     }
 }

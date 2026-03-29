@@ -8,5 +8,14 @@
         "[*No Reload Gun2]": "[*No Reload Gun2]\n04000000 06C19898 00000001\n\n",
         "[*Inf R Button]": "[*Inf R Button]\n04000000 06F50E30 BFB0A3AB\n\n",
         "[*Inf L Button]": "[*Inf L Button]\n04000000 06F4A5B0 BFE333D5\n\n"
+    },
+    "8E247758EE52BB9D54BB5CF8D6DFC52CE2A4F52D000000000000000000000000": {
+        "[*Inf L Button]": "[*Inf L Button]\n04000000 06F4A5B0 BFE333D5\n\n",
+        "[*Inf R Button]": "[*Inf R Button]\n04000000 06F50E30 BFB0A3AB\n\n",
+        "[*Inf Weapon 2]": "[*Inf Weapon 2]\n04000000 06C18D10 445E0000\n\n",
+        "[*Mana max]": "[*Mana max]\n04000000 21833AF8 445E0000\n\n",
+        "[*Money 8888]": "[*Money 8888]\n04000000 21833AC8 460AE000\n\n",
+        "[*No Reload Gun 1]": "[*No Reload Gun 1]\n04000000 06C188E8 00000001\n\n",
+        "[*No Reload Gun2]": "[*No Reload Gun2]\n04000000 06C19898 00000001\n\n"
     }
 }

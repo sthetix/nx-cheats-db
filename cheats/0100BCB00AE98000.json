@@ -18,5 +18,25 @@
         "[P2 Infinite Bombs]": "[P2 Infinite Bombs]\n01000000 014a8df2 00000009\n\n",
         "[P2 Max Power]": "[P2 Max Power]\n01000000 014a8e1e 00000003\n\n",
         "[P2 Max Special Bar]": "[P2 Max Special Bar]\n02000000 014a8e3a 00007FFF\n\n"
+    },
+    "266C41C9585E9A14878F207185D9FB9500000000000000000000000000000000": {
+        "[P1 Infinite Bombs]": "[P1 Infinite Bombs]\n01000000 014A8D3A 00000009\n\n",
+        "[P1 Infinite Lives]": "[P1 Infinite Lives]\n01000000 014A8D38 00000009\n\n",
+        "[P1 Max Power]": "[P1 Max Power]\n01000000 014A8D66 00000003\n\n",
+        "[P1 Max Special Bar]": "[P1 Max Special Bar]\n02000000 014A8D82 00007FFF\n\n",
+        "[P2 Infinite Bombs]": "[P2 Infinite Bombs]\n01000000 014A8DF2 00000009\n\n",
+        "[P2 Infinite Lives]": "[P2 Infinite Lives]\n01000000 014A8DF0 00000009\n\n",
+        "[P2 Max Power]": "[P2 Max Power]\n01000000 014A8E1E 00000003\n\n",
+        "[P2 Max Special Bar]": "[P2 Max Special Bar]\n02000000 014A8E3A 00007FFF\n\n"
+    },
+    "ABAC5A08624F03066329A4C35FD5A09400000000000000000000000000000000": {
+        "[P1 Infinite Bombs]": "[P1 Infinite Bombs]\n01000000 014A8D3A 00000009\n\n",
+        "[P1 Infinite Lives]": "[P1 Infinite Lives]\n01000000 014A8D38 00000009\n\n",
+        "[P1 Max Power]": "[P1 Max Power]\n01000000 014A8D66 00000003\n\n",
+        "[P1 Max Special Bar]": "[P1 Max Special Bar]\n02000000 014A8D82 00007FFF\n\n",
+        "[P2 Infinite Bombs]": "[P2 Infinite Bombs]\n01000000 014A8DF2 00000009\n\n",
+        "[P2 Infinite Lives]": "[P2 Infinite Lives]\n01000000 014A8DF0 00000009\n\n",
+        "[P2 Max Power]": "[P2 Max Power]\n01000000 014A8E1E 00000003\n\n",
+        "[P2 Max Special Bar]": "[P2 Max Special Bar]\n02000000 014A8E3A 00007FFF\n\n"
     }
 }

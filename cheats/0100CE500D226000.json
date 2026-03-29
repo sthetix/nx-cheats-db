@@ -1,0 +1,12 @@
+{
+    "6E3697980FB82E82": {
+        "[9999 Picarats]": "[9999 Picarats]\n040F0000 00533554 0000270F\n\n",
+        "[hint coins don't decrease]": "[hint coins don't decrease]\n040F0000 00533556 00000063\n\n",
+        "[99 hint coins]": "[99 hint coins]\n040F0000 00533558 00000063\n\n"
+    },
+    "6E3697980FB82E820FD2E90F89B5A41488054AC4000000000000000000000000": {
+        "[99 hint coins]": "[99 hint coins]\n040F0000 00533558 00000063\n\n",
+        "[9999 Picarats]": "[9999 Picarats]\n040F0000 00533554 0000270F\n\n",
+        "[hint coins don't decrease]": "[hint coins don't decrease]\n040F0000 00533556 00000063\n\n"
+    }
+}
