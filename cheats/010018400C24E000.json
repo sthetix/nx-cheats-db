@@ -71,34 +71,6 @@
         "[Max Block Rate (In Battle)]": "[Max Block Rate (In Battle)]\n580F0000 41765438\n580F1000 00000080\n580F1000 00000010\n580F1000 00000208\n780F0000 000000EE\n620F0000 00000000 00000063\n\n",
         "[Max DEF 5P (Out of Battle)]": "[Max DEF 5P (Out of Battle)]\n580F0000 4175BF18\n580F1000 000000E8\n580F1000 00002B70\n780F0000 00000090\n640F0000 00000000 0000270F\n\n"
     },
-    "F6667BA0D144374F": {
-        "[SP doesnt reduce on]": "[SP doesnt reduce on]\n040B0000 008AD900 B9400811\n040B0000 008AD904 7100063F\n040B0000 008AD908 1A9F1108\n040B0000 008AD90C 4B080128\n040B0000 008AD910 D65F03C0\n040B0000 006EB358 9407096A\n\n",
-        "[SP doesnt reduce off]": "[SP doesnt reduce off]\n040B0000 006EB358 4B080128\n\n",
-        "[Accessories / breakage fragments / dimensional points are not reduced on]": "[Accessories / breakage fragments / dimensional points are not reduced on]\n040B0000 00109B24 2A1F03F5\n040B0000 00126270 2A1F03F4\n040B0000 00425BBC 4B1F0001\n\n",
-        "[Our damage is reduced to 0 on]": "[Our damage is reduced to 0 on]\n040B0000 008AD914 B9400B31\n040B0000 008AD918 7100063F\n040B0000 008AD91C 1A9F12F7\n040B0000 008AD920 B971D108\n040B0000 008AD924 D65F03C0\n040B0000 006A06C0 94083495\n\n",
-        "[Our damage is reduced to 0 off]": "[Our damage is reduced to 0 off]\n040B0000 006A06C0 B971D108\n\n",
-        "[Instant fill on]": "[Instant fill on]\n040B0000 008AD928 B9400B31\n040B0000 008AD92C 7100063F\n040B0000 008AD930 1A9B0273\n040B0000 008AD934 4B130375\n040B0000 008AD938 D65F03C0\n040B0000 006A07C0 9408345A\n\n",
-        "[instant kill off]": "[instant kill off]\n040B0000 006A07C0 4B130375\n\n",
-        "[SP n'est pas r\u00e9duit Ouvert]": "[SP n'est pas r\u00e9duit Ouvert]\n040B0000 008AD900 B9400811\n040B0000 008AD904 7100063F\n040B0000 008AD908 1A9F1108\n040B0000 008AD90C 4B080128\n040B0000 008AD910 D65F03C0\n040B0000 006EB358 9407096A\n\n",
-        "[SP ne diminue pas Fermer]": "[SP ne diminue pas Fermer]\n040B0000 006EB358 4B080128\n\n",
-        "[Les accessoires / fragments de rupture / points dimensionnels ne sont pas r\u00e9duits]": "[Les accessoires / fragments de rupture / points dimensionnels ne sont pas r\u00e9duits]\n040B0000 00109B24 2A1F03F5\n040B0000 00126270 2A1F03F4\n040B0000 00425BBC 4B1F0001\n\n",
-        "[Nos d\u00e9g\u00e2ts sont r\u00e9duits \u00e0 0. Ouvert]": "[Nos d\u00e9g\u00e2ts sont r\u00e9duits \u00e0 0. Ouvert]\n040B0000 008AD914 B9400B31\n040B0000 008AD918 7100063F\n040B0000 008AD91C 1A9F12F7\n040B0000 008AD920 B971D108\n040B0000 008AD924 D65F03C0\n040B0000 006A06C0 94083495\n\n",
-        "[Nos d\u00e9g\u00e2ts sont r\u00e9duits \u00e0 0. Fermer]": "[Nos d\u00e9g\u00e2ts sont r\u00e9duits \u00e0 0. Fermer]\n040B0000 006A06C0 B971D108\n\n",
-        "[Tuez l'ennemi en quelques secondes Ouvert]": "[Tuez l'ennemi en quelques secondes Ouvert]\n040B0000 008AD928 B9400B31\n040B0000 008AD92C 7100063F\n040B0000 008AD930 1A9B0273\n040B0000 008AD934 4B130375\n040B0000 008AD938 D65F03C0\n040B0000 006A07C0 9408345A\n\n",
-        "[Tuez l'ennemi en quelques secondes Fermer]": "[Tuez l'ennemi en quelques secondes Fermer]\n040B0000 006A07C0 4B130375\n\n"
-    },
-    "attribution": {
-        "Seven Knights time wanderer ver 1.2 by jericoss.txt": ""
-    },
-    "F6667BA0D144374F5C0BC84B3D72C24BD9D47557000000000000000000000000": {
-        "[Accessories / breakage fragments / dimensional points are not reduced on]": "[Accessories / breakage fragments / dimensional points are not reduced on]\n040B0000 00109B24 2A1F03F5\n040B0000 00126270 2A1F03F4\n040B0000 00425BBC 4B1F0001\n\n",
-        "[Instant fill on]": "[Instant fill on]\n040B0000 008AD928 B9400B31\n040B0000 008AD92C 7100063F\n040B0000 008AD930 1A9B0273\n040B0000 008AD934 4B130375\n040B0000 008AD938 D65F03C0\n040B0000 006A07C0 9408345A\n\n",
-        "[instant kill off]": "[instant kill off]\n040B0000 006A07C0 4B130375\n\n",
-        "[Our damage is reduced to 0 off]": "[Our damage is reduced to 0 off]\n040B0000 006A06C0 B971D108\n\n",
-        "[Our damage is reduced to 0 on]": "[Our damage is reduced to 0 on]\n040B0000 008AD914 B9400B31\n040B0000 008AD918 7100063F\n040B0000 008AD91C 1A9F12F7\n040B0000 008AD920 B971D108\n040B0000 008AD924 D65F03C0\n040B0000 006A06C0 94083495\n\n",
-        "[SP doesnt reduce off]": "[SP doesnt reduce off]\n040B0000 006EB358 4B080128\n\n",
-        "[SP doesnt reduce on]": "[SP doesnt reduce on]\n040B0000 008AD900 B9400811\n040B0000 008AD904 7100063F\n040B0000 008AD908 1A9F1108\n040B0000 008AD90C 4B080128\n040B0000 008AD910 D65F03C0\n040B0000 006EB358 9407096A\n\n"
-    },
     "4B50363368364A9456A045717916089FAFAC5D1B000000000000000000000000": {
         "[*Exp 888888 P1]": "[*Exp 888888 P1]\n04100000 00530030 000D9038\n\n",
         "[*Exp 888888 P2]": "[*Exp 888888 P2]\n04100000 00529030 000D9038\n\n",
@@ -170,5 +142,33 @@
         "[Max HP P6 (Out of Battle)]": "[Max HP P6 (Out of Battle)]\n580F0000 4175BF18\n580F1000 000000E8\n580F1000 00002B78\n780F0000 00000170\n680F0000 0000270F 0000270F\n\n",
         "[Max HP P7 (Out of Battle)]": "[Max HP P7 (Out of Battle)]\n580F0000 4175BF18\n580F1000 000000E8\n580F1000 00002B80\n780F0000 00000170\n680F0000 0000270F 0000270F\n\n",
         "[Max Money]": "[Max Money]\n580F0000 4175BF18\n580F1000 000000E8\n580F1000 00003B30\n580F1000 00000008\n780F0000 00000028\n640F0000 00000000 05F5E0FF\n\n"
+    },
+    "F6667BA0D144374F": {
+        "[SP doesnt reduce on]": "[SP doesnt reduce on]\n040B0000 008AD900 B9400811\n040B0000 008AD904 7100063F\n040B0000 008AD908 1A9F1108\n040B0000 008AD90C 4B080128\n040B0000 008AD910 D65F03C0\n040B0000 006EB358 9407096A\n\n",
+        "[SP doesnt reduce off]": "[SP doesnt reduce off]\n040B0000 006EB358 4B080128\n\n",
+        "[Accessories / breakage fragments / dimensional points are not reduced on]": "[Accessories / breakage fragments / dimensional points are not reduced on]\n040B0000 00109B24 2A1F03F5\n040B0000 00126270 2A1F03F4\n040B0000 00425BBC 4B1F0001\n\n",
+        "[Our damage is reduced to 0 on]": "[Our damage is reduced to 0 on]\n040B0000 008AD914 B9400B31\n040B0000 008AD918 7100063F\n040B0000 008AD91C 1A9F12F7\n040B0000 008AD920 B971D108\n040B0000 008AD924 D65F03C0\n040B0000 006A06C0 94083495\n\n",
+        "[Our damage is reduced to 0 off]": "[Our damage is reduced to 0 off]\n040B0000 006A06C0 B971D108\n\n",
+        "[Instant fill on]": "[Instant fill on]\n040B0000 008AD928 B9400B31\n040B0000 008AD92C 7100063F\n040B0000 008AD930 1A9B0273\n040B0000 008AD934 4B130375\n040B0000 008AD938 D65F03C0\n040B0000 006A07C0 9408345A\n\n",
+        "[instant kill off]": "[instant kill off]\n040B0000 006A07C0 4B130375\n\n",
+        "[SP n'est pas r\u00e9duit Ouvert]": "[SP n'est pas r\u00e9duit Ouvert]\n040B0000 008AD900 B9400811\n040B0000 008AD904 7100063F\n040B0000 008AD908 1A9F1108\n040B0000 008AD90C 4B080128\n040B0000 008AD910 D65F03C0\n040B0000 006EB358 9407096A\n\n",
+        "[SP ne diminue pas Fermer]": "[SP ne diminue pas Fermer]\n040B0000 006EB358 4B080128\n\n",
+        "[Les accessoires / fragments de rupture / points dimensionnels ne sont pas r\u00e9duits]": "[Les accessoires / fragments de rupture / points dimensionnels ne sont pas r\u00e9duits]\n040B0000 00109B24 2A1F03F5\n040B0000 00126270 2A1F03F4\n040B0000 00425BBC 4B1F0001\n\n",
+        "[Nos d\u00e9g\u00e2ts sont r\u00e9duits \u00e0 0. Ouvert]": "[Nos d\u00e9g\u00e2ts sont r\u00e9duits \u00e0 0. Ouvert]\n040B0000 008AD914 B9400B31\n040B0000 008AD918 7100063F\n040B0000 008AD91C 1A9F12F7\n040B0000 008AD920 B971D108\n040B0000 008AD924 D65F03C0\n040B0000 006A06C0 94083495\n\n",
+        "[Nos d\u00e9g\u00e2ts sont r\u00e9duits \u00e0 0. Fermer]": "[Nos d\u00e9g\u00e2ts sont r\u00e9duits \u00e0 0. Fermer]\n040B0000 006A06C0 B971D108\n\n",
+        "[Tuez l'ennemi en quelques secondes Ouvert]": "[Tuez l'ennemi en quelques secondes Ouvert]\n040B0000 008AD928 B9400B31\n040B0000 008AD92C 7100063F\n040B0000 008AD930 1A9B0273\n040B0000 008AD934 4B130375\n040B0000 008AD938 D65F03C0\n040B0000 006A07C0 9408345A\n\n",
+        "[Tuez l'ennemi en quelques secondes Fermer]": "[Tuez l'ennemi en quelques secondes Fermer]\n040B0000 006A07C0 4B130375\n\n"
+    },
+    "F6667BA0D144374F5C0BC84B3D72C24BD9D47557000000000000000000000000": {
+        "[Accessories / breakage fragments / dimensional points are not reduced on]": "[Accessories / breakage fragments / dimensional points are not reduced on]\n040B0000 00109B24 2A1F03F5\n040B0000 00126270 2A1F03F4\n040B0000 00425BBC 4B1F0001\n\n",
+        "[Instant fill on]": "[Instant fill on]\n040B0000 008AD928 B9400B31\n040B0000 008AD92C 7100063F\n040B0000 008AD930 1A9B0273\n040B0000 008AD934 4B130375\n040B0000 008AD938 D65F03C0\n040B0000 006A07C0 9408345A\n\n",
+        "[instant kill off]": "[instant kill off]\n040B0000 006A07C0 4B130375\n\n",
+        "[Our damage is reduced to 0 off]": "[Our damage is reduced to 0 off]\n040B0000 006A06C0 B971D108\n\n",
+        "[Our damage is reduced to 0 on]": "[Our damage is reduced to 0 on]\n040B0000 008AD914 B9400B31\n040B0000 008AD918 7100063F\n040B0000 008AD91C 1A9F12F7\n040B0000 008AD920 B971D108\n040B0000 008AD924 D65F03C0\n040B0000 006A06C0 94083495\n\n",
+        "[SP doesnt reduce off]": "[SP doesnt reduce off]\n040B0000 006EB358 4B080128\n\n",
+        "[SP doesnt reduce on]": "[SP doesnt reduce on]\n040B0000 008AD900 B9400811\n040B0000 008AD904 7100063F\n040B0000 008AD908 1A9F1108\n040B0000 008AD90C 4B080128\n040B0000 008AD910 D65F03C0\n040B0000 006EB358 9407096A\n\n"
+    },
+    "attribution": {
+        "Seven Knights time wanderer ver 1.2 by jericoss.txt": ""
     }
 }

@@ -6,15 +6,15 @@
         "[Supplies]": "[Supplies]\n02100000 908D0B68 000003E7\n\n",
         "[Money]": "[Money]\n02100000 908D0B54 0000270F\n\n"
     },
-    "attribution": {
-        "PathWay v1.2.3 ver 1.2.3 by Alonenight.txt": "note: Infinite Jump can be used after learning double jump\n",
-        "PathWay ver 1.2.3 by Patjenova.txt": "note: Infinite Jump can be used after learning double jump\n"
-    },
     "4620F3BB04D55348430F1AF6F94F67C4B0552BFA000000000000000000000000": {
         "[01# Inf Health]": "[01# Inf Health]\n040A0000 00C0C700 B9419100\n040A0000 00C0C704 7100001F\n040A0000 00C0C708 54000081\n040A0000 00C0C70C 52807CE0\n040A0000 00C0C710 B9015100\n040A0000 00C0C714 B9016D00\n040A0000 00C0C718 B9415100\n040A0000 00C0C71C D65F03C0\n040A0000 005BA128 94194976\n\n",
         "[Ammo]": "[Ammo]\n02100000 908D0B50 000003E7\n\n",
         "[Fuel]": "[Fuel]\n02100000 908D0B58 00000019\n\n",
         "[Money]": "[Money]\n02100000 908D0B54 0000270F\n\n",
         "[Supplies]": "[Supplies]\n02100000 908D0B68 000003E7\n\n"
+    },
+    "attribution": {
+        "PathWay v1.2.3 ver 1.2.3 by Alonenight.txt": "note: Infinite Jump can be used after learning double jump\n",
+        "PathWay ver 1.2.3 by Patjenova.txt": "note: Infinite Jump can be used after learning double jump\n"
     }
 }

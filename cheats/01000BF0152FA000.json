@@ -25,9 +25,6 @@
         "[11# Max Exp]": "[11# Max Exp]\n040A0000 009BB100 0B08414A\n\n",
         "[Max Exp (off)]": "[Max Exp (off)]\n040A0000 009BB100 0B08014A\n\n"
     },
-    "attribution": {
-        "Zombie Army 4 Dead War.txt": "By Hazerou"
-    },
     "CEC15ED08AA67444": {
         "[01# Inf HP]": "[01# Inf HP]\n040A0000 011DBD40 7100051F\n040A0000 011DBD44 54000041 040A0000 011DBD48\n1E2703E0 040A0000 011DBD4C\n4EA01C09 040A0000\n011DBD50 D65F03C0\n040A0000 00607B6C 942F5075\n\n",
         "[Inf HP (off)]": "[Inf HP (off)]\n040A0000 00607BBC 4EA01C09\n\n",
@@ -51,5 +48,8 @@
         "[Edit Upgrade Kits (off)]": "[Edit Upgrade Kits (off)]\n040A0000 0109F2C8 79474D08\n\n",
         "[11# Max Exp]": "[11# Max Exp]\n040A0000 009BB000 0B08414A\n\n",
         "[Max Exp (off)]": "[Max Exp (off)]\n040A0000 009BB000 0B08014A\n\n"
+    },
+    "attribution": {
+        "Zombie Army 4 Dead War.txt": "By Hazerou"
     }
 }

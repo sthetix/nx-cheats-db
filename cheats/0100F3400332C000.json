@@ -36,9 +36,6 @@
         "[The most lucky value for all members]": "[The most lucky value for all members]\n040B0000 0022656C 1A898133\n\n",
         "[Damage Limit Breakthrough]": "[Damage Limit Breakthrough]\n040B0000 00063538 52A001FB\n040B0000 0006353C 728847FB\n040B0000 000635DC 52A001FB\n040B0000 000635E0 728847FB\n\n"
     },
-    "attribution": {
-        "Xenoblade 2 (JP).txt": "By Hazerou, masagrator\n\n60 FPS codes are based from Masagrator's here;\nhttps://github.com/masagrator/NXGraphicsPatches/blob/experimental/Xenoblade%20Chronicles%202/Xenoblade260FPS-alpha/0100E95004038000/cheats/D007651BC7C6A51E.txt\n\n60 FPS known issues;\n\n1.) Game Speed will slow down whenever FPS Drops.\n\n2.) Might not work properly if you have a Patch/Mod installed.\n\nThe Cutscenes Speed Fix drops the FPS to 30 to fix the Game from Speeding up whenever Cutscenes occur.\n\nIncluded in the text file;\n\n[Handheld RRS 70% (376p)]\n[Handheld RRS 88.88% (480p)]\n[Default Handheld RRS 100% (544p)]\n[Handheld RRS 113.33% (616p)]\n[Handheld RRS 133.33% (720p)]\n[Default Docked RRS 100% (720p)]\n[Disable RRS Lock (Re-Enable D.R.S.)]\n\n\nNotes; \n\n1.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.\nPlease use;\nHandheld RRS for Handheld Mode.\nDocked RRS for Docked Mode.\n\n2.) [RRS] may not work or may not be accurate if there's a Mod/Patch used such as Resolution/Graphics Mod etc.\n\n3.) Going above 720p Crashes the game."
-    },
     "E3938FA78579C1CAB27FB0ECEF1314E800000000000000000000000000000000": {
         "[10 times the amount of Ethereum obtained from slot machines]": "[10 times the amount of Ethereum obtained from slot machines]\n040B0000 0064FC8C 1100294A\n040B0000 0064FC9C 1100294A\n\n",
         "[16 times experience]": "[16 times experience]\n040B0000 008B34B0 52800203\n040B0000 008B34B4 1B037C21\n040B0000 008B34B8 2A0103F3\n040B0000 008B34BC D65F03C0\n040B0000 002DA498 94176406\n040B0000 002DAAA0 0B161008\n040B0000 002DAAF8 0B161008\n\n",
@@ -66,5 +63,8 @@
         "[SP is not reduced]": "[SP is not reduced]\n040B0000 008B34C0 7100003F\n040B0000 008B34C4 5400004C\n040B0000 008B34C8 2A1F03E1\n040B0000 008B34CC 2A0103F3\n040B0000 008B34D0 D65F03C0\n040B0000 00247608 9419AFAE\n\n",
         "[The most lucky value for all members]": "[The most lucky value for all members]\n040B0000 0022656C 1A898133\n\n",
         "[WP is not reduced]": "[WP is not reduced]\n040B0000 008B34D4 7100005F\n040B0000 008B34D8 5400004C\n040B0000 008B34DC 2A1F03E2\n040B0000 008B34E0 51000408\n040B0000 008B34E4 D65F03C0\n040B0000 00249090 9419A911\n\n"
+    },
+    "attribution": {
+        "Xenoblade 2 (JP).txt": "By Hazerou, masagrator\n\n60 FPS codes are based from Masagrator's here;\nhttps://github.com/masagrator/NXGraphicsPatches/blob/experimental/Xenoblade%20Chronicles%202/Xenoblade260FPS-alpha/0100E95004038000/cheats/D007651BC7C6A51E.txt\n\n60 FPS known issues;\n\n1.) Game Speed will slow down whenever FPS Drops.\n\n2.) Might not work properly if you have a Patch/Mod installed.\n\nThe Cutscenes Speed Fix drops the FPS to 30 to fix the Game from Speeding up whenever Cutscenes occur.\n\nIncluded in the text file;\n\n[Handheld RRS 70% (376p)]\n[Handheld RRS 88.88% (480p)]\n[Default Handheld RRS 100% (544p)]\n[Handheld RRS 113.33% (616p)]\n[Handheld RRS 133.33% (720p)]\n[Default Docked RRS 100% (720p)]\n[Disable RRS Lock (Re-Enable D.R.S.)]\n\n\nNotes; \n\n1.) [RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.\nPlease use;\nHandheld RRS for Handheld Mode.\nDocked RRS for Docked Mode.\n\n2.) [RRS] may not work or may not be accurate if there's a Mod/Patch used such as Resolution/Graphics Mod etc.\n\n3.) Going above 720p Crashes the game."
     }
 }

@@ -9,9 +9,6 @@
         "[Inf Bombs]": "[Inf Bombs]\n011F0000 02156835 00000009\n\n",
         "[Inf Coins]": "[Inf Coins]\n021F0000 02156844 00009909\n\n"
     },
-    "attribution": {
-        "Ultracore ver 1.0.0 by ZiT.txt": "Simple codes. Most of the time Unlimited Health does not work! I do not know how to make pointers, sorry!\n"
-    },
     "13082AAB64BDB5090BB27076FB8DF49A0C50006C000000000000000000000000": {
         "[Inf Ammo]": "[Inf Ammo]\n021F0000 0215560E 00009999\n\n",
         "[Inf Bombs]": "[Inf Bombs]\n011F0000 02156835 00000009\n\n",
@@ -21,5 +18,8 @@
         "[Inf Time]": "[Inf Time]\n021F0000 02155442 00009909\n\n",
         "[Invincible]": "[Invincible]\n011F0000 021555FB 00000063\n\n",
         "[Moon Jump]": "[Moon Jump]\n80000002\n041F0000 02156645 0EFF0090\n20000000\n\n"
+    },
+    "attribution": {
+        "Ultracore ver 1.0.0 by ZiT.txt": "Simple codes. Most of the time Unlimited Health does not work! I do not know how to make pointers, sorry!\n"
     }
 }

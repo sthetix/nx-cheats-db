@@ -15,9 +15,6 @@
         "[06# Increase Speed]": "[06# Increase Speed]\n040A0000 007A128C BD458660\n80000200\n040A0000 03CB2260 1C000040\n040A0000 03CB2264 D65F03C0\n040A0000 03CB2268 45000000\n040A0000 007A128C 94D443F5\n20000000\n\n",
         "[Increase Speed (off)]": "[Increase Speed (off)]\n040A0000 007A128C BD458660\n\n"
     },
-    "attribution": {
-        "Kao the Kangaroo 1.1 by Tomswitch and patjenova.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
-    },
     "8FB0C2D2A6730D26E80BC8E1A39AF88300000000000000000000000000000000": {
         "[01# Inf Health]": "[01# Inf Health]\n040A0000 0078F3CC 52807CE0\n\n",
         "[03# Invincible]": "[03# Invincible]\n040A0000 03CB2240 396B1269\n040A0000 03CB2244 B944CAA3\n040A0000 03CB2248 7100047F\n040A0000 03CB224C 54000041\n040A0000 03CB2240 52800029\n040A0000 03CB2244 172BC5CE\n040A0000 007A3978 14D43A32\n\n",
@@ -32,5 +29,8 @@
         "[Inf Power (off)]": "[Inf Power (off)]\n040A0000 006D2830 BD42B401\n\n",
         "[Infinite Jump]": "[Infinite Jump]\n580F0000 06F4ADD0\n580F1000 00000020\n780F0000 00000348\n640F0000 00000000 00000000\n\n",
         "[Invincible (off)]": "[Invincible (off)]\n040A0000 007A3978 396B1269\n\n"
+    },
+    "attribution": {
+        "Kao the Kangaroo 1.1 by Tomswitch and patjenova.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
     }
 }

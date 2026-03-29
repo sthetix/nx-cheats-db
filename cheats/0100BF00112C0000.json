@@ -108,10 +108,6 @@
         "[60 FPS (2x Cutscene Speed)]": "[60 FPS (2x Cutscene Speed)]\n580F0000 031D1400\n780F0000 00000F14\nC046F400 00000001\n640F0000 00000000 00000001\n20000000\n\n",
         "[30 FPS]": "[30 FPS]\n580F0000 031D1400\n780F0000 00000F14\nC046F400 00000001\n640F0000 00000000 00000002\n20000000\n\n"
     },
-    "attribution": {
-        "Catherine Full Body ver 1.0.1 by lionheartwolf.txt": "caution\ncan some problems",
-        "Catherine Full Body.txt": "By AnimatedSwine37\nCutscenes seem to play at double speed (voicelines play earlier than they should and can overlap)\nBreaks some gameplay elements such as timers\n"
-    },
     "93A79C77DA81F7F15DB021C5C7431EB46863D89C000000000000000000000000": {
         "[all inggredients locked 9999]": "[all inggredients locked 9999]\n04000000 00C428A0 9B280268\n04000000 00C428A4 5293A509\n04000000 00C428A8 7100027F\n04000000 00C428AC 540000A0\n04000000 00C428B0 7100067F\n04000000 00C428B4 54000060\n04000000 00C428B8 D284E1E0\n04000000 00C428BC F8296900\n04000000 00C428C0 D65F03C0\n04000000 004E0BD0 941D8734\n\n",
         "[all ingredients locked 99]": "[all ingredients locked 99]\n04000000 00C428A0 9B280268\n04000000 00C428A4 5293A509\n04000000 00C428A8 7100027F\n04000000 00C428AC 540000A0\n04000000 00C428B0 7100067F\n04000000 00C428B4 54000060\n04000000 00C428B8 D2800C60\n04000000 00C428BC F8296900\n04000000 00C428C0 D65F03C0\n04000000 004E0BD0 941D8734\n\n",
@@ -217,5 +213,9 @@
         "[skill no cooldown OFF]": "[skill no cooldown OFF]\n04000000 00714400 1E28CD20\n04000000 007CE1F0 14000002\n04000000 0098C29C 1E20CD08\n04000000 0098C588 1E20CD08\n\n",
         "[skill no cooldown]": "[skill no cooldown]\n04000000 00714400 1E2703E0\n04000000 007CE1F0 2A0003E0\n04000000 0098C29C 1E2703E8\n04000000 0098C588 1E2703E8\n\n",
         "[storage limit up max 910]": "[storage limit up max 910]\n04000000 004742A0 528071C0\n04000000 00481AF0 710E341F\n04000000 00481BE0 528071C8\n04000000 00481BF8 710DE93F\n04000000 00481C84 710E341F\n\n"
+    },
+    "attribution": {
+        "Catherine Full Body ver 1.0.1 by lionheartwolf.txt": "caution\ncan some problems",
+        "Catherine Full Body.txt": "By AnimatedSwine37\nCutscenes seem to play at double speed (voicelines play earlier than they should and can overlap)\nBreaks some gameplay elements such as timers\n"
     }
 }

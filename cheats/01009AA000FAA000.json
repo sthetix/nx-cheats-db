@@ -18,14 +18,6 @@
         "[All Silver Coins - UNLOCKS EXTRAS]": "[All Silver Coins - UNLOCKS EXTRAS]\n01110000 2e8125e4 00000020\n\n",
         "[USE ONE AT A TIME]": "[USE ONE AT A TIME]\n00000000 00000000 00000000\n\n"
     },
-    "03FD152E17A841C": {
-        "[Low Time]": "[Low Time]\n01010000 0185314D\n00000000\n\n",
-        "[999 Rings Big Coin Bonus Stage Press R]": "[999 Rings Big Coin Bonus Stage Press R]\n80000080 02110000\n2EC4462C 000003E7\n\n",
-        "[All Silver Coins]": "[All Silver Coins]\n01110000 2E8125E4\n00000020\n\n",
-        "[1 Blue Orb To Win Checkpoint Bonus Stage Press L]": "[1 Blue Orb To Win Checkpoint Bonus Stage Press L]\n80000040 01110000\n2EC448C8 00000000\n\n",
-        "[9999999 Rings]": "[9999999 Rings]\n04010000 006C7634\n0098967F\n\n",
-        "[99 Lives]": "[99 Lives]\n01010000 006C7640\n00000063\n\n"
-    },
     "03FD1524E17A841C71A697E4C0B04E1600000000000000000000000000000000": {
         "[1 Blue Orb To Win Checkpoint Bonus Stage Press L]": "[1 Blue Orb To Win Checkpoint Bonus Stage Press L]\n80000040 01110000 2EC448C8 00000000\n\n",
         "[99 Lives]": "[99 Lives]\n580F0000 00494A48\n780F0000 000000F8\n640F0000 00000063\n\n",
@@ -41,5 +33,13 @@
         "[Max Score]": "[Max Score]\n580F0000 00494A48\n780F0000 000000FC\n640F0000 0098967F\n\n",
         "[Shield]": "[Shield]\n01010000 006C763C 00000001\n\n",
         "[Thunder]": "[Thunder]\n01010000 006C763C 00000004\n\n"
+    },
+    "03FD152E17A841C": {
+        "[Low Time]": "[Low Time]\n01010000 0185314D\n00000000\n\n",
+        "[999 Rings Big Coin Bonus Stage Press R]": "[999 Rings Big Coin Bonus Stage Press R]\n80000080 02110000\n2EC4462C 000003E7\n\n",
+        "[All Silver Coins]": "[All Silver Coins]\n01110000 2E8125E4\n00000020\n\n",
+        "[1 Blue Orb To Win Checkpoint Bonus Stage Press L]": "[1 Blue Orb To Win Checkpoint Bonus Stage Press L]\n80000040 01110000\n2EC448C8 00000000\n\n",
+        "[9999999 Rings]": "[9999999 Rings]\n04010000 006C7634\n0098967F\n\n",
+        "[99 Lives]": "[99 Lives]\n01010000 006C7640\n00000063\n\n"
     }
 }

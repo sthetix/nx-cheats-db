@@ -15,9 +15,6 @@
         "[Immune against Poison, Silence, Stun and Reaper (On)]": "[Immune against Poison, Silence, Stun and Reaper (On)]\n04000000 002AFA74 52800000\n04000000 002AFA78 11019000\n04000000 002AFA84 52800000\n04000000 002AFA88 11019000\n04000000 002AFA94 52800000\n04000000 002AFA98 11019000\n04000000 002AF7A0 52800020\n\n",
         "[*Inf Hp All Players]": "[*Inf Hp All Players]\n580F0000 02899F78\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000118\n580F1000 00000050\n780F0000 000001F8\n640F0000 00000000 00000378\n\n"
     },
-    "attribution": {
-        "Azure Saga Pathfinder ver 1.0.0 by jericoss.txt": "Ammo 255 don't always work. The other two seems to be consistent"
-    },
     "2C8FC0457727CC4EBFF8F9AADEC4FCAA00000000000000000000000000000000": {
         "[*Inf Hp All Players]": "[*Inf Hp All Players]\n580F0000 02899F78\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000118\n580F1000 00000050\n780F0000 000001F8\n640F0000 00000000 00000378\n\n",
         "[*Inf Mp All Players]": "[*Inf Mp All Players]\n580F0000 02899F78\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000118\n580F1000 00000050\n780F0000 000001FC\n640F0000 00000000 00000378\n\n",
@@ -32,5 +29,8 @@
         "[Skills & Combos cost 0 MP (On)]": "[Skills & Combos cost 0 MP (On)]\n04000000 002C6450 52800000\n04000000 002C5FEC 52800000\n\n",
         "[Unlock all Combos (Off)]": "[Unlock all Combos (Off)]\n04000000 002DF3AC F81D0FF5\n04000000 002DF3B0 A9014FF4\n\n",
         "[Unlock all Combos (On)]": "[Unlock all Combos (On)]\n04000000 002DF3AC 52800020\n04000000 002DF3B0 D65F03C0\n\n"
+    },
+    "attribution": {
+        "Azure Saga Pathfinder ver 1.0.0 by jericoss.txt": "Ammo 255 don't always work. The other two seems to be consistent"
     }
 }

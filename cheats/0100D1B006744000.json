@@ -15,9 +15,6 @@
         "[Crash 3 - 255 Lives]": "[Crash 3 - 255 Lives]\n580F0000 03C905E0\n780F1000 000001A4\n680F0000 00000000 000003E7\n\n",
         "[Crash 1 - 255 Lives]": "[Crash 1 - 255 Lives]\n580F0000 03CDF188\n780F1000 000054C0\n680F0000 00000000 000003E7\n\n"
     },
-    "attribution": {
-        "CRASH BANDICOOT\u2122 N. SANE TRILOGY.txt": "By ChanseyIsTheBest"
-    },
     "29E1A37D84227147A50A18D055FBB03200000000000000000000000000000000": {
         "[3-3 Tawna Tokens]": "[3-3 Tawna Tokens]\n01100000 9422FE00 00000003\n\n",
         "[99 Apples]": "[99 Apples]\n01100000 94233140 00000063\n\n",
@@ -31,5 +28,8 @@
         "[Have all Sapphire Relics N Sanity Island]": "[Have all Sapphire Relics N Sanity Island]\n01100000 905722D8 00000008\n\n",
         "[Have all Silver Crystals]": "[Have all Silver Crystals]\n01100000 905722D4 0000001A\n\n",
         "[Unlimited Lives]": "[Unlimited Lives]\n01100000 905722CC 00000063\n\n"
+    },
+    "attribution": {
+        "CRASH BANDICOOT\u2122 N. SANE TRILOGY.txt": "By ChanseyIsTheBest"
     }
 }

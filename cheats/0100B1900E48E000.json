@@ -34,9 +34,6 @@
         "[P2+3 Only (Hold R)]": "[P2+3 Only (Hold R)]\n80000080\n04100000 03EAC76C 00010100\n20000000\n\n",
         "[P1 Only (Hold +)]": "[P1 Only (Hold +)]\n80000400\n04100000 03EAC76C 00000001\n20000000\n\n"
     },
-    "attribution": {
-        "DRAGON QUEST II by zit.txt": " [Walk through Walls]\nHold R : Right & Left\nHold R+L : Down\n"
-    },
     "D84098833BF007C606C6F0E7F7F47E215F681899000000000000000000000000": {
         "[All Party (Hold L)]": "[All Party (Hold L)]\n80000040\n04100000 03EAC76C 00010101\n20000000\n\n",
         "[Gold]": "[Gold]\n04100000 03EAC7F0 000F423F\n\n",
@@ -71,5 +68,8 @@
         "[P3 Only (Hold ZR)]": "[P3 Only (Hold ZR)]\n80000200\n04100000 03EAC76C 00010000\n20000000\n\n",
         "[P3 Protection MAX]": "[P3 Protection MAX]\n04100000 03EAC738 000003E7\n\n",
         "[P3 Strength MAX]": "[P3 Strength MAX]\n04100000 03EAC720 000003E7\n\n"
+    },
+    "attribution": {
+        "DRAGON QUEST II by zit.txt": " [Walk through Walls]\nHold R : Right & Left\nHold R+L : Down\n"
     }
 }

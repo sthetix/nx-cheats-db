@@ -18,9 +18,6 @@
         "[Infinite Health]": "[Infinite Health]\n04100000 A0805862 00000BD0\n\n",
         "[Max Red Orbs (Press L3)]": "[Max Red Orbs (Press L3)]\n80000010 04100000 A0802674 3B9AC9FF\n20000000\n\n"
     },
-    "attribution": {
-        "Devil May Cry By Zit866.txt": ""
-    },
     "883F54C67475ABAE9611355F210059F800000000000000000000000000000000": {
         "[0 Times Saved]": "[0 Times Saved]\n01100000 A083B860 00000000\n01100000 A083AEF0 00000000\n\n",
         "[3/4 Blu Orbs]": "[3/4 Blu Orbs]\n01100000 A0802678 00000003\n\n",
@@ -39,5 +36,8 @@
         "[Moon Jump]": "[Moon Jump]\n80000002\n580F0000 04A46888\n780F0000 0000026C\n640F0000 00000000 43000000\n20000000\n\n",
         "[Unlock all Achievements]": "[Unlock all Achievements]\n04100000 A0801F5C FFFFFFFF\n01100000 A0801F63 000000FF\n\n",
         "[Unlock all Game Modes]": "[Unlock all Game Modes]\n02100000 A0801F56 00007FFF\n\n"
+    },
+    "attribution": {
+        "Devil May Cry By Zit866.txt": ""
     }
 }

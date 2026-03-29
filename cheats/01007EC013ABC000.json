@@ -5,15 +5,11 @@
         "[rope 99]": "[rope 99]\n01100000 2E809E8D 00000063\n\n",
         "[life 99]": "[life 99]\n01100000 2E809E92 00000063\n\n"
     },
-    "attribution": {
-        "Spelunky 2 ver 1.23 by jericoss.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
-    },
-    "BBB29F6D5B5A7C05": {
-        "[hearts]": "[hearts]\n580F0000 15C4E208\n580F1000 00000148\n580F1000 00001658\n580F1000 00000008\n780F0000 00000127\n610F0000 00000000 00000004\n\n",
-        "[bombs]": "[bombs]\n01100000 2E809E8C 00000004\n\n",
-        "[moonjump]": "[moonjump]\n80000100\n580F0000 15C4E208\n580F1000 00000148\n580F1000 00001658\n580F1000 00000008\n780F0000 0000011C\n640F0000 00000000 3E4CCCCD\n20000000\n\n",
-        "[rope]": "[rope]\n01100000 2E809E8D 00000004\n\n",
-        "[gold static]": "[gold static]\n04100000 2E809E88 0000C350\n\n"
+    "A5A0BEA13AD893FEA950201B003CDC0048765B1F000000000000000000000000": {
+        "[bomd 99]": "[bomd 99]\n01100000 2E809E8C 00000063\n\n",
+        "[coin]": "[coin]\n04100000 2E809E88 05F5E100\n\n",
+        "[life 99]": "[life 99]\n01100000 2E809E92 00000063\n\n",
+        "[rope 99]": "[rope 99]\n01100000 2E809E8D 00000063\n\n"
     },
     "B2310BC94B6012BD": {
         "[gold static]": "[gold static]\n04100000 2E809E88 0000C350\n\n",
@@ -22,11 +18,12 @@
         "[moonjump]": "[moonjump]\n80000100\n580F0000 15C4E208\n580F1000 00000148\n580F1000 00001658\n580F1000 00000008\n780F0000 0000011C\n640F0000 00000000 3E4CCCCD\n20000000\n\n",
         "[hearts]": "[hearts]\n580F0000 15C4E208\n580F1000 00000148\n580F1000 00001658\n580F1000 00000008\n780F0000 00000127\n610F0000 00000000 00000004\n\n"
     },
-    "A5A0BEA13AD893FEA950201B003CDC0048765B1F000000000000000000000000": {
-        "[bomd 99]": "[bomd 99]\n01100000 2E809E8C 00000063\n\n",
-        "[coin]": "[coin]\n04100000 2E809E88 05F5E100\n\n",
-        "[life 99]": "[life 99]\n01100000 2E809E92 00000063\n\n",
-        "[rope 99]": "[rope 99]\n01100000 2E809E8D 00000063\n\n"
+    "BBB29F6D5B5A7C05": {
+        "[hearts]": "[hearts]\n580F0000 15C4E208\n580F1000 00000148\n580F1000 00001658\n580F1000 00000008\n780F0000 00000127\n610F0000 00000000 00000004\n\n",
+        "[bombs]": "[bombs]\n01100000 2E809E8C 00000004\n\n",
+        "[moonjump]": "[moonjump]\n80000100\n580F0000 15C4E208\n580F1000 00000148\n580F1000 00001658\n580F1000 00000008\n780F0000 0000011C\n640F0000 00000000 3E4CCCCD\n20000000\n\n",
+        "[rope]": "[rope]\n01100000 2E809E8D 00000004\n\n",
+        "[gold static]": "[gold static]\n04100000 2E809E88 0000C350\n\n"
     },
     "BBB29F6D5B5A7C0576635727A1A255FC01750D8D000000000000000000000000": {
         "[bombs]": "[bombs]\n01100000 2E809E8C 00000004\n\n",
@@ -34,5 +31,8 @@
         "[hearts]": "[hearts]\n580F0000 15C4E208\n580F1000 00000148\n580F1000 00001658\n580F1000 00000008\n780F0000 00000127\n610F0000 00000000 00000004\n\n",
         "[moonjump]": "[moonjump]\n80000100\n580F0000 15C4E208\n580F1000 00000148\n580F1000 00001658\n580F1000 00000008\n780F0000 0000011C\n640F0000 00000000 3E4CCCCD\n20000000\n\n",
         "[rope]": "[rope]\n01100000 2E809E8D 00000004\n\n"
+    },
+    "attribution": {
+        "Spelunky 2 ver 1.23 by jericoss.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
     }
 }

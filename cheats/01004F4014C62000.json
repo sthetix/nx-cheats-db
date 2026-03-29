@@ -26,9 +26,6 @@
         "[Quick Destroy (off)]": "[Quick Destroy (off)]\n040A0000 016470D0 BD406C00\n\n",
         "[13# Quick Build]": "[13# Quick Build]\n040A0000 016470D8 442F0000\n040A0000 016470D0 1C000040\n\n"
     },
-    "attribution": {
-        "Stranded Deep ver 1.0.1 by patjenova.txt": "[For EXP rate: 05,09,0D,12,15,19,1D,etc can be used]\n[Created by Eiffel2018]"
-    },
     "61975B301708E44BA4A44158D6E16F8800000000000000000000000000000000": {
         "[01# Inf Health]": "[01# Inf Health]\n040A0000 018FB7A8 442F0000\n040A0000 018FB794 1C0000A8\n\n",
         "[02# Unlimited Crafting]": "[02# Unlimited Crafting]\n040A0000 017D964C 52800154\n\n",
@@ -55,5 +52,8 @@
         "[Protected from Sun (off)]": "[Protected from Sun (off)]\n040A0000 01902A84 BD404268\n\n",
         "[Quick Destroy (off)]": "[Quick Destroy (off)]\n040A0000 016470D0 BD406C00\n\n",
         "[Unlimited Crafting (off)]": "[Unlimited Crafting (off)]\n040A0000 017D964C 2A0203F4\n\n"
+    },
+    "attribution": {
+        "Stranded Deep ver 1.0.1 by patjenova.txt": "[For EXP rate: 05,09,0D,12,15,19,1D,etc can be used]\n[Created by Eiffel2018]"
     }
 }

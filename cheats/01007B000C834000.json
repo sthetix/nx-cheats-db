@@ -10,9 +10,6 @@
         "[AI's Lag The Game ON]": "[AI's Lag The Game ON]\n04000000 0895C850 46000000\n\n",
         "[AI's Lag The Game OFF]": "[AI's Lag The Game OFF]\n04000000 0895C850 00000000\n\n"
     },
-    "attribution": {
-        "Asphalt 9 Legends by Ro_.txt": "Simple codes. Most of the time Unlimited Health does not work! I do not know how to make pointers, sorry!\n"
-    },
     "B1C2D8F36CD4725B7AE4F034A565F7105B080C81000000000000000000000000": {
         "[AI's Lag The Game OFF]": "[AI's Lag The Game OFF]\n04000000 0895C850 00000000\n\n",
         "[AI's Lag The Game ON]": "[AI's Lag The Game ON]\n04000000 0895C850 46000000\n\n",
@@ -23,5 +20,8 @@
         "[Ghost AI's ON]": "[Ghost AI's ON]\n04000000 0895C830 00000000\n04000000 0895C82C 00000000\n\n",
         "[Spazz of Death & Everlasting 360 OFF]": "[Spazz of Death & Everlasting 360 OFF]\n04000000 06D43718 3F000000\n\n",
         "[Spazz of Death ON]": "[Spazz of Death ON]\n04000000 06D43718 3F800000\n\n"
+    },
+    "attribution": {
+        "Asphalt 9 Legends by Ro_.txt": "Simple codes. Most of the time Unlimited Health does not work! I do not know how to make pointers, sorry!\n"
     }
 }

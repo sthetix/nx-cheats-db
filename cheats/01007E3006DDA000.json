@@ -20,14 +20,14 @@
         "[Play As Magolor Enable on Map]": "[Play As Magolor Enable on Map]\n04100000 6301EEF8 00000041\n\n",
         "[Play as Kirby Enable on Map]": "[Play as Kirby Enable on Map]\n04100000 6301EEF8 00000001\n\n"
     },
-    "attribution": {
-        "Kirby Star Allies by wiitendo84.txt": "Finf More Cheats codes on\n\nhttps://sxcodejunkies.gamegadget.co.uk\n\n",
-        "Kirby Star Allies.txt": "By Kirby564fan\nhttps://gbatemp.net/threads/kirby-star-allies-60fps-hack.551834/\n"
-    },
     "D55608916FA56C184F2A8FE80DA0427C00000000000000000000000000000000": {
         "[Infinite Health Kirby]": "[Infinite Health Kirby]\n58000000 005400A8\n58001000 00000358\n58001000 00000030\n58001000 000001A0\n78000000 00000050\n64000000 00000000 000003E7\n\n",
         "[Infinite Lives]": "[Infinite Lives]\n58000000 005400E8\n58001000 000000A8\n58001000 00000290\n58001000 000000C0\n78000000 00000068\n64000000 00000000 00000063\n\n",
         "[Kirby Ultimate Infinite Health]": "[Kirby Ultimate Infinite Health]\n58000000 005400A8\n58001000 00000078\n58001000 000002C8\n58001000 00000030\n58001000 000001A0\n78000000 00000050\n64000000 00000000 000003E7\n\n",
         "[Max Power-Up Heart]": "[Max Power-Up Heart]\n80000010\n011F0000 719A1130 00000005\n011F0000 719A1134 00000005\n011F0000 719A1138 00000005\n20000000\n\n"
+    },
+    "attribution": {
+        "Kirby Star Allies by wiitendo84.txt": "Finf More Cheats codes on\n\nhttps://sxcodejunkies.gamegadget.co.uk\n\n",
+        "Kirby Star Allies.txt": "By Kirby564fan\nhttps://gbatemp.net/threads/kirby-star-allies-60fps-hack.551834/\n"
     }
 }

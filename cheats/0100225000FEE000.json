@@ -11,6 +11,18 @@
         "[Have All Maps]": "[Have All Maps]\n02000000 0032cff1 000001ff\n\n",
         "[Unlock EXTRA]": "[Unlock EXTRA]\n01000000 0032cfc1 00000001\n\n"
     },
+    "2F3FCA7B168909B944DACB2C3D026B6F00000000000000000000000000000000": {
+        "[All HP Upgrades]": "[All HP Upgrades]\n01000000 0032CFEE 000000FF\n\n",
+        "[Car All Weapons]": "[Car All Weapons]\n01000000 0032CFEB 0000001F\n02000000 0032CFEC 00001FFF\n\n",
+        "[Have All Keys]": "[Have All Keys]\n01000000 0032CFF0 0000001F\n\n",
+        "[Have All Maps]": "[Have All Maps]\n02000000 0032CFF1 000001FF\n\n",
+        "[Human Have All Weapons]": "[Human Have All Weapons]\n01000000 0032CFEA 0000003F\n01000000 0073ECF0 00000008\n\n",
+        "[Human Infinite Ammo]": "[Human Infinite Ammo]\n01000000 0073ECF3 0000000A\n04000000 0073ECF4 0105050A\n\n",
+        "[Human Infinite Weapon Guard]": "[Human Infinite Weapon Guard]\n04000000 0073ED7C 00000000\n\n",
+        "[Infinite HP]": "[Infinite HP]\n540F0000 0073ED84\n540F1000 00000328\n740F0000 0000000C\n610F0000 00000000 00000010\n\n",
+        "[Infinite SP]": "[Infinite SP]\n01000000 0073ECEA 00000008\n\n",
+        "[Unlock EXTRA]": "[Unlock EXTRA]\n01000000 0032CFC1 00000001\n\n"
+    },
     "A3BCE5521B979943": {
         "[Jason Infinite SP]": "[Jason Infinite SP]\n01000000 0050e3e6 00000008\n\n",
         "[Infinite HP]": "[Infinite HP]\n540f0000 0050e484\n540f1000 00000328\n740f0000 0000000c\n610f0000 00000000 00000010\n\n",
@@ -26,17 +38,6 @@
         "[Inf Tank Sub Weapon]": "[Inf Tank Sub Weapon]\n04000000 00131838\nE1A00000 04000000\n00131844 E3A05008\n\n",
         "[Infinite SP]": "[Infinite SP]\n01000000 0050e3e6 00000008\n\n"
     },
-    "CB248EFC0E80B579": {
-        "[Ship Energy unlimited]": "[Ship Energy unlimited]\n01100000 20049014 00000008\n\n",
-        "[Human Energy unlimited]": "[Human Energy unlimited]\n01100000 20049674 00000008\n\n"
-    },
-    "attribution": {
-        "Blaster Master Zero ver 1.5.2 by merlin555.txt": " Inf Health should be used in conjunction with Inf Armor."
-    },
-    "CB248EFC0E80B5792298993267E45FEE34541DB9000000000000000000000000": {
-        "[Human Energy unlimited]": "[Human Energy unlimited]\n01100000 20049674 00000008\n\n",
-        "[Ship Energy unlimited]": "[Ship Energy unlimited]\n01100000 20049014 00000008\n\n"
-    },
     "A3BCE5521B979943E844751A0E68A6A600000000000000000000000000000000": {
         "[All HP Upgrades]": "[All HP Upgrades]\n01000000 003DFC3E 000000FF\n\n",
         "[Car All Weapons]": "[Car All Weapons]\n01000000 003DFC3B 0000001F\n02000000 003DFC3E 00001FFF\n\n",
@@ -51,16 +52,15 @@
         "[Jason Infinite SP]": "[Jason Infinite SP]\n01000000 0050E3E6 00000008\n\n",
         "[Unlock EXTRA]": "[Unlock EXTRA]\n01000000 003DFC11 00000001\n\n"
     },
-    "2F3FCA7B168909B944DACB2C3D026B6F00000000000000000000000000000000": {
-        "[All HP Upgrades]": "[All HP Upgrades]\n01000000 0032CFEE 000000FF\n\n",
-        "[Car All Weapons]": "[Car All Weapons]\n01000000 0032CFEB 0000001F\n02000000 0032CFEC 00001FFF\n\n",
-        "[Have All Keys]": "[Have All Keys]\n01000000 0032CFF0 0000001F\n\n",
-        "[Have All Maps]": "[Have All Maps]\n02000000 0032CFF1 000001FF\n\n",
-        "[Human Have All Weapons]": "[Human Have All Weapons]\n01000000 0032CFEA 0000003F\n01000000 0073ECF0 00000008\n\n",
-        "[Human Infinite Ammo]": "[Human Infinite Ammo]\n01000000 0073ECF3 0000000A\n04000000 0073ECF4 0105050A\n\n",
-        "[Human Infinite Weapon Guard]": "[Human Infinite Weapon Guard]\n04000000 0073ED7C 00000000\n\n",
-        "[Infinite HP]": "[Infinite HP]\n540F0000 0073ED84\n540F1000 00000328\n740F0000 0000000C\n610F0000 00000000 00000010\n\n",
-        "[Infinite SP]": "[Infinite SP]\n01000000 0073ECEA 00000008\n\n",
-        "[Unlock EXTRA]": "[Unlock EXTRA]\n01000000 0032CFC1 00000001\n\n"
+    "CB248EFC0E80B579": {
+        "[Ship Energy unlimited]": "[Ship Energy unlimited]\n01100000 20049014 00000008\n\n",
+        "[Human Energy unlimited]": "[Human Energy unlimited]\n01100000 20049674 00000008\n\n"
+    },
+    "CB248EFC0E80B5792298993267E45FEE34541DB9000000000000000000000000": {
+        "[Human Energy unlimited]": "[Human Energy unlimited]\n01100000 20049674 00000008\n\n",
+        "[Ship Energy unlimited]": "[Ship Energy unlimited]\n01100000 20049014 00000008\n\n"
+    },
+    "attribution": {
+        "Blaster Master Zero ver 1.5.2 by merlin555.txt": " Inf Health should be used in conjunction with Inf Armor."
     }
 }

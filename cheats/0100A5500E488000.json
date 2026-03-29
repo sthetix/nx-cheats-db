@@ -12,9 +12,6 @@
         "[Keys]": "[Keys]\n01100000 A0C270F8 00000006\n\n",
         "[Gold]": "[Gold]\n04100000 A0C27114 0001869F\n\n"
     },
-    "attribution": {
-        "DRAGON QUEST by zit.txt": " [Walk through Walls]\nHold R : Right & Left\nHold R+L : Down\n"
-    },
     "F3845D78427CB89389F55A2AD96CEDC581A2286D000000000000000000000000": {
         "[Agility MAX]": "[Agility MAX]\n04100000 A0C270B0 000003E7\n\n",
         "[Attack MAX]": "[Attack MAX]\n04100000 A0C270C0 000003E7\n\n",
@@ -27,5 +24,8 @@
         "[Max. MP]": "[Max. MP]\n04100000 A0C270BC 000003E7\n\n",
         "[Protection MAX]": "[Protection MAX]\n04100000 A0C270B4 000003E7\n\n",
         "[Strength MAX]": "[Strength MAX]\n04100000 A0C270AC 000003E7\n\n"
+    },
+    "attribution": {
+        "DRAGON QUEST by zit.txt": " [Walk through Walls]\nHold R : Right & Left\nHold R+L : Down\n"
     }
 }

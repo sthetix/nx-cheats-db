@@ -58,10 +58,6 @@
         "[Hookshot Anywhere]": "[Hookshot Anywhere]\n580F0000 005D20C0\n780F0000 00034CEC\n680F0000 01000024 00240200\n\n",
         "{Credit to Arismendy64/Gamerjin/SkyQueen/Rheir}": "{Credit to Arismendy64/Gamerjin/SkyQueen/Rheir}\n20000000\n\n"
     },
-    "attribution": {
-        "Nintendo64 nso Zelda by Arismendy64.txt": "Note: Better use NOEXES to avoid game lag",
-        "Nintendo 64 - Nintendo Switch Online.txt": "By cucholix \n\nImportant: must be enabled via EdiZon overlay during gameplay, the cheat doesn't auto-apply."
-    },
     "EB79EF243458597C0540CF92F9FEE006B05B564E000000000000000000000000": {
         "[20 Hearts + Double Defense]": "[20 Hearts + Double Defense]\n580F0000 005D20C0\n780F0000 0011ACAE\n620F0000 00000000 00004001\n780F0000 00000002\n620F0000 00000000 00004001\n780F0000 0000009F\n610F0000 00000000 00000014\n\n",
         "[500 rupee zelda]": "[500 rupee zelda]\n580F0000 005D20C0\n780F0000 0011ACB5\n620F0000 00000000 0000F401\n\n",
@@ -115,5 +111,9 @@
         "[White/Purple Swipe]": "[White/Purple Swipe]\n580F0000 005D20C0\n780F0000 00116480\n610F0000 00000000 00000000\n\n",
         "[White/Yellow Swipe]": "[White/Yellow Swipe]\n580F0000 005D20C0\n780F0000 00116483\n610F0000 00000000 00000000\n\n",
         "[widescreen hack]": "[widescreen hack]\n580F0000 005D20C0\n400C0000 00000000 00025188\n620C01F0 00000000 00000224\n400C0000 00000000 00092718\n640C01F0 00000000 E33F073C\n\n"
+    },
+    "attribution": {
+        "Nintendo64 nso Zelda by Arismendy64.txt": "Note: Better use NOEXES to avoid game lag",
+        "Nintendo 64 - Nintendo Switch Online.txt": "By cucholix \n\nImportant: must be enabled via EdiZon overlay during gameplay, the cheat doesn't auto-apply."
     }
 }

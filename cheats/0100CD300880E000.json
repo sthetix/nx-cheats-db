@@ -29,9 +29,6 @@
         "[Always Ball 1 STTNG]": "[Always Ball 1 STTNG]\n01000000 1557D668 00000001\n\n",
         "[Always Ball 1or2 StarTroop]": "[Always Ball 1or2 StarTroop]\n01000000 1441D140 00000001\n\n"
     },
-    "attribution": {
-        "The Pinball Arcade ver 1.0.3 by Smoker1.txt": "Simple codes. Most of the time Unlimited Health does not work! I do not know how to make pointers, sorry!\n"
-    },
     "FADC5BB443B6D71519AAA731C382D0F100000000000000000000000000000000": {
         "[Always Ball 1 AtMars]": "[Always Ball 1 AtMars]\n01000000 1557D60E 00000001\n\n",
         "[Always Ball 1 BgSht Genie]": "[Always Ball 1 BgSht Genie]\n01000000 15767B28 00000005\n\n",
@@ -51,5 +48,8 @@
         "[Ball1 Class1812 GOTTLIEB]": "[Ball1 Class1812 GOTTLIEB]\n04000000 155FD500 31202030\n\n",
         "[Ball1 ElviraPartyMon BALLY]": "[Ball1 ElviraPartyMon BALLY]\n01000000 1558D2D8 000000F1\n\n",
         "[Inf Time for Going Nuts GOTTLIEB]": "[Inf Time for Going Nuts GOTTLIEB]\n01000000 15767370 0000003C\n\n"
+    },
+    "attribution": {
+        "The Pinball Arcade ver 1.0.3 by Smoker1.txt": "Simple codes. Most of the time Unlimited Health does not work! I do not know how to make pointers, sorry!\n"
     }
 }

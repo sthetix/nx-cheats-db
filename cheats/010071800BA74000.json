@@ -25,10 +25,6 @@
         "[99 upgrade points]": "[99 upgrade points]\n580F0000 04C0ED60\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000050\n780F0000 00000024\n640F0000 00000000 00000063\n\n",
         "[ess]": "[ess]\n580F0000 04C37A30\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000078\n580F1000 00000048\n780F0000 00000020\n640F0000 00000000 3F800000\n\n"
     },
-    "attribution": {
-        "Aragami shadow edtion ver 1.0.1 by Patjenova.txt": "",
-        "Aragami Shadow Edition.txt": "By Hazerou\nIncluded in the text file;\n[Default 60 FPS]\n[30 FPS]\n[360p Overall Resolution]\n[480p Overall Resolution]\n[540p Overall Resolution]\n[612p Overall Resolution]\n[630p Overall Resolution (Handheld's Default)]\n[720p Overall Resolution]\n[810p Overall Resolution]\n[900p Overall Resolution]\n[1080p Overall Resolution]\n"
-    },
     "F3315F8027A9B24AAF8021306234690300000000000000000000000000000000": {
         "[01# Inf Energy]": "[01# Inf Energy]\n04000000 002CE9C0 D503201F\n\n",
         "[02# No Damage]": "[02# No Damage]\n04000000 00601D90 D65F03C0\n\n",
@@ -43,5 +39,9 @@
         "[Inf Shadow (off)]": "[Inf Shadow (off)]\n04000000 002D0698 B9446268\n\n",
         "[No Damage (off)]": "[No Damage (off)]\n04000000 00601D90 A9BD57F6\n\n",
         "[use]": "[use]\n580F0000 04C0ECA0\n580F1000 000000B8\n580F1000 00000010\n580F1000 00000258\n580F1000 00000160\n580F1000 000001D0\n780F0000 00000018\n640F0000 00000000 0000000B\n\n"
+    },
+    "attribution": {
+        "Aragami shadow edtion ver 1.0.1 by Patjenova.txt": "",
+        "Aragami Shadow Edition.txt": "By Hazerou\nIncluded in the text file;\n[Default 60 FPS]\n[30 FPS]\n[360p Overall Resolution]\n[480p Overall Resolution]\n[540p Overall Resolution]\n[612p Overall Resolution]\n[630p Overall Resolution (Handheld's Default)]\n[720p Overall Resolution]\n[810p Overall Resolution]\n[900p Overall Resolution]\n[1080p Overall Resolution]\n"
     }
 }

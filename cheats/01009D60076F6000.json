@@ -53,47 +53,6 @@
         "[AMMO Off [ZL+L]": "[AMMO Off [ZL+L]\n80000140\n580F0000 03E11418\n580F1000 000000A0\n580F1000 00000050\n580F1000 000000E8\n580F1000 000003E0\n580F1000 00000030\n780F0000 0000017c\n620F0000 00000000 00000001\n20000000\n\n",
         "[AMMO On (like starter gun)[ZL+R]": "[AMMO On (like starter gun)[ZL+R]\n80000180\n580F0000 03E11418\n580F1000 000000A0\n580F1000 00000050\n580F1000 000000E8\n580F1000 000003E0\n580F1000 00000030\n780F0000 0000017c\n620F0000 00000000 00000101\n20000000\n\n"
     },
-    "41353EF03C96CF44": {
-        "[HP Max]": "[HP Max]\n04000000 0153ACF4 BD406C00\n04000000 0153ACF8 BD007000\n\n",
-        "[No Reload]": "[No Reload]\n04000000 00DD9F74 52800008\n04000000 00DDB87C 52800014\n04000000 00DDC5A8 1E2703E1\n\n",
-        "[Inf Blank]": "[Inf Blank]\n04000000 01119D24 528000A1\n04000000 01119D28 B9021001\n\n",
-        "[Change Key 99]": "[Change Key 99]\n04000000 00DEB410 52800C61\n\n",
-        "[Mouse Stage Inf HP]": "[Mouse Stage Inf HP]\n04000000 011D6540 1E2703E8\n\n",
-        "[Mouse Stage Inf Time]": "[Mouse Stage Inf Time]\n04000000 011CD6B0 1E2703E8\n\n",
-        "[Rainbow Box]": "[Rainbow Box]\n04000000 010D9C98 D503201F\n\n",
-        "[Rainbow Box Disable]": "[Rainbow Box Disable]\n04000000 010D9C98 54000081\n\n",
-        "[Enter Secret Stage no need Keys]": "[Enter Secret Stage no need Keys]\n04000000 024C0B0C 10003482\n04000000 024C0B00 52800028\n04000000 024C0B04 3901A008\n04000000 024C0B08 D65F03C0\n04000000 012314E4 944A3D87\n\n",
-        "[Change Coin 9999]": "[Change Coin 9999]\n04000000 00DEB20C 5284E1F4\n\n"
-    },
-    "attribution": {
-        "ENTER THE GUNGEON by patjenova found on 91wii and TomSwitch and Sveinparty.txt": ""
-    },
-    "86B75B735E8CE94B": {
-        "[Change Coin 9999]": "[Change Coin 9999]\n04000000 0034C04C 5284E1F4\n\n",
-        "[Inf Ammo]": "[Inf Ammo]\n04000000 0020CF64\n52800014\n\n",
-        "[HP Max]": "[HP Max]\n04000000 0245BFC0\nBD002C6C 04000000\n008F1248 BD406C00\n04000000 008F124C\nBD007000\n\n"
-    },
-    "B3116BD471906840": {
-        "[Change Coin 9999]": "[Change Coin 9999]\n04000000 00047C94\n5284E1F4\n\n"
-    },
-    "E1CCDCCC11E3D04B": {
-        "[Change Coin 9999]": "[Change Coin 9999]\n04000000 00047B20\n5284E1F4\n\n",
-        "[Inf Ammo]": "[Inf Ammo]\n04000000 00038054\n52800014\n\n",
-        "[HP Max]": "[HP Max]\n04000000 024B9600\nBD002C6C 04000000\n00657EE0 BD406C00\n04000000 00657EE4\nBD007000\n\n"
-    },
-    "69B592D46012E549": {
-        "[5 Red Bullet]": "[5 Red Bullet]\n80000200\n580F0000 03D19110\n580F1000 000000A0\n580F1000 00000058\n580F1000 00000010\n580F1000 00000020\n780F0000 0000006C\n680F0000 40A00000 40A00000\n20000000\n\n",
-        "[Inf Ammo in chamber]": "[Inf Ammo in chamber]\n04000000 00193AB4 52800008\n\n",
-        "[Inf Ammo for gun]": "[Inf Ammo for gun]\n04000000 00195428 2A0803E2\n04000000 00196114 2A0803E2\n\n",
-        "[Inf blue bullets]": "[Inf blue bullets]\n04000000 001C2538 D503201F\n\n",
-        "[Free Buy]": "[Free Buy]\n04000000 0045FD24 2A1603E1\n\n",
-        "[update coin to have 9 keys and 60000 coins]": "[update coin to have 9 keys and 60000 coins]\n04000000 001A4F94 948C2BFB\n04000000 024AFF80 F000D393\n04000000 024AFF84 F907F260\n04000000 024AFF88 52800133\n04000000 024AFF8C D29D4C14\n04000000 024AFF90 B9002013\n04000000 024AFF94 AA0003F3\n04000000 024AFF98 D65F03C0\n\n",
-        "[Pointer created by code above to keys and coins @offset 0x20 and 0x1C]": "[Pointer created by code above to keys and coins @offset 0x20 and 0x1C]\n04000000 03F22FE0 00000000\n\n",
-        "[Off for all the codes above]": "[Off for all the codes above]\n04000000 00193AB4 11000508\n04000000 00195428 4B140102\n04000000 001C2538 71000508\n04000000 0045FD24 4B0002C1\n04000000 001A4F94 AA0003F3\n04000000 00196114 4B090102\n\n",
-        "[L HP fill, Enemy can't move and one hit kill]": "[L HP fill, Enemy can't move and one hit kill]\n04000000 0037F44C BD407000\n04000000 0037F450 1E202008\n04000000 0037F454 54000069\n80000040\n04000000 0037F44C 1E249000\n04000000 0037F450 BD007000\n20000000\n\n",
-        "[Mod 1 Enemy can move and not one hit kill]": "[Mod 1 Enemy can move and not one hit kill]\n80000040\n04000000 0037F454 1E202008\n20000000\n\n",
-        "[Mod 2 While holding L player can Glide]": "[Mod 2 While holding L player can Glide]\n80000040\n04000000 0037F454 14000003\n20000000\n\n"
-    },
     "0988BA5931F79147AFCDA845930FE4C400000000000000000000000000000000": {
         "[5 Red Bullet]": "[5 Red Bullet]\n580F0000 03E11528\n580F1000 000000A0\n580F1000 00000058\n580F1000 00000010\n580F1000 00000020\n780F0000 0000006C\n680F0000 40A00000 40A00000\n\n",
         "[\u00e2\u02c6\u017e AMMO Off [ZL+L]": "[\u00e2\u02c6\u017e AMMO Off [ZL+L]\n80000140\n580F0000 03E11418\n580F1000 000000A0\n580F1000 00000050\n580F1000 000000E8\n580F1000 000003E0\n580F1000 00000030\n780F0000 0000017C\n620F0000 00000000 00000001\n20000000\n\n",
@@ -138,6 +97,18 @@
         "[Rainbow Box Disable]": "[Rainbow Box Disable]\n04000000 010D9C98 54000081\n\n",
         "[Rainbow Box]": "[Rainbow Box]\n04000000 010D9C98 D503201F\n\n"
     },
+    "41353EF03C96CF44": {
+        "[HP Max]": "[HP Max]\n04000000 0153ACF4 BD406C00\n04000000 0153ACF8 BD007000\n\n",
+        "[No Reload]": "[No Reload]\n04000000 00DD9F74 52800008\n04000000 00DDB87C 52800014\n04000000 00DDC5A8 1E2703E1\n\n",
+        "[Inf Blank]": "[Inf Blank]\n04000000 01119D24 528000A1\n04000000 01119D28 B9021001\n\n",
+        "[Change Key 99]": "[Change Key 99]\n04000000 00DEB410 52800C61\n\n",
+        "[Mouse Stage Inf HP]": "[Mouse Stage Inf HP]\n04000000 011D6540 1E2703E8\n\n",
+        "[Mouse Stage Inf Time]": "[Mouse Stage Inf Time]\n04000000 011CD6B0 1E2703E8\n\n",
+        "[Rainbow Box]": "[Rainbow Box]\n04000000 010D9C98 D503201F\n\n",
+        "[Rainbow Box Disable]": "[Rainbow Box Disable]\n04000000 010D9C98 54000081\n\n",
+        "[Enter Secret Stage no need Keys]": "[Enter Secret Stage no need Keys]\n04000000 024C0B0C 10003482\n04000000 024C0B00 52800028\n04000000 024C0B04 3901A008\n04000000 024C0B08 D65F03C0\n04000000 012314E4 944A3D87\n\n",
+        "[Change Coin 9999]": "[Change Coin 9999]\n04000000 00DEB20C 5284E1F4\n\n"
+    },
     "41353EF03C96CF448589BE602E5E191600000000000000000000000000000000": {
         "[Change Coin 9999]": "[Change Coin 9999]\n04000000 00DEB20C 5284E1F4\n\n",
         "[Change Key 99]": "[Change Key 99]\n04000000 00DEB410 52800C61\n\n",
@@ -150,17 +121,46 @@
         "[Rainbow Box Disable]": "[Rainbow Box Disable]\n04000000 010D9C98 54000081\n\n",
         "[Rainbow Box]": "[Rainbow Box]\n04000000 010D9C98 D503201F\n\n"
     },
+    "69B592D46012E549": {
+        "[5 Red Bullet]": "[5 Red Bullet]\n80000200\n580F0000 03D19110\n580F1000 000000A0\n580F1000 00000058\n580F1000 00000010\n580F1000 00000020\n780F0000 0000006C\n680F0000 40A00000 40A00000\n20000000\n\n",
+        "[Inf Ammo in chamber]": "[Inf Ammo in chamber]\n04000000 00193AB4 52800008\n\n",
+        "[Inf Ammo for gun]": "[Inf Ammo for gun]\n04000000 00195428 2A0803E2\n04000000 00196114 2A0803E2\n\n",
+        "[Inf blue bullets]": "[Inf blue bullets]\n04000000 001C2538 D503201F\n\n",
+        "[Free Buy]": "[Free Buy]\n04000000 0045FD24 2A1603E1\n\n",
+        "[update coin to have 9 keys and 60000 coins]": "[update coin to have 9 keys and 60000 coins]\n04000000 001A4F94 948C2BFB\n04000000 024AFF80 F000D393\n04000000 024AFF84 F907F260\n04000000 024AFF88 52800133\n04000000 024AFF8C D29D4C14\n04000000 024AFF90 B9002013\n04000000 024AFF94 AA0003F3\n04000000 024AFF98 D65F03C0\n\n",
+        "[Pointer created by code above to keys and coins @offset 0x20 and 0x1C]": "[Pointer created by code above to keys and coins @offset 0x20 and 0x1C]\n04000000 03F22FE0 00000000\n\n",
+        "[Off for all the codes above]": "[Off for all the codes above]\n04000000 00193AB4 11000508\n04000000 00195428 4B140102\n04000000 001C2538 71000508\n04000000 0045FD24 4B0002C1\n04000000 001A4F94 AA0003F3\n04000000 00196114 4B090102\n\n",
+        "[L HP fill, Enemy can't move and one hit kill]": "[L HP fill, Enemy can't move and one hit kill]\n04000000 0037F44C BD407000\n04000000 0037F450 1E202008\n04000000 0037F454 54000069\n80000040\n04000000 0037F44C 1E249000\n04000000 0037F450 BD007000\n20000000\n\n",
+        "[Mod 1 Enemy can move and not one hit kill]": "[Mod 1 Enemy can move and not one hit kill]\n80000040\n04000000 0037F454 1E202008\n20000000\n\n",
+        "[Mod 2 While holding L player can Glide]": "[Mod 2 While holding L player can Glide]\n80000040\n04000000 0037F454 14000003\n20000000\n\n"
+    },
+    "86B75B735E8CE94B": {
+        "[Change Coin 9999]": "[Change Coin 9999]\n04000000 0034C04C 5284E1F4\n\n",
+        "[Inf Ammo]": "[Inf Ammo]\n04000000 0020CF64\n52800014\n\n",
+        "[HP Max]": "[HP Max]\n04000000 0245BFC0\nBD002C6C 04000000\n008F1248 BD406C00\n04000000 008F124C\nBD007000\n\n"
+    },
+    "86B75B735E8CE94B961792AB3EE761E000000000000000000000000000000000": {
+        "[Change Coin 9999]": "[Change Coin 9999]\n04000000 0034C04C 5284E1F4\n\n",
+        "[HP Max]": "[HP Max]\n04000000 0245BFC0\nBD002C6C 04000000\n008F1248 BD406C00\n04000000 008F124C\nBD007000\n\n",
+        "[Inf Ammo]": "[Inf Ammo]\n04000000 0020CF64\n52800014\n\n"
+    },
+    "B3116BD471906840": {
+        "[Change Coin 9999]": "[Change Coin 9999]\n04000000 00047C94\n5284E1F4\n\n"
+    },
     "B3116BD4719068408780A16C93182CA600000000000000000000000000000000": {
         "[Change Coin 9999]": "[Change Coin 9999]\n04000000 00047C94\n5284E1F4\n\n"
+    },
+    "E1CCDCCC11E3D04B": {
+        "[Change Coin 9999]": "[Change Coin 9999]\n04000000 00047B20\n5284E1F4\n\n",
+        "[Inf Ammo]": "[Inf Ammo]\n04000000 00038054\n52800014\n\n",
+        "[HP Max]": "[HP Max]\n04000000 024B9600\nBD002C6C 04000000\n00657EE0 BD406C00\n04000000 00657EE4\nBD007000\n\n"
     },
     "E1CCDCCC11E3D04BA7FCE1AF9F246E4300000000000000000000000000000000": {
         "[Change Coin 9999]": "[Change Coin 9999]\n04000000 00047B20\n5284E1F4\n\n",
         "[HP Max]": "[HP Max]\n04000000 024B9600\nBD002C6C 04000000\n00657EE0 BD406C00\n04000000 00657EE4\nBD007000\n\n",
         "[Inf Ammo]": "[Inf Ammo]\n04000000 00038054\n52800014\n\n"
     },
-    "86B75B735E8CE94B961792AB3EE761E000000000000000000000000000000000": {
-        "[Change Coin 9999]": "[Change Coin 9999]\n04000000 0034C04C 5284E1F4\n\n",
-        "[HP Max]": "[HP Max]\n04000000 0245BFC0\nBD002C6C 04000000\n008F1248 BD406C00\n04000000 008F124C\nBD007000\n\n",
-        "[Inf Ammo]": "[Inf Ammo]\n04000000 0020CF64\n52800014\n\n"
+    "attribution": {
+        "ENTER THE GUNGEON by patjenova found on 91wii and TomSwitch and Sveinparty.txt": ""
     }
 }

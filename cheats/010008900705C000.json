@@ -35,9 +35,6 @@
         "[Inf Health 999 HP Spanish]": "[Inf Health 999 HP Spanish]\n04100000 290242A6 03E703E7\n\n",
         "[Item 1 x99 English]": "[Item 1 x99 English]\n02100000 29049AE2 00000063\n\n"
     },
-    "attribution": {
-        "Dragon Quest Builders 1 - Update 0 (v1.0.0).txt": ""
-    },
     "93A84D948C179001327E3312A9EF7C7500000000000000000000000000000000": {
         "[Attack 999 English]": "[Attack 999 English]\n02100000 29044A44 000003E7\n\n",
         "[Attack 999 Spanish]": "[Attack 999 Spanish]\n02100000 290379C4 000003E7\n\n",
@@ -73,5 +70,8 @@
         "[Teleport - CH1 - Island 2]": "[Teleport - CH1 - Island 2]\n400E0000 00000000 0001E360\n640F01E0 00000000 433FD496\n400E0000 00000000 0001E364\n640F01E0 00000000 41A11EB8\n400E0000 00000000 0001E368\n640F01E0 00000000 C2003E6D\n\n",
         "[Teleport - CH1 - Island 3]": "[Teleport - CH1 - Island 3]\n400E0000 00000000 0001E360\n640F01E0 00000000 C33FEB06\n400E0000 00000000 0001E364\n640F01E0 00000000 40E47AE1\n400E0000 00000000 0001E368\n640F01E0 00000000 C23F0EC9\n\n",
         "[Teleport - CH1 - Island 4]": "[Teleport - CH1 - Island 4]\n400E0000 00000000 0001E360\n640F01E0 00000000 43700EB9\n400E0000 00000000 0001E364\n640F01E0 00000000 40A47AE1\n400E0000 00000000 0001E368\n640F01E0 00000000 C30FD2F9\n\n"
+    },
+    "attribution": {
+        "Dragon Quest Builders 1 - Update 0 (v1.0.0).txt": ""
     }
 }

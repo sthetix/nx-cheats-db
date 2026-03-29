@@ -36,9 +36,6 @@
         "[Golden Axe 3 Infinite HP]": "[Golden Axe 3 Infinite HP]\n01000000 030f728f 00000033\n\n",
         "[Sonic 2 99 Rings]": "[Sonic 2 99 Rings]\n020F0000 030FA7C8 000003E7\n\n"
     },
-    "attribution": {
-        "Sega Mega Drive Classics ver 1.0.2 USA by wiitendo.txt": "Before going to a Mach disable codes. And you must be first at the beginning. "
-    },
     "7980AD54FEF9394588D13D04FF245A7100000000000000000000000000000000": {
         "[Golden Axe 2 Full Potions]": "[Golden Axe 2 Full Potions]\n11050000 030EB152 00000001\n01000000 030EB22B 00000005\n20000000\n11050000 030EB152 00000002\n01000000 030EB22B 00000008\n20000000\n11050000 030EB152 00000003\n01000000 030EB22B 00000004\n20000000\n\n",
         "[Golden Axe 2 Infinite HP]": "[Golden Axe 2 Infinite HP]\n01000000 030EB1E7 00000005\n\n",
@@ -75,5 +72,8 @@
         "[Vectorman 65500 points]": "[Vectorman 65500 points]\n040F0000 030F920E 0000FFDC\n\n",
         "[Vectorman Infinite Health]": "[Vectorman Infinite Health]\n010F0000 030F9220 0000000A\n\n",
         "[Virtua Fighter Infinite Health]": "[Virtua Fighter Infinite Health]\n040F0000 030F8688 8070001C\n\n"
+    },
+    "attribution": {
+        "Sega Mega Drive Classics ver 1.0.2 USA by wiitendo.txt": "Before going to a Mach disable codes. And you must be first at the beginning. "
     }
 }

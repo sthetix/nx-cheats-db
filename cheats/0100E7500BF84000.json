@@ -10,9 +10,6 @@
         "[exp x64]": "[exp x64]\n04000000 00543A6C 0B011135\n\n",
         "[exp max]": "[exp max]\n04000000 00543A6C 0B017D35\n\n"
     },
-    "attribution": {
-        "Legrand Legacy Tale of the Fatebounds v1.0.0 by DaBlackDeath.txt": "Turn on the cheat code after the stage starts."
-    },
     "EC34FB71507C2B42A2FADDA2ABDBAEA100000000000000000000000000000000": {
         "[exp max]": "[exp max]\n04000000 00543A6C 0B017D35\n\n",
         "[exp x16]": "[exp x16]\n04000000 00543A6C 0B011D35\n\n",
@@ -23,5 +20,8 @@
         "[Inf Health DOT]": "[Inf Health DOT]\n04000000 00478318 D503201F\n\n",
         "[Inf Health in Battle - Hold ZR to get injured]": "[Inf Health in Battle - Hold ZR to get injured]\n04000000 00555900 D65F03C0\n80000200\n04000000 00555900 FC1E0FE8\n20000000\n\n",
         "[Money]": "[Money]\n04000000 003D0798 0098967F\n04000000 003D0790 18000040\n\n"
+    },
+    "attribution": {
+        "Legrand Legacy Tale of the Fatebounds v1.0.0 by DaBlackDeath.txt": "Turn on the cheat code after the stage starts."
     }
 }

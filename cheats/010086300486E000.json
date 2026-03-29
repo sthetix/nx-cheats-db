@@ -11,9 +11,6 @@
         "[P2 Infinite Ammo]": "[P2 Infinite Ammo]\n02000000 01238186 0000FFFF\n\n",
         "[P2 Infinite Bombs]": "[P2 Infinite Bombs]\n01000000 01238180 000000FF\n\n"
     },
-    "attribution": {
-        "ACA NEOGEO METAL SLUG 2ver 1.0.0 by ZiT.txt": "Invincible is only useful for blows."
-    },
     "32D6E6C4F9D89524BA2C40606A44F70000000000000000000000000000000000": {
         "[hitanywhere]": "[hitanywhere]\n021F0000 8DD780CA 00006002\n021F0000 8DD77DF6 00006002\n021F0000 8DD77E32 00006002\n021F0000 8DD04B36 0000018A\n\n",
         "[Inf Time]": "[Inf Time]\n010F0000 012381ED 000000FF\n\n",
@@ -25,5 +22,8 @@
         "[P2 Infinite Ammo]": "[P2 Infinite Ammo]\n02000000 01238186 0000FFFF\n\n",
         "[P2 Infinite Bombs]": "[P2 Infinite Bombs]\n01000000 01238180 000000FF\n\n",
         "[P2 Infinite Lives]": "[P2 Infinite Lives]\n01000000 01238157 00000009\n\n"
+    },
+    "attribution": {
+        "ACA NEOGEO METAL SLUG 2ver 1.0.0 by ZiT.txt": "Invincible is only useful for blows."
     }
 }

@@ -20,6 +20,27 @@
         "[99999 Rupees]": "[99999 Rupees]\n041F0000 A0D4D640 0001869F\n041F0000 A9B0BFF0 0001869F\n\n",
         "[9999 Bows (Slot4)]": "[9999 Bows (Slot4)]\n021F0000 A98644C0 000003E7\n\n"
     },
+    "219B2D4EB9D25961400B2DCF718ABB1900000000000000000000000000000000": {
+        "[9999 Bows (Slot1)]": "[9999 Bows (Slot1)]\n021F0000 A9864C88 000003E7\n\n",
+        "[9999 Bows (Slot2)]": "[9999 Bows (Slot2)]\n021F0000 A98649F0 000003E7\n\n",
+        "[9999 Bows (Slot3)]": "[9999 Bows (Slot3)]\n021F0000 A9864758 000003E7\n\n",
+        "[9999 Bows (Slot4)]": "[9999 Bows (Slot4)]\n021F0000 A98644C0 000003E7\n\n",
+        "[9999 Bows (Slot5)]": "[9999 Bows (Slot5)]\n021F0000 A9864228 000003E7\n\n",
+        "[9999 Bows (Slot6)]": "[9999 Bows (Slot6)]\n021F0000 A9863F90 000003E7\n\n",
+        "[99999 Rupees]": "[99999 Rupees]\n041F0000 A0D4D640 0001869F\n041F0000 A9B0BFF0 0001869F\n\n",
+        "[999999 Rupee]": "[999999 Rupee]\n580F0000 02601C20\n580F1000 00000E40\n580F1000 00005B08\n780F0000 00005D90\n640F0000 00000000 000F423F\n\n",
+        "[Arrows x999]": "[Arrows x999]\n580F0000 025CE340\n780F0000 00B62428\n640F0000 00000000 000003E7\n780F0000 00000298\n640F0000 00000000 000003E7\n780F0000 00000298\n640F0000 00000000 000003E7\n780F0000 00000298\n640F0000 00000000 000003E7\n780F0000 00000298\n640F0000 00000000 000003E7\n780F0000 00000298\n640F0000 00000000 000003E7\n\n",
+        "[Current Arrow 999 Enter Equipment Menu to Refill]": "[Current Arrow 999 Enter Equipment Menu to Refill]\n580F0000 025D75B0\n580F1000 000447E8\n780F0000 00000020\n620F0000 00000000 000003E7\n\n",
+        "[Infinite Health by DD]": "[Infinite Health by DD]\n011F0000 A8D05608 00000078\n\n",
+        "[Infinite Health]": "[Infinite Health]\n580F0000 025CE340\n580F1000 00000080\n780F0000 00000848\n610F0000 00000000 00000078\n\n",
+        "[Infinite Powers]": "[Infinite Powers]\n580F0000 025CE340\n580F1000 00000080\n780F0000 00001CC8\n610F0000 00000000 00000063\n780F0000 00000004\n610F0000 00000000 00000063\n780F0000 00000004\n610F0000 00000000 00000063\n\n",
+        "[Infinite Rupies]": "[Infinite Rupies]\n580F0000 02601C20\n780F0000 00EBB130\n640F0000 00000000 000F423F\n\n",
+        "[Infinite Special Powers]": "[Infinite Special Powers]\n580F0000 025CE340\n780F0000 00003530\n640F0000 00000000 00000006\n780F0000 00000004\n640F0000 00000000 00000006\n780F0000 00000004\n640F0000 00000000 00000006\n580F0000 025CE340\n780F0000 000040E0\n640F0000 00000000 00000006\n780F0000 00000004\n640F0000 00000000 00000006\n780F0000 00000004\n640F0000 00000000 00000006\n\n",
+        "[Infinite Stamina]": "[Infinite Stamina]\n580F0000 025CC110\n580F1000 00000038\n780F0000 000002AC\n680F0000 453B8000 453B8000\n\n",
+        "[Max - Infinite Health]": "[Max - Infinite Health]\n580F0000 025CE340\n780F0000 000020B0\n640F0000 00000000 00000078\n780F0000 00000BB0\n640F0000 00000000 00000078\n580F0000 025D04E8\n780F0000 00082C88\n640F0000 00000000 42F00000\n\n",
+        "[Max - Infinite Stamina]": "[Max - Infinite Stamina]\n580F0000 025D04E8\n780F0000 00082C8C\n640F0000 00000000 453B8000\n780F0000 00000004\n640F0000 00000000 453B8000\n\n",
+        "[Max Hearts]": "[Max Hearts]\n580F0000 025CC110\n580F1000 00000038\n780F0000 000002A8\n640F0000 00000000 42F00000\n\n"
+    },
     "8E9978D50BDD20B4": {
         "[Infinite Health]": "[Infinite Health]\n580f0000 02ca1a78\n580f1000 00000080\n780f0000 00000848\n610f0000 00000000 00000078\n\n",
         "[Max Hearts]": "[Max Hearts]\n580f0000 02c9fd70\n580f1000 00000038\n780f0000 000002a8\n640f0000 00000000 42f00000\n\n",
@@ -337,10 +358,6 @@
         "[Current Weapon to Stalhorse type:Unknown]": "[Current Weapon to Stalhorse type:Unknown]\n580F0000 02CA6D48\n580F1000 000447D8\n780F0000 00000020\n640F0000 00000000 000003E7\n780F0000 0000001C\n640F0000 00000000 656D6147\n780F0000 00000004\n640F0000 00000000 486D6F52\n780F0000 00000004\n640F0000 00000000 6573726F\n780F0000 00000004\n640F0000 00000000 656E6F42\n780F0000 00000004\n640F0000 00000000 00000000\n\n",
         "[Current Weapon to Star Fragment type:Item]": "[Current Weapon to Star Fragment type:Item]\n580F0000 02CA6D48\n580F1000 000447D8\n780F0000 00000020\n640F0000 00000000 000003E7\n780F0000 0000001C\n640F0000 00000000 6D657449\n780F0000 00000004\n640F0000 00000000 65724F5F\n780F0000 00000004\n640F0000 00000000 00004A5F\n\n"
     },
-    "attribution": {
-        "Zelda Breath Of The Wild ver 1.6 by Patjenova and Satelman.txt": "Search address 64 unsigned value .\n\n447A000042C80000\n\nThen enter on the only available Address\nMove down 1 line and starting from the left you will see 00 00 80 3f\n\nChange the value to ..................................   00 00 80 bf\n\nTo return to the ground after moonjumping change the address back to 3f",
-        "The Legend of Zelda Breath of the Wild.txt": "Included in the text file;\n\nResolution Hacks By @Hazerou\nRRS cheats rely on Dynamic Resolution Function. If you have a mod or cheat that disables it, it will not work\nRRS will stop DRS from controlling your Resolution up and down\nDon't use old resolution codes previously here with new RRS as it can cause crashes and unxpected resolutions\nDocked RRS v2 cheats may crash the gaem if used in handheld mode\n\nFOV Codes by masagrator\nMain FOV won't be visible immediately, you must trigger change by f.e. aiming with bow and hiding bow or turn on Current FOV matching your FOV and immediately turn off. It is not advised to have Current FOV constantly turned on.\n"
-    },
     "8E9978D50BDD20B4C8395A106C27FFDE00000000000000000000000000000000": {
         "[01# Moonjump B]": "[01# Moonjump B]\n580F0000 02CC5DE8\n580F1000 00000030\n580F1000 00000010\n580F1000 00000008\n580F1000 00000010\n780F0000 00000110\n640F0000 00000000 3F800000\n80000002\n640F0000 00000000 BF800000\n20000000\n\n",
         "[01#Moonjump B]": "[01#Moonjump B]\n580F0000 02D1EA00\n580F1000 00000198\n580F1000 00002D18\n780F0000 00000130\n640F0000 00000000 3F800000\n80000002\n640F0000 00000000 BF800000\n20000000\n\n",
@@ -488,25 +505,8 @@
         "[Unlimited Amiibo Usage (off)]": "[Unlimited Amiibo Usage (off)]\n04000000 00B596D0 D10403FF\n04000000 00B596D4 A90A6FFC\n\n",
         "[Unlimited Amiibo Usage (on)]": "[Unlimited Amiibo Usage (on)]\n04000000 00B596D0 52800000\n04000000 00B596D4 D65F03C0\n\n"
     },
-    "219B2D4EB9D25961400B2DCF718ABB1900000000000000000000000000000000": {
-        "[9999 Bows (Slot1)]": "[9999 Bows (Slot1)]\n021F0000 A9864C88 000003E7\n\n",
-        "[9999 Bows (Slot2)]": "[9999 Bows (Slot2)]\n021F0000 A98649F0 000003E7\n\n",
-        "[9999 Bows (Slot3)]": "[9999 Bows (Slot3)]\n021F0000 A9864758 000003E7\n\n",
-        "[9999 Bows (Slot4)]": "[9999 Bows (Slot4)]\n021F0000 A98644C0 000003E7\n\n",
-        "[9999 Bows (Slot5)]": "[9999 Bows (Slot5)]\n021F0000 A9864228 000003E7\n\n",
-        "[9999 Bows (Slot6)]": "[9999 Bows (Slot6)]\n021F0000 A9863F90 000003E7\n\n",
-        "[99999 Rupees]": "[99999 Rupees]\n041F0000 A0D4D640 0001869F\n041F0000 A9B0BFF0 0001869F\n\n",
-        "[999999 Rupee]": "[999999 Rupee]\n580F0000 02601C20\n580F1000 00000E40\n580F1000 00005B08\n780F0000 00005D90\n640F0000 00000000 000F423F\n\n",
-        "[Arrows x999]": "[Arrows x999]\n580F0000 025CE340\n780F0000 00B62428\n640F0000 00000000 000003E7\n780F0000 00000298\n640F0000 00000000 000003E7\n780F0000 00000298\n640F0000 00000000 000003E7\n780F0000 00000298\n640F0000 00000000 000003E7\n780F0000 00000298\n640F0000 00000000 000003E7\n780F0000 00000298\n640F0000 00000000 000003E7\n\n",
-        "[Current Arrow 999 Enter Equipment Menu to Refill]": "[Current Arrow 999 Enter Equipment Menu to Refill]\n580F0000 025D75B0\n580F1000 000447E8\n780F0000 00000020\n620F0000 00000000 000003E7\n\n",
-        "[Infinite Health by DD]": "[Infinite Health by DD]\n011F0000 A8D05608 00000078\n\n",
-        "[Infinite Health]": "[Infinite Health]\n580F0000 025CE340\n580F1000 00000080\n780F0000 00000848\n610F0000 00000000 00000078\n\n",
-        "[Infinite Powers]": "[Infinite Powers]\n580F0000 025CE340\n580F1000 00000080\n780F0000 00001CC8\n610F0000 00000000 00000063\n780F0000 00000004\n610F0000 00000000 00000063\n780F0000 00000004\n610F0000 00000000 00000063\n\n",
-        "[Infinite Rupies]": "[Infinite Rupies]\n580F0000 02601C20\n780F0000 00EBB130\n640F0000 00000000 000F423F\n\n",
-        "[Infinite Special Powers]": "[Infinite Special Powers]\n580F0000 025CE340\n780F0000 00003530\n640F0000 00000000 00000006\n780F0000 00000004\n640F0000 00000000 00000006\n780F0000 00000004\n640F0000 00000000 00000006\n580F0000 025CE340\n780F0000 000040E0\n640F0000 00000000 00000006\n780F0000 00000004\n640F0000 00000000 00000006\n780F0000 00000004\n640F0000 00000000 00000006\n\n",
-        "[Infinite Stamina]": "[Infinite Stamina]\n580F0000 025CC110\n580F1000 00000038\n780F0000 000002AC\n680F0000 453B8000 453B8000\n\n",
-        "[Max - Infinite Health]": "[Max - Infinite Health]\n580F0000 025CE340\n780F0000 000020B0\n640F0000 00000000 00000078\n780F0000 00000BB0\n640F0000 00000000 00000078\n580F0000 025D04E8\n780F0000 00082C88\n640F0000 00000000 42F00000\n\n",
-        "[Max - Infinite Stamina]": "[Max - Infinite Stamina]\n580F0000 025D04E8\n780F0000 00082C8C\n640F0000 00000000 453B8000\n780F0000 00000004\n640F0000 00000000 453B8000\n\n",
-        "[Max Hearts]": "[Max Hearts]\n580F0000 025CC110\n580F1000 00000038\n780F0000 000002A8\n640F0000 00000000 42F00000\n\n"
+    "attribution": {
+        "Zelda Breath Of The Wild ver 1.6 by Patjenova and Satelman.txt": "Search address 64 unsigned value .\n\n447A000042C80000\n\nThen enter on the only available Address\nMove down 1 line and starting from the left you will see 00 00 80 3f\n\nChange the value to ..................................   00 00 80 bf\n\nTo return to the ground after moonjumping change the address back to 3f",
+        "The Legend of Zelda Breath of the Wild.txt": "Included in the text file;\n\nResolution Hacks By @Hazerou\nRRS cheats rely on Dynamic Resolution Function. If you have a mod or cheat that disables it, it will not work\nRRS will stop DRS from controlling your Resolution up and down\nDon't use old resolution codes previously here with new RRS as it can cause crashes and unxpected resolutions\nDocked RRS v2 cheats may crash the gaem if used in handheld mode\n\nFOV Codes by masagrator\nMain FOV won't be visible immediately, you must trigger change by f.e. aiming with bow and hiding bow or turn on Current FOV matching your FOV and immediately turn off. It is not advised to have Current FOV constantly turned on.\n"
     }
 }

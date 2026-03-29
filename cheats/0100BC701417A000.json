@@ -37,9 +37,6 @@
         "[Bunyip Y]": "[Bunyip Y]\n580F0000 0058F140\n580F1000 000000D8\n780F0000 0000059C\n640F0000 00000000 46EA6000\n\n",
         "[Force 60 FPS]": "[Force 60 FPS]\n580F0000 005721E0\n580F1000 00000010\n780F0000 00000F14\n680F0000 00000000 00000001\n\n"
     },
-    "attribution": {
-        "TY the Tasmanian Tiger 2 Bush Rescue HD.txt": "By Hazerou"
-    },
     "3F7B53D09B3B4672CBB97962E03E5BB5AD61DB18000000000000000000000000": {
         "[All Bilbies]": "[All Bilbies]\n04000000 005947B4 0000001E\n\n",
         "[All Collectables]": "[All Collectables]\n04000000 005947B4 0000001E\n04000000 00594814 00000019\n04000000 005947FC 0000000A\n04000000 005947CC 000000AF\n04000000 0059479C 00000032\n04000000 005947E4 0000001E\n\n",
@@ -71,5 +68,8 @@
         "[Speed up x4 (press LS)]": "[Speed up x4 (press LS)]\n80000010\n04100000 01FD68CC 45160000\n20000000\n\n",
         "[Speed x4 Press LS]": "[Speed x4 Press LS]\n80000010\n580F0000 005B02A8\n580F1000 00000420\n780F0000 0000043C\n640F0000 00000000 45160000\n20000000\n\n",
         "[Zero Game Time]": "[Zero Game Time]\n04000000 0059483C 00000000\n\n"
+    },
+    "attribution": {
+        "TY the Tasmanian Tiger 2 Bush Rescue HD.txt": "By Hazerou"
     }
 }

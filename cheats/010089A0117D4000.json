@@ -1,8 +1,4 @@
 {
-    "attribution": {
-        "Sengoku Musou 5 ver1.0.0 by xtatu and Tomswitch.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially",
-        "Sengoku Musou 5 ver1.0.0 by xtatu.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
-    },
     "3ECC38A3CF60FC": {
         "[Skill points pointer version]": "[Skill points pointer version]\n580F0000 024E3648\n780F0000 000008A0\n640F0000 00000000 000003E8\n\n",
         "[RUN SPEED 5X]": "[RUN SPEED 5X]\n04000000 00DB3234 1E229009\n\n",
@@ -18,5 +14,9 @@
         "[inf user rengi gauge]": "[inf user rengi gauge]\n04000000 00D678E0 D65F03C0\n\n",
         "[RUN SPEED 3X]": "[RUN SPEED 3X]\n04000000 00DB3234 1E211009\n\n",
         "[enemy no attack on]": "[enemy no attack on]\n04000000 006F1850 D503201F\n\n"
+    },
+    "attribution": {
+        "Sengoku Musou 5 ver1.0.0 by xtatu and Tomswitch.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially",
+        "Sengoku Musou 5 ver1.0.0 by xtatu.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
     }
 }

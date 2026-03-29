@@ -126,9 +126,6 @@
         "[Default Outlines ON]": "[Default Outlines ON]\n04000000 034BC66C 00000001\n\n",
         "[money 9999999]": "[money 9999999]\n04100000 48E6C4F0 0098967F\n\n"
     },
-    "attribution": {
-        "SnowRunner.txt": "By Hazerou\n\nHow to apply changes properly;\n1.) Activate the cheats you want and then go to the in game settings (not the settings from the title screen).\n\n2.) Navigate to the VIDEO settings tab and slide the brightness bar at least 1 step.\n\n3.) Go back and RETURN TO MAIN MENU.\n\n4.) Wait until the title screen appears and close the game.\n\n5.) Launch the game again and profit.\n"
-    },
     "9976A5B49537F7D7": {
         "[Main code/need to be checked]": "[Main code/need to be checked]\n04000000 018F852C 9100218C\n04000000 01137A08 BD013920\n04000000 013E5094 BD057800\n04000000 01047E6C B905926A\n04000000 010483A8 1A8AB3EA\n\n",
         "[Turn off scaling resolution (maintain maximum resolution)]": "[Turn off scaling resolution (maintain maximum resolution)]\n04000000 018F852C 9100018C\n\n",
@@ -147,5 +144,8 @@
         "[6 pm]": "[6 pm]\n04000000 01137A08 BD013920\n04000000 01137A08 1432C7BE\n04000000 01DE9900 1C000060\n04000000 01DE9904 BD013920\n04000000 01DE9908 17CD3841\n04000000 01DE990C 41900000\n\n",
         "[9 pm]": "[9 pm]\n04000000 01137A08 BD013920\n04000000 01137A08 1432C7BE\n04000000 01DE9900 1C000060\n04000000 01DE9904 BD013920\n04000000 01DE9908 17CD3841\n04000000 01DE990C 41A80000\n\n",
         "[12 midnight]": "[12 midnight]\n04000000 01137A08 BD013920\n04000000 01137A08 1432C7BE\n04000000 01DE9900 1C000060\n04000000 01DE9904 BD013920\n04000000 01DE9908 17CD3841\n04000000 01DE990C 00000000\n\n"
+    },
+    "attribution": {
+        "SnowRunner.txt": "By Hazerou\n\nHow to apply changes properly;\n1.) Activate the cheats you want and then go to the in game settings (not the settings from the title screen).\n\n2.) Navigate to the VIDEO settings tab and slide the brightness bar at least 1 step.\n\n3.) Go back and RETURN TO MAIN MENU.\n\n4.) Wait until the title screen appears and close the game.\n\n5.) Launch the game again and profit.\n"
     }
 }

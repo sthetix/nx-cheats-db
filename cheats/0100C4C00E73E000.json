@@ -8,13 +8,13 @@
         "[Freeze Timer 00:00]": "[Freeze Timer 00:00]\n58000000 03F6F628\n58001000 000000B8\n58001000 00000010\n58001000 000000A0\n58001000 00000090\n78000000 00000020\n64000000 00000000 00000000\n\n",
         "[Minus Set time to 0]": "[Minus Set time to 0]\n80000800\n580F0000 03A0DBF8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000010\n580F1000 00000010\n580F1000 00000020\n580F1000 00000090\n780F0000 00000020\n640F0000 00000000 00000000\n20000000\n\n"
     },
-    "attribution": {
-        "Moving Out ver 1.0.2 by Lionheartwolf.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die.",
-        "Moving Out.txt": "By Hazerou"
-    },
     "D613DC6C33CCAA418CDAFB5C2D33F3DB00000000000000000000000000000000": {
         "[Freeze Timer 00:00]": "[Freeze Timer 00:00]\n58000000 03F6F628\n58001000 000000B8\n58001000 00000010\n58001000 000000A0\n58001000 00000090\n78000000 00000020\n64000000 00000000 00000000\n\n",
         "[Minus Set time to 0]": "[Minus Set time to 0]\n80000800\n580F0000 03A0DBF8\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000010\n580F1000 00000010\n580F1000 00000020\n580F1000 00000090\n780F0000 00000020\n640F0000 00000000 00000000\n20000000\n\n",
         "[Reset Timer 00:00 (Press L Stick)]": "[Reset Timer 00:00 (Press L Stick)]\n80000010\n58000000 03F6F628\n58001000 000000B8\n58001000 00000010\n58001000 000000A0\n58001000 00000090\n78000000 00000020\n64000000 00000000 00000000\n20000000\n\n"
+    },
+    "attribution": {
+        "Moving Out ver 1.0.2 by Lionheartwolf.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die.",
+        "Moving Out.txt": "By Hazerou"
     }
 }

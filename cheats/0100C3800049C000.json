@@ -6,12 +6,12 @@
         "[1p speed attack normal]": "[1p speed attack normal]\n04000000 00534F4C EEB50AC0\n\n",
         "[1p speed attack 0.25x]": "[1p speed attack 0.25x]\n04000000 00534F4C EEB00A04\n1\n\n"
     },
-    "attribution": {
-        "Monster Hunter XX Nintendo Switch Ver.txt": "By Masagrator\nhandheld_charging_cpu=1224\nhandheld_charging_gpu=768\nhandheld_charging_mem=1600"
-    },
     "9D4C86E6EF74504AFA3A485C9797653B00000000000000000000000000000000": {
         "[1p invicible]": "[1p invicible]\n04000000 001661D8 E12FFF1E\n\n",
         "[1p speed attack 0.25x]": "[1p speed attack 0.25x]\n04000000 00534F4C EEB00A04\n1\n\n",
         "[1p speed attack normal]": "[1p speed attack normal]\n04000000 00534F4C EEB50AC0\n\n"
+    },
+    "attribution": {
+        "Monster Hunter XX Nintendo Switch Ver.txt": "By Masagrator\nhandheld_charging_cpu=1224\nhandheld_charging_gpu=768\nhandheld_charging_mem=1600"
     }
 }

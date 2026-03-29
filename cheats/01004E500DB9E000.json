@@ -15,9 +15,6 @@
         "[Physical MAX]": "[Physical MAX]\n01100000 019077B8\n0000005B\n\n",
         "[KNOWLEDGE MAX]": "[KNOWLEDGE MAX]\n01100000 01907788\n0000005B\n\n"
     },
-    "attribution": {
-        "Summer sweet heart  by IMnoob.txt": ""
-    },
     "F203511733AE3449A0C6F47DC463E5E200000000000000000000000000000000": {
         "[231 art]": "[231 art]\n01100000 01907798 000000E7\n\n",
         "[231 culture]": "[231 culture]\n01100000 01907788 000000E7\n\n",
@@ -33,5 +30,8 @@
         "[max point]": "[max point]\n04100000 00CB7554 05F5E0FF\n\n",
         "[Physical MAX]": "[Physical MAX]\n01100000 019077B8\n0000005B\n\n",
         "[Purple five-pointed star MAX]": "[Purple five-pointed star MAX]\n04100000 00CB7550\n05F5E0FF\n\n"
+    },
+    "attribution": {
+        "Summer sweet heart  by IMnoob.txt": ""
     }
 }

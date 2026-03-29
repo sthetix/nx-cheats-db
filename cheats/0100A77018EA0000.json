@@ -1,4 +1,46 @@
 {
+    "221C19C45E821E7C": {
+        "[Scouting Success]": "[Scouting Success]\n04000000 02264160 52800028\n04000000 02264204 52800028\n\n",
+        "[999 when looking at the skill points]": "[999 when looking at the skill points]\n04000000 06086378 F9403809\n04000000 0608637C B9401528\n04000000 06086380 52807CE0\n04000000 06086384 4A080008\n04000000 06086388 B9001128\n04000000 0608638C D65F03C0\n04000000 02EBDDE0 14C72166\n\n",
+        "[Variable number of items, max]": "[Variable number of items, max]\n04000000 024C0D2C 2A0103E0\n\n",
+        "[Ignore formulation level restrictions]": "[Ignore formulation level restrictions]\n04000000 02209C54 D503201F\n04000000 05FD3530 6B18031F\n04000000 02D97E9C D503201F\n04000000 02D9BE48 4A140281\n\n",
+        "[Zero MP consumption]": "[Zero MP consumption]\n04000000 031918A8 52800000\n04000000 031918B0 D65F03C0\n\n",
+        "[5 times the experience gained in battle]": "[5 times the experience gained in battle]\n04000000 02A5BD50 0B000800\n04000000 02A5BD54 D65F03C0\n\n",
+        "[Monsters do not disappear when compounded]": "[Monsters do not disappear when compounded]\n04000000 023B6970 A9BC7BFD\n04000000 023B6970 D65F03C0\n\n",
+        "[Significant increase in the egg appearance rate]": "[Significant increase in the egg appearance rate]\n04000000 03495360 B9401D13\n04000000 034953BC 6B1F0273\n\n",
+        "[Always a successful escape]": "[Always a successful escape]\n04000000 02264AA0 52800021\n\n",
+        "[Always include glitter]": "[Always include glitter]\n04000000 02DA9918 528000C1\n\n",
+        "[Normal drop off and rare drop off]": "[Normal drop off and rare drop off]\n04000000 02A5897C B9401AA0\n04000000 02A58980 51000408\n04000000 02A58984 6B00029F\n04000000 02A58988 1A94A114\n\n",
+        "[moon jump]": "[moon jump]\n04000000 0225AC38 BD014660\n80000002\n04000000 0225AC38 BD014660\n04000000 0225AC38 14F8ADD0\n04000000 06086378 1C000060\n04000000 0608637C BD014660\n04000000 06086380 1707522F\n04000000 06086384 40A00000\n20000000\n\n",
+        "[Combat and movement speed up]": "[Combat and movement speed up]\n04000000 00F64490 1E2E1000\n\n",
+        "[Enemy monsters do not move]": "[Enemy monsters do not move]\n04000000 0238CFCC D503201F\n\n",
+        "[Seasonal Flute Possession Flag]": "[Seasonal Flute Possession Flag]\n04000000 0227A48C D503201F\n04000000 022D6044 D503201F\n\n",
+        "[Always get up]": "[Always get up]\n04000000 05E648F0 D503201F\n\n",
+        "[No encounters]": "[No encounters]\n04000000 0225563C D503201F\n\n",
+        "[Max. in possession change]": "[Max. in possession change]\n04000000 027FE388 2A0103E0\n\n",
+        "[All certificates when you purchase items in the store. Cannot be used with SP points]": "[All certificates when you purchase items in the store. Cannot be used with SP points]\n04000000 0231956C 94F5B387\n04000000 06086388 A9BD7BFD\n04000000 0608638C A90153F3\n04000000 06086390 A9025BF5\n04000000 06086394 AA0003F3\n04000000 06086398 52800A74\n04000000 0608639C AA1303E0\n04000000 060863A0 2A1403E1\n04000000 060863A4 52802582\n04000000 060863A8 AA1F03E3\n04000000 060863AC 9710E9F1\n04000000 060863B0 11000694\n04000000 060863B4 7105029F\n04000000 060863B8 54FFFF2D\n04000000 060863BC A94153F3\n04000000 060863C0 A9425BF5\n04000000 060863C4 A8C37BFD\n04000000 060863C8 D65F03C0\n\n"
+    },
+    "516C0DC61E7FC25C": {
+        "[Scouting Success]": "[Scouting Success]\n04000000 02264160 52800028\n04000000 02264204 52800028\n\n",
+        "[999 when looking at the skill points]": "[999 when looking at the skill points]\n04000000 06086378 F9403809\n04000000 0608637C B9401528\n04000000 06086380 52807CE0\n04000000 06086384 4A080008\n04000000 06086388 B9001128\n04000000 0608638C D65F03C0\n04000000 02EBDDE0 14C72166\n\n",
+        "[Variable number of items, max]": "[Variable number of items, max]\n04000000 024C0D2C 2A0103E0\n\n",
+        "[Ignore formulation level restrictions]": "[Ignore formulation level restrictions]\n04000000 02209C54 D503201F\n04000000 05FD3530 6B18031F\n04000000 02D97E9C D503201F\n04000000 02D9BE48 4A140281\n\n",
+        "[Zero MP consumption]": "[Zero MP consumption]\n04000000 031918A8 52800000\n04000000 031918B0 D65F03C0\n\n",
+        "[5 times the experience gained in battle]": "[5 times the experience gained in battle]\n04000000 02A5BD50 0B000800\n04000000 02A5BD54 D65F03C0\n\n",
+        "[Monsters do not disappear when compounded]": "[Monsters do not disappear when compounded]\n04000000 023B6970 A9BC7BFD\n04000000 023B6970 D65F03C0\n\n",
+        "[Significant increase in the egg appearance rate]": "[Significant increase in the egg appearance rate]\n04000000 03495360 B9401D13\n04000000 034953BC 6B1F0273\n\n",
+        "[Always a successful escape]": "[Always a successful escape]\n04000000 02264AA0 52800021\n\n",
+        "[Always include glitter]": "[Always include glitter]\n04000000 02DA9918 528000C1\n\n",
+        "[Normal drop off and rare drop off]": "[Normal drop off and rare drop off]\n04000000 02A5897C B9401AA0\n04000000 02A58980 51000408\n04000000 02A58984 6B00029F\n04000000 02A58988 1A94A114\n\n",
+        "[moon jump]": "[moon jump]\n04000000 0225AC38 BD014660\n80000002\n04000000 0225AC38 BD014660\n04000000 0225AC38 14F8ADD0\n04000000 06086378 1C000060\n04000000 0608637C BD014660\n04000000 06086380 1707522F\n04000000 06086384 40A00000\n20000000\n\n",
+        "[Combat and movement speed up]": "[Combat and movement speed up]\n04000000 00F64490 1E2E1000\n\n",
+        "[Enemy monsters do not move]": "[Enemy monsters do not move]\n04000000 0238CFCC D503201F\n\n",
+        "[Seasonal Flute Possession Flag]": "[Seasonal Flute Possession Flag]\n04000000 0227A48C D503201F\n04000000 022D6044 D503201F\n\n",
+        "[Always get up]": "[Always get up]\n04000000 05E648F0 D503201F\n\n",
+        "[No encounters]": "[No encounters]\n04000000 0225563C D503201F\n\n",
+        "[Max. in possession change]": "[Max. in possession change]\n04000000 027FE388 2A0103E0\n\n",
+        "[All certificates when you purchase items in the store. Cannot be used with SP points]": "[All certificates when you purchase items in the store. Cannot be used with SP points]\n04000000 0231956C 94F5B387\n04000000 06086388 A9BD7BFD\n04000000 0608638C A90153F3\n04000000 06086390 A9025BF5\n04000000 06086394 AA0003F3\n04000000 06086398 52800A74\n04000000 0608639C AA1303E0\n04000000 060863A0 2A1403E1\n04000000 060863A4 52802582\n04000000 060863A8 AA1F03E3\n04000000 060863AC 9710E9F1\n04000000 060863B0 11000694\n04000000 060863B4 7105029F\n04000000 060863B8 54FFFF2D\n04000000 060863BC A94153F3\n04000000 060863C0 A9425BF5\n04000000 060863C4 A8C37BFD\n04000000 060863C8 D65F03C0\n\n"
+    },
     "67C973772FDBDEB1": {
         "[60 FPS]": "[60 FPS]\n580F0000 09F568F0\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
         "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 09F568F0\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
@@ -175,30 +217,6 @@
         "[Docked RRS 133.33% (1440p)]": "[Docked RRS 133.33% (1440p)]\n580F0000 09F06720\n780F0000 000000C0\n680F0000 00000438 00000780\n780F0000 00000008\n610F0000 00000000 00000001\n580F0000 093CC360\n580F1000 000000B8\n580F1000 00000140\n780F0000 0000005C\n640F0000 00000000 3FAAAAAB\n\n",
         "[Docked RRS 200% (2160p)]": "[Docked RRS 200% (2160p)]\n580F0000 09F06720\n780F0000 000000C0\n680F0000 00000438 00000780\n780F0000 00000008\n610F0000 00000000 00000001\n580F0000 093CC360\n580F1000 000000B8\n580F1000 00000140\n780F0000 0000005C\n640F0000 00000000 40000000\n\n"
     },
-    "attribution": {
-        "DRAGON QUEST MONSTERS The Dark Prince.txt": "By Hazerou\n"
-    },
-    "516C0DC61E7FC25C": {
-        "[Scouting Success]": "[Scouting Success]\n04000000 02264160 52800028\n04000000 02264204 52800028\n\n",
-        "[999 when looking at the skill points]": "[999 when looking at the skill points]\n04000000 06086378 F9403809\n04000000 0608637C B9401528\n04000000 06086380 52807CE0\n04000000 06086384 4A080008\n04000000 06086388 B9001128\n04000000 0608638C D65F03C0\n04000000 02EBDDE0 14C72166\n\n",
-        "[Variable number of items, max]": "[Variable number of items, max]\n04000000 024C0D2C 2A0103E0\n\n",
-        "[Ignore formulation level restrictions]": "[Ignore formulation level restrictions]\n04000000 02209C54 D503201F\n04000000 05FD3530 6B18031F\n04000000 02D97E9C D503201F\n04000000 02D9BE48 4A140281\n\n",
-        "[Zero MP consumption]": "[Zero MP consumption]\n04000000 031918A8 52800000\n04000000 031918B0 D65F03C0\n\n",
-        "[5 times the experience gained in battle]": "[5 times the experience gained in battle]\n04000000 02A5BD50 0B000800\n04000000 02A5BD54 D65F03C0\n\n",
-        "[Monsters do not disappear when compounded]": "[Monsters do not disappear when compounded]\n04000000 023B6970 A9BC7BFD\n04000000 023B6970 D65F03C0\n\n",
-        "[Significant increase in the egg appearance rate]": "[Significant increase in the egg appearance rate]\n04000000 03495360 B9401D13\n04000000 034953BC 6B1F0273\n\n",
-        "[Always a successful escape]": "[Always a successful escape]\n04000000 02264AA0 52800021\n\n",
-        "[Always include glitter]": "[Always include glitter]\n04000000 02DA9918 528000C1\n\n",
-        "[Normal drop off and rare drop off]": "[Normal drop off and rare drop off]\n04000000 02A5897C B9401AA0\n04000000 02A58980 51000408\n04000000 02A58984 6B00029F\n04000000 02A58988 1A94A114\n\n",
-        "[moon jump]": "[moon jump]\n04000000 0225AC38 BD014660\n80000002\n04000000 0225AC38 BD014660\n04000000 0225AC38 14F8ADD0\n04000000 06086378 1C000060\n04000000 0608637C BD014660\n04000000 06086380 1707522F\n04000000 06086384 40A00000\n20000000\n\n",
-        "[Combat and movement speed up]": "[Combat and movement speed up]\n04000000 00F64490 1E2E1000\n\n",
-        "[Enemy monsters do not move]": "[Enemy monsters do not move]\n04000000 0238CFCC D503201F\n\n",
-        "[Seasonal Flute Possession Flag]": "[Seasonal Flute Possession Flag]\n04000000 0227A48C D503201F\n04000000 022D6044 D503201F\n\n",
-        "[Always get up]": "[Always get up]\n04000000 05E648F0 D503201F\n\n",
-        "[No encounters]": "[No encounters]\n04000000 0225563C D503201F\n\n",
-        "[Max. in possession change]": "[Max. in possession change]\n04000000 027FE388 2A0103E0\n\n",
-        "[All certificates when you purchase items in the store. Cannot be used with SP points]": "[All certificates when you purchase items in the store. Cannot be used with SP points]\n04000000 0231956C 94F5B387\n04000000 06086388 A9BD7BFD\n04000000 0608638C A90153F3\n04000000 06086390 A9025BF5\n04000000 06086394 AA0003F3\n04000000 06086398 52800A74\n04000000 0608639C AA1303E0\n04000000 060863A0 2A1403E1\n04000000 060863A4 52802582\n04000000 060863A8 AA1F03E3\n04000000 060863AC 9710E9F1\n04000000 060863B0 11000694\n04000000 060863B4 7105029F\n04000000 060863B8 54FFFF2D\n04000000 060863BC A94153F3\n04000000 060863C0 A9425BF5\n04000000 060863C4 A8C37BFD\n04000000 060863C8 D65F03C0\n\n"
-    },
     "E8804F0F8037354A": {
         "[Dragon Quest Monsters: The Dark Prince (Asia ver) v1.0.3  01000F901AC2A000 E8804F0F8037354A]": "[Dragon Quest Monsters: The Dark Prince (Asia ver) v1.0.3  01000F901AC2A000 E8804F0F8037354A]\n580F0000 08E1FBD0\n580F1000 08E140A8\n400B0000 00000000 0607A808\n680F01B0 18000969 B9402100\n400B0000 00000000 0607A810\n680F01B0 D65F03C0 1B097C00\n400B0000 00000000 0607A818\n680F01B0 18000929 B9402100\n400B0000 00000000 0607A820\n680F01B0 D65F03C0 1B097C00\n400B0000 00000000 0607A828\n680F01B0 1C0008E1 BD400103\n400B0000 00000000 0607A830\n680F01B0 D65F03C0 1E230823\n400B0000 00000000 0607A838\n680F01B0 F9402E69 F9402A7B\n400B0000 00000000 0607A840\n680F01B0 4A1A035A B5000049\n400B0000 00000000 0607A848\n680F01B0 F85E03A0 D65F03C0\n400B0000 00000000 0607A850\n680F01B0 B5000041 F9402C01\n400B0000 00000000 0607A858\n680F01B0 D65F03C0 4A080108\n400B0000 00000000 0607A860\n680F01B0 F9402D08 F940C7E8\n400B0000 00000000 0607A868\n680F01B0 52800021 B5000068\n400B0000 00000000 0607A870\n680F01B0 AA1F03E1 B9003401\n400B0000 00000000 0607A878\n640F01B0 00000000 D65F03C0\n\n",
         "[--SectionStart:Battle-related--]": "[--SectionStart:Battle-related--]\n00000000 00000000 00000000\n\n",
@@ -254,25 +272,7 @@
         "[Unlock seasonal flute menu]": "[Unlock seasonal flute menu]\n400B0000 00000000 0226E90C\n640F01B0 00000000 D503201F\n400B0000 00000000 022CA4C4\n640F01B0 00000000 D503201F\n\n",
         "[--SectionEnd:Adventure Related--]": "[--SectionEnd:Adventure Related--]\n00000000 00000000 00000000\n\n"
     },
-    "221C19C45E821E7C": {
-        "[Scouting Success]": "[Scouting Success]\n04000000 02264160 52800028\n04000000 02264204 52800028\n\n",
-        "[999 when looking at the skill points]": "[999 when looking at the skill points]\n04000000 06086378 F9403809\n04000000 0608637C B9401528\n04000000 06086380 52807CE0\n04000000 06086384 4A080008\n04000000 06086388 B9001128\n04000000 0608638C D65F03C0\n04000000 02EBDDE0 14C72166\n\n",
-        "[Variable number of items, max]": "[Variable number of items, max]\n04000000 024C0D2C 2A0103E0\n\n",
-        "[Ignore formulation level restrictions]": "[Ignore formulation level restrictions]\n04000000 02209C54 D503201F\n04000000 05FD3530 6B18031F\n04000000 02D97E9C D503201F\n04000000 02D9BE48 4A140281\n\n",
-        "[Zero MP consumption]": "[Zero MP consumption]\n04000000 031918A8 52800000\n04000000 031918B0 D65F03C0\n\n",
-        "[5 times the experience gained in battle]": "[5 times the experience gained in battle]\n04000000 02A5BD50 0B000800\n04000000 02A5BD54 D65F03C0\n\n",
-        "[Monsters do not disappear when compounded]": "[Monsters do not disappear when compounded]\n04000000 023B6970 A9BC7BFD\n04000000 023B6970 D65F03C0\n\n",
-        "[Significant increase in the egg appearance rate]": "[Significant increase in the egg appearance rate]\n04000000 03495360 B9401D13\n04000000 034953BC 6B1F0273\n\n",
-        "[Always a successful escape]": "[Always a successful escape]\n04000000 02264AA0 52800021\n\n",
-        "[Always include glitter]": "[Always include glitter]\n04000000 02DA9918 528000C1\n\n",
-        "[Normal drop off and rare drop off]": "[Normal drop off and rare drop off]\n04000000 02A5897C B9401AA0\n04000000 02A58980 51000408\n04000000 02A58984 6B00029F\n04000000 02A58988 1A94A114\n\n",
-        "[moon jump]": "[moon jump]\n04000000 0225AC38 BD014660\n80000002\n04000000 0225AC38 BD014660\n04000000 0225AC38 14F8ADD0\n04000000 06086378 1C000060\n04000000 0608637C BD014660\n04000000 06086380 1707522F\n04000000 06086384 40A00000\n20000000\n\n",
-        "[Combat and movement speed up]": "[Combat and movement speed up]\n04000000 00F64490 1E2E1000\n\n",
-        "[Enemy monsters do not move]": "[Enemy monsters do not move]\n04000000 0238CFCC D503201F\n\n",
-        "[Seasonal Flute Possession Flag]": "[Seasonal Flute Possession Flag]\n04000000 0227A48C D503201F\n04000000 022D6044 D503201F\n\n",
-        "[Always get up]": "[Always get up]\n04000000 05E648F0 D503201F\n\n",
-        "[No encounters]": "[No encounters]\n04000000 0225563C D503201F\n\n",
-        "[Max. in possession change]": "[Max. in possession change]\n04000000 027FE388 2A0103E0\n\n",
-        "[All certificates when you purchase items in the store. Cannot be used with SP points]": "[All certificates when you purchase items in the store. Cannot be used with SP points]\n04000000 0231956C 94F5B387\n04000000 06086388 A9BD7BFD\n04000000 0608638C A90153F3\n04000000 06086390 A9025BF5\n04000000 06086394 AA0003F3\n04000000 06086398 52800A74\n04000000 0608639C AA1303E0\n04000000 060863A0 2A1403E1\n04000000 060863A4 52802582\n04000000 060863A8 AA1F03E3\n04000000 060863AC 9710E9F1\n04000000 060863B0 11000694\n04000000 060863B4 7105029F\n04000000 060863B8 54FFFF2D\n04000000 060863BC A94153F3\n04000000 060863C0 A9425BF5\n04000000 060863C4 A8C37BFD\n04000000 060863C8 D65F03C0\n\n"
+    "attribution": {
+        "DRAGON QUEST MONSTERS The Dark Prince.txt": "By Hazerou\n"
     }
 }

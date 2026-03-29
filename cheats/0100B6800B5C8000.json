@@ -10,6 +10,20 @@
         "[Instant Progress]": "[Instant Progress]\n04000000 00336870 1C121820\n\n",
         "[MasterCode]": "[MasterCode]\n04000000 0035AB74 42C7CCCD\n04000000 00324EE8 4B18967F\n04000000 00336830 BD402800\n04000000 0035AA1C 1E283920\n04000000 003563B4 1E200920\n04000000 00306488 1E200900\n04000000 003DD4D0 4B140108\n04000000 003DD488 4B180348\n04000000 0035650C 1E293800\n04000000 00336870 BD402400\n\n"
     },
+    "10BE30FEAD5AD4439779033CDDE5081800000000000000000000000000000000": {
+        "[Inf Energy]": "[Inf Energy]\n04000000 0035AA1C 1C000AC0\n\n",
+        "[Inf Items]": "[Inf Items]\n04000000 003DD4D0 11000108\n04000000 003DD488 11000348\n\n",
+        "[Inf Money]": "[Inf Money]\n04000000 00336830 1CF735C0\n\n",
+        "[Instant Crafting]": "[Instant Crafting]\n04000000 00306488 1C2A3760\n\n",
+        "[Instant Progress]": "[Instant Progress]\n04000000 00336870 1C121820\n\n",
+        "[Instant Working]": "[Instant Working]\n04000000 003563B4 1C023E00\n\n",
+        "[MasterCode]": "[MasterCode]\n04000000 0035AB74 42C7CCCD\n04000000 00324EE8 4B18967F\n04000000 00336830 BD402800\n04000000 0035AA1C 1E283920\n04000000 003563B4 1E200920\n04000000 00306488 1E200900\n04000000 003DD4D0 4B140108\n04000000 003DD488 4B180348\n04000000 0035650C 1E293800\n04000000 00336870 BD402400\n\n",
+        "[Tool do not brake]": "[Tool do not brake]\n04000000 0035650C 1CE74EE0\n\n",
+        "[Hold ZR clone 20 items when swapping]": "[Hold ZR clone 20 items when swapping]\n040B0000 0051C054 0B1C0108\n040B0000 0051E5D8 B9001B28\n80000200\n040B0000 0051C054 52800288\n040B0000 00000254 52800288\n040B0000 00000258 B9001B28\n040B0000 0000025C 141478E0\n040B0000 0051E5D8 17EB871F\n20000000\n\n",
+        "[Hold ZR retain items when swapping]": "[Hold ZR retain items when swapping]\n040B0000 003385F0 97FFF9A4\n80000200\n040B0000 003385F0 D503201F\n20000000\n\n",
+        "[item no cooldown]": "[item no cooldown]\n040B0000 00523C34 1C4E95C0\n\n",
+        "[max store money on]": "[max store money on]\n040B0000 001BF064 4B18967F\n040B0000 001BFC18 1CFFA268\n\n"
+    },
     "35577FD32A942E48": {
         "[60 FPS]": "[60 FPS]\n580F0000 04B33FC0\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
         "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 04B33FC0\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
@@ -22,6 +36,17 @@
         "[Instant finish action]": "[Instant finish action]\n040E0000 00285A50 1E27F000\n\n",
         "[Unfair Trading (Not Suggest)]": "[Unfair Trading (Not Suggest)]\n040E0000 00381074 1E204120\n\n",
         "[Can Sleep (Save) even not Tired]": "[Can Sleep (Save) even not Tired]\n040E0000 0034074C 1400000A\n\n"
+    },
+    "35577FD32A942E489CD8ACF859B8B3F400000000000000000000000000000000": {
+        "[Can Sleep (Save) even not Tired]": "[Can Sleep (Save) even not Tired]\n040E0000 0034074C 1400000A\n\n",
+        "[Corpse will not rot]": "[Corpse will not rot]\n040E0000 004EAEE0 D503201F\n\n",
+        "[Instant finish action]": "[Instant finish action]\n040E0000 00285A50 1E27F000\n\n",
+        "[Instant finish progress]": "[Instant finish progress]\n040E0000 003E1E24 1E27F008\n\n",
+        "[Invulnerable (Inf HP / Energy)]": "[Invulnerable (Inf HP / Energy)]\n040E0000 003E1264 52800020\n\n",
+        "[Items will not be deducted (Not Suggest)]": "[Items will not be deducted (Not Suggest)]\n080E0000 001FA7A0 D65F03C0 52800020\n040E0000 001FA5E0 D65F03C0\n\n",
+        "[Tech points will not deducted]": "[Tech points will not deducted]\n040E0000 001B16BC D503201F\n\n",
+        "[Tools Durability will not deducted]": "[Tools Durability will not deducted]\n040E0000 00285BB8 D503201F\n040E0000 003030CC D503201F\n040E0000 00371648 D503201F\n\n",
+        "[Unfair Trading (Not Suggest)]": "[Unfair Trading (Not Suggest)]\n040E0000 00381074 1E204120\n\n"
     },
     "9356531EDD2EC448": {
         "[Breeze beta65 Graveyard Keeper 1.0.0.4633 TID: 0100B6800B5C8000 BID: 9356531EDD2EC448]": "[Breeze beta65 Graveyard Keeper 1.0.0.4633 TID: 0100B6800B5C8000 BID: 9356531EDD2EC448]\n\n",
@@ -38,11 +63,6 @@
         "[60 FPS]": "[60 FPS]\n580F0000 048D26C0 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
         "[30 FPS]": "[30 FPS]\n580F0000 048D26C0 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
     },
-    "attribution": {
-        "9356531EDD2EC448.txt": "[Breeze beta65 Graveyard Keeper 1.0.0.4633 TID: 0100B6800B5C8000 BID: 9356531EDD2EC448]\n\n{MasterCode}\n04000000 005E1734 42C7CCCD \n04000000 001C0EEC 4B18967F \n04000000 001C0EF0 BD402800 \n04000000 005E15DC 1E293900 \n04000000 002A6994 1E200920 \n04000000 002A6AEC 1E293800 \n04000000 001C0F30 BD402400 \n\n[Inf Money]\n04000000 001C0EF0 1CFFFFE0 \n\n[Inf Energy]\n04000000 005E15DC 1C000AC0 \n\n[Instant Working]\n04000000 002A6994 1C8D2AC0 \n\n[Tool do not brake]\n04000000 002A6AEC 1C8D2000 \n\n[Instant Progress]\n04000000 001C0F30 1CFFFDE0 \n\nCredit DaBlackDeath\n\n",
-        "Graveyard Keeper by DaBlackDeath.txt": "Before going to a Mach disable codes. And you must be first at the beginning. ",
-        "Graveyard Keeper.txt": "By Hazerou, desconection"
-    },
     "9356531EDD2EC448A0463A73C8C676D300000000000000000000000000000000": {
         "[Hold ZR clone 20 items when swapping]": "[Hold ZR clone 20 items when swapping]\n040B0000 0051C054 0B1C0108\n040B0000 0051E5D8 B9001B28\n80000200\n040B0000 0051C054 52800288\n040B0000 00000254 52800288\n040B0000 00000258 B9001B28\n040B0000 0000025C 141478E0\n040B0000 0051E5D8 17EB871F\n20000000\n\n",
         "[Hold ZR retain items when swapping]": "[Hold ZR retain items when swapping]\n040B0000 003385F0 97FFF9A4\n80000200\n040B0000 003385F0 D503201F\n20000000\n\n",
@@ -55,29 +75,9 @@
         "[max store money on]": "[max store money on]\n040B0000 001BF064 4B18967F\n040B0000 001BFC18 1CFFA268\n\n",
         "[Tool do not brake]": "[Tool do not brake]\n040B0000 002A6AEC 1C8D2000\n\n"
     },
-    "35577FD32A942E489CD8ACF859B8B3F400000000000000000000000000000000": {
-        "[Can Sleep (Save) even not Tired]": "[Can Sleep (Save) even not Tired]\n040E0000 0034074C 1400000A\n\n",
-        "[Corpse will not rot]": "[Corpse will not rot]\n040E0000 004EAEE0 D503201F\n\n",
-        "[Instant finish action]": "[Instant finish action]\n040E0000 00285A50 1E27F000\n\n",
-        "[Instant finish progress]": "[Instant finish progress]\n040E0000 003E1E24 1E27F008\n\n",
-        "[Invulnerable (Inf HP / Energy)]": "[Invulnerable (Inf HP / Energy)]\n040E0000 003E1264 52800020\n\n",
-        "[Items will not be deducted (Not Suggest)]": "[Items will not be deducted (Not Suggest)]\n080E0000 001FA7A0 D65F03C0 52800020\n040E0000 001FA5E0 D65F03C0\n\n",
-        "[Tech points will not deducted]": "[Tech points will not deducted]\n040E0000 001B16BC D503201F\n\n",
-        "[Tools Durability will not deducted]": "[Tools Durability will not deducted]\n040E0000 00285BB8 D503201F\n040E0000 003030CC D503201F\n040E0000 00371648 D503201F\n\n",
-        "[Unfair Trading (Not Suggest)]": "[Unfair Trading (Not Suggest)]\n040E0000 00381074 1E204120\n\n"
-    },
-    "10BE30FEAD5AD4439779033CDDE5081800000000000000000000000000000000": {
-        "[Inf Energy]": "[Inf Energy]\n04000000 0035AA1C 1C000AC0\n\n",
-        "[Inf Items]": "[Inf Items]\n04000000 003DD4D0 11000108\n04000000 003DD488 11000348\n\n",
-        "[Inf Money]": "[Inf Money]\n04000000 00336830 1CF735C0\n\n",
-        "[Instant Crafting]": "[Instant Crafting]\n04000000 00306488 1C2A3760\n\n",
-        "[Instant Progress]": "[Instant Progress]\n04000000 00336870 1C121820\n\n",
-        "[Instant Working]": "[Instant Working]\n04000000 003563B4 1C023E00\n\n",
-        "[MasterCode]": "[MasterCode]\n04000000 0035AB74 42C7CCCD\n04000000 00324EE8 4B18967F\n04000000 00336830 BD402800\n04000000 0035AA1C 1E283920\n04000000 003563B4 1E200920\n04000000 00306488 1E200900\n04000000 003DD4D0 4B140108\n04000000 003DD488 4B180348\n04000000 0035650C 1E293800\n04000000 00336870 BD402400\n\n",
-        "[Tool do not brake]": "[Tool do not brake]\n04000000 0035650C 1CE74EE0\n\n",
-        "[Hold ZR clone 20 items when swapping]": "[Hold ZR clone 20 items when swapping]\n040B0000 0051C054 0B1C0108\n040B0000 0051E5D8 B9001B28\n80000200\n040B0000 0051C054 52800288\n040B0000 00000254 52800288\n040B0000 00000258 B9001B28\n040B0000 0000025C 141478E0\n040B0000 0051E5D8 17EB871F\n20000000\n\n",
-        "[Hold ZR retain items when swapping]": "[Hold ZR retain items when swapping]\n040B0000 003385F0 97FFF9A4\n80000200\n040B0000 003385F0 D503201F\n20000000\n\n",
-        "[item no cooldown]": "[item no cooldown]\n040B0000 00523C34 1C4E95C0\n\n",
-        "[max store money on]": "[max store money on]\n040B0000 001BF064 4B18967F\n040B0000 001BFC18 1CFFA268\n\n"
+    "attribution": {
+        "9356531EDD2EC448.txt": "[Breeze beta65 Graveyard Keeper 1.0.0.4633 TID: 0100B6800B5C8000 BID: 9356531EDD2EC448]\n\n{MasterCode}\n04000000 005E1734 42C7CCCD \n04000000 001C0EEC 4B18967F \n04000000 001C0EF0 BD402800 \n04000000 005E15DC 1E293900 \n04000000 002A6994 1E200920 \n04000000 002A6AEC 1E293800 \n04000000 001C0F30 BD402400 \n\n[Inf Money]\n04000000 001C0EF0 1CFFFFE0 \n\n[Inf Energy]\n04000000 005E15DC 1C000AC0 \n\n[Instant Working]\n04000000 002A6994 1C8D2AC0 \n\n[Tool do not brake]\n04000000 002A6AEC 1C8D2000 \n\n[Instant Progress]\n04000000 001C0F30 1CFFFDE0 \n\nCredit DaBlackDeath\n\n",
+        "Graveyard Keeper by DaBlackDeath.txt": "Before going to a Mach disable codes. And you must be first at the beginning. ",
+        "Graveyard Keeper.txt": "By Hazerou, desconection"
     }
 }

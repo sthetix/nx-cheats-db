@@ -13,18 +13,6 @@
         "[Items don't decrease (On)]": "[Items don't decrease (On)]\n04000000 003E7400 D503201F\n\n",
         "[Items don't decrease (Off)]": "[Items don't decrease (Off)]\n04000000 003E7400 4B0C014A\n\n"
     },
-    "D59D81C06F923846": {
-        "[Hearts MAX with minus]": "[Hearts MAX with minus]\n80000800\n580F0000 01772AA0\n580F1000 00000050\n580F1000 00000018\n580F1000 00000000\n580F1000 00000010\n780F0000 00000088\n640F0000 00000000 4B189680\n\n",
-        "[60 FPS]": "[60 FPS]\n580F0000 00F68CC0\n580F1000 000001D0\n580F1000 000000E8\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
-        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 00F68CC0\n580F1000 000001D0\n580F1000 000000E8\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
-    },
-    "attribution": {
-        "Portal Knights 1.5.3 and 1.7.2 by merlin555.txt": "Hearts MAX are not infinite.\nWorks only with a new charackter !!\nPress the Minus button several times until the maximum heart is reached.\nEach character and weapon has a different number of MAX hearts.\n7 to 20 hearts are possible from beginning.\nThen press \"X\" and forgive the points in Endurance until you have 20 hearts.",
-        "Portal Knights.txt": "by hazerou"
-    },
-    "D59D81C06F923846E33A427F487642D100000000000000000000000000000000": {
-        "[Hearts MAX with minus]": "[Hearts MAX with minus]\n80000800\n580F0000 01772AA0\n580F1000 00000050\n580F1000 00000018\n580F1000 00000000\n580F1000 00000010\n780F0000 00000088\n640F0000 00000000 4B189680\n\n"
-    },
     "4F3D7062D176246D7961C1F7AE96FB3100000000000000000000000000000000": {
         "[Always Revive with 100% HP/Mana/Oxy (Off)]": "[Always Revive with 100% HP/Mana/Oxy (Off)]\n04000000 00BA3CC8 3EE147AE\n\n",
         "[Always Revive with 100% HP/Mana/Oxy (On)]": "[Always Revive with 100% HP/Mana/Oxy (On)]\n04000000 00BA3CC8 3F800000\n\n",
@@ -36,5 +24,17 @@
         "[Toggle Unlimited Items (Press Minus)(AMS only)]": "[Toggle Unlimited Items (Press Minus)(AMS only)]\n80000800\n540F0000 003E7400\nC045F400 4B0C014A\n04000000 003E7400 D503201F\n20000000\nC045F400 D503201F\n04000000 003E7400 4B0C014A\n20000000\n20000000\n\n",
         "[Unlimited Range in Build Mode (Off)]": "[Unlimited Range in Build Mode (Off)]\n04000000 00BA3E3C 41700000\n04000000 00BA3E40 41A00000\n04000000 00BA3E44 41700000\n\n",
         "[Unlimited Range in Build Mode (On)]": "[Unlimited Range in Build Mode (On)]\n04000000 00BA3E3C 461C3C00\n04000000 00BA3E40 461C3C00\n04000000 00BA3E44 461C3C00\n\n"
+    },
+    "D59D81C06F923846": {
+        "[Hearts MAX with minus]": "[Hearts MAX with minus]\n80000800\n580F0000 01772AA0\n580F1000 00000050\n580F1000 00000018\n580F1000 00000000\n580F1000 00000010\n780F0000 00000088\n640F0000 00000000 4B189680\n\n",
+        "[60 FPS]": "[60 FPS]\n580F0000 00F68CC0\n580F1000 000001D0\n580F1000 000000E8\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[Default 30 FPS]": "[Default 30 FPS]\n580F0000 00F68CC0\n580F1000 000001D0\n580F1000 000000E8\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
+    "D59D81C06F923846E33A427F487642D100000000000000000000000000000000": {
+        "[Hearts MAX with minus]": "[Hearts MAX with minus]\n80000800\n580F0000 01772AA0\n580F1000 00000050\n580F1000 00000018\n580F1000 00000000\n580F1000 00000010\n780F0000 00000088\n640F0000 00000000 4B189680\n\n"
+    },
+    "attribution": {
+        "Portal Knights 1.5.3 and 1.7.2 by merlin555.txt": "Hearts MAX are not infinite.\nWorks only with a new charackter !!\nPress the Minus button several times until the maximum heart is reached.\nEach character and weapon has a different number of MAX hearts.\n7 to 20 hearts are possible from beginning.\nThen press \"X\" and forgive the points in Endurance until you have 20 hearts.",
+        "Portal Knights.txt": "by hazerou"
     }
 }

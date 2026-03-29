@@ -11,9 +11,6 @@
         "[hitanywhere]": "[hitanywhere]\n021f0000 7a01f514 00002060\n021f0000 7a01f720 00001a60\n\n",
         "[Get Items From Anywhere]": "[Get Items From Anywhere]\n021f0000 7a019444 0000714e\n021f0000 7a019458 0000714e\n\n"
     },
-    "attribution": {
-        "Arcade Archives GRADIUS ver 1.0.0 by ZiT and xtatu.txt": "\u203b Valid for DATA01 only."
-    },
     "EE81FDF68D947BDEBF9DD7C967371F192F3650F1000000000000000000000000": {
         "[Constant Laser]": "[Constant Laser]\n011F0000 7A070827 00000002\n\n",
         "[Constant Missile]": "[Constant Missile]\n011F0000 7A070825 00000001\n\n",
@@ -25,5 +22,8 @@
         "[Inf Lives]": "[Inf Lives]\n011F0000 7A0702A0 00000008\n\n",
         "[Invincible]": "[Invincible]\n011F0000 7A070800 00000001\n011F0000 7A07080A 00000002\n011F0000 7A070819 00000000\n\n",
         "[Speed Up]": "[Speed Up]\n011F0000 7A07080E 00000006\n\n"
+    },
+    "attribution": {
+        "Arcade Archives GRADIUS ver 1.0.0 by ZiT and xtatu.txt": "\u203b Valid for DATA01 only."
     }
 }

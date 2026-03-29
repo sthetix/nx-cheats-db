@@ -24,13 +24,20 @@
         "[?????????????//Strike Mode Coin Max after Sell]": "[?????????????//Strike Mode Coin Max after Sell]\n04000000 0078F45C AA0803F5\n\n",
         "[???????????//Strike Mode Inf Bomb Bottle]": "[???????????//Strike Mode Inf Bomb Bottle]\n04000000 00371784 528000A8\n\n"
     },
-    "E816F895B35900A0": {
-        "[60 FPS]": "[60 FPS]\n580F0000 01FE0620\n780F0000 0000004C\n640F0000 00000000 42700000\n\n",
-        "[OG 30 FPS]": "[OG 30 FPS]\n580F0000 01FE0620\n780F0000 0000004C\n640F0000 00000000 41F00000\n\n",
-        "[(Hold L3) Game Speed x2]": "[(Hold L3) Game Speed x2]\n580F0000 01FE0620\n780F0000 00000048\n640F0000 00000000 42700000\n20000000\n80000010\n580F0000 01FE0620\n780F0000 00000048\n640F0000 00000000 42F00000\n20000000\n\n"
-    },
-    "attribution": {
-        "Resident Evil Revelations 2.txt": "by hazerou"
+    "AEF8885AE0603C446EA61C0D4244E9DA00000000000000000000000000000000": {
+        "[?????//Skill Point Max]": "[?????//Skill Point Max]\n04000000 0078C908 2A0803F4\n\n",
+        "[?????????????//Strike Mode Coin Max after Sell]": "[?????????????//Strike Mode Coin Max after Sell]\n04000000 0078F45C AA0803F5\n\n",
+        "[100% Accuracy & 0 Retries]": "[100% Accuracy & 0 Retries]\n04000000 006E92D8 5280000A\n\n",
+        "[1p invicible]": "[1p invicible]\n04000000 002772B8 D65F03C0\n\n",
+        "[hit range 5x grafic bag]": "[hit range 5x grafic bag]\n04000000  00B0E190 1E229002\n\n",
+        "[Infinite Ammo]": "[Infinite Ammo]\n04000000 003951C8 B9401688\n\n",
+        "[Infinite Explosive Bottles]": "[Infinite Explosive Bottles]\n04000000 00371784 528000A8\n\n",
+        "[Infinite Health]": "[Infinite Health]\n04000000 0039DF98 D503201F\n\n",
+        "[Infinite Items]": "[Infinite Items]\n04000000 0070ECE4 D503201F\n\n",
+        "[Instant Kill Enemy]": "[Instant Kill Enemy]\n04000000 00283378 52800008\n\n",
+        "[knife hit range 5x grafic bag]": "[knife hit range 5x grafic bag]\n04000000 00B0E190 1E229002\n\n",
+        "[Low Mission Time]": "[Low Mission Time]\n04000000 006E926C 1E2703E0\n\n",
+        "[Max BP]": "[Max BP]\n04000000 006F114C 52A001EA\n04000000 006F1150 728847EA\n04000000 006F1154 2A0A03E8\n04000000 006F1158 2A0A03E9\n\n"
     },
     "D69BCA484713BAA1": {
         "[#1 Inf Health]": "[#1 Inf Health]\n04000000 0039DF98 D503201F\n\n",
@@ -50,19 +57,12 @@
         "[?????????????//Strike Mode Coin Max after Sell]": "[?????????????//Strike Mode Coin Max after Sell]\n04070000 0078F430 AA0803F5\n\n",
         "[???????????//Strike Mode Inf Bomb Bottle]": "[???????????//Strike Mode Inf Bomb Bottle]\n04070000 00371784 528000A8\n\n"
     },
-    "AEF8885AE0603C446EA61C0D4244E9DA00000000000000000000000000000000": {
-        "[?????//Skill Point Max]": "[?????//Skill Point Max]\n04000000 0078C908 2A0803F4\n\n",
-        "[?????????????//Strike Mode Coin Max after Sell]": "[?????????????//Strike Mode Coin Max after Sell]\n04000000 0078F45C AA0803F5\n\n",
-        "[100% Accuracy & 0 Retries]": "[100% Accuracy & 0 Retries]\n04000000 006E92D8 5280000A\n\n",
-        "[1p invicible]": "[1p invicible]\n04000000 002772B8 D65F03C0\n\n",
-        "[hit range 5x grafic bag]": "[hit range 5x grafic bag]\n04000000  00B0E190 1E229002\n\n",
-        "[Infinite Ammo]": "[Infinite Ammo]\n04000000 003951C8 B9401688\n\n",
-        "[Infinite Explosive Bottles]": "[Infinite Explosive Bottles]\n04000000 00371784 528000A8\n\n",
-        "[Infinite Health]": "[Infinite Health]\n04000000 0039DF98 D503201F\n\n",
-        "[Infinite Items]": "[Infinite Items]\n04000000 0070ECE4 D503201F\n\n",
-        "[Instant Kill Enemy]": "[Instant Kill Enemy]\n04000000 00283378 52800008\n\n",
-        "[knife hit range 5x grafic bag]": "[knife hit range 5x grafic bag]\n04000000 00B0E190 1E229002\n\n",
-        "[Low Mission Time]": "[Low Mission Time]\n04000000 006E926C 1E2703E0\n\n",
-        "[Max BP]": "[Max BP]\n04000000 006F114C 52A001EA\n04000000 006F1150 728847EA\n04000000 006F1154 2A0A03E8\n04000000 006F1158 2A0A03E9\n\n"
+    "E816F895B35900A0": {
+        "[60 FPS]": "[60 FPS]\n580F0000 01FE0620\n780F0000 0000004C\n640F0000 00000000 42700000\n\n",
+        "[OG 30 FPS]": "[OG 30 FPS]\n580F0000 01FE0620\n780F0000 0000004C\n640F0000 00000000 41F00000\n\n",
+        "[(Hold L3) Game Speed x2]": "[(Hold L3) Game Speed x2]\n580F0000 01FE0620\n780F0000 00000048\n640F0000 00000000 42700000\n20000000\n80000010\n580F0000 01FE0620\n780F0000 00000048\n640F0000 00000000 42F00000\n20000000\n\n"
+    },
+    "attribution": {
+        "Resident Evil Revelations 2.txt": "by hazerou"
     }
 }

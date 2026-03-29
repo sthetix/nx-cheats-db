@@ -42,25 +42,6 @@
         "[Inf.Energy 2]": "[Inf.Energy 2]\n01100000 083780B4 0000001C\n01100000 07F920B4 0000001C\n\n",
         "[Inf.Energy 3]": "[Inf.Energy 3]\n01100000 083780B5 0000001C\n01100000 07F920B5 0000001C\n\n"
     },
-    "attribution": {
-        "Mega Man Legacy Collection by arismendy64.txt": "Controls:\nZL + Left = Fireflower\nZL + Right = Style Specific Power-Up #1\nZL + Up = Style Specific Power-Up #2\nZL + Down = Mushroom (Hammer Suit for 3D World)"
-    },
-    "B46F93E6EE5F4298": {
-        "[Inf.Lives]": "[Inf.Lives]\n01100000 084100BD 00000099\n01100000 080240BD 00000099\n\n",
-        "[Invincibility]": "[Invincibility]\n01100000 08410048 00000032\n01100000 08024048 00000032\n\n",
-        "[Inf.Energy]": "[Inf.Energy]\n01100000 084100B1 000000FF\n01100000 080240B1 000000FF\n\n",
-        "[Inf.Energy GE]": "[Inf.Energy GE]\n01100000 084100B2 000000FF\n01100000 080240B2 000000FF\n\n",
-        "[Inf.Energy NE]": "[Inf.Energy NE]\n01100000 084100B3 000000FF\n01100000 080240B3 000000FF\n\n",
-        "[Inf.Energy HA]": "[Inf.Energy HA]\n01100000 084100B4 000000FF\n01100000 080240B4 000000FF\n\n",
-        "[Inf.Energy MA]": "[Inf.Energy MA]\n01100000 084100B5 000000FF\n01100000 080240B5 000000FF\n\n",
-        "[Inf.Energy TO]": "[Inf.Energy TO]\n01100000 084100B6 000000FF\n01100000 080240B6 000000FF\n\n",
-        "[Inf.Energy SN]": "[Inf.Energy SN]\n01100000 084100B7 000000FF\n01100000 080240B7 000000FF\n\n",
-        "[Inf.Energy RC]": "[Inf.Energy RC]\n01100000 084100B8 000000FF\n01100000 080240B8 000000FF\n\n",
-        "[Inf.Energy SP]": "[Inf.Energy SP]\n01100000 084100B9 000000FF\n01100000 080240B9 000000FF\n\n",
-        "[Inf.Energy RM]": "[Inf.Energy RM]\n01100000 084100BA 000000FF\n01100000 080240BA 000000FF\n\n",
-        "[Inf.Energy SH]": "[Inf.Energy SH]\n01100000 084100BB 000000FF\n01100000 080240BB 000000FF\n\n",
-        "[Inf.Energy RJ]": "[Inf.Energy RJ]\n01100000 084100BC 000000FF\n01100000 080240BC 000000FF\n\n"
-    },
     "381EBB12FB9A8C78928B9268DF3FDC9000000000000000000000000000000000": {
         "[Master Code]": "[Master Code]\n580F0000 00D3A2A0\n580F1000 038CB840\n580F1000 00000008\n780F0000 0000000F\n\n",
         "[MM1 Infinite Bombman Power]": "[MM1 Infinite Bombman Power]\n400E0000 00000000\n0000006D\n610F01E0\n00000000 0000001C\n\n",
@@ -84,5 +65,24 @@
         "[mm7 inf hp]": "[mm7 inf hp]\n01000000 052D3468 00000023\n\n",
         "[mm8 inf hp]": "[mm8 inf hp]\n01000000 0531F92F 00000040\n\n",
         "[mm9 inf hp]": "[mm9 inf hp]\n01000000 0542EB52 0000001E\n\n"
+    },
+    "B46F93E6EE5F4298": {
+        "[Inf.Lives]": "[Inf.Lives]\n01100000 084100BD 00000099\n01100000 080240BD 00000099\n\n",
+        "[Invincibility]": "[Invincibility]\n01100000 08410048 00000032\n01100000 08024048 00000032\n\n",
+        "[Inf.Energy]": "[Inf.Energy]\n01100000 084100B1 000000FF\n01100000 080240B1 000000FF\n\n",
+        "[Inf.Energy GE]": "[Inf.Energy GE]\n01100000 084100B2 000000FF\n01100000 080240B2 000000FF\n\n",
+        "[Inf.Energy NE]": "[Inf.Energy NE]\n01100000 084100B3 000000FF\n01100000 080240B3 000000FF\n\n",
+        "[Inf.Energy HA]": "[Inf.Energy HA]\n01100000 084100B4 000000FF\n01100000 080240B4 000000FF\n\n",
+        "[Inf.Energy MA]": "[Inf.Energy MA]\n01100000 084100B5 000000FF\n01100000 080240B5 000000FF\n\n",
+        "[Inf.Energy TO]": "[Inf.Energy TO]\n01100000 084100B6 000000FF\n01100000 080240B6 000000FF\n\n",
+        "[Inf.Energy SN]": "[Inf.Energy SN]\n01100000 084100B7 000000FF\n01100000 080240B7 000000FF\n\n",
+        "[Inf.Energy RC]": "[Inf.Energy RC]\n01100000 084100B8 000000FF\n01100000 080240B8 000000FF\n\n",
+        "[Inf.Energy SP]": "[Inf.Energy SP]\n01100000 084100B9 000000FF\n01100000 080240B9 000000FF\n\n",
+        "[Inf.Energy RM]": "[Inf.Energy RM]\n01100000 084100BA 000000FF\n01100000 080240BA 000000FF\n\n",
+        "[Inf.Energy SH]": "[Inf.Energy SH]\n01100000 084100BB 000000FF\n01100000 080240BB 000000FF\n\n",
+        "[Inf.Energy RJ]": "[Inf.Energy RJ]\n01100000 084100BC 000000FF\n01100000 080240BC 000000FF\n\n"
+    },
+    "attribution": {
+        "Mega Man Legacy Collection by arismendy64.txt": "Controls:\nZL + Left = Fireflower\nZL + Right = Style Specific Power-Up #1\nZL + Up = Style Specific Power-Up #2\nZL + Down = Mushroom (Hammer Suit for 3D World)"
     }
 }

@@ -34,9 +34,6 @@
         "[Player 4 Character Change]": "[Player 4 Character Change]\n580F0000 032AEDF8\n580F1000 000000A0\n580F1000 00000038\n580F1000 00000098\n780F0000 0000002C\n640F0000 00000000 000000\n\n",
         "[Player 5 Character Change]": "[Player 5 Character Change]\n580F0000 032AEDF8\n580F1000 000000A0\n580F1000 00000038\n580F1000 00000098\n780F0000 00000030\n640F0000 00000000 000000\n\n"
     },
-    "attribution": {
-        "Romancing SaGa 3 by ZiT866.txt": "After the 8th person, please add +08 to the following code\n580F1000 00000058\n\n?Be sure to get a backup of the save data.\n?Enter each ID in 000000xx with reference to the SFC code.\n?For the second and subsequent item, add +04 to the following code.\n 780F0000 00000020"
-    },
     "65C66922BB286344A16CD3685367794200000000000000000000000000000000": {
         "[Item]": "[Item]\n580F0000 032AEDF8\n580F1000 000000A0\n580F1000 00000038\n580F1000 000000B0\n780F0000 00000020\n640F0000 00000000 000000XX\n580F0000 032AEDF8\n580F1000 000000A0\n580F1000 00000038\n580F1000 000000B8\n780F0000 00000020\n640F0000 00000000 00000063\n\n",
         "[Money]": "[Money]\n580F0000 032AEDF8\n580F1000 000000A0\n580F1000 00000038\n780F0000 00000084\n640F0000 00000000 05F5E0FF\n\n",
@@ -71,5 +68,8 @@
         "[Unlock All Formation]": "[Unlock All Formation]\n580F0000 032AEDF8\n580F1000 000000A0\n580F1000 00000038\n780F0000 0000008C\n640F0000 00000000 FFFFFFFF\n\n",
         "[Unlock All Trick]": "[Unlock All Trick]\n580F0000 032AEDF8\n580F1000 000000A0\n580F1000 00000038\n580F1000 000000E0\n780F0000 0000001C\n300E0000 00000041\n640F0000 00000000 FFFFFFFF\n780F0000 00000004\n310E0000\n20000000\n\n",
         "[Walk through Walls (OFF:hold ZR)]": "[Walk through Walls (OFF:hold ZR)]\n580F0000 032AEDF8\n580F1000 000000A0\n580F1000 00000008\n580F1000 00000010\n780F0000 0000009C\n640F0000 00000000 00000001\n80000200\n640F0000 00000000 00000000\n20000000\n\n"
+    },
+    "attribution": {
+        "Romancing SaGa 3 by ZiT866.txt": "After the 8th person, please add +08 to the following code\n580F1000 00000058\n\n?Be sure to get a backup of the save data.\n?Enter each ID in 000000xx with reference to the SFC code.\n?For the second and subsequent item, add +04 to the following code.\n 780F0000 00000020"
     }
 }

@@ -12,9 +12,6 @@
         "[9 lives pac champ]": "[9 lives pac champ]\n580F0000 019D9488\n580F1000 00000000\n580F1000 00000040\n780F0000 00000450\n610F0000 00000000 00000009\n\n",
         "[5 lives galaxian]": "[5 lives galaxian]\n580F0000 019D9488\n580F1000 00000000\n580F1000 00000040\n780F0000 00000042\n610F0000 00000000 00000005\n\n"
     },
-    "attribution": {
-        "NAMCO MUSEUM ARCHIVES Volume 1 by arismendy64.txt": "Super Mario Allstars\nSuper Mario 3"
-    },
     "D8F700A70F7DF4F246FD43B831F725F900000000000000000000000000000000": {
         "[2 lives druaga]": "[2 lives druaga]\n580F0000 019D9488\n580F1000 00000000\n580F1000 00000040\n780F0000 000000CB\n610F0000 00000000 00000002\n\n",
         "[5 lives dig dug]": "[5 lives dig dug]\n580F0000 019D9488\n580F1000 00000000\n580F1000 00000040\n780F0000 00000060\n610F0000 00000000 00000005\n\n",
@@ -27,5 +24,8 @@
         "[inf hp dragon buster]": "[inf hp dragon buster]\n580F0000 019D9488\n580F1000 00000000\n580F1000 00000040\n780F0000 000003D0\n640F0000 00000000 80800000\n\n",
         "[inf hp dragon spirit]": "[inf hp dragon spirit]\n580F0000 019D9488\n580F1000 00000000\n580F1000 00000040\n780F0000 00000053\n610F0000 00000000 00000066\n\n",
         "[inf hp splatterhouse]": "[inf hp splatterhouse]\n580F0000 019D9488\n580F1000 00000000\n580F1000 00000040\n780F0000 000003C7\n610F0000 00000000 00000004\n\n"
+    },
+    "attribution": {
+        "NAMCO MUSEUM ARCHIVES Volume 1 by arismendy64.txt": "Super Mario Allstars\nSuper Mario 3"
     }
 }

@@ -7,6 +7,50 @@
         "[All Race Coins Collected*]": "[All Race Coins Collected*]\n04000000 0011E350 B9405C00\n\n",
         "[No Speed loss]": "[No Speed loss]\n04000000 001F1580 1E2703E0\n04000000 001F15A0 1E2703E0\n04000000 001F15C0 1E2703E0\n\n"
     },
+    "0FD4CFFBE940D846B339F73C16A80C8E00000000000000000000000000000000": {
+        "[All Cars Unlocked]": "[All Cars Unlocked]\n04000000 00132DA0 52800008\n\n",
+        "[All Race Coins Collected*]": "[All Race Coins Collected*]\n04000000 0011E350 B9405C00\n\n",
+        "[No Speed loss]": "[No Speed loss]\n04000000 001F1580 1E2703E0\n04000000 001F15A0 1E2703E0\n04000000 001F15C0 1E2703E0\n\n",
+        "[Race Pos1]": "[Race Pos1]\n04000000 002C10B0 52800000\n\n",
+        "[UNL Fuel]": "[UNL Fuel]\n04000000 001F7F9C 1E282808\n\n",
+        "[UNL Nitro]": "[UNL Nitro]\n04000000 002C6FC0 52800120\n\n"
+    },
+    "54FF7713DD6DF145": {
+        "[UNL Nitro - ON]": "[UNL Nitro - ON]\n04000000 002DE9C0 52800120\n\n",
+        "[UNL Nitro - OFF]": "[UNL Nitro - OFF]\n04000000 002DE9C0 B9402000\n\n",
+        "[UNL Fuel - ON]": "[UNL Fuel - ON]\n01000000 00144251 00000022\n\n",
+        "[UNL Fuel - OFF]": "[UNL Fuel - OFF]\n01000000 00144251 0000002A\n\n",
+        "[All Cars Unlocked - ON]": "[All Cars Unlocked - ON]\n01000000 000F5C2E 00000080\n\n",
+        "[All Cars Unlocked - OFF]": "[All Cars Unlocked - OFF]\n01000000 000F5C2E 00000000\n\n",
+        "[Race Pos1 - ON]": "[Race Pos1 - ON]\n04000000 002D8990 52800000\n\n",
+        "[Race Pos1 - OFF]": "[Race Pos1 - OFF]\n04000000 002D8990 B9410400\n\n",
+        "[No Collision - ON]": "[No Collision - ON]\n04000000 002DB3C0 D65F03C0\n\n",
+        "[No Collision - OFF]": "[No Collision - OFF]\n04000000 002DB3C0 A9BD57F6\n\n"
+    },
+    "819E5FAED7CB2E4C": {
+        "[UNL Nitro - OFF]": "[UNL Nitro - OFF]\n04000000 002DE9C0 B9402000\n\n",
+        "[No Collision - OFF]": "[No Collision - OFF]\n04000000 002DB3C0 A9BD57F6\n\n",
+        "[UNL Nitro - ON]": "[UNL Nitro - ON]\n04000000 002DE9C0 52800120\n\n",
+        "[UNL Fuel - ON]": "[UNL Fuel - ON]\n01000000 00144251 00000022\n\n",
+        "[All Cars Unlocked - OFF]": "[All Cars Unlocked - OFF]\n01000000 000F5C2E 00000000\n\n",
+        "[No Collision - ON]": "[No Collision - ON]\n04000000 002DB3C0 D65F03C0\n\n",
+        "[All Cars Unlocked - ON]": "[All Cars Unlocked - ON]\n01000000 000F5C2E 00000080\n\n",
+        "[UNL Fuel - OFF]": "[UNL Fuel - OFF]\n01000000 00144251 0000002A\n\n",
+        "[Race Pos1 - ON]": "[Race Pos1 - ON]\n04000000 002D8990 52800000\n\n",
+        "[Race Pos1 - OFF]": "[Race Pos1 - OFF]\n04000000 002D8990 B9410400\n\n"
+    },
+    "819E5FAED7CB2E4C867F70C78CAB62EC00000000000000000000000000000000": {
+        "[All Cars Unlocked - OFF]": "[All Cars Unlocked - OFF]\n01000000 000F5C2E 00000000\n\n",
+        "[All Cars Unlocked - ON]": "[All Cars Unlocked - ON]\n01000000 000F5C2E 00000080\n\n",
+        "[No Collision - OFF]": "[No Collision - OFF]\n04000000 002DB3C0 A9BD57F6\n\n",
+        "[No Collision - ON]": "[No Collision - ON]\n04000000 002DB3C0 D65F03C0\n\n",
+        "[Race Pos1 - OFF]": "[Race Pos1 - OFF]\n04000000 002D8990 B9410400\n\n",
+        "[Race Pos1 - ON]": "[Race Pos1 - ON]\n04000000 002D8990 52800000\n\n",
+        "[UNL Fuel - OFF]": "[UNL Fuel - OFF]\n01000000 00144251 0000002A\n\n",
+        "[UNL Fuel - ON]": "[UNL Fuel - ON]\n01000000 00144251 00000022\n\n",
+        "[UNL Nitro - OFF]": "[UNL Nitro - OFF]\n04000000 002DE9C0 B9402000\n\n",
+        "[UNL Nitro - ON]": "[UNL Nitro - ON]\n04000000 002DE9C0 52800120\n\n"
+    },
     "C4155F1414558E45": {
         "[Infinite Nitro (ON)]": "[Infinite Nitro (ON)]\n04000000 002DB360 52800120\n\n",
         "[Infinite Nitro (OFF)]": "[Infinite Nitro (OFF)]\n04000000 002DB360 B9402000\n\n",
@@ -18,6 +62,27 @@
         "[Ghostization (ON)]": "[Ghostization (ON)]\n04000000 002D7E50 D65F03C0\n\n",
         "[Ghostization (OFF)]": "[Ghostization (OFF)]\n04000000 002D7E50 D61F00A0\n\n"
     },
+    "C4155F1414558E45B36A48A3D3E21EF100000000000000000000000000000000": {
+        "[Always first place (OFF)]": "[Always first place (OFF)]\n04000000 002D5330 B9410400\n\n",
+        "[Always first place (ON)]": "[Always first place (ON)]\n04000000 002D5330 52800000\n\n",
+        "[Ghostization (OFF)]": "[Ghostization (OFF)]\n04000000 002D7E50 D61F00A0\n\n",
+        "[Ghostization (ON)]": "[Ghostization (ON)]\n04000000 002D7E50 D65F03C0\n\n",
+        "[Infinite Fuel (OFF)]": "[Infinite Fuel (OFF)]\n04000000 0014375C 1E283808\n\n",
+        "[Infinite Fuel (ON)]": "[Infinite Fuel (ON)]\n04000000 0014375C 1E282808\n\n",
+        "[Infinite Nitro (OFF)]": "[Infinite Nitro (OFF)]\n04000000 002DB360 B9402000\n\n",
+        "[Infinite Nitro (ON)]": "[Infinite Nitro (ON)]\n04000000 002DB360 52800120\n\n",
+        "[Unlock all cars]": "[Unlock all cars]\n04000000 000F575C 52800008\n\n"
+    },
+    "DC0392FB78995746": {
+        "[All Cars Unlocked]": "[All Cars Unlocked]\n04000000 00154860 52800008\n\n",
+        "[UNL Nitro]": "[UNL Nitro]\n04000000 002C4380 52800120\n\n",
+        "[UNL Fuel]": "[UNL Fuel]\n04000000 001F704C 1E282808\n\n"
+    },
+    "DC0392FB78995746989DB0476417ACE100000000000000000000000000000000": {
+        "[All Cars Unlocked]": "[All Cars Unlocked]\n04000000 00154860 52800008\n\n",
+        "[UNL Fuel]": "[UNL Fuel]\n04000000 001F704C 1E282808\n\n",
+        "[UNL Nitro]": "[UNL Nitro]\n04000000 002C4380 52800120\n\n"
+    },
     "E807E56DB799DA40": {
         "[UNL Nitro]": "[UNL Nitro]\n04000000 0028F0D0 52800120\n\n",
         "[UNL Fuel]": "[UNL Fuel]\n04000000 002A83DC 1E282808\n\n",
@@ -26,6 +91,15 @@
         "[No Collision]": "[No Collision]\n04000000 001E56F0 D65F03C0\n\n",
         "[All Race Coins Collected*]": "[All Race Coins Collected*]\n04000000 000DF2A0 B9405C00\n\n",
         "[No Speed loss]": "[No Speed loss]\n04000000 002A1AF0 1E2703E0\n04000000 002A1B00 1E2703E0\n04000000 002A1B10 1E2703E0\n\n"
+    },
+    "E807E56DB799DA40AF3CE1B4467A5AD500000000000000000000000000000000": {
+        "[All Cars Unlocked]": "[All Cars Unlocked]\n04000000 000F42AC 52800008\n\n",
+        "[All Race Coins Collected*]": "[All Race Coins Collected*]\n04000000 000DF2A0 B9405C00\n\n",
+        "[No Collision]": "[No Collision]\n04000000 001E56F0 D65F03C0\n\n",
+        "[No Speed loss]": "[No Speed loss]\n04000000 002A1AF0 1E2703E0\n04000000 002A1B00 1E2703E0\n04000000 002A1B10 1E2703E0\n\n",
+        "[Race Pos1]": "[Race Pos1]\n04000000 001E2200 52800000\n\n",
+        "[UNL Fuel]": "[UNL Fuel]\n04000000 002A83DC 1E282808\n\n",
+        "[UNL Nitro]": "[UNL Nitro]\n04000000 0028F0D0 52800120\n\n"
     },
     "FC03E9C290B99944": {
         "[Infinite Nitro (ON)]": "[Infinite Nitro (ON)]\n04000000 002FD2B0 52800120\n\n",
@@ -40,69 +114,6 @@
         "[Ghostization (ON)]": "[Ghostization (ON)]\n04000000 002F9DA0 D65F03C0\n\n",
         "[Ghostization (OFF)]": "[Ghostization (OFF)]\n04000000 002F9DA0 D61F00A0\n\n"
     },
-    "attribution": {
-        "Horizon Chase Turbo 1.1.0 eshop version by DaBlackDeath.txt": ""
-    },
-    "819E5FAED7CB2E4C": {
-        "[UNL Nitro - OFF]": "[UNL Nitro - OFF]\n04000000 002DE9C0 B9402000\n\n",
-        "[No Collision - OFF]": "[No Collision - OFF]\n04000000 002DB3C0 A9BD57F6\n\n",
-        "[UNL Nitro - ON]": "[UNL Nitro - ON]\n04000000 002DE9C0 52800120\n\n",
-        "[UNL Fuel - ON]": "[UNL Fuel - ON]\n01000000 00144251 00000022\n\n",
-        "[All Cars Unlocked - OFF]": "[All Cars Unlocked - OFF]\n01000000 000F5C2E 00000000\n\n",
-        "[No Collision - ON]": "[No Collision - ON]\n04000000 002DB3C0 D65F03C0\n\n",
-        "[All Cars Unlocked - ON]": "[All Cars Unlocked - ON]\n01000000 000F5C2E 00000080\n\n",
-        "[UNL Fuel - OFF]": "[UNL Fuel - OFF]\n01000000 00144251 0000002A\n\n",
-        "[Race Pos1 - ON]": "[Race Pos1 - ON]\n04000000 002D8990 52800000\n\n",
-        "[Race Pos1 - OFF]": "[Race Pos1 - OFF]\n04000000 002D8990 B9410400\n\n"
-    },
-    "DC0392FB78995746": {
-        "[All Cars Unlocked]": "[All Cars Unlocked]\n04000000 00154860 52800008\n\n",
-        "[UNL Nitro]": "[UNL Nitro]\n04000000 002C4380 52800120\n\n",
-        "[UNL Fuel]": "[UNL Fuel]\n04000000 001F704C 1E282808\n\n"
-    },
-    "FD04FC9F3849184D": {
-        "[No Speed loss]": "[No Speed loss]\n04000000 002C2820 1E2703E0\n04000000 002C2840 1E2703E0\n04000000 002C2860 1E2703E0\n\n",
-        "[UNL Fuel]": "[UNL Fuel]\n04000000 002C910C 1E282808\n\n",
-        "[UNL Nitro]": "[UNL Nitro]\n04000000 002AFE00 52800120\n\n",
-        "[Race Pos1]": "[Race Pos1]\n04000000 00203F80 52800000\n\n",
-        "[All Race Coins Collected*]": "[All Race Coins Collected*]\n04000000 000DF2F0 B9405C00\n\n",
-        "[All Cars Unlocked]": "[All Cars Unlocked]\n04000000 000F42FC 52800008\n\n"
-    },
-    "54FF7713DD6DF145": {
-        "[UNL Nitro - ON]": "[UNL Nitro - ON]\n04000000 002DE9C0 52800120\n\n",
-        "[UNL Nitro - OFF]": "[UNL Nitro - OFF]\n04000000 002DE9C0 B9402000\n\n",
-        "[UNL Fuel - ON]": "[UNL Fuel - ON]\n01000000 00144251 00000022\n\n",
-        "[UNL Fuel - OFF]": "[UNL Fuel - OFF]\n01000000 00144251 0000002A\n\n",
-        "[All Cars Unlocked - ON]": "[All Cars Unlocked - ON]\n01000000 000F5C2E 00000080\n\n",
-        "[All Cars Unlocked - OFF]": "[All Cars Unlocked - OFF]\n01000000 000F5C2E 00000000\n\n",
-        "[Race Pos1 - ON]": "[Race Pos1 - ON]\n04000000 002D8990 52800000\n\n",
-        "[Race Pos1 - OFF]": "[Race Pos1 - OFF]\n04000000 002D8990 B9410400\n\n",
-        "[No Collision - ON]": "[No Collision - ON]\n04000000 002DB3C0 D65F03C0\n\n",
-        "[No Collision - OFF]": "[No Collision - OFF]\n04000000 002DB3C0 A9BD57F6\n\n"
-    },
-    "819E5FAED7CB2E4C867F70C78CAB62EC00000000000000000000000000000000": {
-        "[All Cars Unlocked - OFF]": "[All Cars Unlocked - OFF]\n01000000 000F5C2E 00000000\n\n",
-        "[All Cars Unlocked - ON]": "[All Cars Unlocked - ON]\n01000000 000F5C2E 00000080\n\n",
-        "[No Collision - OFF]": "[No Collision - OFF]\n04000000 002DB3C0 A9BD57F6\n\n",
-        "[No Collision - ON]": "[No Collision - ON]\n04000000 002DB3C0 D65F03C0\n\n",
-        "[Race Pos1 - OFF]": "[Race Pos1 - OFF]\n04000000 002D8990 B9410400\n\n",
-        "[Race Pos1 - ON]": "[Race Pos1 - ON]\n04000000 002D8990 52800000\n\n",
-        "[UNL Fuel - OFF]": "[UNL Fuel - OFF]\n01000000 00144251 0000002A\n\n",
-        "[UNL Fuel - ON]": "[UNL Fuel - ON]\n01000000 00144251 00000022\n\n",
-        "[UNL Nitro - OFF]": "[UNL Nitro - OFF]\n04000000 002DE9C0 B9402000\n\n",
-        "[UNL Nitro - ON]": "[UNL Nitro - ON]\n04000000 002DE9C0 52800120\n\n"
-    },
-    "C4155F1414558E45B36A48A3D3E21EF100000000000000000000000000000000": {
-        "[Always first place (OFF)]": "[Always first place (OFF)]\n04000000 002D5330 B9410400\n\n",
-        "[Always first place (ON)]": "[Always first place (ON)]\n04000000 002D5330 52800000\n\n",
-        "[Ghostization (OFF)]": "[Ghostization (OFF)]\n04000000 002D7E50 D61F00A0\n\n",
-        "[Ghostization (ON)]": "[Ghostization (ON)]\n04000000 002D7E50 D65F03C0\n\n",
-        "[Infinite Fuel (OFF)]": "[Infinite Fuel (OFF)]\n04000000 0014375C 1E283808\n\n",
-        "[Infinite Fuel (ON)]": "[Infinite Fuel (ON)]\n04000000 0014375C 1E282808\n\n",
-        "[Infinite Nitro (OFF)]": "[Infinite Nitro (OFF)]\n04000000 002DB360 B9402000\n\n",
-        "[Infinite Nitro (ON)]": "[Infinite Nitro (ON)]\n04000000 002DB360 52800120\n\n",
-        "[Unlock all cars]": "[Unlock all cars]\n04000000 000F575C 52800008\n\n"
-    },
     "FC03E9C290B9994489FB372F9BD7A59D00000000000000000000000000000000": {
         "[All Race Coins Collected (OFF)]": "[All Race Coins Collected (OFF)]\n04000000 000DFF30 B9405800\n\n",
         "[All Race Coins Collected (ON)]": "[All Race Coins Collected (ON)]\n04000000 000DFF30 B9405C00\n\n",
@@ -116,14 +127,13 @@
         "[Infinite Nitro (ON)]": "[Infinite Nitro (ON)]\n04000000 002FD2B0 52800120\n\n",
         "[Unlock all cars]": "[Unlock all cars]\n04000000 000F567C 52800008\n\n"
     },
-    "E807E56DB799DA40AF3CE1B4467A5AD500000000000000000000000000000000": {
-        "[All Cars Unlocked]": "[All Cars Unlocked]\n04000000 000F42AC 52800008\n\n",
-        "[All Race Coins Collected*]": "[All Race Coins Collected*]\n04000000 000DF2A0 B9405C00\n\n",
-        "[No Collision]": "[No Collision]\n04000000 001E56F0 D65F03C0\n\n",
-        "[No Speed loss]": "[No Speed loss]\n04000000 002A1AF0 1E2703E0\n04000000 002A1B00 1E2703E0\n04000000 002A1B10 1E2703E0\n\n",
-        "[Race Pos1]": "[Race Pos1]\n04000000 001E2200 52800000\n\n",
-        "[UNL Fuel]": "[UNL Fuel]\n04000000 002A83DC 1E282808\n\n",
-        "[UNL Nitro]": "[UNL Nitro]\n04000000 0028F0D0 52800120\n\n"
+    "FD04FC9F3849184D": {
+        "[No Speed loss]": "[No Speed loss]\n04000000 002C2820 1E2703E0\n04000000 002C2840 1E2703E0\n04000000 002C2860 1E2703E0\n\n",
+        "[UNL Fuel]": "[UNL Fuel]\n04000000 002C910C 1E282808\n\n",
+        "[UNL Nitro]": "[UNL Nitro]\n04000000 002AFE00 52800120\n\n",
+        "[Race Pos1]": "[Race Pos1]\n04000000 00203F80 52800000\n\n",
+        "[All Race Coins Collected*]": "[All Race Coins Collected*]\n04000000 000DF2F0 B9405C00\n\n",
+        "[All Cars Unlocked]": "[All Cars Unlocked]\n04000000 000F42FC 52800008\n\n"
     },
     "FD04FC9F3849184DA6342EAE11151FAA00000000000000000000000000000000": {
         "[All Cars Unlocked]": "[All Cars Unlocked]\n04000000 000F42FC 52800008\n\n",
@@ -133,17 +143,7 @@
         "[UNL Fuel]": "[UNL Fuel]\n04000000 002C910C 1E282808\n\n",
         "[UNL Nitro]": "[UNL Nitro]\n04000000 002AFE00 52800120\n\n"
     },
-    "0FD4CFFBE940D846B339F73C16A80C8E00000000000000000000000000000000": {
-        "[All Cars Unlocked]": "[All Cars Unlocked]\n04000000 00132DA0 52800008\n\n",
-        "[All Race Coins Collected*]": "[All Race Coins Collected*]\n04000000 0011E350 B9405C00\n\n",
-        "[No Speed loss]": "[No Speed loss]\n04000000 001F1580 1E2703E0\n04000000 001F15A0 1E2703E0\n04000000 001F15C0 1E2703E0\n\n",
-        "[Race Pos1]": "[Race Pos1]\n04000000 002C10B0 52800000\n\n",
-        "[UNL Fuel]": "[UNL Fuel]\n04000000 001F7F9C 1E282808\n\n",
-        "[UNL Nitro]": "[UNL Nitro]\n04000000 002C6FC0 52800120\n\n"
-    },
-    "DC0392FB78995746989DB0476417ACE100000000000000000000000000000000": {
-        "[All Cars Unlocked]": "[All Cars Unlocked]\n04000000 00154860 52800008\n\n",
-        "[UNL Fuel]": "[UNL Fuel]\n04000000 001F704C 1E282808\n\n",
-        "[UNL Nitro]": "[UNL Nitro]\n04000000 002C4380 52800120\n\n"
+    "attribution": {
+        "Horizon Chase Turbo 1.1.0 eshop version by DaBlackDeath.txt": ""
     }
 }

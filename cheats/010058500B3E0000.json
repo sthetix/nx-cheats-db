@@ -27,9 +27,6 @@
         "[9999999 SILVER]": "[9999999 SILVER]\n04100000 0FCD5104 0098967F\n\n",
         "[9999999 MANA]": "[9999999 MANA]\n04100000 0FCD510C 0098967F\n\n"
     },
-    "attribution": {
-        "LABYRINTH OF REFRAIN COVEN OF DUSK ver 1.0.4 cyiuspi.txt": "Before going to a Mach disable codes. And you must be first at the beginning. "
-    },
     "A70B9EB509780B4A49E2215C36F4A26F00000000000000000000000000000000": {
         "[9999999 MANA]": "[9999999 MANA]\n04100000 0FCD510C 0098967F\n\n",
         "[9999999 SILVER]": "[9999999 SILVER]\n04100000 0FCD5104 0098967F\n\n",
@@ -56,5 +53,8 @@
         "[Reinforcements Inf]": "[Reinforcements Inf]\n04000000 0027CF18 1A89B128\n04000000 0027A660 1A89B128\n04000000 0027A778 1A89B128\n04000000 000BD7DC 1A89B129\n04000000 0027F4BC 1A89B128\n\n",
         "[Silver Coins Max Off]": "[Silver Coins Max Off]\n04000000 00218418 1A89B109\n04000000 0021C1CC 1A89B109\n\n",
         "[Silver Coins Max]": "[Silver Coins Max]\n04000000 00218418 1A89B129\n04000000 0021C1CC 1A89B129\n\n"
+    },
+    "attribution": {
+        "LABYRINTH OF REFRAIN COVEN OF DUSK ver 1.0.4 cyiuspi.txt": "Before going to a Mach disable codes. And you must be first at the beginning. "
     }
 }

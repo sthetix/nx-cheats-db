@@ -8,9 +8,6 @@
         "[No Decrease For Player's HP]": "[No Decrease For Player's HP]\n080E0000 01D3DEF0 B9008B68 B9509668\n\n",
         "[99 MP for Player each Round]": "[99 MP for Player each Round]\n080E0000 01D5097C B9008D4B 52800C6B\n\n"
     },
-    "attribution": {
-        "THE Card Battle, Eternal Destiny v1.0 by Eiffel2018.txt": "Note: Player will be killed by Super Damage"
-    },
     "A354BE6DD8D06F46C5E7D9C0CDE4CCF700000000000000000000000000000000": {
         "[99 MP for Player each Round]": "[99 MP for Player each Round]\n080E0000 01D5097C B9008D4B 52800C6B\n\n",
         "[No Decrease For Card Packs]": "[No Decrease For Card Packs]\n040E0000 01E16DE8 5100016B\n040E0000 01E16DC4 5100016B\n\n",
@@ -19,5 +16,8 @@
         "[No Decrease For items used in Dungeon]": "[No Decrease For items used in Dungeon]\n040E0000 01D6DAC0 4B1F01AD\n\n",
         "[No Decrease For Marshal Wards]": "[No Decrease For Marshal Wards]\n080E0000 01C67AF8 0B02094A 5400010B\n\n",
         "[No Decrease For Player's HP]": "[No Decrease For Player's HP]\n080E0000 01D3DEF0 B9008B68 B9509668\n\n"
+    },
+    "attribution": {
+        "THE Card Battle, Eternal Destiny v1.0 by Eiffel2018.txt": "Note: Player will be killed by Super Damage"
     }
 }

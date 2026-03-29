@@ -32,9 +32,6 @@
         "[Hungry Shark World (v65536) by Eiffel]": "[Hungry Shark World (v65536) by Eiffel]\n{* = SUGGEST OPTION}\n\n",
         "[Boost Speed Up]": "[Boost Speed Up]\n580F0000 03214C90\n580F1000 000000A0\n580F1000 00000008\n580F1000 00000020\n780F0000 000000E4\n640F0000 00000000 40800000\n\n"
     },
-    "attribution": {
-        "Hungry Shark World by TomSwitch and Eiffel2018.txt": "Ammo 255 don't always work. The other two seems to be consistent"
-    },
     "84F3EBF079D0C34DB9C067B7BEFBBCEE00000000000000000000000000000000": {
         "[1) HP - 1/10 reduce *]": "[1) HP - 1/10 reduce *]\n080E0000 01F31620 35000068 39421E68\n080E0000 01F31628 1E201908 1E249000\n080E0000 01F31630 D65F03C0 1E283940\n040E0000 00428EDC 946C21D1\n\n",
         "[1) HP - 1/3 reduce]": "[1) HP - 1/3 reduce]\n080E0000 01F31620 35000068 39421E68\n080E0000 01F31628 1E201908 1E211000\n080E0000 01F31630 D65F03C0 1E283940\n040E0000 00428EDC 946C21D1\n\n",
@@ -66,5 +63,8 @@
         "[Inf Stamina]": "[Inf Stamina]\n580F0000 03214C90\n580F1000 000000A0\n580F1000 00000008\n580F1000 00000028\n780F0000 00000080\n640F0000 00000000 50000000\n\n",
         "[Swim in the air]": "[Swim in the air]\n580F0000 03214C90\n580F1000 000000A0\n580F1000 00000008\n580F1000 00000020\n780F0000 000000E0\n610F0000 00000000 00000000\n\n",
         "[XP @TomSwitch]": "[XP @TomSwitch]\n04100000 91EBB96C 0000F4240\n\n"
+    },
+    "attribution": {
+        "Hungry Shark World by TomSwitch and Eiffel2018.txt": "Ammo 255 don't always work. The other two seems to be consistent"
     }
 }

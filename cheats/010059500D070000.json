@@ -28,9 +28,6 @@
         "[Infinite HP 13]": "[Infinite HP 13]\n04100000 405c2ba0 000003E7\n\n",
         "[Infinite HP 14]": "[Infinite HP 14]\n04100000 40810380 000003E7\n\n"
     },
-    "attribution": {
-        "Lapizlaby.txt": ""
-    },
     "7AA99F168BBE05DEA123B7494D3026AB00000000000000000000000000000000": {
         "[hp]": "[hp]\n04100000 407F55A0 000003E7\n\n",
         "[hp1]": "[hp1]\n04100000 4078CE20 000003E7\n\n",
@@ -59,5 +56,8 @@
         "[Infinite HP 8]": "[Infinite HP 8]\n04100000 404DF180 000003E7\n\n",
         "[Infinite HP 9]": "[Infinite HP 9]\n04100000 404BBCA0 000003E7\n\n",
         "[Infinite HP]": "[Infinite HP]\n04100000 402FF5C0 000003E7\n\n"
+    },
+    "attribution": {
+        "Lapizlaby.txt": ""
     }
 }

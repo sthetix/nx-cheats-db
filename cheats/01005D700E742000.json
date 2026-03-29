@@ -9,9 +9,6 @@
         "[07# Infinite rocket ammo]": "[07# Infinite rocket ammo]\n04000000 010B9FB4 00000063\n\n",
         "[08# All Key Cards]": "[08# All Key Cards]\n040F0000 010B9F84 01010101\n040F0000 010B9F88 01010101\n\n"
     },
-    "attribution": {
-        "Doom64 ver 1.0.1 by patjenova.txt": "Not valid for mini games"
-    },
     "1F45F195FB7468C5BCFA4F260F3454347C058555000000000000000000000000": {
         "[01# Max Health]": "[01# Max Health]\n580F0000 00FEC4C8\n580F1000 00000018\n780F0000 000000A8\n640F0000 00000000 000000C8\n04000000 010B9F60 000000C8\n\n",
         "[02# Max Armor]": "[02# Max Armor]\n04000000 010B9F64 000000C8\n\n",
@@ -21,5 +18,8 @@
         "[06# Infinite Shotgun Ammo]": "[06# Infinite Shotgun Ammo]\n04000000 010B9FAC 00000063\n\n",
         "[07# Infinite rocket ammo]": "[07# Infinite rocket ammo]\n04000000 010B9FB4 00000063\n\n",
         "[08# All Key Cards]": "[08# All Key Cards]\n040F0000 010B9F84 01010101\n040F0000 010B9F88 01010101\n\n"
+    },
+    "attribution": {
+        "Doom64 ver 1.0.1 by patjenova.txt": "Not valid for mini games"
     }
 }

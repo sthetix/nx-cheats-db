@@ -53,10 +53,6 @@
         "[hit range3x]": "[hit range3x]\n04000000 017F0F20 1E2E1001\n80000008\n04000000 017F0F20 1E211001\n20000000\n80000004\n04000000 017F0F20 1E211001\n20000000\n\n",
         "[* Inf Range Weapons]": "[* Inf Range Weapons]\n580F0000 06FDB298\n580F1000 00000000\n580F1000 00000020\n580F1000 000002B0\n580F1000 000000B0\n780F0000 000000F8\n610F0000 00000000 00000008\n\n"
     },
-    "attribution": {
-        "Samurai Jack Battle Through Time ver 1.0.3 by xtatu and 91wii and jericoss translated by felonious.txt": "[Add Stamp Cards with minus]\n80000800\n04100000 6DD40796 008B0000\n",
-        "Samurai Jack Battle Through Time.txt": "Included in the text file;\n\n[Enable / Disable Dynamic Resolution]\n[RRS]\n[CHROM AB]\n[Sky Lighting Quality]\n[MSAA]\n[AA]\n[Shadow]\n[SSAO]\n[Bloom]\n[MIN/MAX/Default GFX Quality]\n\nNote;\n\nThe [GFX Quality] Are For;\n\n[MSAA]\n[AA]\n[Shadow]\n[SSAO]\n[Bloom]\n\n=====\n\n[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.\nPlease use;\nHandheld RRS for Handheld Mode.\nDocked RRS for Docked Mode.\n\nSome GFX Codes has no Function/Effect to the Game.\nBy @Hazerou"
-    },
     "6D5DB3434CCF63F2BC0531E5A35C38CA00000000000000000000000000000000": {
         "[*Inf Range Weapons Jericoss]": "[*Inf Range Weapons Jericoss]\n580F0000 06FDB298\n580F1000 00000000\n580F1000 00000020\n580F1000 000002B0\n580F1000 000000B0\n780F0000 000000F8\n610F0000 00000000 00000008\n\n",
         "[blue soul]": "[blue soul]\n580F0000 06FEA448\n580F1000 00000008\n780F0000 00000518\n640F0000 00000000 0001046A\n\n",
@@ -64,5 +60,9 @@
         "[hit range 3x]": "[hit range 3x]\n04000000 017F0F20 1E2E1001\n80000008\n04000000 017F0F20 1E211001\n20000000\n80000004\n04000000 017F0F20 1E211001\n20000000\n\n",
         "[money]": "[money]\n580F0000 06FEA448\n580F1000 00000008\n780F0000 00000514\n640F0000 00000000 0098967F\n\n",
         "[spirit attack]": "[spirit attack]\n580F0000 068D5038\n580F1000 0000AFB0\n580F1000 00000000\n580F1000 00000050\n780F0000 000000F8\n640F0000 00000000 50000000\n\n"
+    },
+    "attribution": {
+        "Samurai Jack Battle Through Time ver 1.0.3 by xtatu and 91wii and jericoss translated by felonious.txt": "[Add Stamp Cards with minus]\n80000800\n04100000 6DD40796 008B0000\n",
+        "Samurai Jack Battle Through Time.txt": "Included in the text file;\n\n[Enable / Disable Dynamic Resolution]\n[RRS]\n[CHROM AB]\n[Sky Lighting Quality]\n[MSAA]\n[AA]\n[Shadow]\n[SSAO]\n[Bloom]\n[MIN/MAX/Default GFX Quality]\n\nNote;\n\nThe [GFX Quality] Are For;\n\n[MSAA]\n[AA]\n[Shadow]\n[SSAO]\n[Bloom]\n\n=====\n\n[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.\nPlease use;\nHandheld RRS for Handheld Mode.\nDocked RRS for Docked Mode.\n\nSome GFX Codes has no Function/Effect to the Game.\nBy @Hazerou"
     }
 }

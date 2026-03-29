@@ -1,4 +1,8 @@
 {
+    "2E387D52731F6CF8": {
+        "[1P SPEED ATTACK 2X]": "[1P SPEED ATTACK 2X]\n04000000 002E60AC 1E201000\n\n",
+        "[INVECIBLE+INF HEALTH PAD Y OR X OFF INV+HEALTH OFF]": "[INVECIBLE+INF HEALTH PAD Y OR X OFF INV+HEALTH OFF]\n04000000 002AE7E0 D65F03C0\n80000008\n04000000 002AE7E0 FC180FEA\n20000000\n80000004\n04000000 002AE7E0 FC180FEA\n20000000\n\n"
+    },
     "E417100FFEEFD1DE": {
         "[01# Inf Health]": "[01# Inf Health]\n580F0000 06FD4300\n580F1000 00000028\n580F1000 00000100\n580F1000 00000490\n780F0000 0000014C\n640F0000 00000000 453B8000\n780F0000 00000004\n640F0000 00000000 453B8000\n\n",
         "[02# Inf Stamina]": "[02# Inf Stamina]\n580F0000 06FD4300\n580F1000 00000028\n580F1000 00000100\n580F1000 00000498\n780F0000 000000F4\n640F0000 00000000 453B8000\n780F0000 00000008\n640F0000 00000000 453B8000\n\n",
@@ -101,14 +105,6 @@
         "[--SectionEnd: Multiplier Code--]": "[--SectionEnd: Multiplier Code--]\n00000000 00000000 00000000\n\n",
         "[INVECIBLE+INF HEALTH PAD Y OFF INV+HEALTH OFF]": "[INVECIBLE+INF HEALTH PAD Y OFF INV+HEALTH OFF]\n04000000 008458C0 D65F03C0\n80000008\n04000000 008458C0 FC180FEA\n20000000\n80000004\n04000000 008458C0 FC180FEA\n20000000\n\n"
     },
-    "attribution": {
-        "Vampyr ver 1.0.4 by Patjenova.txt": "CC buttle and AP buttle codes will only apply during battle\nthese code are only work with atmosphere,because code include address and value check to avoid crash\nI'm not sure that the check is enough to avoid crash,so it's better to use only field cheat code.",
-        "VAMPYR.txt": "By Hazerou\n\nIncluded in the text file;\n\n\n[RRS]\n[Motion Blur]\n[Film Grain]\n[CHROM AB]\n[Lens Flare]\n[Adaptive Exposure]\n[View Distance Scale]\n[DOF]\n[Anisotropic Filtering]\n[MSAA]\n[AA]\n[Shadow]\n[Shadow Distance]\n[SSAO]\n[Bloom]\n[MIN/MAX/Default GFX Quality]\n\nNote;\n\nThe [GFX Quality] Are For;\n\n[Adaptive Exposure]\n[View Distance Scale]\n[DOF]\n[Anisotropic Filtering]\n[MSAA]\n[AA]\n[Shadow]\n[Shadow Distance]\n[SSAO]\n[Bloom]\n\n=====\n\n[RRS] is Render Resolution Scale and unfortunately I can't find the Dynamic Resolution Function and the MIN/MAX Screen Percentage.\nSo the RRS only affects the Max Resolution up to 100% only.\n\nSome GFX Codes has no Function/Effect to the Game."
-    },
-    "2E387D52731F6CF8": {
-        "[1P SPEED ATTACK 2X]": "[1P SPEED ATTACK 2X]\n04000000 002E60AC 1E201000\n\n",
-        "[INVECIBLE+INF HEALTH PAD Y OR X OFF INV+HEALTH OFF]": "[INVECIBLE+INF HEALTH PAD Y OR X OFF INV+HEALTH OFF]\n04000000 002AE7E0 D65F03C0\n80000008\n04000000 002AE7E0 FC180FEA\n20000000\n80000004\n04000000 002AE7E0 FC180FEA\n20000000\n\n"
-    },
     "E417100FFEEFD1DEB62EDFFC312A7DC000000000000000000000000000000000": {
         "[01# Inf Health]": "[01# Inf Health]\n580F0000 06FD4300\n580F1000 00000028\n580F1000 00000100\n580F1000 00000490\n780F0000 0000014C\n640F0000 00000000 453B8000\n780F0000 00000004\n640F0000 00000000 453B8000\n\n",
         "[02# Inf Stamina]": "[02# Inf Stamina]\n580F0000 06FD4300\n580F1000 00000028\n580F1000 00000100\n580F1000 00000498\n780F0000 000000F4\n640F0000 00000000 453B8000\n780F0000 00000008\n640F0000 00000000 453B8000\n\n",
@@ -116,5 +112,9 @@
         "[04# Inf Bullets]": "[04# Inf Bullets]\n580F0000 071B2CD0\n580F1000 00000008\n580F1000 00000060\n580F1000 00000010\n580F1000 00000080\n780F0000 00000888\n640F0000 00000000 00000063\n\n",
         "[05# 999999 Shillings]": "[05# 999999 Shillings]\n580F0000 071B58C8\n580F1000 00000030\n580F1000 000000A0\n580F1000 00000078\n780F0000 0000044C\n640F0000 00000000 000F423F\n\n",
         "[INVECIBLE+INF HEALTH PAD Y OFF INV+HEALTH OFF]": "[INVECIBLE+INF HEALTH PAD Y OFF INV+HEALTH OFF]\n04000000 008458C0 D65F03C0\n80000008\n04000000 008458C0 FC180FEA\n20000000\n80000004\n04000000 008458C0 FC180FEA\n20000000\n\n"
+    },
+    "attribution": {
+        "Vampyr ver 1.0.4 by Patjenova.txt": "CC buttle and AP buttle codes will only apply during battle\nthese code are only work with atmosphere,because code include address and value check to avoid crash\nI'm not sure that the check is enough to avoid crash,so it's better to use only field cheat code.",
+        "VAMPYR.txt": "By Hazerou\n\nIncluded in the text file;\n\n\n[RRS]\n[Motion Blur]\n[Film Grain]\n[CHROM AB]\n[Lens Flare]\n[Adaptive Exposure]\n[View Distance Scale]\n[DOF]\n[Anisotropic Filtering]\n[MSAA]\n[AA]\n[Shadow]\n[Shadow Distance]\n[SSAO]\n[Bloom]\n[MIN/MAX/Default GFX Quality]\n\nNote;\n\nThe [GFX Quality] Are For;\n\n[Adaptive Exposure]\n[View Distance Scale]\n[DOF]\n[Anisotropic Filtering]\n[MSAA]\n[AA]\n[Shadow]\n[Shadow Distance]\n[SSAO]\n[Bloom]\n\n=====\n\n[RRS] is Render Resolution Scale and unfortunately I can't find the Dynamic Resolution Function and the MIN/MAX Screen Percentage.\nSo the RRS only affects the Max Resolution up to 100% only.\n\nSome GFX Codes has no Function/Effect to the Game."
     }
 }

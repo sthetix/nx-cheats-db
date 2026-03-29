@@ -42,10 +42,6 @@
         "[Have All Equipment]": "[Have All Equipment]\n02000000 00d83600 0000070f\n08000000 00d81ece 01010101 01010101\n01000000 00d81ed6 00000001\n\n",
         "[Walk Through Walls ( ZL )]": "[Walk Through Walls ( ZL )]\n580F0000 00d820c8\n780F1000 0000000c\n610F0000 00000000 00000010\n80000100\n610F0000 00000000 00000000\n20000000\n\n"
     },
-    "attribution": {
-        "Devil May Cry 2 By optanic.txt": "",
-        "DMC 2 ver 1.0.0 bY Zit866 and Imnoob and Retroboy and Optanic.txt": ""
-    },
     "F8C066A1E59D8CCE9BF747D3E4EE706000000000000000000000000000000000": {
         "[99999 Red Orbs Mission]": "[99999 Red Orbs Mission]\n04000000 00D81EBC 0001869F\n\n",
         "[Aerial Heart]": "[Aerial Heart]\n01000000 00D81ECF 00000001\n\n",
@@ -82,5 +78,9 @@
         "[ZR+DOWN Devil Form 2 Do not use on Lucia]": "[ZR+DOWN Devil Form 2 Do not use on Lucia]\n80008200\n01000000 00D83C08 00000002\n20000000\n\n",
         "[ZR+LEFT Normal Form]": "[ZR+LEFT Normal Form]\n80001200\n01000000 00D83C08 00000000\n20000000\n\n",
         "[ZR+UP Devil Form 1]": "[ZR+UP Devil Form 1]\n80002200\n01000000 00D83C08 00000001\n20000000\n\n"
+    },
+    "attribution": {
+        "Devil May Cry 2 By optanic.txt": "",
+        "DMC 2 ver 1.0.0 bY Zit866 and Imnoob and Retroboy and Optanic.txt": ""
     }
 }

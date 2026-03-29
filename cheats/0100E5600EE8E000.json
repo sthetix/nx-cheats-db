@@ -124,9 +124,6 @@
         "[999 HP Wilbell]": "[999 HP Wilbell]\n04000000 00e155a4 000003E7\n04000000 00e155ac 000003E7\n04000000 00e156ac 000003E7\n\n",
         "[999 MP Wilbell]": "[999 MP Wilbell]\n04000000 00e155a8 000003E7\n04000000 00e155b0 000003E7\n04000000 00e156b0 000003E7\n\n"
     },
-    "attribution": {
-        "Atelier Escha & Logy Alchemists of the Dusk Sky DX ver 1.0.0 by matias3ds.txt": ""
-    },
     "4BBB3B3455D306C691E29821E29995835703254C000000000000000000000000": {
         "[Cloud Financier 99]": "[Cloud Financier 99]\n04000000 00E0FD92 00000063\n\n",
         "[Purify Block 99]": "[Purify Block 99]\n04000000 00E0FF66 00000063\n\n",
@@ -242,5 +239,8 @@
         "[Wilbell MP 999]": "[Wilbell MP 999]\n04000000 00E155A8 000003E7\n04000000 00E155B0 000003E7\n04000000 00E156B0 000003E7\n\n",
         "[Wind Core MP 99]": "[Wind Core MP 99]\n04000000 00E10116 00000063\n\n",
         "[World Stone Star 99]": "[World Stone Star 99]\n04000000 00E1040A 00000063\n\n"
+    },
+    "attribution": {
+        "Atelier Escha & Logy Alchemists of the Dusk Sky DX ver 1.0.0 by matias3ds.txt": ""
     }
 }

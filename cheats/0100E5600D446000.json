@@ -13,6 +13,20 @@
         "[Max Evade]": "[Max Evade]\n580F0000 0173DB58\n780F0000 00000060\n640F0000 00000000 000003E7\n\n",
         "[Max Hit Rate]": "[Max Hit Rate]\n580F0000 0173DB58\n780F0000 00000064\n640F0000 00000000 000003E7\n\n"
     },
+    "45F10C499223A9E48C1476661B1217FBD342A9B6000000000000000000000000": {
+        "[99999999 Gold]": "[99999999 Gold]\n04100000 6E13EF30 05F5E0FF\n\n",
+        "[Inf HP (God Mode)]": "[Inf HP (God Mode)]\n02100000 6E2C9C90 0000270F\n\n",
+        "[Inf HP]": "[Inf HP]\n580F0000 0173DB58\n780F0000 00000028\n640F0000 00000000 0000270F\n780F0000 00000008\n640F0000 00000000 0000270F\n\n",
+        "[Inf MP]": "[Inf MP]\n580F0000 0173DB58\n780F0000 0000002C\n640F0000 00000000 000003E7\n780F0000 00000008\n640F0000 00000000 000003E7\n780F0000 00000008\n640F0000 00000000 000003E7\n\n",
+        "[Lvl Up After Battle Always]": "[Lvl Up After Battle Always]\n580F0000 0173DB58\n780F0000 00000024\n640F0000 00000000 3B9AC9FF\n\n",
+        "[Max Evades]": "[Max Evades]\n580F0000 0173DB58\n780F0000 00000060\n640F0000 00000000 000003E7\n\n",
+        "[Max Hit Rate Gets]": "[Max Hit Rate Gets]\n580F0000 0173DB58\n780F0000 00000064\n640F0000 00000000 000003E7\n\n",
+        "[Max Magic. Atk]": "[Max Magic. Atk]\n580F0000 0173DB58\n780F0000 00000058\n640F0000 00000000 000003E7\n\n",
+        "[Max Magic. Def]": "[Max Magic. Def]\n580F0000 0173DB58\n780F0000 0000005C\n640F0000 00000000 000003E7\n\n",
+        "[Max Physic. Atk]": "[Max Physic. Atk]\n580F0000 0173DB58\n780F0000 00000050\n640F0000 00000000 000003E7\n\n",
+        "[Max Physic. Def]": "[Max Physic. Def]\n580F0000 0173DB58\n780F0000 00000054\n640F0000 00000000 000003E7\n\n",
+        "[Money/Duit]": "[Money/Duit]\n581F0000 6E1387D0\n780F0000 00000890\n640F0000 00000000 03F940AA\n\n"
+    },
     "C32B29CB5FBA96D9": {
         "[01# inf Money]": "[01# inf Money]\n041F0000 6DD39080 000F423F\n\n",
         "[02# inf Casino coins]": "[02# inf Casino coins]\n041F0000 6DD39084 0000270F\n\n",
@@ -29,10 +43,6 @@
         "[Max Xp oliver add level 1 for battle]": "[Max Xp oliver add level 1 for battle]\n580F0000 01728B28\n780F0000 00000024\n640F0000 00000000 3B9AC9FF\n\n",
         "[60 FPS (Must be enabled at boot)]": "[60 FPS (Must be enabled at boot)]\n04000000 00BD605C E3022048\n58000000 016C32A0\n78001000 000CDFE8\n64000000 00000000 3C888889\n\n"
     },
-    "attribution": {
-        "Ni No Kuni ver 1.0,2 by patjenova and merlin555.txt": "",
-        "Ni no Kuni Wrath of the White Witch.txt": "By masagrator\n\nhttps://gbatemp.net/threads/ni-no-kuni-wrath-of-the-white-witch-60-fps-hack.558225/"
-    },
     "C32B29CB5FBA96D9CBAE5927951D35895AB70D6F000000000000000000000000": {
         "[01# inf Money]": "[01# inf Money]\n041F0000 6DD39080 000F423F\n\n",
         "[02# inf Casino coins]": "[02# inf Casino coins]\n041F0000 6DD39084 0000270F\n\n",
@@ -45,18 +55,8 @@
         "[Max Money 99 999 999]": "[Max Money 99 999 999]\n041F0000 6DD3C210 05F5E0FF\n\n",
         "[Ultrawidescreen 21: 9]": "[Ultrawidescreen 21: 9]\n041F0000 6E103688 401851EC\n041F0000 6E1037D8 401851EC\n041F0000 6E103928 401851EC\n041F0000 6E103C08 401851EC\n041F0000 6E103DD8 401851EC\n041F0000 6E103FB8 401851EC\n041F0000 6E1043E8 401851EC\n041F0000 6E104698 401851EC\n\n"
     },
-    "45F10C499223A9E48C1476661B1217FBD342A9B6000000000000000000000000": {
-        "[99999999 Gold]": "[99999999 Gold]\n04100000 6E13EF30 05F5E0FF\n\n",
-        "[Inf HP (God Mode)]": "[Inf HP (God Mode)]\n02100000 6E2C9C90 0000270F\n\n",
-        "[Inf HP]": "[Inf HP]\n580F0000 0173DB58\n780F0000 00000028\n640F0000 00000000 0000270F\n780F0000 00000008\n640F0000 00000000 0000270F\n\n",
-        "[Inf MP]": "[Inf MP]\n580F0000 0173DB58\n780F0000 0000002C\n640F0000 00000000 000003E7\n780F0000 00000008\n640F0000 00000000 000003E7\n780F0000 00000008\n640F0000 00000000 000003E7\n\n",
-        "[Lvl Up After Battle Always]": "[Lvl Up After Battle Always]\n580F0000 0173DB58\n780F0000 00000024\n640F0000 00000000 3B9AC9FF\n\n",
-        "[Max Evades]": "[Max Evades]\n580F0000 0173DB58\n780F0000 00000060\n640F0000 00000000 000003E7\n\n",
-        "[Max Hit Rate Gets]": "[Max Hit Rate Gets]\n580F0000 0173DB58\n780F0000 00000064\n640F0000 00000000 000003E7\n\n",
-        "[Max Magic. Atk]": "[Max Magic. Atk]\n580F0000 0173DB58\n780F0000 00000058\n640F0000 00000000 000003E7\n\n",
-        "[Max Magic. Def]": "[Max Magic. Def]\n580F0000 0173DB58\n780F0000 0000005C\n640F0000 00000000 000003E7\n\n",
-        "[Max Physic. Atk]": "[Max Physic. Atk]\n580F0000 0173DB58\n780F0000 00000050\n640F0000 00000000 000003E7\n\n",
-        "[Max Physic. Def]": "[Max Physic. Def]\n580F0000 0173DB58\n780F0000 00000054\n640F0000 00000000 000003E7\n\n",
-        "[Money/Duit]": "[Money/Duit]\n581F0000 6E1387D0\n780F0000 00000890\n640F0000 00000000 03F940AA\n\n"
+    "attribution": {
+        "Ni No Kuni ver 1.0,2 by patjenova and merlin555.txt": "",
+        "Ni no Kuni Wrath of the White Witch.txt": "By masagrator\n\nhttps://gbatemp.net/threads/ni-no-kuni-wrath-of-the-white-witch-60-fps-hack.558225/"
     }
 }

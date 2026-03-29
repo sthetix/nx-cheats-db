@@ -3,11 +3,11 @@
         "[Hearts and Stamina don't decrease]": "[Hearts and Stamina don't decrease]\n04000000 01CA7994 52817701\n04000000 01CA7998 B9001401\n04000000 01CA799C D65F03C0\n04000000 01CA79A0 17FFFFFD\n\n",
         "[Hearts and Stamina don't decrease off]": "[Hearts and Stamina don't decrease off]\n04000000 01CA79A0 B9001401\n\n"
     },
-    "attribution": {
-        "Scarlet Hood and the Wicked Wood 1.0.0 by Tomswitch.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
-    },
     "EAF244798CB7A2408A0284AC4193F36E00000000000000000000000000000000": {
         "[Hearts and Stamina don't decrease off]": "[Hearts and Stamina don't decrease off]\n04000000 01CA79A0 B9001401\n\n",
         "[Hearts and Stamina don't decrease]": "[Hearts and Stamina don't decrease]\n04000000 01CA7994 52817701\n04000000 01CA7998 B9001401\n04000000 01CA799C D65F03C0\n04000000 01CA79A0 17FFFFFD\n\n"
+    },
+    "attribution": {
+        "Scarlet Hood and the Wicked Wood 1.0.0 by Tomswitch.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
     }
 }

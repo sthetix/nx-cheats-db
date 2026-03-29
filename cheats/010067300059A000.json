@@ -23,10 +23,6 @@
         "[01# Player 1 inf HP]": "[01# Player 1 inf HP]\n580F0000 03225800\n580F1000 00000010\n580F1000 00000010\n580F1000 00000098\n580F1000 000000F0\n580F1000 00000058\n780F0000 00000020\n640F0000 00000000 000003E7\n780F0000 00000004\n640F0000 00000000 000003E7\n\n",
         "[03# Player 3 inf HP]": "[03# Player 3 inf HP]\n580F0000 03225BE0\n580F1000 000000E8\n580F1000 00000178\n580F1000 00000CE8\n580F1000 00000498\n580F1000 00000058\n780F0000 00000020\n640F0000 00000000 000003E7\n780F0000 00000004\n640F0000 00000000 000003E7\n\n"
     },
-    "attribution": {
-        "Mario + Rabbids Kingdom Battle ver 1.9.589692 with dlc included by patjenova.txt": "\u203b Activate the code when the game is loaded and the character is ready to move.\n\u203b Invincible, take the damage once and press the button when it stops blinking.",
-        "Mario + Rabbids Kingdom Battle.txt": "By Hazerou"
-    },
     "3B39E0C06B8841F1BAF0EA4D54286BFE00000000000000000000000000000000": {
         "[01# Mario Inf Health and Rabbid Cranky Kong]": "[01# Mario Inf Health and Rabbid Cranky Kong]\n580F0000 03225BE0\n580F1000 00000048\n580F1000 000007D0\n580F1000 00000058\n780F0000 00000020\n640F0000 00000000 000003E7\n780F0000 00000004\n640F0000 00000000 000003E7\n\n",
         "[01# Player 1 inf HP]": "[01# Player 1 inf HP]\n580F0000 03225800\n580F1000 00000010\n580F1000 00000010\n580F1000 00000098\n580F1000 000000F0\n580F1000 00000058\n780F0000 00000020\n640F0000 00000000 000003E7\n780F0000 00000004\n640F0000 00000000 000003E7\n\n",
@@ -48,5 +44,9 @@
         "[14# RABBID YOSHI Max Attack]": "[14# RABBID YOSHI Max Attack]\n580F0000 03225BE0\n580F1000 00000228\n580F1000 00000458\n580F1000 00000118\n780F0000 00000020\n640F0000 00000000 000003E7\n\n",
         "[15# YOSHI Inf Health]": "[15# YOSHI Inf Health]\n580F0000 03225BE0\n580F1000 00000278\n580F1000 000007D0\n580F1000 00000058\n780F0000 00000020\n640F0000 00000000 000003E7\n\n",
         "[16# YOSHI Max Attack]": "[16# YOSHI Max Attack]\n580F0000 03225BE0\n580F1000 00000278\n580F1000 00000458\n580F1000 00000118\n780F0000 00000020\n640F0000 00000000 000003E7\n\n"
+    },
+    "attribution": {
+        "Mario + Rabbids Kingdom Battle ver 1.9.589692 with dlc included by patjenova.txt": "\u203b Activate the code when the game is loaded and the character is ready to move.\n\u203b Invincible, take the damage once and press the button when it stops blinking.",
+        "Mario + Rabbids Kingdom Battle.txt": "By Hazerou"
     }
 }

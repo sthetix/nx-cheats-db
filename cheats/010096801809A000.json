@@ -32,13 +32,6 @@
         "[900p Overall Resolution]": "[900p Overall Resolution]\n580F0000 044FFF20\n780F0000 000000C0\n680F0000 00000384 00000640\n780F0000 00000008\n610F0000 00000000 00000001\n\n",
         "[1080p Overall Resolution]": "[1080p Overall Resolution]\n580F0000 044FFF20\n780F0000 000000C0\n680F0000 00000438 00000780\n780F0000 00000008\n610F0000 00000000 00000001\n\n"
     },
-    "E2B550A95E471A75": {
-        "[60 FPS (Default)]": "[60 FPS (Default)]\n580F0000 0457A430 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
-        "[30 FPS]": "[30 FPS]\n580F0000 0457A430 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
-    },
-    "attribution": {
-        "Ghost Song.txt": "by retole\nNeed OC GPU 921+\nGame have bad optimization\nIncluded in the text file:\nOverall Resolution Cheats from [360p] up to [1080p] and [FPS]"
-    },
     "230439B784CD7724040E9F75D1F7822B00000000000000000000000000000000": {
         "[Determination]": "[Determination]\n580F0000 04176400\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000048\n580F1000 00000128\n780F0000 0000031C\n640F0000 00000000 461C3C00\n\n",
         "[Endurance]": "[Endurance]\n580F0000 04176400\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000048\n580F1000 00000128\n780F0000 000002FC\n640F0000 00000000 00000000\n\n",
@@ -60,5 +53,12 @@
         "[Sub-weapon Hunde Good Shot(Sub-weapons 1~8 please choose one kind of open)]": "[Sub-weapon Hunde Good Shot(Sub-weapons 1~8 please choose one kind of open)]\n580F0000 04176400\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000048\n580F1000 00000128\n780F0000 0000033C\n640F0000 00000000 00000008\n\n",
         "[Sub-weapon Magma Nagamura(Sub-weapons 1~8 please choose one kind of open)]": "[Sub-weapon Magma Nagamura(Sub-weapons 1~8 please choose one kind of open)]\n580F0000 04176400\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000048\n580F1000 00000128\n780F0000 0000033C\n640F0000 00000000 00000005\n\n",
         "[Vitality]": "[Vitality]\n580F0000 04176400\n580F1000 000000B8\n580F1000 00000000\n580F1000 00000048\n580F1000 00000128\n780F0000 00000320\n640F0000 00000000 461C3C00\n\n"
+    },
+    "E2B550A95E471A75": {
+        "[60 FPS (Default)]": "[60 FPS (Default)]\n580F0000 0457A430 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS]": "[30 FPS]\n580F0000 0457A430 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "Ghost Song.txt": "by retole\nNeed OC GPU 921+\nGame have bad optimization\nIncluded in the text file:\nOverall Resolution Cheats from [360p] up to [1080p] and [FPS]"
     }
 }

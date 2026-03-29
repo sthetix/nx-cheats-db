@@ -43,17 +43,6 @@
         "[max when use money on]": "[max when use money on]\n04000000 0099BE60 2A0903E8\n04000000 0099BEC0 2A0903E8\n\n",
         "[max when use money off]": "[max when use money off]\n04000000 0099BE60 6B09011F\n04000000 0099BEC0 6B09011F\n\n"
     },
-    "attribution": {
-        "BRAVELY DEFAULT \u2161 by Patjenova and Crazy_p and harusora.txt": "[Inf Coins 99999 @Matias3ds]\n04000000 01a77670 0001869F\n\n[Inf Skill Tree @Matias3ds]\n04000000 019c46d8 0001869F\n\n[Inf Gems @Matias3ds]\n04000000 01a71d3c 0001869F"
-    },
-    "9A7AD92F9A3E38E2": {
-        "[Money not decreased]": "[Money not decreased]\n04000000 00782834 4B1F0108\n\n",
-        "[Items not decreased]": "[Items not decreased]\n04000000 03849A00 6B1502DF\n04000000 03849A04 5400004B\n04000000 03849A08 2A1603F5\n04000000 03849A0C AA1703E0\n04000000 03849A10 D65F03C0\n04000000 0078372C 94C318B5\n\n",
-        "[HP not reduced]": "[HP not reduced]\n04000000 007753A8 B900EA80\n\n",
-        "[MP not reduced]": "[MP not reduced]\n04000000 007753EC B900EE80\n\n",
-        "[Max BP]": "[Max BP]\n04000000 00776080 52800060\n\n",
-        "[Nirvana Restriction Lifted]": "[Nirvana Restriction Lifted]\n04000000 00778CF4 52800C88\n04000000 00778D30 D503201F\n\n"
-    },
     "05DE5A7F20BD1532D139C16C0B3E892000000000000000000000000000000000": {
         "[01# Money does not decrease]": "[01# Money does not decrease]\n04000000 0099BEB4 4B1F0108\n\n",
         "[02# Items does not decrease]": "[02# Items does not decrease]\n04000000 03DF3600 6B1502DF\n04000000 03DF3604 5400004B\n04000000 03DF3608 2A1603F5\n04000000 03DF360C AA1703E0\n04000000 03DF3610 D65F03C0\n04000000 0099CA14 94D15AFB\n\n",
@@ -97,5 +86,16 @@
         "[status all 9999 off]": "[status all 9999 off]\n04000000 00985C84 2A1303E1\n04000000 00BA7160 52807CE0\n04000000 00BA717C 52807CE0\n\n",
         "[status all 9999 on]": "[status all 9999 on]\n04000000 00985C84 5284E1F7\n04000000 00BA7160 5284E1E0\n04000000 00BA717C 5284E1E0\n\n",
         "[Victory Count]": "[Victory Count]\n58000000 06A016F0\n58001000 00000028\n58001000 000001F0\n58001000 000001F0\n78000000 000000C8\n64000000 00000000 0001869F\n\n"
+    },
+    "9A7AD92F9A3E38E2": {
+        "[Money not decreased]": "[Money not decreased]\n04000000 00782834 4B1F0108\n\n",
+        "[Items not decreased]": "[Items not decreased]\n04000000 03849A00 6B1502DF\n04000000 03849A04 5400004B\n04000000 03849A08 2A1603F5\n04000000 03849A0C AA1703E0\n04000000 03849A10 D65F03C0\n04000000 0078372C 94C318B5\n\n",
+        "[HP not reduced]": "[HP not reduced]\n04000000 007753A8 B900EA80\n\n",
+        "[MP not reduced]": "[MP not reduced]\n04000000 007753EC B900EE80\n\n",
+        "[Max BP]": "[Max BP]\n04000000 00776080 52800060\n\n",
+        "[Nirvana Restriction Lifted]": "[Nirvana Restriction Lifted]\n04000000 00778CF4 52800C88\n04000000 00778D30 D503201F\n\n"
+    },
+    "attribution": {
+        "BRAVELY DEFAULT \u2161 by Patjenova and Crazy_p and harusora.txt": "[Inf Coins 99999 @Matias3ds]\n04000000 01a77670 0001869F\n\n[Inf Skill Tree @Matias3ds]\n04000000 019c46d8 0001869F\n\n[Inf Gems @Matias3ds]\n04000000 01a71d3c 0001869F"
     }
 }

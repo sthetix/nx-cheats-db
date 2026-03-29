@@ -1,13 +1,4 @@
 {
-    "4D266D1AD3E90E74": {
-        "[Unlimited Money 1.0.4 version]": "[Unlimited Money 1.0.4 version]\n04000000 01402980 0098967F\n\n"
-    },
-    "BDDCDA1760494F35": {
-        "[Infinite Money]": "[Infinite Money]\n04000000 013b29a0 0098967F\n\n"
-    },
-    "attribution": {
-        "AtelierLydieSuelle.txt": ""
-    },
     "32EB581C7D9BE094": {
         "[Max Cole]": "[Max Cole]\n04000000 0109F4C0 000F423F\n\n",
         "[Damage x16 and One Hit KO off]": "[Damage x16 and One Hit KO off]\n04000000 001902B4 4B080128\n\n",
@@ -30,10 +21,19 @@
         "[Cole x8]": "[Cole x8]\n04000000 00487870 0B130D29\n\n",
         "[Cole x16]": "[Cole x16]\n04000000 00487870 0B131129\n\n"
     },
+    "4D266D1AD3E90E74": {
+        "[Unlimited Money 1.0.4 version]": "[Unlimited Money 1.0.4 version]\n04000000 01402980 0098967F\n\n"
+    },
     "4D266D1AD3E90E7449031FAC23CFBED800000000000000000000000000000000": {
         "[Unlimited Money 1.0.4 version]": "[Unlimited Money 1.0.4 version]\n04000000 01402980 0098967F\n\n"
     },
+    "BDDCDA1760494F35": {
+        "[Infinite Money]": "[Infinite Money]\n04000000 013b29a0 0098967F\n\n"
+    },
     "BDDCDA1760494F3597950F1B9639829500000000000000000000000000000000": {
         "[Infinite Money]": "[Infinite Money]\n04000000 013B29A0 0098967F\n\n"
+    },
+    "attribution": {
+        "AtelierLydieSuelle.txt": ""
     }
 }

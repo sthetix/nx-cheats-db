@@ -1,12 +1,4 @@
 {
-    "B1891931C1EBA942": {
-        "[Shield unlimited]": "[Shield unlimited]\n580F0000 0228A6E0\n780F1000 00000DD8\n610F0000 00000000 00000005\n\n",
-        "[Laser unlimited]": "[Laser unlimited]\n580F0000 02286EC8\n780F1000 00000F90\n610F0000 00000000 000000FF\n\n",
-        "[Coins MAX]": "[Coins MAX]\n580F0000 02280000\n780F1000 000009D4\n620F0000 00000000 000003E7\n\n"
-    },
-    "attribution": {
-        "Read first Flying Girl Striker v1.0.0 by merlin555.txt": "The addresses are dynamic, but sometimes work.\nDelete Savegame first !"
-    },
     "80CC35A1C9DA4FB5": {
         "[--SectionStart:Sky Shark Cheats v100...--]": "[--SectionStart:Sky Shark Cheats v100...--]\n20000000\n\n",
         "[Sky Shark Infinite Bombs]": "[Sky Shark Infinite Bombs]\n14060000 015b8bb8 00000000\n14050000 015b8b80 00000003\n580f0000 015b8bd0\n580f1000 000000c8\n780f0000 000004d2\n610f0000 00000000 00000007\n20000000\n\n",
@@ -35,9 +27,17 @@
         "[ZL+UDL Genesis Change Weapon]": "[ZL+UDL Genesis Change Weapon]\n80002100\n14150000 0098d4f0 00646d04\n580f0000 011a7388\n580f1000 00000010\n580f1000 00000008\n580f1000 00000078\n780f0000 00000424\n610f0000 00000000 00000008\n20000000\n20000000\n80008100\n14150000 0098d4f0 00646d04\n580f0000 011a7388\n580f1000 00000010\n580f1000 00000008\n580f1000 00000078\n780f0000 00000424\n610f0000 00000000 00000010\n20000000\n20000000\n80001100\n14150000 0098d4f0 00646d04\n580f0000 011a7388\n580f1000 00000010\n580f1000 00000008\n580f1000 00000078\n780f0000 00000424\n610f0000 00000000 00000000\n20000000\n20000000\n\n",
         "[--SectionEnd:Genesis MD Cheats...--]": "[--SectionEnd:Genesis MD Cheats...--]\n20000000\n\n"
     },
+    "B1891931C1EBA942": {
+        "[Shield unlimited]": "[Shield unlimited]\n580F0000 0228A6E0\n780F1000 00000DD8\n610F0000 00000000 00000005\n\n",
+        "[Laser unlimited]": "[Laser unlimited]\n580F0000 02286EC8\n780F1000 00000F90\n610F0000 00000000 000000FF\n\n",
+        "[Coins MAX]": "[Coins MAX]\n580F0000 02280000\n780F1000 000009D4\n620F0000 00000000 000003E7\n\n"
+    },
     "B1891931C1EBA942BE90FB6AA80F820600000000000000000000000000000000": {
         "[Coins MAX]": "[Coins MAX]\n580F0000 02280000\n780F1000 000009D4\n620F0000 00000000 000003E7\n\n",
         "[Laser unlimited]": "[Laser unlimited]\n580F0000 02286EC8\n780F1000 00000F90\n610F0000 00000000 000000FF\n\n",
         "[Shield unlimited]": "[Shield unlimited]\n580F0000 0228A6E0\n780F1000 00000DD8\n610F0000 00000000 00000005\n\n"
+    },
+    "attribution": {
+        "Read first Flying Girl Striker v1.0.0 by merlin555.txt": "The addresses are dynamic, but sometimes work.\nDelete Savegame first !"
     }
 }

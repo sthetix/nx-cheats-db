@@ -24,9 +24,6 @@
         "[Mira is not reduced]": "[Mira is not reduced]\n04000000 004501C8 1E2703E3\n\n",
         "[98 items after sale]": "[98 items after sale]\n04000000 004533E8 52800C2A\n\n"
     },
-    "attribution": {
-        "The Legend of Heroes Trails of Cold Steel IV ver 1.0.2 by Patjenova and mamatkhaled14.txt": ""
-    },
     "4980E9E2426780152A932B6F8A6462BFBF91D727000000000000000000000000": {
         "[01# Inf HP]": "[01# Inf HP]\n040A0000 00AC8030 394FC808\n040A0000 00AC8034 394FC413\n040A0000 00AC8038 7100227F\n040A0000 00AC803C 54000041\n040A0000 00AC8040 2A1F03E1\n040A0000 00AC8044 D65F03C0\n040A0000 000E3EA0 94279064\n\n",
         "[02# Inf EP]": "[02# Inf EP]\n040A0000 00AC8050 7943C3E8\n040A0000 00AC8054 394FC42B\n040A0000 00AC8058 7100217F\n040A0000 00AC805C 54000041\n040A0000 00AC8060 52800008\n040A0000 00AC8064 D65F03C0\n040A0000 000AD880 942869F4\n\n",
@@ -41,5 +38,8 @@
         "[11# Synthesis Inf Use Septium]": "[11# Synthesis Inf Use Septium]\n040A0000 00537B58 9E6703E0\n040A0000 00537B94 4B1F0169\n040A0000 00537BB8 4B1F0169\n040A0000 00537BD8 4B1F0169\n\n",
         "[16# 999999 Mira]": "[16# 999999 Mira]\n040A0000 01A10498 000F423F\n\n",
         "[5 bonding point For Event]": "[5 bonding point For Event]\n010F0000 013BB14C 00000005\n\n"
+    },
+    "attribution": {
+        "The Legend of Heroes Trails of Cold Steel IV ver 1.0.2 by Patjenova and mamatkhaled14.txt": ""
     }
 }

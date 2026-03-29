@@ -6,14 +6,14 @@
         "[5to7 Inf Hearts 3]": "[5to7 Inf Hearts 3]\n580F0000 000034C8\n780F0000 48CCDB50\n640F0000 00000000 00000808\n\n",
         "[5to7 Studs 3]": "[5to7 Studs 3]\n580F0000 000034C8\n780F0000 468F1838\n640F0000 00000000 000F423F\n\n"
     },
-    "attribution": {
-        "Lego Harry Potter years 5 trough 7.txt": ""
-    },
     "01C46C3E39C5370F76F985004A87236600000000000000000000000000000000": {
         "[1to4 Inf Hearts]": "[1to4 Inf Hearts]\n580F0000 000034C8\n780F0000 33B8673C\n640F0000 00000000 04040000\n\n",
         "[5to7 Inf Hearts 3]": "[5to7 Inf Hearts 3]\n580F0000 000034C8\n780F0000 48CCDB50\n640F0000 00000000 00000808\n\n",
         "[5to7 Studs 3]": "[5to7 Studs 3]\n580F0000 000034C8\n780F0000 468F1838\n640F0000 00000000 000F423F\n\n",
         "[Years 1 through 4 too many studs]": "[Years 1 through 4 too many studs]\n581F0000 33EB5508\n781F1000 000008F0\n641F1000 00000000 3B9AC9FF\n641F0000 00000000 3B9AC9FF\n\n",
         "[Years 5 through 7 too many studs]": "[Years 5 through 7 too many studs]\n581F0000 468127A8\n781F1000 000005CC\n641F1000 00000000 07270E00\n641F0000 00000000 07270E00\n\n"
+    },
+    "attribution": {
+        "Lego Harry Potter years 5 trough 7.txt": ""
     }
 }

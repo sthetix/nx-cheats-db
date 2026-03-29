@@ -40,12 +40,12 @@
         "[MIN GFX QUALITY]": "[MIN GFX QUALITY]\n580F0000 07392CC0\n780F0000 00000044\n680F0000 00000001 00000001\n580F0000 07392B40\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 07392B10\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 07392AE0\n780F0000 00000044\n680F0000 00000000 00000000\n580F0000 07392AB0\n780F0000 00000044\n680F0000 00000000 00000000\n\n",
         "[DEFAULT GFX QUALITY]": "[DEFAULT GFX QUALITY]\n580F0000 07392CC0\n780F0000 00000044\n680F0000 00000004 00000004\n580F0000 07392B40\n780F0000 00000044\n680F0000 00000003 00000003\n580F0000 07392B10\n780F0000 00000044\n680F0000 00000003 00000003\n580F0000 07392AE0\n780F0000 00000044\n680F0000 3F000000 3F000000\n580F0000 07392AB0\n780F0000 00000044\n680F0000 00000002 00000002\n\n"
     },
+    "6C8C4B4B699FAD29B9844E8521ACEC4400000000000000000000000000000000": {
+        "[tickets]": "[tickets]\n580F0000 07B55E08\n580F1000 00000280\n780F0000 00000040\n640F0000 00000000 0000270F\n\n"
+    },
     "attribution": {
         "Chocobo GP 1.0.3 by optanic andTomSwitch.txt": "httpswww.youtube.comwatchv=rNGLXudFx1M",
         "Chocobo GP 1.0.3 by TomSwitch.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code.",
         "Chocobo GP Lite.txt": "v1.0.3\n\nGame already running at 60 FPS.\n\nIncluded in the text file;\n\n[Enable / Disable Dynamic Resolution]\n[RRS]\n[Sky Lighting Quality]\n[MSAA]\n[AA]\n[Shadow]\n[SSAO]\n[Bloom]\n[MIN/MAX/Default GFX Quality]\n\nNote;\n\nThe [GFX Quality] Are For;\n\n[MSAA]\n[AA]\n[Shadow]\n[SSAO]\n[Bloom]\n\n=====\n\n[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.\nPlease use;\nHandheld RRS for Handheld Mode.\nDocked RRS for Docked Mode.\n\nSome GFX Codes has no Function/Effect to the Game.\nBy @Hazerou"
-    },
-    "6C8C4B4B699FAD29B9844E8521ACEC4400000000000000000000000000000000": {
-        "[tickets]": "[tickets]\n580F0000 07B55E08\n580F1000 00000280\n780F0000 00000040\n640F0000 00000000 0000270F\n\n"
     }
 }

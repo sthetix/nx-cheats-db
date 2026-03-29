@@ -41,10 +41,6 @@
         "[Minimize Resolution (Disables D Res)]": "[Minimize Resolution (Disables D Res)]\n04000000 0A767E5C 00000000\n\n",
         "[Minimize Resolution OFF (Re-enables D Res)]": "[Minimize Resolution OFF (Re-enables D Res)]\n14050000 0A767E5C 00000000\n04000000 0A767E5C 00000003\n20000000\n\n"
     },
-    "attribution": {
-        "LEGO Star Wars The Skywalker Saga ver 1.0.3 by patjenova.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code.",
-        "LEGO Star Wars The Skywalker Saga.txt": "by Hazerou, CloudMcFox#1580 \nNotes;\n\n1.) Most Cutscenes are running at 30 FPS.\n\n2.) There's a Resolution Flickering when using [Minimize Resolution (Disables D Res)]. Though it's not noticable if you won't stay idle so it's all good.\n"
-    },
     "FD65326219EC426C823A7F10863E18BC00000000000000000000000000000000": {
         "[01# Can Afford upgrades]": "[01# Can Afford upgrades]\n040A0000 0311DE7C 52800000\n040A0000 0311DE80 D65F03C0\n040A0000 0312B94C 52800000\n040A0000 0312B950 D65F03C0\n040A0000 02A58004 52800000\n040A0000 02A58008 D65F03C0\n040A0000 02A4E4EC 52800000\n040A0000 02A4E4F0 D65F03C0\n\n",
         "[02# Inf Health]": "[02# Inf Health]\n040A0000 060DEB3C 00000001\n\n",
@@ -59,5 +55,9 @@
         "[Inf Race Time (off)]": "[Inf Race Time (off)]\n040A0000 041766A0 1E212800\n\n",
         "[Instant Kill (off)]": "[Instant Kill (off)]\n040A0000 060DEB40 00000000\n\n",
         "[Studs Multiplier (off)]": "[Studs Multiplier (off)]\n040A0000 04E66990 1A930133\n040A0000 04E66A60 1A930133\n040A0000 04E66A88 1A930133\n040A0000 04E66818 1A930120\n\n"
+    },
+    "attribution": {
+        "LEGO Star Wars The Skywalker Saga ver 1.0.3 by patjenova.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code.",
+        "LEGO Star Wars The Skywalker Saga.txt": "by Hazerou, CloudMcFox#1580 \nNotes;\n\n1.) Most Cutscenes are running at 30 FPS.\n\n2.) There's a Resolution Flickering when using [Minimize Resolution (Disables D Res)]. Though it's not noticable if you won't stay idle so it's all good.\n"
     }
 }

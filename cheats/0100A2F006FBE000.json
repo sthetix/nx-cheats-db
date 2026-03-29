@@ -10,12 +10,12 @@
         "[9999999 EXP for lv up more]": "[9999999 EXP for lv up more]\n580f0000 02e636c8\n780f0000 00004b54\n640f0000 00000000  0098967F\n\n",
         "[99999 EXP for lv up less]": "[99999 EXP for lv up less]\n580f0000 02e636c8\n780f0000 00004b54\n640f0000 00000000  0001869f\n\n"
     },
-    "attribution": {
-        "Cat Quest 1.0.1.txt": ""
-    },
     "0A4D71A302961148BCF5F0DC0F09530D00000000000000000000000000000000": {
         "[99999 EXP for lv up less]": "[99999 EXP for lv up less]\n580F0000 02E636C8\n780F0000 00004B54\n640F0000 00000000 0001869F\n\n",
         "[9999999 EXP for lv up more]": "[9999999 EXP for lv up more]\n580F0000 02E636C8\n780F0000 00004B54\n640F0000 00000000  0098967F\n\n",
         "[99999999 GP]": "[99999999 GP]\n580F0000 02E636C8\n780F0000 00004B14\n640F0000 00000000 05F5E0FF\n\n"
+    },
+    "attribution": {
+        "Cat Quest 1.0.1.txt": ""
     }
 }

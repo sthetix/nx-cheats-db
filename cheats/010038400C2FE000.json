@@ -1,15 +1,4 @@
 {
-    "985EA0225C2D2AE3": {
-        "[01# Moonjump (press B)]": "[01# Moonjump (press B)]\n80000002\n04000000 0034E750 41800000\n20000000\n\n",
-        "[02# 99 Lifes]": "[02# 99 Lifes]\n580F0000 00331160\n780F0000 00001704\n640F0000 00000000 00000063\n\n",
-        "[03# 999 orbs]": "[03# 999 orbs]\n04000000 0036ABE0 000003E7\n\n",
-        "[04# Max health]": "[04# Max health]\n04000000 0034FD68 00000004\n\n",
-        "[05# Speed up (press X)]": "[05# Speed up (press X)]\n80000004\n04000000 0034E77C 42000000\n20000000\n\n",
-        "[06# Inf Air]": "[06# Inf Air]\n04000000 0034FD8C 00000008\n\n"
-    },
-    "attribution": {
-        "Ty the Tasmanian Tiger HD ver 1.0.0 by patjenova.txt": "Not valid for mini games"
-    },
     "965107E5A2CE0A3D": {
         "[99 Lives]": "[99 Lives]\n580F0000 0034EBF8\n780F0000 00003444\n640F0000 00000000 00000063\n\n",
         "[Max Health]": "[Max Health]\n04000000 00350D80 00000004\n\n",
@@ -19,6 +8,30 @@
         "[Speed up press LS]": "[Speed up press LS]\n80000010\n04000000 0034F784 42000000\n20000000\n\n",
         "[Big Messy World (LS = ON / RS = OFF)]": "[Big Messy World (LS = ON / RS = OFF)]\n80000010\n04000000 002EB274 40000000\n20000000\n80000020\n04000000 002EB274 3F800000\n20000000\n\n",
         "[Shadow TY]": "[Shadow TY]\n04000000 0034F15C FFFFFFFF\n\n"
+    },
+    "965107E5A2CE0A3D50028CEFC9A55AAC0B147E98000000000000000000000000": {
+        "[300 Opals/Rainbow Scales]": "[300 Opals/Rainbow Scales]\n04000000 0036BCB0 0000012C\n\n",
+        "[99 Lives]": "[99 Lives]\n580F0000 0034EBF8\n780F0000 00003444\n640F0000 00000000 00000063\n\n",
+        "[Infinite Air]": "[Infinite Air]\n04000000 00350D9C 00000008\n\n",
+        "[Max Health]": "[Max Health]\n04000000 00350D80 00000004\n\n",
+        "[Moon Jump Press B]": "[Moon Jump Press B]\n80000002\n04000000 0034F758 41800000\n20000000\n\n",
+        "[Speed up press LS]": "[Speed up press LS]\n80000010\n04000000 0034F784 42000000\n20000000\n\n"
+    },
+    "985EA0225C2D2AE3": {
+        "[01# Moonjump (press B)]": "[01# Moonjump (press B)]\n80000002\n04000000 0034E750 41800000\n20000000\n\n",
+        "[02# 99 Lifes]": "[02# 99 Lifes]\n580F0000 00331160\n780F0000 00001704\n640F0000 00000000 00000063\n\n",
+        "[03# 999 orbs]": "[03# 999 orbs]\n04000000 0036ABE0 000003E7\n\n",
+        "[04# Max health]": "[04# Max health]\n04000000 0034FD68 00000004\n\n",
+        "[05# Speed up (press X)]": "[05# Speed up (press X)]\n80000004\n04000000 0034E77C 42000000\n20000000\n\n",
+        "[06# Inf Air]": "[06# Inf Air]\n04000000 0034FD8C 00000008\n\n"
+    },
+    "985EA0225C2D2AE3888FCD3AE2B817B7167F0D2E000000000000000000000000": {
+        "[01# Moonjump (press B)]": "[01# Moonjump (press B)]\n80000002\n04000000 0034E750 41800000\n20000000\n\n",
+        "[02# 99 Lifes]": "[02# 99 Lifes]\n580F0000 00331160\n780F0000 00001704\n640F0000 00000000 00000063\n\n",
+        "[03# 999 orbs]": "[03# 999 orbs]\n04000000 0036ABE0 000003E7\n\n",
+        "[04# Max health]": "[04# Max health]\n04000000 0034FD68 00000004\n\n",
+        "[05# Speed up (press X)]": "[05# Speed up (press X)]\n80000004\n04000000 0034E77C 42000000\n20000000\n\n",
+        "[06# Inf Air]": "[06# Inf Air]\n04000000 0034FD8C 00000008\n\n"
     },
     "BAE5C2E836DF8E72": {
         "[Beyond The Black Stump Complete]": "[Beyond The Black Stump Complete]\n08100000 00BB45E8 01010101 01010101\n08100000 00BB45F0 01010101 01010101\n08100000 00BB45F8 01010101 00030101\n08100000 00BB4600 00000000 00000000\n\n",
@@ -86,20 +99,7 @@
         "[Walk In The Park Complete]": "[Walk In The Park Complete]\n08100000 00BB4268 01010101 01010101\n08100000 00BB4270 01010101 01010101\n08100000 00BB4278 01010101 00010301\n08100000 00BB4280 00000000 00000000\n\n",
         "[Zero Total Game Time]": "[Zero Total Game Time]\n04100000 00BB4B14 00000000\n\n"
     },
-    "965107E5A2CE0A3D50028CEFC9A55AAC0B147E98000000000000000000000000": {
-        "[300 Opals/Rainbow Scales]": "[300 Opals/Rainbow Scales]\n04000000 0036BCB0 0000012C\n\n",
-        "[99 Lives]": "[99 Lives]\n580F0000 0034EBF8\n780F0000 00003444\n640F0000 00000000 00000063\n\n",
-        "[Infinite Air]": "[Infinite Air]\n04000000 00350D9C 00000008\n\n",
-        "[Max Health]": "[Max Health]\n04000000 00350D80 00000004\n\n",
-        "[Moon Jump Press B]": "[Moon Jump Press B]\n80000002\n04000000 0034F758 41800000\n20000000\n\n",
-        "[Speed up press LS]": "[Speed up press LS]\n80000010\n04000000 0034F784 42000000\n20000000\n\n"
-    },
-    "985EA0225C2D2AE3888FCD3AE2B817B7167F0D2E000000000000000000000000": {
-        "[01# Moonjump (press B)]": "[01# Moonjump (press B)]\n80000002\n04000000 0034E750 41800000\n20000000\n\n",
-        "[02# 99 Lifes]": "[02# 99 Lifes]\n580F0000 00331160\n780F0000 00001704\n640F0000 00000000 00000063\n\n",
-        "[03# 999 orbs]": "[03# 999 orbs]\n04000000 0036ABE0 000003E7\n\n",
-        "[04# Max health]": "[04# Max health]\n04000000 0034FD68 00000004\n\n",
-        "[05# Speed up (press X)]": "[05# Speed up (press X)]\n80000004\n04000000 0034E77C 42000000\n20000000\n\n",
-        "[06# Inf Air]": "[06# Inf Air]\n04000000 0034FD8C 00000008\n\n"
+    "attribution": {
+        "Ty the Tasmanian Tiger HD ver 1.0.0 by patjenova.txt": "Not valid for mini games"
     }
 }

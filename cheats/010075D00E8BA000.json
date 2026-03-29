@@ -1,4 +1,15 @@
 {
+    "1FEDF6BF6D8C7392": {
+        "[Inf Ammo]": "[Inf Ammo]\n04070000 0188D900 528009A8\n04070000 0188D904 B9012808\n04070000 0188D908 D65F03C0\n04070000 00E7D034 94284233\n\n",
+        "[Inf HP]": "[Inf HP]\n04070000 0188D90C 5283CC28\n04070000 0188D910 79068C08\n04070000 0188D914 79068808\n04070000 0188D918 7D468800\n04070000 0188D91C D65F03C0\n04070000 010D4158 941EE5ED\n\n",
+        "[Instant Kill]": "[Instant Kill]\n04070000 0188D914 79468AA8\n04070000 0188D918 7100051F\n04070000 0188D91C 5400006D\n04070000 0188D920 52800028\n04070000 0188D924 79068AA8\n04070000 0188D928 D65F03C0\n04070000 01146524 941D1CFC\n\n",
+        "[Inf Flashlight]": "[Inf Flashlight]\n04070000 0188D92C 7100051F\n04070000 0188D930 540000C1\n04070000 0188D934 52A85E02\n04070000 0188D938 1E270041\n04070000 0188D93C 1E212120\n04070000 0188D940 54000041\n04070000 0188D944 1E2703E0\n04070000 0188D948 BD403AC1\n04070000 0188D94C D65F03C0\n04070000 012E7EBC 9416969C\n\n",
+        "[Flame no Overheat]": "[Flame no Overheat]\n04070000 00EA9E4C 1E204020\n\n",
+        "[Not Attack by Alien]": "[Not Attack by Alien]\n04070000 0137B0B0 52800008\n\n",
+        "[Battery 5 Max]": "[Battery 5 Max]\n04070000 00E9581C 528000C9\n\n",
+        "[Get Material Max]": "[Get Material Max]\n04070000 0188D950 52807CE8\n04070000 0188D954 B9000308\n04070000 0188D958 D65F03C0\n04070000 00E9EA08 9427BBD2\n\n",
+        "[Change 2 More Use Item Max]": "[Change 2 More Use Item Max]\n04070000 0188D95C 52800C89\n04070000 0188D960 B9001009\n04070000 0188D964 D65F03C0\n04070000 00EA039C 9427B570\n\n"
+    },
     "32620C385527E689": {
         "[Max Scrap]": "[Max Scrap]\n041f0000 9f049cd0 05F5E0FF\n\n",
         "[Max Sensor]": "[Max Sensor]\n041f0000 9f049cb0 05f5e0ff\n\n",
@@ -12,6 +23,20 @@
         "[power]": "[power]\n04100000 9F049d70 00000006\n\n",
         "[compound b]": "[compound b]\n04100000 9F049df0 00000006\n\n",
         "[Medikits]": "[Medikits]\n04100000 9F049E10 00000006\n\n"
+    },
+    "32620C385527E689FB7968B2E6701B32E5CD4332000000000000000000000000": {
+        "[Bonding agent]": "[Bonding agent]\n04100000 9F049D10 00000006\n\n",
+        "[Charge Pack]": "[Charge Pack]\n04100000 9F049DD0 00000003\n\n",
+        "[compound b]": "[compound b]\n04100000 9F049DF0 00000006\n\n",
+        "[Ethanol]": "[Ethanol]\n04100000 9F049CF0 00000003\n\n",
+        "[Max Bonding Agent]": "[Max Bonding Agent]\n041F0000 9F049CF0 05F5E0FF\n\n",
+        "[Max Scrap]": "[Max Scrap]\n041F0000 9F049CD0 05F5E0FF\n\n",
+        "[Max Sensor]": "[Max Sensor]\n041F0000 9F049CB0 05F5E0FF\n\n",
+        "[Medikits]": "[Medikits]\n04100000 9F049E10 00000006\n\n",
+        "[power]": "[power]\n04100000 9F049D70 00000006\n\n",
+        "[SCJ Injection]": "[SCJ Injection]\n04100000 9F049D30 00000006\n\n",
+        "[Scrap]": "[Scrap]\n04100000 9F049CB0 00000064\n\n",
+        "[Sensor]": "[Sensor]\n04100000 9F049CD0 00000003\n\n"
     },
     "397C054A3D25D488": {
         "[60 FPS]": "[60 FPS]\n580F0000 03CDC420\n780F0000 000028C4\n640F0000 00000000 00000001\n\n",
@@ -42,22 +67,6 @@
         "[Ethanol]": "[Ethanol]\n04100000 9F049CF0 00000003\n\n",
         "[Max Scrap]": "[Max Scrap]\n041F0000 9F049CD0 05F5E0FF\n\n"
     },
-    "attribution": {
-        "Alien Isolation by Retroboy and patjenova.txt": "Finf More Cheats codes on\n\nhttps://sxcodejunkies.gamegadget.co.uk\n\n",
-        "Alien Isolation by Retroboy and Nikolay Tenyuk.txt": "Finf More Cheats codes on\n\nhttps://sxcodejunkies.gamegadget.co.uk\n\n",
-        "Alien Isolation.txt": "By DJ KoHb, Hazerou\n"
-    },
-    "1FEDF6BF6D8C7392": {
-        "[Inf Ammo]": "[Inf Ammo]\n04070000 0188D900 528009A8\n04070000 0188D904 B9012808\n04070000 0188D908 D65F03C0\n04070000 00E7D034 94284233\n\n",
-        "[Inf HP]": "[Inf HP]\n04070000 0188D90C 5283CC28\n04070000 0188D910 79068C08\n04070000 0188D914 79068808\n04070000 0188D918 7D468800\n04070000 0188D91C D65F03C0\n04070000 010D4158 941EE5ED\n\n",
-        "[Instant Kill]": "[Instant Kill]\n04070000 0188D914 79468AA8\n04070000 0188D918 7100051F\n04070000 0188D91C 5400006D\n04070000 0188D920 52800028\n04070000 0188D924 79068AA8\n04070000 0188D928 D65F03C0\n04070000 01146524 941D1CFC\n\n",
-        "[Inf Flashlight]": "[Inf Flashlight]\n04070000 0188D92C 7100051F\n04070000 0188D930 540000C1\n04070000 0188D934 52A85E02\n04070000 0188D938 1E270041\n04070000 0188D93C 1E212120\n04070000 0188D940 54000041\n04070000 0188D944 1E2703E0\n04070000 0188D948 BD403AC1\n04070000 0188D94C D65F03C0\n04070000 012E7EBC 9416969C\n\n",
-        "[Flame no Overheat]": "[Flame no Overheat]\n04070000 00EA9E4C 1E204020\n\n",
-        "[Not Attack by Alien]": "[Not Attack by Alien]\n04070000 0137B0B0 52800008\n\n",
-        "[Battery 5 Max]": "[Battery 5 Max]\n04070000 00E9581C 528000C9\n\n",
-        "[Get Material Max]": "[Get Material Max]\n04070000 0188D950 52807CE8\n04070000 0188D954 B9000308\n04070000 0188D958 D65F03C0\n04070000 00E9EA08 9427BBD2\n\n",
-        "[Change 2 More Use Item Max]": "[Change 2 More Use Item Max]\n04070000 0188D95C 52800C89\n04070000 0188D960 B9001009\n04070000 0188D964 D65F03C0\n04070000 00EA039C 9427B570\n\n"
-    },
     "EBE18862AE4ECA7536B54FFB2D702A046B8F02E2000000000000000000000000": {
         "[Battery 5 Max]": "[Battery 5 Max]\n04070000 00E9494C 528000C9\n\n",
         "[Bonding agent]": "[Bonding agent]\n04100000 9F049D10 00000006\n\n",
@@ -79,18 +88,9 @@
         "[Scrap]": "[Scrap]\n04100000 9F049CB0 00000064\n\n",
         "[Sensor]": "[Sensor]\n04100000 9F049CD0 00000003\n\n"
     },
-    "32620C385527E689FB7968B2E6701B32E5CD4332000000000000000000000000": {
-        "[Bonding agent]": "[Bonding agent]\n04100000 9F049D10 00000006\n\n",
-        "[Charge Pack]": "[Charge Pack]\n04100000 9F049DD0 00000003\n\n",
-        "[compound b]": "[compound b]\n04100000 9F049DF0 00000006\n\n",
-        "[Ethanol]": "[Ethanol]\n04100000 9F049CF0 00000003\n\n",
-        "[Max Bonding Agent]": "[Max Bonding Agent]\n041F0000 9F049CF0 05F5E0FF\n\n",
-        "[Max Scrap]": "[Max Scrap]\n041F0000 9F049CD0 05F5E0FF\n\n",
-        "[Max Sensor]": "[Max Sensor]\n041F0000 9F049CB0 05F5E0FF\n\n",
-        "[Medikits]": "[Medikits]\n04100000 9F049E10 00000006\n\n",
-        "[power]": "[power]\n04100000 9F049D70 00000006\n\n",
-        "[SCJ Injection]": "[SCJ Injection]\n04100000 9F049D30 00000006\n\n",
-        "[Scrap]": "[Scrap]\n04100000 9F049CB0 00000064\n\n",
-        "[Sensor]": "[Sensor]\n04100000 9F049CD0 00000003\n\n"
+    "attribution": {
+        "Alien Isolation by Retroboy and patjenova.txt": "Finf More Cheats codes on\n\nhttps://sxcodejunkies.gamegadget.co.uk\n\n",
+        "Alien Isolation by Retroboy and Nikolay Tenyuk.txt": "Finf More Cheats codes on\n\nhttps://sxcodejunkies.gamegadget.co.uk\n\n",
+        "Alien Isolation.txt": "By DJ KoHb, Hazerou\n"
     }
 }

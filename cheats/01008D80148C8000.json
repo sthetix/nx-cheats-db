@@ -14,9 +14,6 @@
         "[12# Reload Time 0]": "[12# Reload Time 0]\n580A0000 059DEC10\n580A1000 00000000\n580A1000 00000020\n580A1000 00000A50\n780A0000 000000EC\n640A0000 00000000 00000000\n\n",
         "[13# Rare or High Drop Bonus]": "[13# Rare or High Drop Bonus]\n580A0000 059DEC10\n580A1000 00000000\n580A1000 00000020\n580A1000 00000A50\n780A0000 000003CC\n640A0000 00000000 4479C000\n\n"
     },
-    "attribution": {
-        "King of Seas ver 1.0.2 by Patjenova.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
-    },
     "2C9AA9A24C5E389C858553AC88CB40DE00000000000000000000000000000000": {
         "[01# Max Money (L+R)]": "[01# Max Money (L+R)]\n800000C0\n580A0000 059EEA10\n580A1000 00000010\n580A1000 00000190\n780A0000 0000023C\n640A0000 00000000 000F423F\n20000000\n\n",
         "[02# Inf Hull Health]": "[02# Inf Hull Health]\n580A0000 059DEC10\n580A1000 00000000\n580A1000 00000020\n580A1000 00000A50\n780A0000 0000005C\n640A0000 00000000 461C4000\n780A0000 00000030\n640A0000 00000000 461C4000\n\n",
@@ -31,5 +28,8 @@
         "[11# Ability Cooldown Reduction 99]": "[11# Ability Cooldown Reduction 99]\n580A0000 059DEC10\n580A1000 00000000\n580A1000 00000020\n580A1000 00000A50\n780A0000 000002AC\n640A0000 00000000 42C60000\n\n",
         "[12# Reload Time 0]": "[12# Reload Time 0]\n580A0000 059DEC10\n580A1000 00000000\n580A1000 00000020\n580A1000 00000A50\n780A0000 000000EC\n640A0000 00000000 00000000\n\n",
         "[13# Rare or High Drop Bonus]": "[13# Rare or High Drop Bonus]\n580A0000 059DEC10\n580A1000 00000000\n580A1000 00000020\n580A1000 00000A50\n780A0000 000003CC\n640A0000 00000000 4479C000\n\n"
+    },
+    "attribution": {
+        "King of Seas ver 1.0.2 by Patjenova.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
     }
 }

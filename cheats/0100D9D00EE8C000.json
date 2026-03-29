@@ -19,9 +19,6 @@
         "[Water Crystal 999@Matias3ds]": "[Water Crystal 999@Matias3ds]\n02000000 01c805f4 00000063\n\n",
         "[Liquid Crystal 999@Matias3ds]": "[Liquid Crystal 999@Matias3ds]\n02000000 013417f0 00000063\n\n"
     },
-    "attribution": {
-        "Atelier Ayesha The Alchemist of Dusk DX ver 1.0.0 by matias3ds for gbatemp.txt": ""
-    },
     "B9146E1CAD9E36BA61C7DAD612156F0466EBAAD3000000000000000000000000": {
         "[Alchemy Lv 99 @Matias3ds]": "[Alchemy Lv 99 @Matias3ds]\n04000000 01390814 00000063\n\n",
         "[Ayesha 999 HP @matias3ds]": "[Ayesha 999 HP @matias3ds]\n04000000 012E66FC 000003E7\n04000000 01390FDC 000003E7\n04000000 013910D4 000003E7\n\n",
@@ -41,5 +38,8 @@
         "[Regina 999 MP @matias3ds]": "[Regina 999 MP @matias3ds]\n04000000 013914F0 000003E7\n04000000 013914F8 000003E7\n04000000 013915E8 000003E7\n\n",
         "[Water 99 @Matias3ds]": "[Water 99 @Matias3ds]\n04000000 013401B0 00000063\n\n",
         "[Water Crystal 999@Matias3ds]": "[Water Crystal 999@Matias3ds]\n02000000 01C805F4 00000063\n\n"
+    },
+    "attribution": {
+        "Atelier Ayesha The Alchemist of Dusk DX ver 1.0.0 by matias3ds for gbatemp.txt": ""
     }
 }

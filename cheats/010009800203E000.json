@@ -29,9 +29,6 @@
         "[P1 Inf Finisher]": "[P1 Inf Finisher]\n580F0000 0306FCF0\n580F1000 00002360\n580F1000 00000298\n780F0000 0000001C\n610F0000 00000000 00000003\n\n",
         "[CPU1 No HP]": "[CPU1 No HP]\n580F0000 0306FCF8\n580F1000 00002360\n780F0000 000001D0\n640F0000 00000000 00000000\n740F0000 00000004\n640F0000 00000000 453C0000\n\n"
     },
-    "attribution": {
-        "WWE 2K18.txt": "By Hazerou\nNotes;\n1.) Game is also CPU heavy because of the crowds in the background. And it's using double buffering which is why reaching 60 FPS is not easy for the Switch. Maybe Emu can? And yeah game speed slows down when the FPS is below the target.\n\n2.) Resolution flickering may occur when switching between RRS. And unfortunately we can't go above 720p because it breaks viewport.\n\n3.) Use \u2060fpslocker and set FPS target 45 for the [45 FPS] \n"
-    },
     "DEEE18D307C816345C72621AEFB5B15D00000000000000000000000000000000": {
         "[CPU3 No Finisher]": "[CPU3 No Finisher]\n580F0000 0306FD18\n580F1000 00002360\n580F1000 00000298\n780F0000 0000001C\n610F0000 00000000 00000000\n\n",
         "[CPU 0 Points in battles]": "[CPU 0 Points in battles]\n04000000 0308D456 00000000\n\n",
@@ -47,5 +44,8 @@
         "[P3 Inf Finisher]": "[P3 Inf Finisher]\n580F0000 0306FD10\n580F1000 00002360\n580F1000 00000298\n780F0000 0000001C\n610F0000 00000000 00000003\n\n",
         "[P3 Inf HP]": "[P3 Inf HP]\n580F0000 0306FD10\n580F1000 00002360\n780F0000 000001D0\n640F0000 00000000 453C0000\n740F0000 00000004\n640F0000 00000000 453C0000\n\n",
         "[Player 99 Points in battles]": "[Player 99 Points in battles]\n04000000 0308D454 00000063\n\n"
+    },
+    "attribution": {
+        "WWE 2K18.txt": "By Hazerou\nNotes;\n1.) Game is also CPU heavy because of the crowds in the background. And it's using double buffering which is why reaching 60 FPS is not easy for the Switch. Maybe Emu can? And yeah game speed slows down when the FPS is below the target.\n\n2.) Resolution flickering may occur when switching between RRS. And unfortunately we can't go above 720p because it breaks viewport.\n\n3.) Use \u2060fpslocker and set FPS target 45 for the [45 FPS] \n"
     }
 }

@@ -37,31 +37,6 @@
         "[Infinite money]": "[Infinite money]\n580F0000 0401FA90\n580F1000 00000220\n780F0000 00000478\n640F0000 00000000 0098967F\n\n",
         "[06# Inf Submachine Guns Ammo]": "[06# Inf Submachine Guns Ammo]\n80000200\n580F0000 0401E8C0\n780F0000 000000A0\n640F0000 00000000 42C80000\n20000000\n\n"
     },
-    "attribution": {
-        "Borderlands 2 ver 1.0.0 by wiitendo and Patjenova.txt": "Sxos or Edison activate cheat\nAfter selecting the game."
-    },
-    "F7C233469F20EE3F": {
-        "[Infinite Seraph Crystals]": "[Infinite Seraph Crystals]\n580F0000 040BBA40\n580F1000 00000048\n780F0000 000004A0\n620F0000 00000000 000003E7\n\n",
-        "[Everyone One-Shot Kill - R to Enable, L to Disable]": "[Everyone One-Shot Kill - R to Enable, L to Disable]\n80000080\n04000000 008E9644 D503201F\n20000000\n80000040\n04000000 008E9644 BD000040\n20000000\n\n",
-        "[Infinite Money]": "[Infinite Money]\n580F0000 040BBA40\n580F1000 00000048\n780F0000 00000478\n640F0000 00000000 05F5E0FF\n\n",
-        "[Disable Sanity Check - Credit to C0dycode from Shadowevil's Modding Server]": "[Disable Sanity Check - Credit to C0dycode from Shadowevil's Modding Server]\n04000000 0176C134 D503201F\n04000000 0176C140 D503201F\n04000000 0176C14C D503201F\n04000000 0176C1A4 D503201F\n\n",
-        "[Infinite Eridium]": "[Infinite Eridium]\n580F0000 040BBA40\n580F1000 00000048\n780F0000 0000048C\n620F0000 00000000 000001F4\n\n",
-        "[Invulnerability - Must Wear A Shield]": "[Invulnerability - Must Wear A Shield]\n580F0000 040BBA40\n580F1000 00000048\n580F1000 000005A8\n780F0000 00000088\n640F0000 00000000 7F800000\n780F0000 00000018\n640F0000 00000000 7F800000\n\n",
-        "[Disable Level Check]": "[Disable Level Check]\n04000000 0177310C 52800FE0\n\n",
-        "[Instant Skill Recharge]": "[Instant Skill Recharge]\n580F0000 03FCF1A8\n580F1000 00001328\n580F1000 00000030\n580F1000 000001C8\n780F0000 000000A0\n640F0000 00000000 00000000\n\n",
-        "[Infinite Torgue Tokens]": "[Infinite Torgue Tokens]\n580F0000 040BBA40\n580F1000 00000048\n780F0000 000004C8\n620F0000 00000000 000003E7\n\n"
-    },
-    "F7C233469F20EE3F2383F3CD5BCF775A00000000000000000000000000000000": {
-        "[Disable Level Check]": "[Disable Level Check]\n04000000 0177310C 52800FE0\n\n",
-        "[Disable Sanity Check - Credit to C0dycode from Shadowevil's Modding Server]": "[Disable Sanity Check - Credit to C0dycode from Shadowevil's Modding Server]\n04000000 0176C134 D503201F\n04000000 0176C140 D503201F\n04000000 0176C14C D503201F\n04000000 0176C1A4 D503201F\n\n",
-        "[Everyone One-Shot Kill - R to Enable, L to Disable]": "[Everyone One-Shot Kill - R to Enable, L to Disable]\n80000080\n04000000 008E9644 D503201F\n20000000\n80000040\n04000000 008E9644 BD000040\n20000000\n\n",
-        "[Infinite Eridium]": "[Infinite Eridium]\n580F0000 040BBA40\n580F1000 00000048\n780F0000 0000048C\n620F0000 00000000 000001F4\n\n",
-        "[Infinite Money]": "[Infinite Money]\n580F0000 040BBA40\n580F1000 00000048\n780F0000 00000478\n640F0000 00000000 05F5E0FF\n\n",
-        "[Infinite Seraph Crystals]": "[Infinite Seraph Crystals]\n580F0000 040BBA40\n580F1000 00000048\n780F0000 000004A0\n620F0000 00000000 000003E7\n\n",
-        "[Infinite Torgue Tokens]": "[Infinite Torgue Tokens]\n580F0000 040BBA40\n580F1000 00000048\n780F0000 000004C8\n620F0000 00000000 000003E7\n\n",
-        "[Instant Skill Recharge]": "[Instant Skill Recharge]\n580F0000 03FCF1A8\n580F1000 00001328\n580F1000 00000030\n580F1000 000001C8\n780F0000 000000A0\n640F0000 00000000 00000000\n\n",
-        "[Invulnerability - Must Wear A Shield]": "[Invulnerability - Must Wear A Shield]\n580F0000 040BBA40\n580F1000 00000048\n580F1000 000005A8\n780F0000 00000088\n640F0000 00000000 7F800000\n780F0000 00000018\n640F0000 00000000 7F800000\n\n"
-    },
     "B5EA86B6AEFEEB73E61BC385C1E77F1700000000000000000000000000000000": {
         "[01# God Mode]": "[01# God Mode]\n580F0000 04086CA0\n580F1000 00000008\n780F0000 00000154\n640F0000 00000000 00000006\n\n",
         "[01# Inf Ammo All Guns]": "[01# Inf Ammo All Guns]\n04000000 016E7488 52933320\n\n",
@@ -99,5 +74,30 @@
         "[Infinite health]": "[Infinite health]\n580F0000 0405AD10\n780F0000 000000A0\n640F0000 00000000 47C34F80\n\n",
         "[Infinite money]": "[Infinite money]\n580F0000 0401FA90\n580F1000 00000220\n780F0000 00000478\n640F0000 00000000 0098967F\n\n",
         "[Vladof Unlimited ammo]": "[Vladof Unlimited ammo]\n580F0000 0401E8B0\n780F0000 000000A0\n640F0000 00000000 437F0000\n\n"
+    },
+    "F7C233469F20EE3F": {
+        "[Infinite Seraph Crystals]": "[Infinite Seraph Crystals]\n580F0000 040BBA40\n580F1000 00000048\n780F0000 000004A0\n620F0000 00000000 000003E7\n\n",
+        "[Everyone One-Shot Kill - R to Enable, L to Disable]": "[Everyone One-Shot Kill - R to Enable, L to Disable]\n80000080\n04000000 008E9644 D503201F\n20000000\n80000040\n04000000 008E9644 BD000040\n20000000\n\n",
+        "[Infinite Money]": "[Infinite Money]\n580F0000 040BBA40\n580F1000 00000048\n780F0000 00000478\n640F0000 00000000 05F5E0FF\n\n",
+        "[Disable Sanity Check - Credit to C0dycode from Shadowevil's Modding Server]": "[Disable Sanity Check - Credit to C0dycode from Shadowevil's Modding Server]\n04000000 0176C134 D503201F\n04000000 0176C140 D503201F\n04000000 0176C14C D503201F\n04000000 0176C1A4 D503201F\n\n",
+        "[Infinite Eridium]": "[Infinite Eridium]\n580F0000 040BBA40\n580F1000 00000048\n780F0000 0000048C\n620F0000 00000000 000001F4\n\n",
+        "[Invulnerability - Must Wear A Shield]": "[Invulnerability - Must Wear A Shield]\n580F0000 040BBA40\n580F1000 00000048\n580F1000 000005A8\n780F0000 00000088\n640F0000 00000000 7F800000\n780F0000 00000018\n640F0000 00000000 7F800000\n\n",
+        "[Disable Level Check]": "[Disable Level Check]\n04000000 0177310C 52800FE0\n\n",
+        "[Instant Skill Recharge]": "[Instant Skill Recharge]\n580F0000 03FCF1A8\n580F1000 00001328\n580F1000 00000030\n580F1000 000001C8\n780F0000 000000A0\n640F0000 00000000 00000000\n\n",
+        "[Infinite Torgue Tokens]": "[Infinite Torgue Tokens]\n580F0000 040BBA40\n580F1000 00000048\n780F0000 000004C8\n620F0000 00000000 000003E7\n\n"
+    },
+    "F7C233469F20EE3F2383F3CD5BCF775A00000000000000000000000000000000": {
+        "[Disable Level Check]": "[Disable Level Check]\n04000000 0177310C 52800FE0\n\n",
+        "[Disable Sanity Check - Credit to C0dycode from Shadowevil's Modding Server]": "[Disable Sanity Check - Credit to C0dycode from Shadowevil's Modding Server]\n04000000 0176C134 D503201F\n04000000 0176C140 D503201F\n04000000 0176C14C D503201F\n04000000 0176C1A4 D503201F\n\n",
+        "[Everyone One-Shot Kill - R to Enable, L to Disable]": "[Everyone One-Shot Kill - R to Enable, L to Disable]\n80000080\n04000000 008E9644 D503201F\n20000000\n80000040\n04000000 008E9644 BD000040\n20000000\n\n",
+        "[Infinite Eridium]": "[Infinite Eridium]\n580F0000 040BBA40\n580F1000 00000048\n780F0000 0000048C\n620F0000 00000000 000001F4\n\n",
+        "[Infinite Money]": "[Infinite Money]\n580F0000 040BBA40\n580F1000 00000048\n780F0000 00000478\n640F0000 00000000 05F5E0FF\n\n",
+        "[Infinite Seraph Crystals]": "[Infinite Seraph Crystals]\n580F0000 040BBA40\n580F1000 00000048\n780F0000 000004A0\n620F0000 00000000 000003E7\n\n",
+        "[Infinite Torgue Tokens]": "[Infinite Torgue Tokens]\n580F0000 040BBA40\n580F1000 00000048\n780F0000 000004C8\n620F0000 00000000 000003E7\n\n",
+        "[Instant Skill Recharge]": "[Instant Skill Recharge]\n580F0000 03FCF1A8\n580F1000 00001328\n580F1000 00000030\n580F1000 000001C8\n780F0000 000000A0\n640F0000 00000000 00000000\n\n",
+        "[Invulnerability - Must Wear A Shield]": "[Invulnerability - Must Wear A Shield]\n580F0000 040BBA40\n580F1000 00000048\n580F1000 000005A8\n780F0000 00000088\n640F0000 00000000 7F800000\n780F0000 00000018\n640F0000 00000000 7F800000\n\n"
+    },
+    "attribution": {
+        "Borderlands 2 ver 1.0.0 by wiitendo and Patjenova.txt": "Sxos or Edison activate cheat\nAfter selecting the game."
     }
 }

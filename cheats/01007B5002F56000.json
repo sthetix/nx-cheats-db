@@ -46,9 +46,6 @@
         "[Teleport - CH1 - Island 4]": "[Teleport - CH1 - Island 4]\n400E0000 00000000 0001E360\n640F01E0 00000000 43700EB9\n400E0000 00000000 0001E364\n640F01E0 00000000 40A47AE1\n400E0000 00000000 0001E368\n640F01E0 00000000 C30FD2F9\n\n",
         "[Teleport - CH1 - Hidden Princess Island]": "[Teleport - CH1 - Hidden Princess Island]\n400E0000 00000000 0001E360\n640F01E0 00000000 C3B68C17\n400E0000 00000000 0001E364\n640F01E0 00000000 41100000\n400E0000 00000000 0001E368\n640F01E0 00000000 C41E9151\n\n"
     },
-    "attribution": {
-        "DRAGON QUEST BUILDERS bt simcity4japan.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
-    },
     "61FA6EEDA9A636723A81ED78A7E68C9400000000000000000000000000000000": {
         "[100 Infinite Health]": "[100 Infinite Health]\n400E0000 00000000 0001E378\n620F01E0 00000000 00000064\n\n",
         "[100 Max Health]": "[100 Max Health]\n400E0000 00000000 0001E376\n620F01E0 00000000 00000064\n\n",
@@ -95,5 +92,8 @@
         "[Teleport - CH1 - Island 2]": "[Teleport - CH1 - Island 2]\n400E0000 00000000 0001E360\n640F01E0 00000000 433FD496\n400E0000 00000000 0001E364\n640F01E0 00000000 41A11EB8\n400E0000 00000000 0001E368\n640F01E0 00000000 C2003E6D\n\n",
         "[Teleport - CH1 - Island 3]": "[Teleport - CH1 - Island 3]\n400E0000 00000000 0001E360\n640F01E0 00000000 C33FEB06\n400E0000 00000000 0001E364\n640F01E0 00000000 40E47AE1\n400E0000 00000000 0001E368\n640F01E0 00000000 C23F0EC9\n\n",
         "[Teleport - CH1 - Island 4]": "[Teleport - CH1 - Island 4]\n400E0000 00000000 0001E360\n640F01E0 00000000 43700EB9\n400E0000 00000000 0001E364\n640F01E0 00000000 40A47AE1\n400E0000 00000000 0001E368\n640F01E0 00000000 C30FD2F9\n\n"
+    },
+    "attribution": {
+        "DRAGON QUEST BUILDERS bt simcity4japan.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
     }
 }

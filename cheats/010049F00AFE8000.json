@@ -9,9 +9,6 @@
         "[CPU No Rage]": "[CPU No Rage]\n01000000 012A3C87 00000000\n\n",
         "[CPU No Sword Power]": "[CPU No Sword Power]\n01000000 012A3E31 00000000\n\n"
     },
-    "attribution": {
-        "ACA NeoGeo Samurai Shodown V Special ver 1.0.0 by Smoker1.txt": "Activate the code on the title screen."
-    },
     "8E14F03D9792789C837E1DEC43D4A72A00000000000000000000000000000000": {
         "[1P Inf Health]": "[1P Inf Health]\n01000000 012A3A6C 0000007D\n\n",
         "[1P Longer Energy Gauge Length]": "[1P Longer Energy Gauge Length]\n01000000 012A3C27 0000007C\n\n",
@@ -21,5 +18,8 @@
         "[CPU No Rage]": "[CPU No Rage]\n01000000 012A3C87 00000000\n\n",
         "[CPU No Sword Power]": "[CPU No Sword Power]\n01000000 012A3E31 00000000\n\n",
         "[Inf Time]": "[Inf Time]\n01000000 012A3993 00000058\n\n"
+    },
+    "attribution": {
+        "ACA NeoGeo Samurai Shodown V Special ver 1.0.0 by Smoker1.txt": "Activate the code on the title screen."
     }
 }

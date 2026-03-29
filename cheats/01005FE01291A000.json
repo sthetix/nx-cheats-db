@@ -16,10 +16,6 @@
         "[60 FPS]": "[60 FPS]\n580F0000 067F24F0\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
         "[HIT \u00ef\u00bc\u00b2ANGE NORMAL]": "[HIT \u00ef\u00bc\u00b2ANGE NORMAL]\n04000000 00D41A18 1E2E1008\n\n"
     },
-    "attribution": {
-        "Lost in Random ver 1.0.1 by xtatu and Tomswitch.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially",
-        "Lost in Random.txt": "by cucholix gbatemp"
-    },
     "416914C121775277A9C28A92D58CF00000000000000000000000000000000000": {
         "[1P INVINCIBLE OFF]": "[1P INVINCIBLE OFF]\n04000000 016BA528 1E2E1001\n\n",
         "[1P INVINCIBLE]": "[1P INVINCIBLE]\n04000000 016BA528 1E27F001\n\n",
@@ -33,5 +29,9 @@
         "[HIT RANGE 2X]": "[HIT RANGE 2X]\n04000000 00D41A18 1E201008\n\n",
         "[HIT RANGE 31X]": "[HIT RANGE 31X]\n04000000 00D41A18 1E27F008\n\n",
         "[HIT RANGE 5X]": "[HIT RANGE 5X]\n04000000 00D41A18 1E229008\n\n"
+    },
+    "attribution": {
+        "Lost in Random ver 1.0.1 by xtatu and Tomswitch.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially",
+        "Lost in Random.txt": "by cucholix gbatemp"
     }
 }

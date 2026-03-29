@@ -8,10 +8,6 @@
         "[Inf Stamina]": "[Inf Stamina]\n580F0000 0286BB20\n580F1000 00000098\n580F1000 00000000\n580F1000 00000020\n580F1000 00000020\n780F0000 00000038\n640F0000 00000000 43960000\n\n",
         "[Inf Hp]": "[Inf Hp]\n580F0000 0286BB20\n580F1000 00000098\n580F1000 00000000\n580F1000 00000020\n580F1000 00000020\n780F0000 0000009C\n640F0000 00000000 42200000\n\n"
     },
-    "attribution": {
-        "Caveman Warriors ver 2.0.0 by arismendy64.txt": "caution\ncan some problems",
-        "Caveman Warriors 2.0.0 by Tomswitch.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
-    },
     "AA14F75E7C738844BAA3F68FC6EC578700000000000000000000000000000000": {
         "[HP]": "[HP]\n04000000 0090A37C 1E27F000\n\n",
         "[Inf Hp]": "[Inf Hp]\n580F0000 0286BB20\n580F1000 00000098\n580F1000 00000000\n580F1000 00000020\n580F1000 00000020\n780F0000 0000009C\n640F0000 00000000 42200000\n\n",
@@ -19,5 +15,9 @@
         "[Life]": "[Life]\n04000000 00462A58 D503201F\n\n",
         "[off]": "[off]\n04000000 00462A58 51000529\n04000000 0090197C 1E283800\n04000000 0090A37C 1E203820\n\n",
         "[Stamina]": "[Stamina]\n04000000 0090197C D503201F\n\n"
+    },
+    "attribution": {
+        "Caveman Warriors ver 2.0.0 by arismendy64.txt": "caution\ncan some problems",
+        "Caveman Warriors 2.0.0 by Tomswitch.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
     }
 }

@@ -5,17 +5,17 @@
         "[Score 9999999]": "[Score 9999999]\n04000000 05ecd0b4 0098967f\n\n",
         "[Infinite Air Dash]": "[Infinite Air Dash]\n580f0000 05CD2468\n580f1000 00000890\n780f0000 00000044\n610f0000 00000000 00000003\n\n"
     },
-    "5D8A35B1528D9BEC": {
-        "[Infinite HP]": "[Infinite HP]\n01000000 05f72d78 00000050\n\n",
-        "[Infinite Time Bar]": "[Infinite Time Bar]\n04000000 05f72d80 42a00000\n\n",
-        "[Score 9999999]": "[Score 9999999]\n04000000 05f720a4 0098967f\n\n",
-        "[Infinite Air Dash]": "[Infinite Air Dash]\n580f0000 05CD2468\n580f1000 00000890\n780f0000 00000044\n610f0000 00000000 00000003\n\n"
-    },
     "3BEC0EF7B2DFA80D4783FF3DCFD349DF00000000000000000000000000000000": {
         "[Infinite Air Dash]": "[Infinite Air Dash]\n580F0000 05CD2468\n580F1000 00000890\n780F0000 00000044\n610F0000 00000000 00000003\n\n",
         "[Infinite HP]": "[Infinite HP]\n01000000 05ECDD88 00000050\n\n",
         "[Infinite Time Bar]": "[Infinite Time Bar]\n04000000 05ECDD90 42A00000\n\n",
         "[Score 9999999]": "[Score 9999999]\n04000000 05ECD0B4 0098967F\n\n"
+    },
+    "5D8A35B1528D9BEC": {
+        "[Infinite HP]": "[Infinite HP]\n01000000 05f72d78 00000050\n\n",
+        "[Infinite Time Bar]": "[Infinite Time Bar]\n04000000 05f72d80 42a00000\n\n",
+        "[Score 9999999]": "[Score 9999999]\n04000000 05f720a4 0098967f\n\n",
+        "[Infinite Air Dash]": "[Infinite Air Dash]\n580f0000 05CD2468\n580f1000 00000890\n780f0000 00000044\n610f0000 00000000 00000003\n\n"
     },
     "5D8A35B1528D9BEC707EFDC96F132AF300000000000000000000000000000000": {
         "[Infinite Air Dash]": "[Infinite Air Dash]\n580F0000 05CD2468\n580F1000 00000890\n780F0000 00000044\n610F0000 00000000 00000003\n\n",

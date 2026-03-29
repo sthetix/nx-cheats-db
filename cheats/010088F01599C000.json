@@ -25,9 +25,6 @@
         "[MONEY 9999]": "[MONEY 9999]\n041F000E 087B0BC8 0001869F\n\n",
         "[SLOT 12 999]": "[SLOT 12 999]\n041F000E 087B0CD4 0001869F\n\n"
     },
-    "attribution": {
-        "DEADCRAFT ver 1.0.0 by Patjenova.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
-    },
     "DACD97A329B3C1AD6E5DA4BB7101C88E00000000000000000000000000000000": {
         "[01# Inf HP]": "[01# Inf HP]\n040A0000 0448DFC0 B940CA63\n040A0000 0448DFC4 7100047F\n040A0000 0448DFC8 54000041\n040A0000 0448DFCC BD410260\n040A0000 0448DFD0 BD00FA60\n040A0000 0448DFD4 D65F03C0\n040A0000 008E6410 94EE9EEC\n\n",
         "[02# Inf Food]": "[02# Inf Food]\n040A0000 0448DFD8 B9447E68\n040A0000 0448DFDC B9047A68\n040A0000 0448DFE0 17139E8D\n040A0000 00975A10 14EC6172\n\n",
@@ -47,5 +44,8 @@
         "[Max Money (off)]": "[Max Money (off)]\n040A0000 00BE2C0C B9400100\n\n",
         "[Max Sp (off)]": "[Max Sp (off)]\n040A0000 00C08D80 1A8AB3E9\n\n",
         "[No Wanted Level (off)]": "[No Wanted Level (off)]\n040A0000 00C388B8 B9000408\n040A0000 00C388DC B9000008\n\n"
+    },
+    "attribution": {
+        "DEADCRAFT ver 1.0.0 by Patjenova.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
     }
 }

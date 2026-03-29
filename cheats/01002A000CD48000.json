@@ -62,31 +62,6 @@
         "[Infinite Health Main Character]": "[Infinite Health Main Character]\n581F0000 067d84e8\n780F0000 00001368\n640F0000 00000000 03840384\n\n",
         "[hit range knife grafic bag]": "[hit range knife grafic bag]\n04000000 004A4D7C 1E2C1001\n\n"
     },
-    "2A797A895C35383B": {
-        "[hitanywhere mode]": "[hitanywhere mode]\n04000000 003FFE00 D65F03C0\n\n",
-        "[rapid fire]": "[rapid fire]\n04000000 01097134 1E27F000\n\n",
-        "[inf reload all ammo]": "[inf reload all ammo]\n04000000 00B285F0 D65F03C0\n\n",
-        "[ZOMB NO grab]": "[ZOMB NO grab]\n04000000 0101F004 D503201F\n\n",
-        "[1p all enermy hit kill]": "[1p all enermy hit kill]\n04000000 00970CC8 D503201F\n\n",
-        "[Unlock All Chapter & S Rank]": "[Unlock All Chapter & S Rank]\n300E0000 000000AF\n041F0000 08191730 00000007\n780F0000 0000000C\n310E0000\n20000000\n300E0000 000000AF\n041F0000 08191734 00000000\n780F0000 0000000C\n310E0000\n20000000\n300E0000 000000AF\n041F0000 0819173C 3F800000\n780F0000 0000000C\n310E0000\n20000000\n\n",
-        "[Speed Up]": "[Speed Up]\n581F0000 067d84e8\n780F0000 000011b0\n680F0000 40800000 40800000\n780F0000 00000008\n640F0000 00000000 40800000\n\n",
-        "[Rise (Hold Up)]": "[Rise (Hold Up)]\n581F0000 067d84e8\n780F0000 00003673\n610F0000 00000000 00000041\n80002000\n610F0000 00000000 000000C1\n20000000\n\n",
-        "[Descent (Hold Down)]": "[Descent (Hold Down)]\n581F0000 067d84e8\n780F0000 0000367F\n610F0000 00000000 0000003D\n80008000\n610F0000 00000000 000000CD\n20000000\n\n",
-        "[Infinite Health]": "[Infinite Health]\n581F0000 067d84e8\n780F0000 000042A0\n640F0000 00000000 44480000\n\n",
-        "[Infinite Stanima]": "[Infinite Stanima]\n581F0000 067d84e8\n780F0000 000042A0\n640F0000 00000000 44480000\n\n",
-        "[Infinite Item]": "[Infinite Item]\n581F0000 067d84e8\n780F0000 00005196\n300E0000 00000006\n620F0000 00000000 000003E7\n780F0000 00000028\n310E0000\n20000000\n\n",
-        "[Always Dash]": "[Always Dash]\n581F0000 067d84e8\n780F0000 00005A24\n680F0000 00000000 00000000\n\n",
-        "[Unlock All Skill & Max]": "[Unlock All Skill & Max]\n300E0000 00000010\n041F0000 081907E4 03030303\n780F0000 00000004\n310E0000\n20000000\n\n",
-        "[Training Mode]": "[Training Mode]\n04100000 08190850 00000054\n\n",
-        "[Infinite Ammo]": "[Infinite Ammo]\n581F0000 067d84e8\n780F0000 0000507E\n300E0000 00000006\n620F0000 00000000 000003E7\n780F0000 00000028\n310E0000\n20000000\n\n",
-        "[Have All Weapons (Default Character)]": "[Have All Weapons (Default Character)]\n581F0000 067d84e8\n780F0000 00005078\n300E0000 00000006\n610F0000 00000000 00000001\n780F0000 00000028\n310E0000\n\n",
-        "[Hp Never Decrease]": "[Hp Never Decrease]\n581F0000 067d84e8\n780F0000 00001368\n640F0000 00000000\n03840384\n\n",
-        "[Have a Rocket Launcher]": "[Have a Rocket Launcher]\n041F0000 081BCABC 0001011B\n041F0000 081BCB2C 0001011B\n041F0000 081BCB9C 0001011B\n041F0000 081BCC0C 0001011B\n041F0000 081BCC7C 0001011B\n041F0000 081BCCF0 0001011B\n041F0000 081BCD64 0001011B\n\n"
-    },
-    "attribution": {
-        "Resident Evil 6 by xtatu ,ZiT866 , character two gamerjin and Marloondx.txt": "Resident Evil 6\nTID:01002A000CD48000\nBID:061d2a06cd700785\nCode:\n\n[Have a Rocket Launcher]\n041F0000 081BCABC 0001011B\n041F0000 081BCB2C 0001011B\n041F0000 081BCB9C 0001011B\n041F0000 081BCC0C 0001011B\n041F0000 081BCC7C 0001011B\n041F0000 081BCCF0 0001011B\n041F0000 081BCD64 0001011B\n\n?Please back up the saved data.\n?Use at the same time as the [Training Mode] code.\n\nPorted the PS3 code.\n\nThe code is Leon, Helena, Chris, Piers, Jake, Sherry, Ada from the top\n\nCan be changed to other weapons.\n\nex.\n0001011B > 00011112 = Grenade launcher\n\nWeapon ID\n0100:bare hands\n0101:Handgun 909\n0102:Picador\n0103:Wing Shooter\n0104:shotgun\n0105:Assault shotgun\n0106:Hydra\n0107:Lightning Hawk\n0108:Elephant Killer\n0109:Sniper Rifle\n010A:Semi-auto Sniper Rifle\n010B:Anti-material rifle\n010C:AB-50\n010D:Triple shot\n010F:Assault rifle ST\n0111:Assault rifle RN\n0113:grenade\n0114:Shochu grenade\n0115:flash grenade\n0116:Remote bomb\n0117:Crossbow\n0118:survival knife\n0119:Combat knife\n011A:STAMBATON\n011B:Rocket Launcher\n110E:MP-AF\n1110:Assault Rifle BC\n1112:Grenade Launcher\n\nIt's important to note who you are playing\nas that determines which C# you are\nLeon, Helena, Chris, Piers, Jake, Sherry, Ada, Hunk(?)\nthe Game uses that to determine who's who.\n\nExample, Leon and Chris in medical factory and you're playing as Chris\nLeon - C1\nHelena - C2\nChris - C3 (you)\nPiers - C4\n\nOf course, for those who still want to use the codes separately\nC1:\n581F0000 067d84e8\n\nC2:\n581F0000 067d84e8\n581F1000 00000028\n\nC3:\n581F0000 067d84e8\n581F1000 00000028\n581F1000 00000028\n\nC4:\n581F0000 067d84e8\n581F1000 00000028\n581F1000 00000028\n581F1000 00000028\n\nChange the initial pointer line to which C# you want\n",
-        "Resident Evil 6.txt": "By Hazerou"
-    },
     "061D2A06CD700785E987C42CE2D7223100000000000000000000000000000000": {
         "[1p all enermy hit kill]": "[1p all enermy hit kill]\n04000000 00970CC8 D503201F\n\n",
         "[Acc\u00e9l\u00e9rer la course]": "[Acc\u00e9l\u00e9rer la course]\n581F0000 067D84E8\n780F0000 000011B0\n680F0000 40800000\n40800000 780F0000\n00000008 640F0000\n00000000 40800000\n\n",
@@ -134,5 +109,30 @@
         "[Unlock All Chapter & S Rank]": "[Unlock All Chapter & S Rank]\n300E0000 000000AF\n041F0000 08191730 00000007\n780F0000 0000000C\n310E0000\n20000000\n300E0000 000000AF\n041F0000 08191734 00000000\n780F0000 0000000C\n310E0000\n20000000\n300E0000 000000AF\n041F0000 0819173C 3F800000\n780F0000 0000000C\n310E0000\n20000000\n\n",
         "[Unlock All Skill & Max]": "[Unlock All Skill & Max]\n300E0000 00000010\n041F0000 081907E4 03030303\n780F0000 00000004\n310E0000\n20000000\n\n",
         "[ZOMB NO grab]": "[ZOMB NO grab]\n04000000 0101F004 D503201F\n\n"
+    },
+    "2A797A895C35383B": {
+        "[hitanywhere mode]": "[hitanywhere mode]\n04000000 003FFE00 D65F03C0\n\n",
+        "[rapid fire]": "[rapid fire]\n04000000 01097134 1E27F000\n\n",
+        "[inf reload all ammo]": "[inf reload all ammo]\n04000000 00B285F0 D65F03C0\n\n",
+        "[ZOMB NO grab]": "[ZOMB NO grab]\n04000000 0101F004 D503201F\n\n",
+        "[1p all enermy hit kill]": "[1p all enermy hit kill]\n04000000 00970CC8 D503201F\n\n",
+        "[Unlock All Chapter & S Rank]": "[Unlock All Chapter & S Rank]\n300E0000 000000AF\n041F0000 08191730 00000007\n780F0000 0000000C\n310E0000\n20000000\n300E0000 000000AF\n041F0000 08191734 00000000\n780F0000 0000000C\n310E0000\n20000000\n300E0000 000000AF\n041F0000 0819173C 3F800000\n780F0000 0000000C\n310E0000\n20000000\n\n",
+        "[Speed Up]": "[Speed Up]\n581F0000 067d84e8\n780F0000 000011b0\n680F0000 40800000 40800000\n780F0000 00000008\n640F0000 00000000 40800000\n\n",
+        "[Rise (Hold Up)]": "[Rise (Hold Up)]\n581F0000 067d84e8\n780F0000 00003673\n610F0000 00000000 00000041\n80002000\n610F0000 00000000 000000C1\n20000000\n\n",
+        "[Descent (Hold Down)]": "[Descent (Hold Down)]\n581F0000 067d84e8\n780F0000 0000367F\n610F0000 00000000 0000003D\n80008000\n610F0000 00000000 000000CD\n20000000\n\n",
+        "[Infinite Health]": "[Infinite Health]\n581F0000 067d84e8\n780F0000 000042A0\n640F0000 00000000 44480000\n\n",
+        "[Infinite Stanima]": "[Infinite Stanima]\n581F0000 067d84e8\n780F0000 000042A0\n640F0000 00000000 44480000\n\n",
+        "[Infinite Item]": "[Infinite Item]\n581F0000 067d84e8\n780F0000 00005196\n300E0000 00000006\n620F0000 00000000 000003E7\n780F0000 00000028\n310E0000\n20000000\n\n",
+        "[Always Dash]": "[Always Dash]\n581F0000 067d84e8\n780F0000 00005A24\n680F0000 00000000 00000000\n\n",
+        "[Unlock All Skill & Max]": "[Unlock All Skill & Max]\n300E0000 00000010\n041F0000 081907E4 03030303\n780F0000 00000004\n310E0000\n20000000\n\n",
+        "[Training Mode]": "[Training Mode]\n04100000 08190850 00000054\n\n",
+        "[Infinite Ammo]": "[Infinite Ammo]\n581F0000 067d84e8\n780F0000 0000507E\n300E0000 00000006\n620F0000 00000000 000003E7\n780F0000 00000028\n310E0000\n20000000\n\n",
+        "[Have All Weapons (Default Character)]": "[Have All Weapons (Default Character)]\n581F0000 067d84e8\n780F0000 00005078\n300E0000 00000006\n610F0000 00000000 00000001\n780F0000 00000028\n310E0000\n\n",
+        "[Hp Never Decrease]": "[Hp Never Decrease]\n581F0000 067d84e8\n780F0000 00001368\n640F0000 00000000\n03840384\n\n",
+        "[Have a Rocket Launcher]": "[Have a Rocket Launcher]\n041F0000 081BCABC 0001011B\n041F0000 081BCB2C 0001011B\n041F0000 081BCB9C 0001011B\n041F0000 081BCC0C 0001011B\n041F0000 081BCC7C 0001011B\n041F0000 081BCCF0 0001011B\n041F0000 081BCD64 0001011B\n\n"
+    },
+    "attribution": {
+        "Resident Evil 6 by xtatu ,ZiT866 , character two gamerjin and Marloondx.txt": "Resident Evil 6\nTID:01002A000CD48000\nBID:061d2a06cd700785\nCode:\n\n[Have a Rocket Launcher]\n041F0000 081BCABC 0001011B\n041F0000 081BCB2C 0001011B\n041F0000 081BCB9C 0001011B\n041F0000 081BCC0C 0001011B\n041F0000 081BCC7C 0001011B\n041F0000 081BCCF0 0001011B\n041F0000 081BCD64 0001011B\n\n?Please back up the saved data.\n?Use at the same time as the [Training Mode] code.\n\nPorted the PS3 code.\n\nThe code is Leon, Helena, Chris, Piers, Jake, Sherry, Ada from the top\n\nCan be changed to other weapons.\n\nex.\n0001011B > 00011112 = Grenade launcher\n\nWeapon ID\n0100:bare hands\n0101:Handgun 909\n0102:Picador\n0103:Wing Shooter\n0104:shotgun\n0105:Assault shotgun\n0106:Hydra\n0107:Lightning Hawk\n0108:Elephant Killer\n0109:Sniper Rifle\n010A:Semi-auto Sniper Rifle\n010B:Anti-material rifle\n010C:AB-50\n010D:Triple shot\n010F:Assault rifle ST\n0111:Assault rifle RN\n0113:grenade\n0114:Shochu grenade\n0115:flash grenade\n0116:Remote bomb\n0117:Crossbow\n0118:survival knife\n0119:Combat knife\n011A:STAMBATON\n011B:Rocket Launcher\n110E:MP-AF\n1110:Assault Rifle BC\n1112:Grenade Launcher\n\nIt's important to note who you are playing\nas that determines which C# you are\nLeon, Helena, Chris, Piers, Jake, Sherry, Ada, Hunk(?)\nthe Game uses that to determine who's who.\n\nExample, Leon and Chris in medical factory and you're playing as Chris\nLeon - C1\nHelena - C2\nChris - C3 (you)\nPiers - C4\n\nOf course, for those who still want to use the codes separately\nC1:\n581F0000 067d84e8\n\nC2:\n581F0000 067d84e8\n581F1000 00000028\n\nC3:\n581F0000 067d84e8\n581F1000 00000028\n581F1000 00000028\n\nC4:\n581F0000 067d84e8\n581F1000 00000028\n581F1000 00000028\n581F1000 00000028\n\nChange the initial pointer line to which C# you want\n",
+        "Resident Evil 6.txt": "By Hazerou"
     }
 }

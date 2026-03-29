@@ -24,9 +24,6 @@
         "[Obtain 16x Exp]": "[Obtain 16x Exp]\n04000000 009BA784 0B091116\n\n",
         "[Obtain 32x Exp]": "[Obtain 32x Exp]\n04000000 009BA784 0B091516\n\n"
     },
-    "attribution": {
-        "DRAGON QUEST XI S - Demo (v1.0.0) by Falo.txt": ""
-    },
     "A7578001B492C2028B722995F3ECA71F00000000000000000000000000000000": {
         "[Gold changes like normal]": "[Gold changes like normal]\n04000000 009F5310 6B010108\n\n",
         "[Gold increases instead of decrease]": "[Gold increases instead of decrease]\n04000000 009F5414 2B010108\n\n",
@@ -51,5 +48,8 @@
         "[Trial Level Limit Default]": "[Trial Level Limit Default]\n04000000 014E6E44 52800288\n\n",
         "[Unlimited MP (Player & Monster) (off)]": "[Unlimited MP (Player & Monster) (off)]\n04000000 00359D70 4B080121\n\n",
         "[Unlimited MP (Player & Monster) (on)]": "[Unlimited MP (Player & Monster) (on)]\n04000000 00359D70 2A0903E1\n\n"
+    },
+    "attribution": {
+        "DRAGON QUEST XI S - Demo (v1.0.0) by Falo.txt": ""
     }
 }

@@ -2,8 +2,8 @@
     "07650FD5E5E2B82C": {
         "[Basic Attack Power Up of Weapons]": "[Basic Attack Power Up of Weapons]\n300E0000 00001F5F\n01100000 12398A30 00000063\n78000000 00000024\n310E0000\n20000000\n\n"
     },
-    "attribution": {
-        "MUSOU OROCHI 3 Ultimate ver 1.10.11 by Momotaro.txt": "Finf More Cheats codes on\n\nhttps://sxcodejunkies.gamegadget.co.uk\n\n"
+    "07650FD5E5E2B82C91CF789148D8AEE3312CC3DE000000000000000000000000": {
+        "[Basic Attack Power Up of Weapons]": "[Basic Attack Power Up of Weapons]\n300E0000 00001F5F\n01100000 12398A30 00000063\n78000000 00000024\n310E0000\n20000000\n\n"
     },
     "1D18291B37A88AB1": {
         "[inf money]": "[inf money]\n041F0000 119FC80C 0098967F\n\n",
@@ -14,9 +14,6 @@
         "[inf crystal]": "[inf crystal]\n011F0000 119FC814 00000063\n\n",
         "[inf growth point]": "[inf growth point]\n041F0000 119FC818 000F423F\n\n"
     },
-    "07650FD5E5E2B82C91CF789148D8AEE3312CC3DE000000000000000000000000": {
-        "[Basic Attack Power Up of Weapons]": "[Basic Attack Power Up of Weapons]\n300E0000 00001F5F\n01100000 12398A30 00000063\n78000000 00000024\n310E0000\n20000000\n\n"
-    },
     "1D18291B37A88AB1FDCF852D574CF39900000000000000000000000000000000": {
         "[9999 ko]": "[9999 ko]\n020F0000 0142444C 0000270F\n021F0000 1D1C3488 0000270F\n\n",
         "[all fuse item 999]": "[all fuse item 999]\n021F0000 119FC830 000003E7\n021F0000 119FC840 000003E7\n021F0000 119FC850 000003E7\n021F0000 119FC860 000003E7\n021F0000 119FC870 000003E7\n021F0000 119FC880 000003E7\n\n",
@@ -25,5 +22,8 @@
         "[inf crystal]": "[inf crystal]\n011F0000 119FC814 00000063\n\n",
         "[inf growth point]": "[inf growth point]\n041F0000 119FC818 000F423F\n\n",
         "[inf money]": "[inf money]\n041F0000 119FC80C 0098967F\n\n"
+    },
+    "attribution": {
+        "MUSOU OROCHI 3 Ultimate ver 1.10.11 by Momotaro.txt": "Finf More Cheats codes on\n\nhttps://sxcodejunkies.gamegadget.co.uk\n\n"
     }
 }

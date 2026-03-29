@@ -43,10 +43,6 @@
         "[Walk Speed \u200b\u200bRate Disable]": "[Walk Speed \u200b\u200bRate Disable]\n04070000 00367E7C BD56F261\n\n",
         "[No Recoil]": "[No Recoil]\n04070000 00642340 D65F03C0\n\n"
     },
-    "attribution": {
-        "Metro 2033 Redux Metro Last Light redux ver 1.0 by patjenova.txt": "Before going to a Mach disable codes. And you must be first at the beginning. ",
-        "Metro Last Light Redux.txt": "RRS and TAA are for Handheld Mode only. Docked Mode breaks viewport\n"
-    },
     "85C362CC9790F0EDF23749B041953C514BB926BA000000000000000000000000": {
         "[01# Inf Health]": "[01# Inf Health]\n58010000 01734550\n78010000 00000330\n64010000 00000000 3F800000\n\n",
         "[02# Max Money]": "[02# Max Money]\n580E0000 016F0E80\n580E1000 00000010\n580E1000 000000A8\n780E0000 00000520\n640E0000 00000000 000F423F\n\n",
@@ -56,5 +52,9 @@
         "[06# Max Bullets (ZL+Down)]": "[06# Max Bullets (ZL+Down)]\n80008100\n58040000 016F0E80\n58041000 00000010\n58041000 00000278\n78040000 00000478\n64040000 00000000 0000270F\n20000000\n\n",
         "[Inf Ammo]": "[Inf Ammo]\n04070000 00D58E70 0B080009\n04070000 00D58E74 6B00013F\n04070000 00D58E78 5400004A\n04070000 00D58E7C 2A0003E9\n04070000 00D58E80 D65F03C0\n04070000 00D58E84 B9001567\n04070000 0063CCC0 941C706C\n\n",
         "[Resource 7777 by Shop]": "[Resource 7777 by Shop]\n04070000 003D9F1C 5283CC21\n04070000 003DA078 5283CC21\n\n"
+    },
+    "attribution": {
+        "Metro 2033 Redux Metro Last Light redux ver 1.0 by patjenova.txt": "Before going to a Mach disable codes. And you must be first at the beginning. ",
+        "Metro Last Light Redux.txt": "RRS and TAA are for Handheld Mode only. Docked Mode breaks viewport\n"
     }
 }

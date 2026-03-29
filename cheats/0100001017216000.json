@@ -16,9 +16,6 @@
         "[Uncapped FPS]": "[Uncapped FPS]\n04000000 028EB190 1A88C108 \n04000000 028EB610 5280000B\n\n",
         "[60 FPS]": "[60 FPS]\n04000000 028EB190 1A88C108 \n04000000 028EB610 5280002B\n\n"
     },
-    "attribution": {
-        "Labyrinth of Galleria - The Moon Society.txt": "Cheat made by Arcansel\n\nUncapped FPS: Can get up to a maximum of 120 fps.\n\n60 FPS: The traditional 60 FPS code, released for those that prefer to save more battery, and because the switch is locked to 60 hz anyway."
-    },
     "5B8A84D8809981141449DE5F5627A992F06D94A0000000000000000000000000": {
         "[1st Puppet Max Exp&Status]": "[1st Puppet Max Exp&Status]\n04100000 0918E220 3B9AC9FF\n04100000 0918E230 3B9AC9FF\n04100000 0918E240 0001869F\n04100000 0918E244 0001869F\n04100000 0918E248 0001869F\n04100000 0918E24C 0001869F\n04100000 0918E250 0001869F\n04100000 0918E254 0001869F\n\n",
         "[2nd Puppet Max Exp&Status]": "[2nd Puppet Max Exp&Status]\n04100000 0918F220 3B9AC9FF\n04100000 0918F230 3B9AC9FF\n04100000 0918F240 0001869F\n04100000 0918F244 0001869F\n04100000 0918F248 0001869F\n04100000 0918F24C 0001869F\n04100000 0918F250 0001869F\n04100000 0918F254 0001869F\n\n",
@@ -28,5 +25,8 @@
         "[Inf.Silver Coins]": "[Inf.Silver Coins]\n04100000 0881A6C4 0098967F\n\n",
         "[Max Battle Exp]": "[Max Battle Exp]\n04100000 09E4B3C0 3B9AC9FF\n\n",
         "[Max Total Exp]": "[Max Total Exp]\n04100000 09E4B3F0 3B9AC9FF\n\n"
+    },
+    "attribution": {
+        "Labyrinth of Galleria - The Moon Society.txt": "Cheat made by Arcansel\n\nUncapped FPS: Can get up to a maximum of 120 fps.\n\n60 FPS: The traditional 60 FPS code, released for those that prefer to save more battery, and because the switch is locked to 60 hz anyway."
     }
 }

@@ -43,9 +43,6 @@
         "[999 Inf MP Kortes]": "[999 Inf MP Kortes]\n04000000 00EDD1F8 000003E7\n04000000 00EDD0C0 000003E7\n\n",
         "[Kortes 999 Inf hp Character]": "[Kortes 999 Inf hp Character]\n04000000 00EDD0C4 000003E7\n04000000 00EDD0BC 000003E7\n04000000 00EDD1F4 000003E7\n\n"
     },
-    "attribution": {
-        "Atelier Shallie Alchemists of the Dusk Sea DX ver 1.0.0 by matias3ds.txt": ""
-    },
     "AAB0450A965202EC9679BB9ECD2543A91AB5BC95000000000000000000000000": {
         "[999 Inf hp Jurie Crotzea]": "[999 Inf hp Jurie Crotzea]\n04000000 00EDD5DC 000003E7\n04000000 00EDD714 000003E7\n\n",
         "[999 Inf MP Jurie Crotzea]": "[999 Inf MP Jurie Crotzea]\n04000000 00EDD718 000003E7\n04000000 00EDD5E0 000003E7\n\n",
@@ -86,5 +83,8 @@
         "[Water 99]": "[Water 99]\n04000000 00ED8352 00000063\n\n",
         "[White Crest Fish 99]": "[White Crest Fish 99]\n04000000 00ED8502 00000063\n\n",
         "[Wild Pelt 99]": "[Wild Pelt 99]\n04000000 00ED81EA 00000063\n\n"
+    },
+    "attribution": {
+        "Atelier Shallie Alchemists of the Dusk Sea DX ver 1.0.0 by matias3ds.txt": ""
     }
 }

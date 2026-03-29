@@ -54,9 +54,6 @@
         "[Bag 1-15 Item ID]": "[Bag 1-15 Item ID]\n04100000 02A11318 000000\n\n",
         "[Bag 1-15 Number of items]": "[Bag 1-15 Number of items]\n04100000 02A1131C 000000\n\n"
     },
-    "attribution": {
-        "DRAGON QUEST III by zit.txt": " [Walk through Walls]\nHold R : Right & Left\nHold R+L : Down\n"
-    },
     "DC72232650D798859090989D76DE126B570D328C000000000000000000000000": {
         "[Bag 1~15 x99]": "[Bag 1~15 x99]\n300E0000 0000000F\n04100000 02A1131C 00000063\n78000000 00000008\n310E0000\n20000000\n\n",
         "[Bag 1-15 Item ID]": "[Bag 1-15 Item ID]\n04100000 02A11318 000000\n\n",
@@ -111,5 +108,8 @@
         "[Ship & Ramia]": "[Ship & Ramia]\n01100000 02A11BD4 0000000D\n\n",
         "[Speed Up (Push ZR & ZL)]": "[Speed Up (Push ZR & ZL)]\n80000300\n04100000 02A16118 00000000\n20000000\n\n",
         "[Walk through Walls (Hold ZR)]": "[Walk through Walls (Hold ZR)]\n04100000 02A19A90 00000008\n04100000 02A19A94 00000001\n80000200\n04100000 02A19A90 00000000\n04100000 02A19A94 00000000\n20000000\n\n"
+    },
+    "attribution": {
+        "DRAGON QUEST III by zit.txt": " [Walk through Walls]\nHold R : Right & Left\nHold R+L : Down\n"
     }
 }

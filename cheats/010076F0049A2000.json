@@ -38,10 +38,6 @@
         "[Inf. Magic]": "[Inf. Magic]\n04000000 0320AE5C 44480000\n\n",
         "[Normal Mode]": "[Normal Mode]\n01000000 031FBF50 00000002\n\n"
     },
-    "attribution": {
-        "Bayonetta BY XTATU.txt": "?After the 2th person, please add +08 to the following code\n580F1000 00000020",
-        "Bayonetta.txt": "By retole\n\nIn Bayonetta 30 FPS code also slow game speed"
-    },
     "7AE22DDABCE854F51E76ED76A773CDD300000000000000000000000000000000": {
         "[1p invelcible mode]": "[1p invelcible mode]\n040000000 005D8430 D65F03C0\n\n",
         "[1p damger 100x]": "[1p damger 100x]\n04000000 005DBE64 52A85909\n\n",
@@ -64,5 +60,9 @@
         "[throw anywhere mode]": "[throw anywhere mode]\n04000000 008A8B18 D65F03C0\n\n",
         "[unlimited Combo]": "[unlimited Combo]\n04000000 00062194 52A01309\n04000000 00062198 7292CFE9\n\n",
         "[Very Easy Mode]": "[Very Easy Mode]\n01000000 031FBF50 00000000\n\n"
+    },
+    "attribution": {
+        "Bayonetta BY XTATU.txt": "?After the 2th person, please add +08 to the following code\n580F1000 00000020",
+        "Bayonetta.txt": "By retole\n\nIn Bayonetta 30 FPS code also slow game speed"
     }
 }

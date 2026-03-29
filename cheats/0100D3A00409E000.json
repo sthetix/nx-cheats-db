@@ -5,12 +5,12 @@
         "[Too many studs chronopolis only]": "[Too many studs chronopolis only]\n581F0000 9F087A70\n781F1000 00000070\n641F1000 00000000 0BEBC200\n641F0000 00000000 0BEBC200\n\n",
         "[Hold L and A 550,000,000 level only stud]": "[Hold L and A 550,000,000 level only stud]\n80000041\n581F0000 9F087A88\n781F1000 00000070\n641F1000 00000000 20C85580\n20000000\n\n"
     },
-    "attribution": {
-        "Lego Marvel Superheroes 2.txt": ""
-    },
     "20CD49F2BA64744D89D3E44228401BB500000000000000000000000000000000": {
         "[Hold L and A 550,000,000 level stud]": "[Hold L and A 550,000,000 level stud]\n80000041\n581F0000 9F087A88\n781F1000 00000070\n641F1000 00000000 20C85580\n20000000\n\n",
         "[P1 Infinite Health]": "[P1 Infinite Health]\n580F0000 05ED0E48\n780F0000 000007C4\n640F0000 00000000 000000C8\n\n",
         "[Too many studs chronopolis only]": "[Too many studs chronopolis only]\n581F0000 9F087A70\n781F1000 00000070\n641F1000 00000000 0BEBC200\n641F0000 00000000 0BEBC200\n\n"
+    },
+    "attribution": {
+        "Lego Marvel Superheroes 2.txt": ""
     }
 }

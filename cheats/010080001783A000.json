@@ -33,6 +33,23 @@
         "[#13. Increase Quantity when Selling Materials (Hold L)]": "[#13. Increase Quantity when Selling Materials (Hold L)]\n040E0000 00C5EEE0 4B0803E2\n80000040\n040E0000 00C5EEE0 2A0803E2\n20000000\n\n",
         "[#14. No Materials Required for Uncapping MS Level]": "[#14. No Materials Required for Uncapping MS Level]\n040E0000 00B3B49C 52800C95\n040E0000 009A6628 52800C80\n040E0000 009A5FFC 52800C80\n040E0000 009A6698 2A1F03E2\n\n"
     },
+    "44EB9091B80AE63989F8A9A32C9E248B00000000000000000000000000000000": {
+        "[#01. No Damage My Side]": "[#01. No Damage My Side]\n040E0000 00835F88 52800028\n040E0000 0083CB0C 52800028\n\n",
+        "[#02. Unlimited Bullet]": "[#02. Unlimited Bullet]\n040E0000 00CE2EF0 52800029\n\n",
+        "[#03. Unlimited Boost Meter]": "[#03. Unlimited Boost Meter]\n040E0000 0083C16C 52800028\n\n",
+        "[#04. Unlimited Role Actions & Chain Breakers(Max Skill Meter)]": "[#04. Unlimited Role Actions & Chain Breakers(Max Skill Meter)]\n040E0000 0083A228 B9418268\n040E0000 00B81FB4 BD4182A1\n040E0000 00B81FF0 BD4182A1\n\n",
+        "[#05. Unlimited SPAs (Max Recast Meter)]": "[#05. Unlimited SPAs (Max Recast Meter)]\n040E0000 0083A058 1E204020\n040E0000 0083C380 52800028\n040E0000 0083C3B8 52800028\n\n",
+        "[#06. Unlimited SPA Trans-Am]": "[#06. Unlimited SPA Trans-Am]\n040E0000 0083C28C 52800028\n040E0000 0083C240 52800028\n\n",
+        "[#07. One-Hit-Kill (Itigeki)]": "[#07. One-Hit-Kill (Itigeki)]\n040E0000 0083561C B940BE88\n\n",
+        "[#08. Movement Speed (5x)]": "[#08. Movement Speed (5x)]\n080E0000 04493FF8 457A0000 D65F03C0\n080E0000 04493FF0 1C000043 35000048\n080E0000 04493FE8 B940BD08 F943A268\n040E0000 04493FE4 1E270104\n040E0000 008CF8A0 94EF11D1\n080E0000 04493FDC 46147000 D65F03C0\n080E0000 04493FD4 F9400268 1C000068\n080E0000 04493FCC 35000048 B940BC08\n040E0000 008CFDBC 94EF1084\n\n",
+        "[#09. Jumping Height (3x)]": "[#09. Jumping Height (3x)]\n080E0000 04493FC4 D65F03C0 1E290800\n080E0000 04493FBC 1E211009 35000060\n080E0000 04493FB4 B940BC00 F943A260\n040E0000 04493FB0 BD4CB260\n040E0000 008D43EC 94EEFEF1\n\n",
+        "[#10. Unlimited Using Repair Kit]": "[#10. Unlimited Using Repair Kit]\n040E0000 0083EC20 52800028\n\n",
+        "[#11. Unlimited Spending Capital]": "[#11. Unlimited Spending Capital]\n040E0000 009A7E8C D503201F\n\n",
+        "[#12. Pilot Experience 5x]": "[#12. Pilot Experience 5x]\n040E0000 00C18A3C 0B020855\n\n",
+        "[#13. Increase Quantity when Selling Materials (Hold L)]": "[#13. Increase Quantity when Selling Materials (Hold L)]\n040E0000 00C5EEE0 4B0803E2\n80000040\n040E0000 00C5EEE0 2A0803E2\n20000000\n\n",
+        "[#14. No Materials Required for Uncapping MS Level]": "[#14. No Materials Required for Uncapping MS Level]\n040E0000 00B3B49C 52800C95\n040E0000 009A6628 52800C80\n040E0000 009A5FFC 52800C80\n040E0000 009A6698 2A1F03E2\n\n",
+        "[Restore Code (Use after unchecking any cheats below)]": "[Restore Code (Use after unchecking any cheats below)]\n040E0000 00835F88 39400108\n040E0000 0083CB0C 39400108\n040E0000 00CE2EF0 39400129\n040E0000 0083C16C 39400108\n040E0000 0083A228 B9417E68\n040E0000 00B81FB4 BD417EA1\n040E0000 00B81FF0 BD417EA1\n040E0000 0083A058 1E216800\n040E0000 0083C380 39400108\n040E0000 0083C3B8 39400108\n040E0000 0083C28C 39400108\n040E0000 0083C240 39400108\n040E0000 0083561C 39400108\n040E0000 008CF8A0 1E270104\n040E0000 008CFDBC F9400268\n040E0000 008D43EC BD4CC260\n040E0000 0083EC20 39470A88\n040E0000 009A7E8C B901E028\n040E0000 00C18A3C 2A0203F5\n040E0000 00B3B49C 2A0303F5\n040E0000 009A6628 97FF5C62\n040E0000 009A5FFC 97FF5DED\n040E0000 009A6698 4B1803E2\n\n"
+    },
     "F90B6144FAEC579B": {
         "[60 FPS]": "[60 FPS]\n580F0000 07A71F50 \n580F1000 00000080 \n780F0000 00000F14 \n640F0000 00000000 00000001\n580F0000 07AEA4D0 \n780F0000 00000044 \n680F0000 42700000 42700000\n\n",
         "[45 FPS]": "[45 FPS]\n580F0000 07A71F50 \n580F1000 00000080 \n780F0000 00000F14 \n640F0000 00000000 00000001\n580F0000 07AEA4D0 \n780F0000 00000044 \n680F0000 42340000 42340000\n\n",
@@ -135,22 +152,5 @@
     },
     "attribution": {
         "SD GUNDAM BATTLE ALLIANCE (AS).txt": "By sds\n\nIncluded in the text file:\n[FPS]\n[VSync]\n[Upscale Quality]\n[Enable / Disable Dynamic Resolution]\n[RRS]\n[Image Sharpening]\n[New Film]\n[Vignette]\n[Distortion Effects]\n[Fog]\n[Motion Blur]\n[Film Grain]\n[Chromatic Aberration]\n[Lens Flare]\n[Sky Lighting Quality]\n[Adaptive Exposure]\n[View Distance Scale]\n[DOF]\n[Anisotropic Filtering]\n[AA]\n[MSAA]\n[SSAO]\n[Shadow]\n[Shadow Distance]\n[Bloom]\n[MIN/MAX/Default GFX Quality]\n\nNote:\n[Upscale Quality] Is also known as Graphics Texture Filtering and it's noticeable (more usable) when using lower RRS + AA OFF, AA Very Low or AA Low.\nType-0: Nearest filtering\nType-1: Simple Bilinear\nType-2: Directional blur with unsharp mask upsample. (default)\nType-3: 5-tap Catmull-Rom bicubic, approximating Lanczos 2.\nType-4: 13-tap Lanczos 3.\nType-5: 36-tap Gaussian-filtered unsharp mask (very expensive, but good for extreme upsampling)\n\nThe [GFX Quality] Are For:\n[Adaptive Exposure]\n[View Distance Scale]\n[DOF]\n[Anisotropic Filtering]\n[AA]\n[MSAA]\n[SSAO]\n[Shadow]\n[Shadow Distance]\n[Bloom]\n\nPlease use:\n[RRS] is Render Resolution Scale and it disables Dynamic Resolution Function.\nHandheld RRS for Handheld Mode.\nDocked RRS for Docked Mode.\n\nIssues:\nSome GFX Codes has NO Function/Effect to Game.\n|Need OC|"
-    },
-    "44EB9091B80AE63989F8A9A32C9E248B00000000000000000000000000000000": {
-        "[#01. No Damage My Side]": "[#01. No Damage My Side]\n040E0000 00835F88 52800028\n040E0000 0083CB0C 52800028\n\n",
-        "[#02. Unlimited Bullet]": "[#02. Unlimited Bullet]\n040E0000 00CE2EF0 52800029\n\n",
-        "[#03. Unlimited Boost Meter]": "[#03. Unlimited Boost Meter]\n040E0000 0083C16C 52800028\n\n",
-        "[#04. Unlimited Role Actions & Chain Breakers(Max Skill Meter)]": "[#04. Unlimited Role Actions & Chain Breakers(Max Skill Meter)]\n040E0000 0083A228 B9418268\n040E0000 00B81FB4 BD4182A1\n040E0000 00B81FF0 BD4182A1\n\n",
-        "[#05. Unlimited SPAs (Max Recast Meter)]": "[#05. Unlimited SPAs (Max Recast Meter)]\n040E0000 0083A058 1E204020\n040E0000 0083C380 52800028\n040E0000 0083C3B8 52800028\n\n",
-        "[#06. Unlimited SPA Trans-Am]": "[#06. Unlimited SPA Trans-Am]\n040E0000 0083C28C 52800028\n040E0000 0083C240 52800028\n\n",
-        "[#07. One-Hit-Kill (Itigeki)]": "[#07. One-Hit-Kill (Itigeki)]\n040E0000 0083561C B940BE88\n\n",
-        "[#08. Movement Speed (5x)]": "[#08. Movement Speed (5x)]\n080E0000 04493FF8 457A0000 D65F03C0\n080E0000 04493FF0 1C000043 35000048\n080E0000 04493FE8 B940BD08 F943A268\n040E0000 04493FE4 1E270104\n040E0000 008CF8A0 94EF11D1\n080E0000 04493FDC 46147000 D65F03C0\n080E0000 04493FD4 F9400268 1C000068\n080E0000 04493FCC 35000048 B940BC08\n040E0000 008CFDBC 94EF1084\n\n",
-        "[#09. Jumping Height (3x)]": "[#09. Jumping Height (3x)]\n080E0000 04493FC4 D65F03C0 1E290800\n080E0000 04493FBC 1E211009 35000060\n080E0000 04493FB4 B940BC00 F943A260\n040E0000 04493FB0 BD4CB260\n040E0000 008D43EC 94EEFEF1\n\n",
-        "[#10. Unlimited Using Repair Kit]": "[#10. Unlimited Using Repair Kit]\n040E0000 0083EC20 52800028\n\n",
-        "[#11. Unlimited Spending Capital]": "[#11. Unlimited Spending Capital]\n040E0000 009A7E8C D503201F\n\n",
-        "[#12. Pilot Experience 5x]": "[#12. Pilot Experience 5x]\n040E0000 00C18A3C 0B020855\n\n",
-        "[#13. Increase Quantity when Selling Materials (Hold L)]": "[#13. Increase Quantity when Selling Materials (Hold L)]\n040E0000 00C5EEE0 4B0803E2\n80000040\n040E0000 00C5EEE0 2A0803E2\n20000000\n\n",
-        "[#14. No Materials Required for Uncapping MS Level]": "[#14. No Materials Required for Uncapping MS Level]\n040E0000 00B3B49C 52800C95\n040E0000 009A6628 52800C80\n040E0000 009A5FFC 52800C80\n040E0000 009A6698 2A1F03E2\n\n",
-        "[Restore Code (Use after unchecking any cheats below)]": "[Restore Code (Use after unchecking any cheats below)]\n040E0000 00835F88 39400108\n040E0000 0083CB0C 39400108\n040E0000 00CE2EF0 39400129\n040E0000 0083C16C 39400108\n040E0000 0083A228 B9417E68\n040E0000 00B81FB4 BD417EA1\n040E0000 00B81FF0 BD417EA1\n040E0000 0083A058 1E216800\n040E0000 0083C380 39400108\n040E0000 0083C3B8 39400108\n040E0000 0083C28C 39400108\n040E0000 0083C240 39400108\n040E0000 0083561C 39400108\n040E0000 008CF8A0 1E270104\n040E0000 008CFDBC F9400268\n040E0000 008D43EC BD4CC260\n040E0000 0083EC20 39470A88\n040E0000 009A7E8C B901E028\n040E0000 00C18A3C 2A0203F5\n040E0000 00B3B49C 2A0303F5\n040E0000 009A6628 97FF5C62\n040E0000 009A5FFC 97FF5DED\n040E0000 009A6698 4B1803E2\n\n"
     }
 }

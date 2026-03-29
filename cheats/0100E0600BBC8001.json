@@ -18,10 +18,6 @@
         "[Justin AGI 999]": "[Justin AGI 999]\n041F0000 00445280 000003E7\n\n",
         "[SUE HP 999]": "[SUE HP 999]\n040F0000 003E0324 000003E7\n041F0000 00445376 000003E7\n041F0000 00445378 000003E7\n041F0000 02C4A63A 000003E7\n041F0000 02C6056C 000003E7\n041F0000 02C6056E 000003E7\n041F0000 02C60570 000003E7\n\n"
     },
-    "attribution": {
-        "Gandia HD V1.00.26 made by Patjenova.txt": "",
-        "Grandia collection hd by patjenova.txt": ""
-    },
     "CB4964F21CD34F6D": {
         "[JUSTIN INF MP LV1]": "[JUSTIN INF MP LV1]\n011D0000 7A8BE2A8 00000063\n\n",
         "[GADWIN INF MP LV2]": "[GADWIN INF MP LV2]\n011D0000 7A8BE32A 00000063\n\n",
@@ -80,5 +76,9 @@
         "[JUSTIN MAGIC LEVEL 99]": "[JUSTIN MAGIC LEVEL 99]\n041D0000 7A8BE298 63636363\n\n",
         "[RAPP MAGIC LEVEL 99]": "[RAPP MAGIC LEVEL 99]\n041D0000 7A8BE498 63636363\n\n",
         "[GADWIN EASY WEAPON LEVEL UP]": "[GADWIN EASY WEAPON LEVEL UP]\n041D0000 7A8BE310 0000FFFF\n\n"
+    },
+    "attribution": {
+        "Gandia HD V1.00.26 made by Patjenova.txt": "",
+        "Grandia collection hd by patjenova.txt": ""
     }
 }

@@ -11,19 +11,6 @@
         "[06# No Tonic Reduce]": "[06# No Tonic Reduce]\n04000000 0048C1B8 0B130129\n\n",
         "[No Tonic Reduce(off)]": "[No Tonic Reduce(off)]\n04000000 0048C1B8 4B130129\n\n"
     },
-    "CB788AA9E4E02D49": {
-        "[Infinite Jump hold b]": "[Infinite Jump hold b]\n04000000 00BC5400 A9BE4FF4\n04000000 00BC53A0 A9BE4FF4\n80000002\n04000000 00BC5400 D65F03C0\n04000000 00BC53A0 D65F03C0\n20000000\n\n"
-    },
-    "EA84F555E2D0BC41": {
-        "[Gravity hold b]": "[Gravity hold b]\n04000000 0068DF20 A9BE4FF4\n04000000 0068DEC0 A9BE4FF4\n80000002\n04000000 0068DF20 D65F03C0\n04000000 0068DEC0 D65F03C0\n20000000\n\n",
-        "[#Never get attacked (On)]": "[#Never get attacked (On)]\n04000000 00684B10 D65F03C0\n\n",
-        "[#Never get attacked (Off)]": "[#Never get attacked (Off)]\n04000000 00684B10 D102C3FF\n\n",
-        "[Infinite Jump hold b]": "[Infinite Jump hold b]\n04000000 00BC5400 A9BE4FF4\n04000000 00BC53A0 A9BE4FF4\n80000002\n04000000 00BC5400 D65F03C0\n04000000 00BC53A0 D65F03C0\n20000000\n\n"
-    },
-    "attribution": {
-        "Yooka-Laylee and the Impossible Lair ver 1.0.1 by patjenova.txt": "",
-        "Yooka-Laylee and the Impossible Lair ver 1.0.4 by Patjenova.txt": ""
-    },
     "8432CEC51F882448B60EED2164FCEF6500000000000000000000000000000000": {
         "[01# Never get attacked (On)]": "[01# Never get attacked (On)]\n04000000 002127B0 D65F03C0\n\n",
         "[02# Super Jump (Press B)]": "[02# Super Jump (Press B)]\n04000000 00185970 D10183FF\n80000002\n04000000 00185970 D65F03C0\n20000000\n\n",
@@ -36,13 +23,26 @@
         "[Never get attacked (Off)]": "[Never get attacked (Off)]\n04000000 002127B0 D102C3FF\n\n",
         "[No Tonic Reduce(off)]": "[No Tonic Reduce(off)]\n04000000 0048C1B8 4B130129\n\n"
     },
+    "CB788AA9E4E02D49": {
+        "[Infinite Jump hold b]": "[Infinite Jump hold b]\n04000000 00BC5400 A9BE4FF4\n04000000 00BC53A0 A9BE4FF4\n80000002\n04000000 00BC5400 D65F03C0\n04000000 00BC53A0 D65F03C0\n20000000\n\n"
+    },
+    "CB788AA9E4E02D49A32E3A2F1CAF348600000000000000000000000000000000": {
+        "[Infinite Jump hold b]": "[Infinite Jump hold b]\n04000000 00BC5400 A9BE4FF4\n04000000 00BC53A0 A9BE4FF4\n80000002\n04000000 00BC5400 D65F03C0\n04000000 00BC53A0 D65F03C0\n20000000\n\n"
+    },
+    "EA84F555E2D0BC41": {
+        "[Gravity hold b]": "[Gravity hold b]\n04000000 0068DF20 A9BE4FF4\n04000000 0068DEC0 A9BE4FF4\n80000002\n04000000 0068DF20 D65F03C0\n04000000 0068DEC0 D65F03C0\n20000000\n\n",
+        "[#Never get attacked (On)]": "[#Never get attacked (On)]\n04000000 00684B10 D65F03C0\n\n",
+        "[#Never get attacked (Off)]": "[#Never get attacked (Off)]\n04000000 00684B10 D102C3FF\n\n",
+        "[Infinite Jump hold b]": "[Infinite Jump hold b]\n04000000 00BC5400 A9BE4FF4\n04000000 00BC53A0 A9BE4FF4\n80000002\n04000000 00BC5400 D65F03C0\n04000000 00BC53A0 D65F03C0\n20000000\n\n"
+    },
     "EA84F555E2D0BC41BD9C1F23C70388B900000000000000000000000000000000": {
         "[#Never get attacked (Off)]": "[#Never get attacked (Off)]\n04000000 00684B10 D102C3FF\n\n",
         "[#Never get attacked (On)]": "[#Never get attacked (On)]\n04000000 00684B10 D65F03C0\n\n",
         "[Gravity hold b]": "[Gravity hold b]\n04000000 0068DF20 A9BE4FF4\n04000000 0068DEC0 A9BE4FF4\n80000002\n04000000 0068DF20 D65F03C0\n04000000 0068DEC0 D65F03C0\n20000000\n\n",
         "[Infinite Jump hold b]": "[Infinite Jump hold b]\n04000000 00BC5400 A9BE4FF4\n04000000 00BC53A0 A9BE4FF4\n80000002\n04000000 00BC5400 D65F03C0\n04000000 00BC53A0 D65F03C0\n20000000\n\n"
     },
-    "CB788AA9E4E02D49A32E3A2F1CAF348600000000000000000000000000000000": {
-        "[Infinite Jump hold b]": "[Infinite Jump hold b]\n04000000 00BC5400 A9BE4FF4\n04000000 00BC53A0 A9BE4FF4\n80000002\n04000000 00BC5400 D65F03C0\n04000000 00BC53A0 D65F03C0\n20000000\n\n"
+    "attribution": {
+        "Yooka-Laylee and the Impossible Lair ver 1.0.1 by patjenova.txt": "",
+        "Yooka-Laylee and the Impossible Lair ver 1.0.4 by Patjenova.txt": ""
     }
 }

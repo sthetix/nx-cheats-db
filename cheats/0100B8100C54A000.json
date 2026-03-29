@@ -27,9 +27,6 @@
         "[Esencia de relampago - Essence of lightning]": "[Esencia de relampago - Essence of lightning]\n04100000 A8E41D60 00000009\n\n",
         "[Esencia de sombra - Essence of shadow]": "[Esencia de sombra - Essence of shadow]\n04100000 A8E5D400 00000009\n\n"
     },
-    "attribution": {
-        "Rack N Ruin ver 1.0.4 by jhmiller.txt": "NOTE:\nIf stats become unusable, set to lower number (tested with these a little and seemd fine. Dont exceed too hard or you might get 1 shot etc).\nStat changes will be made when you teleport in/out or level up."
-    },
     "4E587FE27A463D4CAA2E16358D62870A00000000000000000000000000000000": {
         "[Ala de hada - Faerie wing]": "[Ala de hada - Faerie wing]\n04100000 A8E41C80 00000009\n\n",
         "[Almas - Souls]": "[Almas - Souls]\n580F0000 02F5F170\n580F1000 000000A0\n580F1000 00000000\n580F1000 00000060\n580F1000 00000028\n780F0000 00000020\n640F0000 00000000 00000009\n\n",
@@ -57,5 +54,8 @@
         "[Tarro de ojos - Jar of eyeballs]": "[Tarro de ojos - Jar of eyeballs]\n04100000 A8DD7C40 00000009\n\n",
         "[Totem prismatico - Prismatic totem]": "[Totem prismatico - Prismatic totem]\n04100000 A8DD7B40 00000009\n\n",
         "[Un poco de caos - A bit of chaos]": "[Un poco de caos - A bit of chaos]\n04100000 A8E419E0 00000009\n\n"
+    },
+    "attribution": {
+        "Rack N Ruin ver 1.0.4 by jhmiller.txt": "NOTE:\nIf stats become unusable, set to lower number (tested with these a little and seemd fine. Dont exceed too hard or you might get 1 shot etc).\nStat changes will be made when you teleport in/out or level up."
     }
 }

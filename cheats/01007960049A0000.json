@@ -30,39 +30,6 @@
         "[inf health+protection hit+damger0]": "[inf health+protection hit+damger0]\n04000000 0001D5CC D503201F\n\n",
         "[1p invelcible mode]": "[1p invelcible mode]\n04000000 00020C14 D65F03C0\n\n"
     },
-    "F19B2E01E1794F93": {
-        "[60 FPS (Default)]": "[60 FPS (Default)]\n580F0000 035039E0 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
-        "[30 FPS]": "[30 FPS]\n580F0000 035039E0 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n",
-        "[Inf. Health]": "[Inf. Health]\n580F0000 01945148\n580F1000 00000000\n780F0000 0000382C\n640F0000 00000000 0000FFFF\n\n",
-        "[Inf. 1000000 Halos]": "[Inf. 1000000 Halos]\n580F0000 0186B528\n780F1000 00000B10\n640F0000 00000000 000F4240\n\n",
-        "[Inf. Magic]": "[Inf. Magic]\n580F0000 0194CB68\n781F1000 000008E4\n640F0000 00000000 44160000\n\n",
-        "[Mega Yellow Moon Lollipop x99]": "[Mega Yellow Moon Lollipop x99]\n01000000 034e59a4 00000063\n\n",
-        "[Mandragora Root x99]": "[Mandragora Root x99]\n01000000 034e5964 00000063\n\n",
-        "[Baked Gecko x99]": "[Baked Gecko x99]\n01000000 034e595c 00000063\n\n",
-        "[Unicorn Horn x99]": "[Unicorn Horn x99]\n01000000 034e5954 00000063\n\n",
-        "[Yellow Moon Lollipop x99]": "[Yellow Moon Lollipop x99]\n01000000 034e599c 00000063\n\n",
-        "[Mega Bloody Rose Lollipop x99]": "[Mega Bloody Rose Lollipop x99]\n01000000 034e5994 00000063\n\n",
-        "[Bloody Rose Lollipop x99]": "[Bloody Rose Lollipop x99]\n01000000 034e598c 00000063\n\n",
-        "[Mega Purple Magic Lollipop x99]": "[Mega Purple Magic Lollipop x99]\n01000000 034e5984 00000063\n\n",
-        "[Purple Magic Lollipop x99]": "[Purple Magic Lollipop x99]\n01000000 034e597c 00000063\n\n",
-        "[Mega Green Herb Lollipop x99]": "[Mega Green Herb Lollipop x99]\n01000000 034e5974 00000063\n\n",
-        "[Green Herb Lollipop x99]": "[Green Herb Lollipop x99]\n01000000 034e596c 00000063\n\n",
-        "[Red Hot Shot]": "[Red Hot Shot]\n01000000 034e59c4 00000063\n\n",
-        "[Witchs Recipes x99]": "[Witchs Recipes x99]\n01000000 034E49B4 00000063\n\n",
-        "[combo99999999]": "[combo99999999]\n04000000 034E51B4 3B9AC9FF\n\n",
-        "[damage0]": "[damage0]\n04000000 034E51BC 00000000\n\n",
-        "[time0]": "[time0]\n04000000 034E51B0 00000000\n\n"
-    },
-    "attribution": {
-        "Bayonetta 2.txt": "By retole\n\nIn Bayonetta 2 30 FPS code does not slow game speed"
-    },
-    "7AE22DDABCE854F5": {
-        "[hitanywhere weapon]": "[hitanywhere weapon]\n04000000 00AFD700 D65F03C0\n\n",
-        "[hitanywhere gun]": "[hitanywhere gun]\n04000000 00AFD470 D65F03C0\n\n",
-        "[inf health+protection hit+damger0]": "[inf health+protection hit+damger0]\n04000000 0001D5CC D503201F\n\n",
-        "[1p invelcible mode]": "[1p invelcible mode]\n04000000 00020C14 D65F03C0\n\n",
-        "[inf jump]": "[inf jump]\n04000000 000312F4 D10543FF\n80000002 04000000 000312F4 D65F03C0\n20000000\n\n"
-    },
     "40EA84ADF0A7BC26CC7A3B61638F848500000000000000000000000000000000": {
         "[1p invelcible mode]": "[1p invelcible mode]\n04000000 00020C14 D65F03C0\n\n",
         "[All Items x99]": "[All Items x99]\n01000000 034E4954 00000063\n01000000 034E495C 00000063\n01000000 034E4964 00000063\n01000000 034E496C 00000063\n01000000 034E4974 00000063\n01000000 034E497C 00000063\n01000000 034E4984 00000063\n01000000 034E498C 00000063\n01000000 034E4994 00000063\n01000000 034E499C 00000063\n01000000 034E49A4 00000063\n01000000 034E49AC 00000063\n01000000 034E49B4 00000063\n01000000 034E49BC 00000063\n01000000 034E49C4 00000063\n01000000 034E49CC 00000063\n01000000 034E49D4 00000063\n01000000 034E49DC 00000063\n01000000 034E49E4 00000063\n01000000 034E49EC 00000063\n\n",
@@ -93,5 +60,38 @@
         "[Unicorn Horn x99]": "[Unicorn Horn x99]\n01000000 034E4954 00000063\n\n",
         "[Witchs Recipes x99]": "[Witchs Recipes x99]\n01000000 034E49B4 00000063\nMADE BY STONED AND RYUSEISUKE1992\n\n",
         "[Yellow Moon Lollipop x99]": "[Yellow Moon Lollipop x99]\n01000000 034E496C 00000063\n\n"
+    },
+    "7AE22DDABCE854F5": {
+        "[hitanywhere weapon]": "[hitanywhere weapon]\n04000000 00AFD700 D65F03C0\n\n",
+        "[hitanywhere gun]": "[hitanywhere gun]\n04000000 00AFD470 D65F03C0\n\n",
+        "[inf health+protection hit+damger0]": "[inf health+protection hit+damger0]\n04000000 0001D5CC D503201F\n\n",
+        "[1p invelcible mode]": "[1p invelcible mode]\n04000000 00020C14 D65F03C0\n\n",
+        "[inf jump]": "[inf jump]\n04000000 000312F4 D10543FF\n80000002 04000000 000312F4 D65F03C0\n20000000\n\n"
+    },
+    "F19B2E01E1794F93": {
+        "[60 FPS (Default)]": "[60 FPS (Default)]\n580F0000 035039E0 \n780F0000 00000F14 \n640F0000 00000000 00000001\n\n",
+        "[30 FPS]": "[30 FPS]\n580F0000 035039E0 \n780F0000 00000F14 \n640F0000 00000000 00000002\n\n",
+        "[Inf. Health]": "[Inf. Health]\n580F0000 01945148\n580F1000 00000000\n780F0000 0000382C\n640F0000 00000000 0000FFFF\n\n",
+        "[Inf. 1000000 Halos]": "[Inf. 1000000 Halos]\n580F0000 0186B528\n780F1000 00000B10\n640F0000 00000000 000F4240\n\n",
+        "[Inf. Magic]": "[Inf. Magic]\n580F0000 0194CB68\n781F1000 000008E4\n640F0000 00000000 44160000\n\n",
+        "[Mega Yellow Moon Lollipop x99]": "[Mega Yellow Moon Lollipop x99]\n01000000 034e59a4 00000063\n\n",
+        "[Mandragora Root x99]": "[Mandragora Root x99]\n01000000 034e5964 00000063\n\n",
+        "[Baked Gecko x99]": "[Baked Gecko x99]\n01000000 034e595c 00000063\n\n",
+        "[Unicorn Horn x99]": "[Unicorn Horn x99]\n01000000 034e5954 00000063\n\n",
+        "[Yellow Moon Lollipop x99]": "[Yellow Moon Lollipop x99]\n01000000 034e599c 00000063\n\n",
+        "[Mega Bloody Rose Lollipop x99]": "[Mega Bloody Rose Lollipop x99]\n01000000 034e5994 00000063\n\n",
+        "[Bloody Rose Lollipop x99]": "[Bloody Rose Lollipop x99]\n01000000 034e598c 00000063\n\n",
+        "[Mega Purple Magic Lollipop x99]": "[Mega Purple Magic Lollipop x99]\n01000000 034e5984 00000063\n\n",
+        "[Purple Magic Lollipop x99]": "[Purple Magic Lollipop x99]\n01000000 034e597c 00000063\n\n",
+        "[Mega Green Herb Lollipop x99]": "[Mega Green Herb Lollipop x99]\n01000000 034e5974 00000063\n\n",
+        "[Green Herb Lollipop x99]": "[Green Herb Lollipop x99]\n01000000 034e596c 00000063\n\n",
+        "[Red Hot Shot]": "[Red Hot Shot]\n01000000 034e59c4 00000063\n\n",
+        "[Witchs Recipes x99]": "[Witchs Recipes x99]\n01000000 034E49B4 00000063\n\n",
+        "[combo99999999]": "[combo99999999]\n04000000 034E51B4 3B9AC9FF\n\n",
+        "[damage0]": "[damage0]\n04000000 034E51BC 00000000\n\n",
+        "[time0]": "[time0]\n04000000 034E51B0 00000000\n\n"
+    },
+    "attribution": {
+        "Bayonetta 2.txt": "By retole\n\nIn Bayonetta 2 30 FPS code does not slow game speed"
     }
 }

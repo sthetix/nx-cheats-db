@@ -1,4 +1,48 @@
 {
+    "029C2837B0EEE8A9": {
+        "[Increased skill / prop mastery Max]": "[Increased skill / prop mastery Max]\n04000000 00A9B694 1A8CB18C\n\n",
+        "[After level increase Max]": "[After level increase Max]\n04000000 00A8629C 1A94B289\n\n",
+        "[Skills / props 4x]": "[Skills / props 4x]\n04000000 00A9B68C 0B15096B\n\n",
+        "[Bullets are not reduced]": "[Bullets are not reduced]\n04000000 00A3E620 51000108\n\n",
+        "[exp]": "[exp]\n04100000 C189BEB8 3B9AC9FF\n\n",
+        "[Use of SP is not reduced]": "[Use of SP is not reduced]\n04000000 00A85374 4B1F0108\n\n",
+        "[16 times skill / prop proficiency]": "[16 times skill / prop proficiency]\n04000000 00A9B68C 0B15116B\n\n",
+        "[16 times experience]": "[16 times experience]\n04000000 00A8628C 0B011108\n\n",
+        "[Medal gain 8 times]": "[Medal gain 8 times]\n04000000 00A97A40 0B010D4B\n04000000 00A9B2EC 0B140D4B\n\n",
+        "[Skills / props proficiency 8 times]": "[Skills / props proficiency 8 times]\n04000000 00A9B68C 0B150D6B\n\n",
+        "[4x experience]": "[4x experience]\n04000000 00A8628C 0B010908\n\n",
+        "[16 times the amount of medals received]": "[16 times the amount of medals received]\n04000000 00A97A40 0B01114B\n04000000 00A9B2EC 0B14114B\n\n",
+        "[8x experience]": "[8x experience]\n04000000 00A8628C 0B010D08\n\n",
+        "[After increasing favorability Max]": "[After increasing favorability Max]\n04000000 00FF0C28 D503201F\n04000000 01106390 D503201F\n\n",
+        "[Medal gain 4 times]": "[Medal gain 4 times]\n04000000 00A97A40 0B01094B\n04000000 00A9B2EC 0B14094B\n\n",
+        "[Medal modification effect is off]": "[Medal modification effect is off]\n04000000 00A97A40 0B01014B\n04000000 00A9B2EC 0B14014B\n\n",
+        "[Max after CP increase]": "[Max after CP increase]\n04000000 00A86080 1A89B129\n04000000 00A863CC 1A97B2E9\n\n",
+        "[SP]": "[SP]\n04100000 C189BEC0 270F270F\n\n",
+        "[After money changes Max]": "[After money changes Max]\n04000000 00A866A4 1A89B129\n04000000 00A9BA60 1A89B129\n\n",
+        "[HP]": "[HP]\n08100000 C189BEB0 0001869F 0001869F\n\n"
+    },
+    "029C2837B0EEE8A9EA08373362B1B4DD00000000000000000000000000000000": {
+        "[16 times experience]": "[16 times experience]\n04000000 00A8628C 0B011108\n\n",
+        "[16 times skill / prop proficiency]": "[16 times skill / prop proficiency]\n04000000 00A9B68C 0B15116B\n\n",
+        "[16 times the amount of medals received]": "[16 times the amount of medals received]\n04000000 00A97A40 0B01114B\n04000000 00A9B2EC 0B14114B\n\n",
+        "[4x experience]": "[4x experience]\n04000000 00A8628C 0B010908\n\n",
+        "[8x experience]": "[8x experience]\n04000000 00A8628C 0B010D08\n\n",
+        "[After increasing favorability Max]": "[After increasing favorability Max]\n04000000 00FF0C28 D503201F\n04000000 01106390 D503201F\n\n",
+        "[After level increase Max]": "[After level increase Max]\n04000000 00A8629C 1A94B289\n\n",
+        "[After money changes Max]": "[After money changes Max]\n04000000 00A866A4 1A89B129\n04000000 00A9BA60 1A89B129\n\n",
+        "[Bullets are not reduced]": "[Bullets are not reduced]\n04000000 00A3E620 51000108\n\n",
+        "[exp]": "[exp]\n04100000 C189BEB8 3B9AC9FF\n\n",
+        "[HP]": "[HP]\n08100000 C189BEB0 0001869F 0001869F\n\n",
+        "[Increased skill / prop mastery Max]": "[Increased skill / prop mastery Max]\n04000000 00A9B694 1A8CB18C\n\n",
+        "[Max after CP increase]": "[Max after CP increase]\n04000000 00A86080 1A89B129\n04000000 00A863CC 1A97B2E9\n\n",
+        "[Medal gain 4 times]": "[Medal gain 4 times]\n04000000 00A97A40 0B01094B\n04000000 00A9B2EC 0B14094B\n\n",
+        "[Medal gain 8 times]": "[Medal gain 8 times]\n04000000 00A97A40 0B010D4B\n04000000 00A9B2EC 0B140D4B\n\n",
+        "[Medal modification effect is off]": "[Medal modification effect is off]\n04000000 00A97A40 0B01014B\n04000000 00A9B2EC 0B14014B\n\n",
+        "[Skills / props 4x]": "[Skills / props 4x]\n04000000 00A9B68C 0B15096B\n\n",
+        "[Skills / props proficiency 8 times]": "[Skills / props proficiency 8 times]\n04000000 00A9B68C 0B150D6B\n\n",
+        "[SP]": "[SP]\n04100000 C189BEC0 270F270F\n\n",
+        "[Use of SP is not reduced]": "[Use of SP is not reduced]\n04000000 00A85374 4B1F0108\n\n"
+    },
     "0BC8E0955E19E9ED": {
         "[Max after money changes]": "[Max after money changes]\n04000000 00A838EC 1A89B129\n04000000 00A83B8C 1A8AB14A\n\n",
         "[skills/props proficiency 4 times]": "[skills/props proficiency 4 times]\n04000000 00A8333C 0B15094A\n\n",
@@ -8,6 +52,16 @@
         "[SP]": "[SP]\n04100000 C189BEC0 270F270F\n\n",
         "[exp]": "[exp]\n04100000 C189BEB8 3B9AC9FF\n\n",
         "[HP]": "[HP]\n08100000 C189BEB0 0001869F 0001869F\n\n"
+    },
+    "0BC8E0955E19E9ED4DBF8C4D7839D4CF00000000000000000000000000000000": {
+        "[exp]": "[exp]\n04100000 C189BEB8 3B9AC9FF\n\n",
+        "[HP]": "[HP]\n08100000 C189BEB0 0001869F 0001869F\n\n",
+        "[Max after money changes]": "[Max after money changes]\n04000000 00A838EC 1A89B129\n04000000 00A83B8C 1A8AB14A\n\n",
+        "[Maximum sensitivity increased Max]": "[Maximum sensitivity increased Max]\n04000000 00FB9BB8 D503201F\n04000000 010E63B4 D503201F\n\n",
+        "[Skills/props proficiency 16 times]": "[Skills/props proficiency 16 times]\n04000000 00A8333C 0B15114A\n\n",
+        "[skills/props proficiency 4 times]": "[skills/props proficiency 4 times]\n04000000 00A8333C 0B15094A\n\n",
+        "[skills/props proficiency 8 times]": "[skills/props proficiency 8 times]\n04000000 00A8333C 0B150D4A\n\n",
+        "[SP]": "[SP]\n04100000 C189BEC0 270F270F\n\n"
     },
     "7D388942A921E50A": {
         "[Unlimited Items and Ammo (on)]": "[Unlimited Items and Ammo (on)]\n04000000 00B4FD00 D503201F\n\n",
@@ -57,54 +111,6 @@
         "[Use of SP is not reduced]": "[Use of SP is not reduced]\n04000000 00A85374 4B1F0108\n\n",
         "[999999999 Money]": "[999999999 Money]\n58000000 074922F8\n58001000 000003B8\n58001000 00000080\n58001000 00000080\n58001000 00000150\n58001000 000001B8\n78000000 00000070\n64000000 00000000 3B9AC9FF\n\n"
     },
-    "attribution": {
-        "SWORD ART ONLINE FATAL BULLET COMPLETE EDITION v1.0.0 EUR made by DaBlackDeath and 1.80 by falo.txt": "",
-        "SWORD ART ONLINE FATAL BULLET COMPLETE EDITION v1.0.0 EUR made by DaBlackDeath.txt": ""
-    },
-    "029C2837B0EEE8A9": {
-        "[Increased skill / prop mastery Max]": "[Increased skill / prop mastery Max]\n04000000 00A9B694 1A8CB18C\n\n",
-        "[After level increase Max]": "[After level increase Max]\n04000000 00A8629C 1A94B289\n\n",
-        "[Skills / props 4x]": "[Skills / props 4x]\n04000000 00A9B68C 0B15096B\n\n",
-        "[Bullets are not reduced]": "[Bullets are not reduced]\n04000000 00A3E620 51000108\n\n",
-        "[exp]": "[exp]\n04100000 C189BEB8 3B9AC9FF\n\n",
-        "[Use of SP is not reduced]": "[Use of SP is not reduced]\n04000000 00A85374 4B1F0108\n\n",
-        "[16 times skill / prop proficiency]": "[16 times skill / prop proficiency]\n04000000 00A9B68C 0B15116B\n\n",
-        "[16 times experience]": "[16 times experience]\n04000000 00A8628C 0B011108\n\n",
-        "[Medal gain 8 times]": "[Medal gain 8 times]\n04000000 00A97A40 0B010D4B\n04000000 00A9B2EC 0B140D4B\n\n",
-        "[Skills / props proficiency 8 times]": "[Skills / props proficiency 8 times]\n04000000 00A9B68C 0B150D6B\n\n",
-        "[4x experience]": "[4x experience]\n04000000 00A8628C 0B010908\n\n",
-        "[16 times the amount of medals received]": "[16 times the amount of medals received]\n04000000 00A97A40 0B01114B\n04000000 00A9B2EC 0B14114B\n\n",
-        "[8x experience]": "[8x experience]\n04000000 00A8628C 0B010D08\n\n",
-        "[After increasing favorability Max]": "[After increasing favorability Max]\n04000000 00FF0C28 D503201F\n04000000 01106390 D503201F\n\n",
-        "[Medal gain 4 times]": "[Medal gain 4 times]\n04000000 00A97A40 0B01094B\n04000000 00A9B2EC 0B14094B\n\n",
-        "[Medal modification effect is off]": "[Medal modification effect is off]\n04000000 00A97A40 0B01014B\n04000000 00A9B2EC 0B14014B\n\n",
-        "[Max after CP increase]": "[Max after CP increase]\n04000000 00A86080 1A89B129\n04000000 00A863CC 1A97B2E9\n\n",
-        "[SP]": "[SP]\n04100000 C189BEC0 270F270F\n\n",
-        "[After money changes Max]": "[After money changes Max]\n04000000 00A866A4 1A89B129\n04000000 00A9BA60 1A89B129\n\n",
-        "[HP]": "[HP]\n08100000 C189BEB0 0001869F 0001869F\n\n"
-    },
-    "029C2837B0EEE8A9EA08373362B1B4DD00000000000000000000000000000000": {
-        "[16 times experience]": "[16 times experience]\n04000000 00A8628C 0B011108\n\n",
-        "[16 times skill / prop proficiency]": "[16 times skill / prop proficiency]\n04000000 00A9B68C 0B15116B\n\n",
-        "[16 times the amount of medals received]": "[16 times the amount of medals received]\n04000000 00A97A40 0B01114B\n04000000 00A9B2EC 0B14114B\n\n",
-        "[4x experience]": "[4x experience]\n04000000 00A8628C 0B010908\n\n",
-        "[8x experience]": "[8x experience]\n04000000 00A8628C 0B010D08\n\n",
-        "[After increasing favorability Max]": "[After increasing favorability Max]\n04000000 00FF0C28 D503201F\n04000000 01106390 D503201F\n\n",
-        "[After level increase Max]": "[After level increase Max]\n04000000 00A8629C 1A94B289\n\n",
-        "[After money changes Max]": "[After money changes Max]\n04000000 00A866A4 1A89B129\n04000000 00A9BA60 1A89B129\n\n",
-        "[Bullets are not reduced]": "[Bullets are not reduced]\n04000000 00A3E620 51000108\n\n",
-        "[exp]": "[exp]\n04100000 C189BEB8 3B9AC9FF\n\n",
-        "[HP]": "[HP]\n08100000 C189BEB0 0001869F 0001869F\n\n",
-        "[Increased skill / prop mastery Max]": "[Increased skill / prop mastery Max]\n04000000 00A9B694 1A8CB18C\n\n",
-        "[Max after CP increase]": "[Max after CP increase]\n04000000 00A86080 1A89B129\n04000000 00A863CC 1A97B2E9\n\n",
-        "[Medal gain 4 times]": "[Medal gain 4 times]\n04000000 00A97A40 0B01094B\n04000000 00A9B2EC 0B14094B\n\n",
-        "[Medal gain 8 times]": "[Medal gain 8 times]\n04000000 00A97A40 0B010D4B\n04000000 00A9B2EC 0B140D4B\n\n",
-        "[Medal modification effect is off]": "[Medal modification effect is off]\n04000000 00A97A40 0B01014B\n04000000 00A9B2EC 0B14014B\n\n",
-        "[Skills / props 4x]": "[Skills / props 4x]\n04000000 00A9B68C 0B15096B\n\n",
-        "[Skills / props proficiency 8 times]": "[Skills / props proficiency 8 times]\n04000000 00A9B68C 0B150D6B\n\n",
-        "[SP]": "[SP]\n04100000 C189BEC0 270F270F\n\n",
-        "[Use of SP is not reduced]": "[Use of SP is not reduced]\n04000000 00A85374 4B1F0108\n\n"
-    },
     "7D388942A921E50AEFC341B3E0F2005500000000000000000000000000000000": {
         "[100% Dropchance (off)]": "[100% Dropchance (off)]\n04000000 0029DFF4 AA0203F3\n04000000 0029DFF8 D63F0100\n04000000 0029DFFC BD000260\n\n",
         "[100% Dropchance (on)]": "[100% Dropchance (on)]\n04000000 0029DFF4 52A85908\n04000000 0029DFF8 1E270100\n04000000 0029DFFC BD000040\n\n",
@@ -153,14 +159,8 @@
         "[Unlimited Items and Ammo (on)]": "[Unlimited Items and Ammo (on)]\n04000000 00B4FD00 D503201F\n\n",
         "[Use of SP is not reduced]": "[Use of SP is not reduced]\n04000000 00A85374 4B1F0108\n\n"
     },
-    "0BC8E0955E19E9ED4DBF8C4D7839D4CF00000000000000000000000000000000": {
-        "[exp]": "[exp]\n04100000 C189BEB8 3B9AC9FF\n\n",
-        "[HP]": "[HP]\n08100000 C189BEB0 0001869F 0001869F\n\n",
-        "[Max after money changes]": "[Max after money changes]\n04000000 00A838EC 1A89B129\n04000000 00A83B8C 1A8AB14A\n\n",
-        "[Maximum sensitivity increased Max]": "[Maximum sensitivity increased Max]\n04000000 00FB9BB8 D503201F\n04000000 010E63B4 D503201F\n\n",
-        "[Skills/props proficiency 16 times]": "[Skills/props proficiency 16 times]\n04000000 00A8333C 0B15114A\n\n",
-        "[skills/props proficiency 4 times]": "[skills/props proficiency 4 times]\n04000000 00A8333C 0B15094A\n\n",
-        "[skills/props proficiency 8 times]": "[skills/props proficiency 8 times]\n04000000 00A8333C 0B150D4A\n\n",
-        "[SP]": "[SP]\n04100000 C189BEC0 270F270F\n\n"
+    "attribution": {
+        "SWORD ART ONLINE FATAL BULLET COMPLETE EDITION v1.0.0 EUR made by DaBlackDeath and 1.80 by falo.txt": "",
+        "SWORD ART ONLINE FATAL BULLET COMPLETE EDITION v1.0.0 EUR made by DaBlackDeath.txt": ""
     }
 }

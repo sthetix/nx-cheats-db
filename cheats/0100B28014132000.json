@@ -1,4 +1,16 @@
 {
+    "60B4E42155E07989": {
+        "[speed attack]": "[speed attack]\n04000000 00D1BC4C 1E2E1000\n\n",
+        "[1p invincible]": "[1p invincible]\n04000000 00CCCD70 D503201F\nA\n\n",
+        "[enemies no attack off]": "[enemies no attack off]\n04000000 00EFA860 A9BD57F6\n\n",
+        "[enemies no attack on]": "[enemies no attack on]\n04000000 00EFA860 D65F03C0\n\n"
+    },
+    "60B4E42155E07989197C3A5ABB8FB43A6CC78FF3000000000000000000000000": {
+        "[1p invincible]": "[1p invincible]\n04000000 00CCCD70 D503201F\nA\n\n",
+        "[enemies no attack off]": "[enemies no attack off]\n04000000 00EFA860 A9BD57F6\n\n",
+        "[enemies no attack on]": "[enemies no attack on]\n04000000 00EFA860 D65F03C0\n\n",
+        "[speed attack]": "[speed attack]\n04000000 00D1BC4C 1E2E1000\n\n"
+    },
     "810CBA3D7DB83EC0": {
         "[1p invincible]": "[1p invincible]\n04000000 00CCCD20 D503201F\n\n",
         "[1p auto block weapon]": "[1p auto block weapon]\n04000000 00CCD694 D503201F\n\n",
@@ -10,6 +22,18 @@
         "[hitanywhere]": "[hitanywhere]\n04000000 00D03860 D65F03C0\n\n",
         "[hit always ice wind lightning on]": "[hit always ice wind lightning on]\n04000000 00CC6B00 D65F03C0\n\n",
         "[hit always ice wind lightning off]": "[hit always ice wind lightning off]\n04000000 00CC6B00 F81C0FF7\n\n"
+    },
+    "810CBA3D7DB83EC0C83C04A950F8190A3C198B3E000000000000000000000000": {
+        "[1p auto block weapon]": "[1p auto block weapon]\n04000000 00CCD694 D503201F\n\n",
+        "[1p hit killl]": "[1p hit killl]\n04000000 00E56590 D65F03C0\n\n",
+        "[1p invincible]": "[1p invincible]\n04000000 00CCCD20 D503201F\n\n",
+        "[hit always ice wind lightning off]": "[hit always ice wind lightning off]\n04000000 00CC6B00 F81C0FF7\n\n",
+        "[hit always ice wind lightning on]": "[hit always ice wind lightning on]\n04000000 00CC6B00 D65F03C0\n\n",
+        "[hitanywhere]": "[hitanywhere]\n04000000 00D03860 D65F03C0\n\n",
+        "[inf user musou]": "[inf user musou]\n04000000 00D68C90 D65F03C0\n\n",
+        "[inf user rage]": "[inf user rage]\n04000000 00D69390 D65F03C0\n\n",
+        "[inf user ultimate skill]": "[inf user ultimate skill]\n04000000 00EE6DBC 1E27F00C\n\n",
+        "[speed attack]": "[speed attack]\n04000000 00D1B9CC 1E2E1000\n\n"
     },
     "AEA6B2652EA9E34B": {
         "[inf use ultimate skill]": "[inf use ultimate skill]\n04000000 00EE5F70 1E27F00C\n\n",
@@ -31,33 +55,6 @@
         "[INF MASTERY]": "[INF MASTERY]\n04100000 01E2A454 0098967F\n\n",
         "[Inf Skill]": "[Inf Skill]\n04100000 01E2A450 000F423F\n\n"
     },
-    "attribution": {
-        "SAMURAI WARRIORS 5 ver 1.0.1 and 1.0.3 by xtatu.txt": "note: Infinite Jump can be used after learning double jump\n"
-    },
-    "60B4E42155E07989": {
-        "[speed attack]": "[speed attack]\n04000000 00D1BC4C 1E2E1000\n\n",
-        "[1p invincible]": "[1p invincible]\n04000000 00CCCD70 D503201F\nA\n\n",
-        "[enemies no attack off]": "[enemies no attack off]\n04000000 00EFA860 A9BD57F6\n\n",
-        "[enemies no attack on]": "[enemies no attack on]\n04000000 00EFA860 D65F03C0\n\n"
-    },
-    "810CBA3D7DB83EC0C83C04A950F8190A3C198B3E000000000000000000000000": {
-        "[1p auto block weapon]": "[1p auto block weapon]\n04000000 00CCD694 D503201F\n\n",
-        "[1p hit killl]": "[1p hit killl]\n04000000 00E56590 D65F03C0\n\n",
-        "[1p invincible]": "[1p invincible]\n04000000 00CCCD20 D503201F\n\n",
-        "[hit always ice wind lightning off]": "[hit always ice wind lightning off]\n04000000 00CC6B00 F81C0FF7\n\n",
-        "[hit always ice wind lightning on]": "[hit always ice wind lightning on]\n04000000 00CC6B00 D65F03C0\n\n",
-        "[hitanywhere]": "[hitanywhere]\n04000000 00D03860 D65F03C0\n\n",
-        "[inf user musou]": "[inf user musou]\n04000000 00D68C90 D65F03C0\n\n",
-        "[inf user rage]": "[inf user rage]\n04000000 00D69390 D65F03C0\n\n",
-        "[inf user ultimate skill]": "[inf user ultimate skill]\n04000000 00EE6DBC 1E27F00C\n\n",
-        "[speed attack]": "[speed attack]\n04000000 00D1B9CC 1E2E1000\n\n"
-    },
-    "60B4E42155E07989197C3A5ABB8FB43A6CC78FF3000000000000000000000000": {
-        "[1p invincible]": "[1p invincible]\n04000000 00CCCD70 D503201F\nA\n\n",
-        "[enemies no attack off]": "[enemies no attack off]\n04000000 00EFA860 A9BD57F6\n\n",
-        "[enemies no attack on]": "[enemies no attack on]\n04000000 00EFA860 D65F03C0\n\n",
-        "[speed attack]": "[speed attack]\n04000000 00D1BC4C 1E2E1000\n\n"
-    },
     "AEA6B2652EA9E34BDC5939A7C7F36CBC1DF02413000000000000000000000000": {
         "[1p hit kill]": "[1p hit kill]\n04000000 00E55B10 D65F03C0\n\n",
         "[always ice wind lightning hit off]": "[always ice wind lightning hit off]\n04000000 00CC6C60 F81C0FF7\n\n",
@@ -77,5 +74,8 @@
         "[speed run 1.75x]": "[speed run 1.75x]\n04000000 00D3D630 1E2F9008\n\n",
         "[speed run 2x]": "[speed run 2x]\n04000000 00D3D630 1E201008\n\n",
         "[speed run normal]": "[speed run normal]\n04000000 00D3D630 1E2E1008\n\n"
+    },
+    "attribution": {
+        "SAMURAI WARRIORS 5 ver 1.0.1 and 1.0.3 by xtatu.txt": "note: Infinite Jump can be used after learning double jump\n"
     }
 }

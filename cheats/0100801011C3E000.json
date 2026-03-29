@@ -21,11 +21,6 @@
         "[RRS 85% Default Handheld (612p HH, 918p D)]": "[RRS 85% Default Handheld (612p HH, 918p D)]\n04000000 02AE1AE4 3F59999A\n\n",
         "[RRS 75% Default Docked (540p HH, 810p D)]": "[RRS 75% Default Docked (540p HH, 810p D)]\n04000000 02AE1AE4 3F400000\n\n"
     },
-    "attribution": {
-        "Persona 5 by Patjenova and xtatu.txt": "",
-        "Persona 5 by Patjenova.txt": "",
-        "Persona 5 Strikers.txt": "By masagrator\n\nhttps://gbatemp.net/threads/persona-5-scramble-strikers-60-fps-hack.560111/"
-    },
     "C4DF04F647BDC727926348BD9A9918C89B2A8E6F000000000000000000000000": {
         "[1P INVICIBLE]": "[1P INVICIBLE]\n04000000 0020F090 D65F03C0\n\n",
         "[Ammo(u32) @patjenova]": "[Ammo(u32) @patjenova]\n58000000 022176A0\n58001000 000004E0\n78000000 00000C88\n64000000 00000000 0000000C\n\n",
@@ -42,5 +37,10 @@
         "[Sp(float) @patjenova]": "[Sp(float) @patjenova]\n58000000 022176A0\n58001000 000004E0\n78000000 00000C38\n64000000 00000000 4479C000\n\n",
         "[walk through walls OFF]": "[walk through walls OFF]\n04000000 001B97A0 D10503FF\n\n",
         "[walk through walls ON]": "[walk through walls ON]\n04000000 001B97A0 D65F03C0\n\n"
+    },
+    "attribution": {
+        "Persona 5 by Patjenova and xtatu.txt": "",
+        "Persona 5 by Patjenova.txt": "",
+        "Persona 5 Strikers.txt": "By masagrator\n\nhttps://gbatemp.net/threads/persona-5-scramble-strikers-60-fps-hack.560111/"
     }
 }

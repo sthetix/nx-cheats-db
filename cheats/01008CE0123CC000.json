@@ -11,9 +11,6 @@
         "[Inf LIfe]": "[Inf LIfe]\n011F0000 BF69F00C 0000003F\n\n",
         "[Inf Lives]": "[Inf Lives]\n011F0000 BF69EF82 00000009\n\n"
     },
-    "attribution": {
-        "Arcade Archives 64th. Street by jericoss.txt": ""
-    },
     "635B84AD7D37C9B4375F5A5E613992393860D85B000000000000000000000000": {
         "[*Inf Hp Jericoss]": "[*Inf Hp Jericoss]\n580F0000 032677E0\n580F1000 00000008\n580F1000 00000050\n780F0000 00009F8C\n640F0000 00000000 0000003F\n\n",
         "[*Inf Moon Jump]": "[*Inf Moon Jump]\n80000002\n580F0000 032677E0\n580F1000 00000008\n580F1000 00000050\n780F0000 00009F9C\n640F0000 00000000 06000400\n20000000\n\n",
@@ -25,5 +22,8 @@
         "[Invincible]": "[Invincible]\n011F0000 BF69EFA8 000000FF\n\n",
         "[Moon Jump]": "[Moon Jump]\n80000002\n021F0000 BF69F01C 00000540\n20000000\n\n",
         "[Speed UP]": "[Speed UP]\n011F0000 BF69F017 00000005\n011F0000 BF69F022 00000050\n\n"
+    },
+    "attribution": {
+        "Arcade Archives 64th. Street by jericoss.txt": ""
     }
 }

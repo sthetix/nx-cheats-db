@@ -13,9 +13,6 @@
         "[Max Darkness Upgrade]": "[Max Darkness Upgrade]\n01000000 00B37EEC 00000003\n\n",
         "[Unlock Challenge, Sound Test Mode]": "[Unlock Challenge, Sound Test Mode]\n01000000 00B32880 00000007\n\n"
     },
-    "attribution": {
-        "Shovel Knight Specter of Torment by ZiT866.txt": "\u203bThe Moon Jump code must return to the title or die."
-    },
     "5EABC1E307D28486D43B0E5FE0C147C300000000000000000000000000000000": {
         "[99999 GP]": "[99999 GP]\n04000000 00B37EE4 0001869F\n\n",
         "[All Challenges Completed]": "[All Challenges Completed]\n04000000 00B328B0 007FFFFF\n\n",
@@ -29,5 +26,8 @@
         "[Size Up]": "[Size Up]\n580F0000 00B29A68\n780F1000 00000B6C\n640F0000 00000000 40000000\n\n",
         "[Speed Up]": "[Speed Up]\n580F0000 00B29A68\n780F1000 00000BF8\n640F0000 00000000 40400000\n\n",
         "[Unlock Challenge Sound Test Mode]": "[Unlock Challenge Sound Test Mode]\n01000000 00B32880 00000007\n\n"
+    },
+    "attribution": {
+        "Shovel Knight Specter of Torment by ZiT866.txt": "\u203bThe Moon Jump code must return to the title or die."
     }
 }

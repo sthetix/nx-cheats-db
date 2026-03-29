@@ -1,4 +1,20 @@
 {
+    "2CEC14B73753CF62": {
+        "[Inf. Money]": "[Inf. Money]\n04000000 003D2E18 0098967F\n\n",
+        "[Inf. PP]": "[Inf. PP]\n04000000 00D298A8 0098967F\n\n",
+        "[Inf. Stone]": "[Inf. Stone]\n04000000 003D2E20 0098967F\n\n",
+        "[Inf. Lumber]": "[Inf. Lumber]\n04000000 003D2E1C 0098967F\n\n"
+    },
+    "78680E8A35F31D50": {
+        "[Inf HP]": "[Inf HP]\n041F0000 30E4D030 0000270F\n\n",
+        "[Inf RP]": "[Inf RP]\n041F0000 30E4D034 0270F000\n\n",
+        "[Hit Range UP]": "[Hit Range UP]\n041F0000 30E4D080 FFFFFFFF\n\n",
+        "[Max HP]": "[Max HP]\n041F0000 30E4D1A0 0000270F\n\n",
+        "[Max ATK]": "[Max ATK]\n041F0000 30E4D1A8 0000270F\n\n",
+        "[Max Magic ATK]": "[Max Magic ATK]\n041F0000 30E4D1AC 0000270F\n\n",
+        "[Max DEF]": "[Max DEF]\n041F0000 30E4D1B0 0000270F\n\n",
+        "[Rapid Fire (Hold A)]": "[Rapid Fire (Hold A)]\n80000001\n041F0000 30E4D238 00000800\n20000000\n\n"
+    },
     "C03C9F6A862543F9": {
         "\ufeff[Gold max]": "\ufeff[Gold max]\n041F0000 046C890D 3B9AC9FF\n\n",
         "[Wood x99999\u202c\u202c]": "[Wood x99999\u202c\u202c]\n041F0000 046C890E 0001869F\n\n",
@@ -58,25 +74,6 @@
         "[Chocolate Cake in Slot 1]": "[Chocolate Cake in Slot 1]\n04100000 2dda399c 000048ff\n04100000 2dda39a0 09090909\n04100000 2dda39a4 09090909\n04100000 2dda39a8 00000009\n04100000 2dda39ac 00000000\n08100000 2dda39b0 00000000 00000000\n04100000 2dda39b8 10000800\n04100000 2dda39bc 743a3990\n04100000 2dda39c0 00000000\n\n",
         "[Orichalcum in Slot 1]": "[Orichalcum in Slot 1]\n04100000 2dda399c 00004b38\n04100000 2dda39a0 09090909\n04100000 2dda39a4 09090909\n04100000 2dda39a8 00000009\n04100000 2dda39ac 00000000\n08100000 2dda39b0 00000000 00000000\n04100000 2dda39b8 10000800\n04100000 2dda39bc 743a3990\n04100000 2dda39c0 00000000\n\n"
     },
-    "attribution": {
-        "Rune Factory 4 Special ver 1.0.1 by silien3.txt": "Before going to a Mach disable codes. And you must be first at the beginning. \n\n(NOTE: Ensure there is a SINGLE item, not a stack of items, in the first slot of your bag in order to use this code)"
-    },
-    "2CEC14B73753CF62": {
-        "[Inf. Money]": "[Inf. Money]\n04000000 003D2E18 0098967F\n\n",
-        "[Inf. PP]": "[Inf. PP]\n04000000 00D298A8 0098967F\n\n",
-        "[Inf. Stone]": "[Inf. Stone]\n04000000 003D2E20 0098967F\n\n",
-        "[Inf. Lumber]": "[Inf. Lumber]\n04000000 003D2E1C 0098967F\n\n"
-    },
-    "78680E8A35F31D50": {
-        "[Inf HP]": "[Inf HP]\n041F0000 30E4D030 0000270F\n\n",
-        "[Inf RP]": "[Inf RP]\n041F0000 30E4D034 0270F000\n\n",
-        "[Hit Range UP]": "[Hit Range UP]\n041F0000 30E4D080 FFFFFFFF\n\n",
-        "[Max HP]": "[Max HP]\n041F0000 30E4D1A0 0000270F\n\n",
-        "[Max ATK]": "[Max ATK]\n041F0000 30E4D1A8 0000270F\n\n",
-        "[Max Magic ATK]": "[Max Magic ATK]\n041F0000 30E4D1AC 0000270F\n\n",
-        "[Max DEF]": "[Max DEF]\n041F0000 30E4D1B0 0000270F\n\n",
-        "[Rapid Fire (Hold A)]": "[Rapid Fire (Hold A)]\n80000001\n041F0000 30E4D238 00000800\n20000000\n\n"
-    },
     "C03C9F6A862543F9D4B0403A53E8534C00000000000000000000000000000000": {
         "[10 Fold Steel in Slot 1]": "[10 Fold Steel in Slot 1]\n04100000 2DDA399C 00004BA5\n04100000 2DDA39A0 09090909\n04100000 2DDA39A4 09090909\n04100000 2DDA39A8 00000009\n04100000 2DDA39AC 00000000\n08100000 2DDA39B0 00000000 00000000\n04100000 2DDA39B8 10000800\n04100000 2DDA39BC 743A3990\n04100000 2DDA39C0 00000000\n\n",
         "[2 Fold Steel in Slot 1]": "[2 Fold Steel in Slot 1]\n04100000 2DDA399C 00004BA4\n04100000 2DDA39A0 09090909\n04100000 2DDA39A4 09090909\n04100000 2DDA39A8 00000009\n04100000 2DDA39AC 00000000\n08100000 2DDA39B0 00000000 00000000\n04100000 2DDA39B8 10000800\n04100000 2DDA39BC 743A3990\n04100000 2DDA39C0 00000000\n\n",
@@ -127,5 +124,8 @@
         "[Wind Dragon Tooth in Slot 1]": "[Wind Dragon Tooth in Slot 1]\n04100000 2DDA399C 00004B8D\n04100000 2DDA39A0 09090909\n04100000 2DDA39A4 09090909\n04100000 2DDA39A8 00000009\n04100000 2DDA39AC 00000000\n08100000 2DDA39B0 00000000 00000000\n04100000 2DDA39B8 10000800\n04100000 2DDA39BC 743A3990\n04100000 2DDA39C0 00000000\n\n",
         "[Winter Season]": "[Winter Season]\n04100000 2DD871F0 00000003\n\n",
         "[Wood x99999\u00e2\u20ac\u00ac\u00e2\u20ac\u00ac]": "[Wood x99999\u00e2\u20ac\u00ac\u00e2\u20ac\u00ac]\n041F0000 046C890E 0001869F\n\n"
+    },
+    "attribution": {
+        "Rune Factory 4 Special ver 1.0.1 by silien3.txt": "Before going to a Mach disable codes. And you must be first at the beginning. \n\n(NOTE: Ensure there is a SINGLE item, not a stack of items, in the first slot of your bag in order to use this code)"
     }
 }

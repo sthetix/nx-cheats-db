@@ -1,38 +1,38 @@
 {
-    "5E7CDA9E555594F7": {
-        "[GOD Mode - Enabled]": "[GOD Mode - Enabled]\n04000000 00065388 52800020\n\n",
-        "[GOD Mode - Disabled]": "[GOD Mode - Disabled]\n04000000 00065388 39404100\n\n"
-    },
-    "7D5566784A94EC45": {
-        "[GOD Mode - Enabled]": "[GOD Mode - Enabled]\n04000000 00064928 52800020\n\n",
-        "[GOD Mode - Disabled]": "[GOD Mode - Disabled]\n04000000 00064928 39404100\n\n"
-    },
-    "AACC3E192951142C": {
-        "[GOD Mode - Enabled]": "[GOD Mode - Enabled]\n04000000 00065538 52800020\n\n",
-        "[GOD Mode - Disabled]": "[GOD Mode - Disabled]\n04000000 00065538 39404100\n\n"
-    },
-    "attribution": {
-        "Blades of Time v1.2.191015 by DaBlackdeath.txt": "",
-        "BladesOfTime.txt": ""
-    },
     "333E26389D65CC97": {
         "[GOD Mode - Enabled]": "[GOD Mode - Enabled]\n04000000 00062F28 52800020\n\n",
         "[GOD Mode - Disabled]": "[GOD Mode - Disabled]\n04000000 00062F28 39404100\n\n"
+    },
+    "333E26389D65CC97C3A814DE6FAAD41C00000000000000000000000000000000": {
+        "[GOD Mode - Disabled]": "[GOD Mode - Disabled]\n04000000 00062F28 39404100\n\n",
+        "[GOD Mode - Enabled]": "[GOD Mode - Enabled]\n04000000 00062F28 52800020\n\n"
+    },
+    "5E7CDA9E555594F7": {
+        "[GOD Mode - Enabled]": "[GOD Mode - Enabled]\n04000000 00065388 52800020\n\n",
+        "[GOD Mode - Disabled]": "[GOD Mode - Disabled]\n04000000 00065388 39404100\n\n"
     },
     "5E7CDA9E555594F79D3293FDD34BDF4200000000000000000000000000000000": {
         "[GOD Mode - Disabled]": "[GOD Mode - Disabled]\n04000000 00065388 39404100\n\n",
         "[GOD Mode - Enabled]": "[GOD Mode - Enabled]\n04000000 00065388 52800020\n\n"
     },
-    "AACC3E192951142C157285C42B339E2800000000000000000000000000000000": {
-        "[GOD Mode - Disabled]": "[GOD Mode - Disabled]\n04000000 00065538 39404100\n\n",
-        "[GOD Mode - Enabled]": "[GOD Mode - Enabled]\n04000000 00065538 52800020\n\n"
+    "7D5566784A94EC45": {
+        "[GOD Mode - Enabled]": "[GOD Mode - Enabled]\n04000000 00064928 52800020\n\n",
+        "[GOD Mode - Disabled]": "[GOD Mode - Disabled]\n04000000 00064928 39404100\n\n"
     },
     "7D5566784A94EC45741E4D3AC9D293BB00000000000000000000000000000000": {
         "[GOD Mode - Disabled]": "[GOD Mode - Disabled]\n04000000 00064928 39404100\n\n",
         "[GOD Mode - Enabled]": "[GOD Mode - Enabled]\n04000000 00064928 52800020\n\n"
     },
-    "333E26389D65CC97C3A814DE6FAAD41C00000000000000000000000000000000": {
-        "[GOD Mode - Disabled]": "[GOD Mode - Disabled]\n04000000 00062F28 39404100\n\n",
-        "[GOD Mode - Enabled]": "[GOD Mode - Enabled]\n04000000 00062F28 52800020\n\n"
+    "AACC3E192951142C": {
+        "[GOD Mode - Enabled]": "[GOD Mode - Enabled]\n04000000 00065538 52800020\n\n",
+        "[GOD Mode - Disabled]": "[GOD Mode - Disabled]\n04000000 00065538 39404100\n\n"
+    },
+    "AACC3E192951142C157285C42B339E2800000000000000000000000000000000": {
+        "[GOD Mode - Disabled]": "[GOD Mode - Disabled]\n04000000 00065538 39404100\n\n",
+        "[GOD Mode - Enabled]": "[GOD Mode - Enabled]\n04000000 00065538 52800020\n\n"
+    },
+    "attribution": {
+        "Blades of Time v1.2.191015 by DaBlackdeath.txt": "",
+        "BladesOfTime.txt": ""
     }
 }

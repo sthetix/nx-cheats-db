@@ -96,9 +96,6 @@
         "[Inf Hp]": "[Inf Hp]\n010F0000 02FB6588 00000016\n\n",
         "[Zero I - Weak Boss (L&RSC)]": "[Zero I - Weak Boss (L&RSC)]\n80000030\n01000000 02FB71A8 00000001\n20000000\n\n"
     },
-    "attribution": {
-        "Mega Man ZeroZX Legacy Collection v1.0.3 BY CHEFMARIO.txt": " [Walk through Walls]\nHold R : Right & Left\nHold R+L : Down\n\n//this code gives you a clear time of 2'30, 80 enemies kill, 0 retries, 0 Damage and 0 elf use.\n//For a perfect 100p mission score....\n"
-    },
     "2A38895C5E73218217BE8F43A046198C00000000000000000000000000000000": {
         "[Infinite hp]": "[Infinite hp]\n01000000 02FB6588 00000010\n01000000 02FBDE78 00000010\n01000000 02FD5560 00000010\n01000000 03349EC2 00000010\n01000000 0321B2FA 00000010\n58000000 030AA098\n78000000 000000B8\n61000000 00000000 00000029\n\n",
         "[Inf Crystals 9999]": "[Inf Crystals 9999]\n020F0000 02FB673E 00009999\n\n",
@@ -192,5 +189,8 @@
         "[ZX Advent - Health]": "[ZX Advent - Health]\n01000000 0321B2FA 00000020\n\n",
         "[ZX Advent - Invincible]": "[ZX Advent - Invincible]\n040F0000 0321B2E4 00000040\n\n",
         "[ZX Advent - Moon Jump]": "[ZX Advent - Moon Jump]\n80000002\n040F0000 0321B28C FFFFFC00\n20000000\n\n"
+    },
+    "attribution": {
+        "Mega Man ZeroZX Legacy Collection v1.0.3 BY CHEFMARIO.txt": " [Walk through Walls]\nHold R : Right & Left\nHold R+L : Down\n\n//this code gives you a clear time of 2'30, 80 enemies kill, 0 retries, 0 Damage and 0 elf use.\n//For a perfect 100p mission score....\n"
     }
 }

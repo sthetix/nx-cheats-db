@@ -3,10 +3,10 @@
         "[Breeze beta81  Sailing Era 1.0.2 TID: 010037D017F3C000 BID: EF06902B96845D0D]": "[Breeze beta81  Sailing Era 1.0.2 TID: 010037D017F3C000 BID: EF06902B96845D0D]\n\n",
         "[exp 999999]": "[exp 999999]\n04200001 180BBDE8 00926FE3\n\n"
     },
-    "TOGGLES": {
-        "[exp 999999]": "[exp 999999]\nTRUE\n\n"
-    },
     "EF06902B96845D0D012A1434851C912400000000000000000000000000000000": {
         "[exp 999999]": "[exp 999999]\n04200001 180BBDE8 00926FE3\n\n"
+    },
+    "TOGGLES": {
+        "[exp 999999]": "[exp 999999]\nTRUE\n\n"
     }
 }

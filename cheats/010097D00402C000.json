@@ -6,14 +6,14 @@
         "[#04# Inf. upgrade points]": "[#04# Inf. upgrade points]\n580f0000 02591940\n580f1000 000024B8\n580f1000 000003f0\n780f0000 00000018\n640f0000 00000000 0098967f\n\n",
         "[Energy unlimited]": "[Energy unlimited]\n04000000 00130350 D503201F\n\n"
     },
-    "attribution": {
-        "Dusty Raging Fist v1.0.0 by DaBlackDeath.txt": ""
-    },
     "3663A5C4E19B5840B762746B0C67401400000000000000000000000000000000": {
         "[#01# Inf. HP]": "[#01# Inf. HP]\n580F0000 02591940\n580F1000 000024B8\n780F0000 00000020\n640F0000 00000000 43960000\n\n",
         "[#02# Inf. Blue Meter]": "[#02# Inf. Blue Meter]\n580F0000 02591940\n580F1000 000024B8\n780F0000 000002F8\n640F0000 00000000 40000000\n\n",
         "[#03# Inf. Green Power]": "[#03# Inf. Green Power]\n580F0000 02591940\n580F1000 000024B8\n780F0000 000002F4\n640F0000 00000000 44444444\n\n",
         "[#04# Inf. upgrade points]": "[#04# Inf. upgrade points]\n580F0000 02591940\n580F1000 000024B8\n580F1000 000003F0\n780F0000 00000018\n640F0000 00000000 0098967F\n\n",
         "[Energy unlimited]": "[Energy unlimited]\n04000000 00130350 D503201F\n\n"
+    },
+    "attribution": {
+        "Dusty Raging Fist v1.0.0 by DaBlackDeath.txt": ""
     }
 }

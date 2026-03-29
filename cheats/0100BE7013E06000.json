@@ -12,14 +12,6 @@
         "[Inf. MP]": "[Inf. MP]\n040E0000 0023F228 2A1F03E9\n\n",
         "[Running Speed 2.5X]": "[Running Speed 2.5X]\n040E0000 0030152C 1E209001\n040E0000 00300FA8 1E209000\n\n"
     },
-    "2C931E8A8748ECCF": {
-        "[ hitanywhere]": "[ hitanywhere]\n04000000 0061E688 D65F03C0\n\n",
-        "[hitanywhere off]": "[hitanywhere off]\n04000000 0061E688 D10743FF\n\n"
-    },
-    "attribution": {
-        "Ni no Kuni II Revenant Kingdom PRINCES EDITION ver 1.0.0 and 1.0.1 by Eiffel2018 and xtatu and HAZEROU.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially",
-        "Ni no Kuni II Revenant Kingdom PRINCE'S EDITION.txt": "By Hazerou"
-    },
     "14C7986BEB94A1A19F3C34FA2B490AA168153F59000000000000000000000000": {
         "[30 FPS]": "[30 FPS]\n580F0000 02A21C00\n580F1000 00002040\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
         "[Damage 5x]": "[Damage 5x]\n080E0000 01162830 B947C109 D503201F\n080E0000 01162838 528000A9 7100013F\n080E0000 01162840 1A8912B5 1B157D29\n080E0000 01162848 D65F03C0 B943F908\n040E0000 002359B8 943CB39E\n\n",
@@ -33,8 +25,16 @@
         "[Invincible]": "[Invincible]\n080E0000 01162800 B947C128 B943F92A\n080E0000 01162808 1A881168 7100011F\n080E0000 01162810 D65F03C0 D503201F\n040E0000 00235A00 943CB380\n\n",
         "[Running Speed 2.5X]": "[Running Speed 2.5X]\n040E0000 0030152C 1E209001\n040E0000 00300FA8 1E209000\n\n"
     },
+    "2C931E8A8748ECCF": {
+        "[ hitanywhere]": "[ hitanywhere]\n04000000 0061E688 D65F03C0\n\n",
+        "[hitanywhere off]": "[hitanywhere off]\n04000000 0061E688 D10743FF\n\n"
+    },
     "2C931E8A8748ECCF72D1A50756150A7893F91304000000000000000000000000": {
         "[hitanywhere]": "[hitanywhere]\n04000000 0061E688 D65F03C0\n\n",
         "[hitanywhere off]": "[hitanywhere off]\n04000000 0061E688 D10743FF\n\n"
+    },
+    "attribution": {
+        "Ni no Kuni II Revenant Kingdom PRINCES EDITION ver 1.0.0 and 1.0.1 by Eiffel2018 and xtatu and HAZEROU.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially",
+        "Ni no Kuni II Revenant Kingdom PRINCE'S EDITION.txt": "By Hazerou"
     }
 }

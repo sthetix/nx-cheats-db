@@ -21,9 +21,6 @@
         "[Docked RRS 133.33% (1440p)]": "[Docked RRS 133.33% (1440p)]\n580F0000 0630CE40\n780F0000 000000C0\n680F0000 00000438 00000780\n780F0000 00000008\n610F0000 00000000 00000001\n580F0000 05FBF700\n580F1000 00000C28\n780F0000 00000064\n640F0000 00000000 3FAAAAAB\n\n",
         "[Docked RRS 200% (2160p)]": "[Docked RRS 200% (2160p)]\n580F0000 0630CE40\n780F0000 000000C0\n680F0000 00000438 00000780\n780F0000 00000008\n610F0000 00000000 00000001\n580F0000 05FBF700\n580F1000 00000C28\n780F0000 00000064\n640F0000 00000000 40000000\n\n"
     },
-    "attribution": {
-        "Sky Oceans Wings for Hire.txt": "By Hazerou\nIncluded in the text file;\n[Default 60 FPS]\n[30 FPS]\n[Handheld RRS 50% (360p)]\n[Handheld RRS 66.66% (480p)]\n[Handheld RRS 75% (540p)]\n[Default Handheld RRS 80% (576p)]\n[Handheld RRS 85% (612p)]\n[Handheld RRS 90% (648p)]\n[Handheld RRS 100% (720p)]\n[Handheld RRS 150% (1080p)]\n[Handheld RRS 200% (1440p)]\n[Docked RRS 66.66% (720p)]\n[Docked RRS 70% (756p)]\n[Docked RRS 71.11% (768p)]\n[Docked RRS 75% (810p)]\n[Default Docked RRS 80% (864p)]\n[Docked RRS 83.33% (900p)]\n[Docked RRS 100% (1080p)]\n[Docked RRS 133.33% (1440p)]\n[Docked RRS 200% (2160p)]\n"
-    },
     "D3D25DD7BA30C7F0": {
         "[MASTER RESTORE/OFF CODE]": "[MASTER RESTORE/OFF CODE]\n04000000 01DEE1E8 B900101A\n04000000 01DEF108 B9401409\n04000000 0452FEC4 B9002E68\n04000000 01DFF718 0B160339\n\n",
         "[Inf HP 999 (In Battle)]": "[Inf HP 999 (In Battle)]\n04000000 01DEE1E8 B900101A\n04000000 01DEE1E8 14A38AA2\n04000000 046D0C70 1800007A\n04000000 046D0C74 B900101A\n04000000 046D0C78 175C755D\n04000000 046D0C7C 000003E7\n\n",
@@ -37,5 +34,8 @@
         "[Exp Multi x64]": "[Exp Multi x64]\n04000000 01DFF718 0B161B39\n\n",
         "[Exp Multi x128]": "[Exp Multi x128]\n04000000 01DFF718 0B161F39\n\n",
         "[Exp Multi x256]": "[Exp Multi x256]\n04000000 01DFF718 0B162339\n\n"
+    },
+    "attribution": {
+        "Sky Oceans Wings for Hire.txt": "By Hazerou\nIncluded in the text file;\n[Default 60 FPS]\n[30 FPS]\n[Handheld RRS 50% (360p)]\n[Handheld RRS 66.66% (480p)]\n[Handheld RRS 75% (540p)]\n[Default Handheld RRS 80% (576p)]\n[Handheld RRS 85% (612p)]\n[Handheld RRS 90% (648p)]\n[Handheld RRS 100% (720p)]\n[Handheld RRS 150% (1080p)]\n[Handheld RRS 200% (1440p)]\n[Docked RRS 66.66% (720p)]\n[Docked RRS 70% (756p)]\n[Docked RRS 71.11% (768p)]\n[Docked RRS 75% (810p)]\n[Default Docked RRS 80% (864p)]\n[Docked RRS 83.33% (900p)]\n[Docked RRS 100% (1080p)]\n[Docked RRS 133.33% (1440p)]\n[Docked RRS 200% (2160p)]\n"
     }
 }
