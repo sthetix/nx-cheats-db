@@ -173,9 +173,9 @@ def process_blawar():
                 source = entry.get("source", "").strip()
                 if not title_field or not source:
                     continue
-                # title_field is already "[Name]" format from blawar
+                # title_field is "[Name]" format; source is code-only (no header line)
                 key = title_field if title_field.startswith("[") else f"[{title_field}]"
-                value = source + "\n\n"
+                value = f"{key}\n{source.strip()}\n\n"
                 cheats.setdefault(key, value)
             if cheats:
                 new_data[build_id.upper()] = cheats
