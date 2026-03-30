@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import json
+import re
 import requests
 import os
 
@@ -48,11 +49,15 @@ class ProcessVersions:
             tid_base = tid[:13].upper() + "000"
             if (tid_base) not in self.versions_dict:
                 title = self.title_dict.get(tid_base, "")
-                if title and self.is_switch2_title(title):
+                has_cheats = os.path.exists(f"cheats/{tid_base}.json")
+                if title and self.is_switch2_title(title) and not has_cheats:
                     continue
                 self.versions_dict[tid_base] = {}
                 if title:
-                    self.versions_dict[tid_base]["title"] = title
+                    clean_title = re.sub(
+                        r"[\s\-–:]+Nintendo Switch[\u2122]? 2.*$", "", title
+                    ).strip()
+                    self.versions_dict[tid_base]["title"] = clean_title or title
 
             latest_ver = 0
             for ver in self.data[tid]:
