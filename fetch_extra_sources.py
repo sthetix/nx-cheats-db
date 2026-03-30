@@ -341,7 +341,14 @@ def process_cheatslips(title_names: dict[str, str], title_ids: list[str]):
 
 def fetch_tinfoil_title(title_id: str) -> OrderedDict:
     url = f"https://tinfoil.io/Title/{title_id}"
-    r = SESSION.get(url, timeout=30)
+    for attempt in range(3):
+        try:
+            r = SESSION.get(url, timeout=30)
+            break
+        except requests.exceptions.Timeout:
+            if attempt == 2:
+                return OrderedDict()
+            time.sleep(5)
     if r.status_code != 200:
         return OrderedDict()
 
@@ -406,7 +413,11 @@ def process_tinfoil(title_ids: list[str]):
     print(f"Fetching Tinfoil for {len(title_ids)} titles ...")
     updated = 0
     for title_id in title_ids:
-        new_data = fetch_tinfoil_title(title_id)
+        try:
+            new_data = fetch_tinfoil_title(title_id)
+        except Exception as e:
+            print(f"  Tinfoil: skipping {title_id} ({e})")
+            continue
         if new_data:
             existing = load_existing(title_id)
             save(title_id, merge_into(existing, new_data))
