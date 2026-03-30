@@ -23,9 +23,6 @@
         "[Faster Washtime (off)]": "[Faster Washtime (off)]\n04000000 00C01060 320003E0\n\n",
         "[Inf Order Time (off)]": "[Inf Order Time (off)]\n04000000 0090DD8C 1E282800\n\n"
     },
-    "attribution": {
-        "Overcooked 2 ver 1.0.15 by patjenova.txt": "\u203b If you activate the code at the start of the game, it will freeze."
-    },
     "C305E9A71984424E": {
         "[01# Faster Chop Speed]": "[01# Faster Chop Speed]\n04000000 00C04648 52800073\n\n",
         "[02# Big Tip]": "[02# Big Tip]\n04000000 00986464 52807CE0\n\n",
@@ -37,5 +34,8 @@
         "[Faster Chop Speed (off)]": "[Faster Chop Speed (off)]\n04000000 00C04648 2A0103F3\n\n",
         "[Faster Washtime (off)]": "[Faster Washtime (off)]\n04000000 00C01060 320003E0\n\n",
         "[Inf Order Time (off)]": "[Inf Order Time (off)]\n04000000 0090DD8C 1E282800\n\n"
+    },
+    "attribution": {
+        "Overcooked 2 ver 1.0.15 by patjenova.txt": "\u203b If you activate the code at the start of the game, it will freeze."
     }
 }
