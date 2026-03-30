@@ -38,15 +38,21 @@ class ProcessVersions:
             self.write_master_files()
             self.write_title_files()
 
+    SWITCH2_KEYWORDS = ("Nintendo Switch 2", "Nintendo Switch\u2122 2")
+
+    def is_switch2_title(self, title):
+        return any(kw in title for kw in self.SWITCH2_KEYWORDS)
+
     def get_version_dict(self):
         for tid in self.data:
             tid_base = tid[:13].upper() + "000"
             if (tid_base) not in self.versions_dict:
+                title = self.title_dict.get(tid_base, "")
+                if title and self.is_switch2_title(title):
+                    continue
                 self.versions_dict[tid_base] = {}
-                try:
-                    self.versions_dict[tid_base]["title"] = self.title_dict[tid_base]
-                except KeyError:
-                    pass
+                if title:
+                    self.versions_dict[tid_base]["title"] = title
 
             latest_ver = 0
             for ver in self.data[tid]:
