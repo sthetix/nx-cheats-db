@@ -127,7 +127,7 @@ jobs:
       - name: install dependencies
         run: pip3 install -r requirements_cheats.txt
 
-      - name: fetch Blawar + Ibnux + CheatSlips + Tinfoil cheats
+      - name: fetch Hamlet + CheatSlips cheats
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 fetch_extra_sources.py
@@ -142,6 +142,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "Nothing to commit!"
           else
-            git commit -m "automatic: added cheats from Blawar, Ibnux, CheatSlips, Tinfoil"
+            git commit -m "automatic: added cheats from Hamlet and CheatSlips"
             git push
           fi
