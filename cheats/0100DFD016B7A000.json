@@ -30,6 +30,13 @@
         "[Reverse Mode]": "[Reverse Mode]\n01100000 91D0405E 00000010\n\n",
         "[Mono Mode]": "[Mono Mode]\n01100000 91D0405E 00000020\n\n",
         "[TLS Mode]": "[TLS Mode]\n01100000 91D0405E 00000080\n\n",
-        "[Original Code by \u30cd\u30aa\u2022\u30b0\u30e9\u30f3\u30be\u30f3]": "[Original Code by \u30cd\u30aa\u2022\u30b0\u30e9\u30f3\u30be\u30f3]\n20000000\n\n"
+        "[Original Code by \u30cd\u30aa\u2022\u30b0\u30e9\u30f3\u30be\u30f3]": "[Original Code by \u30cd\u30aa\u2022\u30b0\u30e9\u30f3\u30be\u30f3]\n20000000\n\n",
+        "[P2 Always Red Block]": "[P2 Always Red Block]\n01100000 91CBAF7C 00000002\n\n",
+        "[P2 Always Green Block]": "[P2 Always Green Block]\n01100000 91CBAF7C 00000003\n\n",
+        "[P2 Always Purple Block]": "[P2 Always Purple Block]\n01100000 91CBAF7C 00000004\n\n",
+        "[P2 Always Blue Block]": "[P2 Always Blue Block]\n01100000 91CBAF7C 00000005\n\n",
+        "[P2 Always Orange Block]": "[P2 Always Orange Block]\n01100000 91CBAF7C 00000006\n\n",
+        "[P2 Always Yellow Block]": "[P2 Always Yellow Block]\n01100000 91CBAF7C 00000007\n\n",
+        "[P2 Always Light Blue Block]": "[P2 Always Light Blue Block]\n01100000 91CBAF7C 00000008\n\n"
     }
 }

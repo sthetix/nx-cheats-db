@@ -9,6 +9,8 @@
         "[No Jacks ]": "[No Jacks ]\n01100000 017EB558 00000000\n\n",
         "[No Barrels ]": "[No Barrels ]\n01100000 017EB3EB 00000000\n\n",
         "[Finish Stage Now]": "[Finish Stage Now]\n01100000 017EB25D 00000030\n\n",
-        "[Original Code by \u30cd\u30aa\u2022\u30b0\u30e9\u30f3\u30be\u30f3]": "[Original Code by \u30cd\u30aa\u2022\u30b0\u30e9\u30f3\u30be\u30f3]\n20000000\n\n"
+        "[Original Code by \u30cd\u30aa\u2022\u30b0\u30e9\u30f3\u30be\u30f3]": "[Original Code by \u30cd\u30aa\u2022\u30b0\u30e9\u30f3\u30be\u30f3]\n20000000\n\n",
+        "[No Jacks]": "[No Jacks]\n01100000 017EB558 00000000\n\n",
+        "[No Barrels]": "[No Barrels]\n01100000 017EB3EB 00000000\n\n"
     }
 }

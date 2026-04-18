@@ -1,0 +1,8 @@
+{
+    "85F9A8A560428AEA": {
+        "[Inf HP hold LStick get hit to die on Last Boss]": "[Inf HP hold LStick get hit to die on Last Boss]\n04100000 00842478 00000000\n80000010\n04100000 00842478 46000000\n20000000\n\n",
+        "[Gunvolt Bar 300 Percent]": "[Gunvolt Bar 300 Percent]\n04100000 008423d8 43960000\n\n",
+        "[X Skill No Cooldown]": "[X Skill No Cooldown]\n04100000 00842464 00000000\n\n",
+        "[9999 Kudos]": "[9999 Kudos]\n04100000 008422d4 461c3c00\n04100000 00842374 00000000\n\n"
+    }
+}

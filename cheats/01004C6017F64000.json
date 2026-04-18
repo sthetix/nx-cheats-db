@@ -1,0 +1,8 @@
+{
+    "049974621FC5CE3D": {
+        "[Infinite HP]": "[Infinite HP]\n02000000 12ee63dc 00000100\n\n",
+        "[Infinite Lives]": "[Infinite Lives]\n01000000 12ee643a 00000009\n\n",
+        "[Invincible]": "[Invincible]\n01000000 12ee7a33 00000001\n\n",
+        "[Hold B for High Jump]": "[Hold B for High Jump]\n80000002\n01000000 12ee902e 00000005\n01000000 12ee9030 00000005\n20000000\n\n"
+    }
+}

@@ -30,7 +30,11 @@
         "[High Wisdom]": "[High Wisdom]\n04000000 003E46F4 000000C8\n\n",
         "[High Dexterity]": "[High Dexterity]\n04000000 003E46F8 000000C8\n\n",
         "[High Constitution]": "[High Constitution]\n04000000 003E46FC 000000C8\n\n",
-        "[High Charisma]": "[High Charisma]\n04000000 003E4700 000000C8\n\n"
+        "[High Charisma]": "[High Charisma]\n04000000 003E4700 000000C8\n\n",
+        "[Inf Slot 1]": "[Inf Slot 1]\n04000000 003e5004 00000004\n\n",
+        "[Inf Slot 2]": "[Inf Slot 2]\n04000000 003e4fc4 00000004\n\n",
+        "[Inf Slot 3]": "[Inf Slot 3]\n04000000 003e4fe4 00000004\n\n",
+        "[Inf Slot 4]": "[Inf Slot 4]\n04000000 003e4ff4 00000004\n\n"
     },
     "D0B3501DC634C1203FF85FEFC2B69FB850402F91000000000000000000000000": {
         "[Inf Slot 1]": "[Inf Slot 1]\n04000000 003E5004 00000004\n\n",

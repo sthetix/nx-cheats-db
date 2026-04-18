@@ -13,7 +13,8 @@
         "{Disable Anti Cheat Message}": "{Disable Anti Cheat Message}\n04000000 02749FD0 D65F03C0\n\n",
         "[01# Invulnerable]": "[01# Invulnerable]\n04000000 01708C10 D65F03C0\n\n",
         "[02# Inf Ammo]": "[02# Inf Ammo]\n04000000 02100BCC 51000108\n\n",
-        "[1p invicible]": "[1p invicible]\n04000000 017090F8 1E283000\n\n"
+        "[1p invicible]": "[1p invicible]\n04000000 017090F8 1E283000\n\n",
+        "[Disable Anti Cheat Message]": "[Disable Anti Cheat Message]\n04000000 02749FD0 D65F03C0\n\n"
     },
     "B667F988DAB60947A1FE898084ADE06200000000000000000000000000000000": {
         "[01# Invulnerable]": "[01# Invulnerable]\n04000000 01708C10 D65F03C0\n\n",

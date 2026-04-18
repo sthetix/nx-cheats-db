@@ -1,0 +1,15 @@
+{
+    "F7C9A1C51BA1A307": {
+        "[Infinite HP]": "[Infinite HP]\n04000000 03D569E0 D503201F\n\n",
+        "[Full Boost Bar]": "[Full Boost Bar]\n04000000 03D889D8 BD414A88\n\n",
+        "[Faster Movement and Attack Speed]": "[Faster Movement and Attack Speed]\n04000000 03D583B0 1e2f9000\n\n",
+        "[Infinite Fire Wheel]": "[Infinite Fire Wheel]\n04000000 03D4CA18 11000108\n\n",
+        "[Infinite Dash]": "[Infinite Dash]\n04000000 03D5019C b901d67f\n\n",
+        "[Infinite Time]": "[Infinite Time]\n04000000 03D1E8B4 BD402668\n\n",
+        "[Infinite Dagger]": "[Infinite Dagger]\n04000000 03D256F4 B900227F\n\n",
+        "[Infinite Bullets]": "[Infinite Bullets]\n04000000 034220c0 d503201f\n\n",
+        "[Infinite HP fps mode]": "[Infinite HP fps mode]\n04000000 03d81f80 d503201f\n\n",
+        "[Boost Bar No Decrease fps mode]": "[Boost Bar No Decrease fps mode]\n04000000 03d81ce4 d503201f\n04000000 03D808E8 d503201f\n\n",
+        "[Infinite Bullets fps mode]": "[Infinite Bullets fps mode]\n04000000 03d82648 d503201f\n\n"
+    }
+}

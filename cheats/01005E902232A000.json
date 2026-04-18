@@ -1,0 +1,8 @@
+{
+    "0431838EE209527E": {
+        "[UMK3 Arcade Infinite HP and Run]": "[UMK3 Arcade Infinite HP and Run]\n580f0000 005AC740\n580f1000 00000238\n580f1000 00001170\n580f1000 00000098\n780f0000 0020c14c\n640f0000 00000000 003000a6\n\n",
+        "[UMK3 Arcade Can use Animality in Round 2]": "[UMK3 Arcade Can use Animality in Round 2]\n580f0000 005AC740\n580f1000 00000238\n580f1000 00001170\n580f1000 00000098\n780f0000 0020c562\n610f0000 00000000 00000001\n\n",
+        "[UMK3 Arcade Bability and Friendship can use Block]": "[UMK3 Arcade Bability and Friendship can use Block]\n580f0000 005AC740\n580f1000 00000238\n580f1000 00001170\n580f1000 00000098\n780f0000 0020c492\n620f0000 00000000 00000000\n\n",
+        "[UMK3 Arcade Quick Uppercut Recovery]": "[UMK3 Arcade Quick Uppercut Recovery]\n580f0000 005AC740\n580f1000 00000238\n580f1000 00001170\n580f1000 00000098\n780f0000 0020c57c\n610f0000 00000000 00000001\n\n"
+    }
+}

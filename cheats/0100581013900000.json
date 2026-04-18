@@ -8,7 +8,8 @@
         "[Ashly MP]": "[Ashly MP]\n04000000 127C028C 00000378\n\n",
         "[*Habilidad azul]": "[*Habilidad azul]\n04000000 1279DC00 00000377\n\n",
         "[*Habilidad roja]": "[*Habilidad roja]\n04000000 1279DC04 0000036E\n\n",
-        "[*Habilidad amarilla]": "[*Habilidad amarilla]\n04000000 1279DC08 00000378\n\n"
+        "[*Habilidad amarilla]": "[*Habilidad amarilla]\n04000000 1279DC08 00000378\n\n",
+        "[\ufeff[*Money Jericoss]": "[\ufeff[*Money Jericoss]\n\ufeff[*Money Jericoss]\n04000000 1279DC0C 054C5638\n\n"
     },
     "BB922A6C235A847ED9A4F220BD9A6DA9A4D59046000000000000000000000000": {
         "[*Ashley HP]": "[*Ashley HP]\n04000000 127C0288 00000001\n\n",

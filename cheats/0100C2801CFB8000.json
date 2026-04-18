@@ -1,0 +1,16 @@
+{
+    "0C2E6A2CCC933EBF": {
+        "[Restore Code]": "[Restore Code]\n040A0000 0222123C 1E2E1000\n040A0000 022C12BC 1E203900\n040A0000 033B38E4 B9000EDC\n\n",
+        "[Speed x2]": "[Speed x2]\n040A0000 0222123C 1E201000\n\n",
+        "[Speed x1.5]": "[Speed x1.5]\n040A0000 0222123C 1E2F1000\n\n",
+        "[Inf Metal Time]": "[Inf Metal Time]\n040A0000 022C12BC 1E204100\n\n",
+        "[Inf Pacdots (grab1)]": "[Inf Pacdots (grab1)]\n040A0000 033B38E4 D503201F\n\n",
+        "[Inf Pac Power Time]": "[Inf Pac Power Time]\n040A0000 022C0D7C 1E204100\n\n",
+        "[Inf Small Time]": "[Inf Small Time]\n040A0000 022C101C 1E204100\n\n",
+        "[Moonjump ZL+B]": "[Moonjump ZL+B]\n040A0000 0221D4C4 1E203920\n040A0000 0221D518 97FFC2EA\n80000102\n040A0000 0221D4C4 1E204120\n040A0000 0221D518 D503201F\n20000000\n\n",
+        "[Infinite HP]": "[Infinite HP]\n040A0000 020DDDE8 D503201F\n\n",
+        "[Unlock Magic Key (Finish any level to unlock)]": "[Unlock Magic Key (Finish any level to unlock)]\n040A0000 02421CE0 52800020\n\n",
+        "[Have 99 Fruit (Grab 1)]": "[Have 99 Fruit (Grab 1)]\n040A0000 033B4570 52800C68\n\n",
+        "[Time Attack Freeze]": "[Time Attack Freeze]\n040A0000 020E4C34 D503201F\n\n"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "297B31EB4A82FDAE": {
+        "[max mana]": "[max mana]\n04000000 02D8E0AC 4B010129\n\n",
+        "[max mana off]": "[max mana off]\n04000000 02D8E0AC 4B010129\n\n",
+        "[max hp]": "[max hp]\n04000000 03085324 5284E1E9\n\n",
+        "[max hp off]": "[max hp off]\n04000000 03085324 4B150129\n\n",
+        "[max item]": "[max item]\n04000000 02D8DC38 5284E1E9\n\n",
+        "[max item off]": "[max item off]\n04000000 02D8DC38 0B160129\n\n",
+        "[max combat exp]": "[max combat exp]\n04000000 02E491D8 5291B988\n\n",
+        "[max combat exp off]": "[max combat exp off]\n04000000 02E491D8 1B156108\n\n",
+        "[restore code]": "[restore code]\n04000000 03085328 B9002D09\n04000000 02DA7044 B9002D09\n04000000 02D8E0B0 B9003509\n04000000 02D9FF30 BD406500\n04000000 02D81D80 B9401900\n04000000 0310AA18 4B090149\n\n",
+        "[HP/MP does not decrease during battle]": "[HP/MP does not decrease during battle]\n04000000 03085328 B9402D09\n04000000 02DA7044 B9402D09\n04000000 02D8E0B0 B9403509\n\n",
+        "[Moving speed change: R joystick left to normal speed, R joystick right to accelerate]": "[Moving speed change: R joystick left to normal speed, R joystick right to accelerate]\n04010000 02D9FF30 140F2738\n04010000 03169C10 1C000060\n04010000 03169C14 BD006500\n04010000 03169C18 17F0D8C7\n80400000\n04010000 03169C1C 41200000\n20000000\n80100000\n04010000 03169C1C 40800000\n20000000\n\n",
+        "[After checking the prop box, the total number changed to 98]": "[After checking the prop box, the total number changed to 98]\n04010000 02D81D80 140F9FA8\n04010000 03169C20 52800C40\n04010000 03169C24 B9001900\n04010000 03169C28 17F06057\n\n",
+        "[The number of times you can practice at home is fixed at 99]": "[The number of times you can practice at home is fixed at 99]\n04000000 0310AA18 52800C69\n\n"
+    },
+    "53798CDEFC36576F": {
+        "[Restore Code]": "[Restore Code]\n04000000 03085328 B9002D09\n04000000 02DA7044 B9002D09\n04000000 02D8E0B0 B9003509\n04000000 02D9FF30 BD406500\n04000000 02D81D80 B9401900\n04000000 0310AA18 4B090149\n\n",
+        "[HP/MP does not decrease during battle]": "[HP/MP does not decrease during battle]\n04000000 03085328 B9402D09\n04000000 02DA7044 B9402D09\n04000000 02D8E0B0 B9403509\n\n",
+        "[Moving speed change: R joystick right to accelerate]": "[Moving speed change: R joystick right to accelerate]\n04010000 02D9FF30 140F2738\n04010000 03169C10 1C000060\n04010000 03169C14 BD006500\n04010000 03169C18 17F0D8C7\n80400000\n04010000 03169C1C 41200000\n20000000\n80100000\n04010000 03169C1C 40800000\n20000000\n\n",
+        "[After checking the prop box, the total number changed to 98]": "[After checking the prop box, the total number changed to 98]\n04010000 02D81D80 140F9FA8\n04010000 03169C20 52800C40\n04010000 03169C24 B9001900\n04010000 03169C28 17F06057\n\n",
+        "[The number of times you can practice at home is fixed at 99]": "[The number of times you can practice at home is fixed at 99]\n04000000 0310AA18 52800C69\n\n",
+        "[max combat exp]": "[max combat exp]\n04000000 02E491D8 5291B988\n\n"
+    }
+}

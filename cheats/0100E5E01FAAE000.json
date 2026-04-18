@@ -1,0 +1,17 @@
+{
+    "39A04D77B9EA7F17": {
+        "[Inf. HP]": "[Inf. HP]\n580F0000 06183D10\n580F1000 000000B8\n580F1000 00000008\n580F1000 000000D0\n580F1000 000002D8\n780F0000 0000003C\n620F0000 00000000 000022B8\n\n",
+        "[Invincible]": "[Invincible]\n580F0000 06183D10\n580F1000 000000B8\n580F1000 00000008\n580F1000 000000D0\n580F1000 000002E0\n580F1000 00000060\n780F0000 00000044\n610F0000 00000000 0000003C\n04000000 02323128 52800008\n\n",
+        "[God Mode (enable after Invincible cheat is working & disable OHK)]": "[God Mode (enable after Invincible cheat is working & disable OHK)]\n04000000 0202F6BC D503201F\n\n",
+        "[*One Hit Kill (hold ZL)]": "[*One Hit Kill (hold ZL)]\n04000000 0202F6BC B9403D09\n80000100\n04000000 0202F6BC D503201F\n20000000\n\n",
+        "[Instant Ultimate Attack refill (press ZR)]": "[Instant Ultimate Attack refill (press ZR)]\n04000000 0202B020 B9404109\n80000200\n04000000 0202B020 52800C89\n20000000\n\n",
+        "[Exp. multiplier x8]": "[Exp. multiplier x8]\n04000000 0444CB8C 0B130D29\n\n",
+        "[Exp. multiplier x16]": "[Exp. multiplier x16]\n04000000 0444CB8C 0B131129\n\n",
+        "[Coins multiplier x8]": "[Coins multiplier x8]\n04000000 02E6C690 0B140D01\n\n",
+        "[Coins multiplier x16]": "[Coins multiplier x16]\n04000000 02E6C690 0B141101\n\n",
+        "[Inf. Skill Points]": "[Inf. Skill Points]\n04000000 029F3C3C 52806EF7\n\n",
+        "[Inf. Stat Points (after level up)]": "[Inf. Stat Points (after level up)]\n04000000 0444CC64 52845675\n\n",
+        "[Cheat off (Use after disabling cheats)]": "[Cheat off (Use after disabling cheats)]\n04000000 02E6C690 0B140101\n04000000 02E6C690 0B140101\n04000000 02323128 39412008\n04000000 0444CB8C 0B130129\n04000000 0444CB8C 0B130129\n04000000 029F3C3C B9416A97\n04000000 0444CC64 B9408D15\n\n",
+        "[Cheats by: Deadqool]": "[Cheats by: Deadqool]\n20000000\n\n"
+    }
+}

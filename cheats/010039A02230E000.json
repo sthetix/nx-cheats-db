@@ -1,0 +1,12 @@
+{
+    "E1FADE9CAD24F023": {
+        "[Infinite Lives]": "[Infinite Lives]\n01000000 007A7BD1 00000009\n01000000 007AC427 00000009\n\n",
+        "[Max Fire Power]": "[Max Fire Power]\n01000000 007a991b 00000007\n\n",
+        "[Shot Bars Full]": "[Shot Bars Full]\n04000000 007a7bd4 00300030\n\n",
+        "[Shield Bars Full]": "[Shield Bars Full]\n04000000 007a7bd8 00300030\n\n",
+        "[Sub Weapon Bars Full]": "[Sub Weapon Bars Full]\n02000000 007a7be2 0000ff07\n04000000 007a7be4 ff07ff07\n04000000 007a7be8 ff07ff07\n04000000 007a7bec ff07ff07\n\n",
+        "[Max Sub Weapon Level]": "[Max Sub Weapon Level]\n01000000 007ABF03 00000002\n01000000 007ABF05 00000002\n01000000 007ABF07 00000002\n01000000 007ABF09 00000002\n01000000 007ABF0B 00000002\n01000000 007ABF0D 00000002\n01000000 007ABF0F 00000002\n\n",
+        "[Have 7 Sub Weapons]": "[Have 7 Sub Weapons]\n01000000 007ac413 00000007\n04000000 007ac414 04000b00\n04000000 007ac418 03000100\n04000000 007ac41c 07000600\n02000000 007ac420 00000900\n01000000 007ac425 00000007\n\n",
+        "[Invincible Flashing]": "[Invincible Flashing]\n01000000 007a7bbe 00000001\n\n"
+    }
+}

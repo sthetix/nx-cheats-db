@@ -1,0 +1,13 @@
+{
+    "E5B50F82E777550B": {
+        "[No Battle on Touch Enemy ZL to Battle]": "[No Battle on Touch Enemy ZL to Battle]\n04000000 00090570 528000e8\n80000100\n04000000 00090570 b9400108\n20000000\n\n",
+        "[HP 999 in Battle]": "[HP 999 in Battle]\n580f0000 21954C90\n300e0000 00000005\n640f0000 00000000 03e703e7\n780f0000 0000003e\n310e0000\n\n",
+        "[MP 999 in Battle]": "[MP 999 in Battle]\n580f0000 21954C90\n780f0000 00000004\n300e0000 00000005\n620f0000 00000000 03e703e7\n780f0000 0000003e\n310e0000\n\n",
+        "[Attack 255 in Battle]": "[Attack 255 in Battle]\n580f0000 21954C90\n780f0000 00000008\n300e0000 00000005\n620f0000 00000000 000000ff\n780f0000 0000003e\n310e0000\n\n",
+        "[Defense 255 in Battle]": "[Defense 255 in Battle]\n580f0000 21954C90\n780f0000 0000000a\n300e0000 00000005\n620f0000 00000000 000000ff\n780f0000 0000003e\n310e0000\n\n",
+        "[EXP 100 after battle ignore display]": "[EXP 100 after battle ignore display]\n04000000 21954CDC 00000064\n\n",
+        "[Infinite Running Time]": "[Infinite Running Time]\n04000000 000843C4 5100014a\n\n",
+        "[Attack Defense 255 in Battle]": "[Attack Defense 255 in Battle]\n02000000 24459B2E 000000ff\n02000000 24459D56 000000ff\n02000000 24459F7E 000000ff\n02000000 2445A1A6 000000ff\n02000000 2445A3CE 000000ff\n\n",
+        "[EXP 100 after battle]": "[EXP 100 after battle]\n04000000 269A20A0 00000064\n\n"
+    }
+}

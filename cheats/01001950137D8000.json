@@ -1,0 +1,10 @@
+{
+    "02A312797DEB284E": {
+        "[01# Inf Health]": "[01# Inf Health]\n04000000 005887B4 D503201F\n\n",
+        "[Inf Health (off)]": "[Inf Health (off)]\n04000000 005887B4 51000501\n\n",
+        "[02# Inf Ammo]": "[02# Inf Ammo]\n04000000 005887B4 D503201F\n\n",
+        "[Inf Ammo (off)]": "[Inf Ammo (off)]\n04000000 005887B4 51000501\n\n",
+        "[03# Inf Slomo]": "[03# Inf Slomo]\n04000000 00592D54 1E2E1000\n\n",
+        "[Inf Slomo (off)]": "[Inf Slomo (off)]\n04000000 00592D54 BD006A60\n\n"
+    }
+}

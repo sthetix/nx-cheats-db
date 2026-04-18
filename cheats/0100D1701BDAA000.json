@@ -1,0 +1,8 @@
+{
+    "36593142F2F4A890": {
+        "[have 99]": "[have 99]\n04000000 019ACBE0 52800C60\n04000000 019ACBE4 D65F03C0\n\n",
+        "[have 99 off]": "[have 99 off]\n04000000 019ACBE0 D10103FF\n04000000 019ACBE4 A9017BFD\n\n",
+        "[spend currency to gain 10k]": "[spend currency to gain 10k]\n04000000 019B0F64 5284E202\n\n",
+        "[spend currency to gain 10k off]": "[spend currency to gain 10k off]\n04000000 019B0F64 4B0203E2\n\n"
+    }
+}

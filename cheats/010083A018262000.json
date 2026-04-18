@@ -1,0 +1,12 @@
+{
+    "688C23D524730AB8": {
+        "[Inf. Health]": "[Inf. Health]\n04000000 0098EFA8 D503201F\n\n",
+        "[Inf. Health off]": "[Inf. Health off]\n04000000 0098EFA8 1E283800\n\n",
+        "[Inf. Ammo]": "[Inf. Ammo]\n04000000 00A0BC0C D503201F\n\n",
+        "[Inf. Ammo off]": "[Inf. Ammo off]\n04000000 00A0BC0C 51000508\n\n"
+    },
+    "59AF76C13F680B7C": {
+        "[Inf. Health]": "[Inf. Health]\n04000000 0098EFA8 D503201F\n\n",
+        "[Inf. Ammo]": "[Inf. Ammo]\n04000000 00A0BC0C D503201F\n\n"
+    }
+}

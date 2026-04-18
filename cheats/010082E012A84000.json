@@ -351,7 +351,11 @@
         "[Suffolk Wool+]": "[Suffolk Wool+]\n640C0000 00000000 0001B1A0\n\n",
         "[Wool]": "[Wool]\n640C0000 00000000 0001B198\n\n",
         "[Wool+]": "[Wool+]\n640C0000 00000000 0001B19F\n\n",
-        "[{Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555}]": "[{Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555}]\n20000000\n\n"
+        "[{Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555}]": "[{Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555}]\n20000000\n\n",
+        "[Black Pansy]": "[Black Pansy]\n640C0000 00000000 00019A2C\n\n",
+        "[Golden Peach]": "[Golden Peach]\n640C0000 00000000 00019E1C\n\n",
+        "[Olive]": "[Olive]\n640C0000 00000000 00019E20\n\n",
+        "[Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555]": "[Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555]\n20000000\n\n"
     },
     "35538F1462E51141": {
         "[Time: ZL Stop | R+ \u2192\u2190 x32 / \u2191\u2193 x64 | ZR Resume]": "[Time: ZL Stop | R+ \u2192\u2190 x32 / \u2191\u2193 x64 | ZR Resume]\n80000200\n040C0000 0196D2FC 9425634D\n20000000\n80000100\n040C0000 0196D2FC D503201F\n20000000\n80004080\n040C0000 01A23748 8B131693\n20000000\n80002080\n040C0000 01A23748 8B131A93\n20000000\n80001080\n040C0000 01A23748 CB131693\n20000000\n80008080\n040C0000 01A23748 CB131A93\n20000000\n80000200\n040C0000 01A23748 8B130293\n20000000\n\n",
@@ -705,7 +709,11 @@
         "[Suffolk Wool+]": "[Suffolk Wool+]\n640C0000 00000000 0001B1A0\n\n",
         "[Wool]": "[Wool]\n640C0000 00000000 0001B198\n\n",
         "[Wool+]": "[Wool+]\n640C0000 00000000 0001B19F\n\n",
-        "[{Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555}]": "[{Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555}]\n20000000\n\n"
+        "[{Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555}]": "[{Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555}]\n20000000\n\n",
+        "[Black Pansy]": "[Black Pansy]\n640C0000 00000000 00019A2C\n\n",
+        "[Golden Peach]": "[Golden Peach]\n640C0000 00000000 00019E1C\n\n",
+        "[Olive]": "[Olive]\n640C0000 00000000 00019E20\n\n",
+        "[Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555]": "[Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555]\n20000000\n\n"
     },
     "4410C92B04087143": {
         "[(ZL) Stop Time | (ZR) Resume Time]": "[(ZL) Stop Time | (ZR) Resume Time]\n80000200\n040C0000 0190E15C 94264A01\n20000000\n80000100\n040C0000 0190E15C D503201F\n20000000\n\n",
@@ -1004,7 +1012,8 @@
         "[Have Slot 1 Row 2 Max Quality]": "[Have Slot 1 Row 2 Max Quality]\n580C0000 0465BC78\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000018\n580C1000 000000F0\n780C0000 00000018\n640C0000 00000000 0000000A\n\n",
         "[- Master Item Slot 1 Row 2 -]": "[- Master Item Slot 1 Row 2 -]\n580D0000 0465BC78\n580D1000 000000B8\n580D1000 00000000\n580D1000 00000028\n580D1000 00000010\n580D1000 00000018\n580D1000 000000F0\n780D0000 00000014\n640D0000 00000000 00000001\n580C0000 0465BC78\n580C1000 000000B8\n580C1000 00000000\n580C1000 00000028\n580C1000 00000010\n580C1000 00000018\n580C1000 000000F0\n780C0000 00000010\n\n",
         "[Black Pansy]": "[Black Pansy]\n640C0000 00000000 00019A2C\n\n",
-        "[Max Friendship ?]": "[Max Friendship ?]\n580C0000 045AC130\n580C1000 00000B10\n580C1000 00000070\n580C1000 000004C8\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n"
+        "[Max Friendship ?]": "[Max Friendship ?]\n580C0000 045AC130\n580C1000 00000B10\n580C1000 00000070\n580C1000 000004C8\n780C0000 00000010\n640C0000 00000000 0000DAC0\n\n",
+        "[Credits: bbhark, crazy_p, IMNoob, Merlin555]": "[Credits: bbhark, crazy_p, IMNoob, Merlin555]\n20000000\n\n"
     },
     "4410C92B04087143AE06AA2DE72A68E300000000000000000000000000000000": {
         "[-- Flowers --]": "[-- Flowers --]\n00000000 00000000 00000000\n\n",
@@ -2047,7 +2056,11 @@
         "[Suffolk Wool+]": "[Suffolk Wool+]\n640C0000 00000000 0001B1A0\n\n",
         "[Wool]": "[Wool]\n640C0000 00000000 0001B198\n\n",
         "[Wool+]": "[Wool+]\n640C0000 00000000 0001B19F\n\n",
-        "[{Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555}]": "[{Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555}]\n20000000\n\n"
+        "[{Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555}]": "[{Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555}]\n20000000\n\n",
+        "[Black Pansy]": "[Black Pansy]\n640C0000 00000000 00019A2C\n\n",
+        "[Golden Peach]": "[Golden Peach]\n640C0000 00000000 00019E1C\n\n",
+        "[Olive]": "[Olive]\n640C0000 00000000 00019E20\n\n",
+        "[Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555]": "[Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555]\n20000000\n\n"
     },
     "EBD208B4B2BF0B42A627173EA50CA66E00000000000000000000000000000000": {
         "[-- Animal Products --]": "[-- Animal Products --]\n00000000 00000000 00000000\n\n",

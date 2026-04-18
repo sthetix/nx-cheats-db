@@ -47,7 +47,16 @@
         "[combo x 4]": "[combo x 4]\n04000000 00615D18 14E28A14\n04000000 03EB8578 0B080928\n\n",
         "[combo x 8]": "[combo x 8]\n04000000 00615D18 14E28A14\n04000000 03EB8578 0B080D28\n\n",
         "[combo x 16]": "[combo x 16]\n04000000 00615D18 14E28A14\n04000000 03EB8578 0B081128\n\n",
-        "[Skill points not decrease hold X & Y]": "[Skill points not decrease hold X & Y]\n04000000 0061596C 5100052A\n8000000C\n04000000 0061596C 5100012A\n20000000\n\n"
+        "[Skill points not decrease hold X & Y]": "[Skill points not decrease hold X & Y]\n04000000 0061596C 5100052A\n8000000C\n04000000 0061596C 5100012A\n20000000\n\n",
+        "[RRS 50% [360p]": "[RRS 50% [360p]\nRRS 50% [360p]\n04000000 02A831F8 42480000\n\n",
+        "[RRS 66.6667% [480p]": "[RRS 66.6667% [480p]\nRRS 66.6667% [480p]\n04000000 02A831F8 42855555\n\n",
+        "[RRS 75% [540p]": "[RRS 75% [540p]\nRRS 75% [540p]\n04000000 02A831F8 42960000\n\n",
+        "[RRS 90% [648p]": "[RRS 90% [648p]\nRRS 90% [648p]\n04000000 02A831F8 42B40000\n\n",
+        "[RRS 100% [720p]": "[RRS 100% [720p]\nRRS 100% [720p]\n04000000 02A831F8 42C80000\n\n",
+        "[RRS 66.6667% [720p Docked]": "[RRS 66.6667% [720p Docked]\nRRS 66.6667% [720p Docked]\n04000000 02A831F8 42855555\n\n",
+        "[RRS 75% [812p Docked]": "[RRS 75% [812p Docked]\nRRS 75% [812p Docked]\n04000000 02A831F8 42960000\n\n",
+        "[RRS 83.33% [900p Docked]": "[RRS 83.33% [900p Docked]\nRRS 83.33% [900p Docked]\n04000000 02A831F8 42A6A8F6\n\n",
+        "[RRS 100 % [1080p Docked]": "[RRS 100 % [1080p Docked]\nRRS 100 % [1080p Docked]\n04000000 02A831F8 42C80000\n\n"
     },
     "attribution": {
         "Batman Arkham City.txt": "By masagrator\nRRS cheats by DAVYSGAMING\n"

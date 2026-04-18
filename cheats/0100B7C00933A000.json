@@ -162,7 +162,8 @@
         "[\u211612. Oatchi Can HighJump Hold ZL]": "[\u211612. Oatchi Can HighJump Hold ZL]\n080A0000 0614FFD4 16C98AE2 1E220800\n040A0000 0614FFD0 1E222842\n040A0000 013B2B5C 1E220800\n80000100\n040A0000 013B2B5C 1536751D\n20000000\n\n",
         "[\u211613. Speed Increase]": "[\u211613. Speed Increase]\n040A0000 019F278C 1E20D002\n\n",
         "[\u211614. Lumiknoll no damage at Night expeditions]": "[\u211614. Lumiknoll no damage at Night expeditions]\n080A0000 0614FFC8 16E5121B 16E51218\n080A0000 0614FFC0 1E203821 54000060\n080A0000 0614FFB8 7100001F B9430260\n040A0000 01A94824 151AEDE5\n\n",
-        "[\u211615. Dandori Battles Easy Win]": "[\u211615. Dandori Battles Easy Win]\n080A0000 0614FFB0 16F271DB 0B151508\n080A0000 0614FFA8 54000041 710002DF\n040A0000 0614FFA4 B9400016\n040A0000 01DEC71C 150D8E22\n\n"
+        "[\u211615. Dandori Battles Easy Win]": "[\u211615. Dandori Battles Easy Win]\n080A0000 0614FFB0 16F271DB 0B151508\n080A0000 0614FFA8 54000041 710002DF\n040A0000 0614FFA4 B9400016\n040A0000 01DEC71C 150D8E22\n\n",
+        "[(Restore the original code)Lumiknoll no damage at Night expeditions]": "[(Restore the original code)Lumiknoll no damage at Night expeditions]\n04000000 01A94824 1E203821\n\n"
     },
     "3C8B5AEAA796F844DC1CD7A6C3B4AAB600000000000000000000000000000000": {
         "[(Restore the original code)At Dandori Battles,player earn more points and the CPU will no longer add points]": "[(Restore the original code)At Dandori Battles,player earn more points and the CPU will no longer add points]\n04000000 01DEC71C 0B150108\n\n",

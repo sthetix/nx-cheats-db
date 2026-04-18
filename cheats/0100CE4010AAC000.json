@@ -21,7 +21,10 @@
         "[Unlock all Hearts(artifacts)]": "[Unlock all Hearts(artifacts)]\n400C0000 00000000 00000954\n680C01F0 01B101B0 01AF01AE\n\n",
         "[Unlock all INT(artifacts)] ---\"Magic\" for my version": "[Unlock all INT(artifacts)] ---\"Magic\" for my version\n400C0000 00000000 000008DC\n680C11F0 01750174 01730172\n680C11F0 01790178 01770176\n680C11F0 017D017C 017B017A\n680C11F0 01810180 017F017E\n680C11F0 01850184 01830182\n640C11F0 00000000 01870186\n620C01F0 00000000 00000188\n\n",
         "[Unlock all VIT(artifacts)]---\"Defense\"": "[Unlock all VIT(artifacts)]---\"Defense\"\n400C0000 00000000 00000918\n680C11F0 01930192 01910190\n680C11F0 01970196 01950194\n680C11F0 019B019A 01990198\n680C01F0 019F019E 019D019C\n\n",
-        "[Hold ZL + L for Unknown in map]": "[Hold ZL + L for Unknown in map]\n80000140\n02000000 055C2C90 00000011\n20000000\n\n"
+        "[Hold ZL + L for Unknown in map]": "[Hold ZL + L for Unknown in map]\n80000140\n02000000 055C2C90 00000011\n20000000\n\n",
+        "[Final Fantasy Crystal Chronicles v1.0.1]": "[Final Fantasy Crystal Chronicles v1.0.1]\n580F0000 0562d418\n\n",
+        "[Unlock all INT(artifacts)] ---\"Magic\" for my version]": "[Unlock all INT(artifacts)] ---\"Magic\" for my version]\n400C0000 00000000 000008DC\n680C11F0 01750174 01730172\n680C11F0 01790178 01770176\n680C11F0 017D017C 017B017A\n680C11F0 01810180 017F017E\n680C11F0 01850184 01830182\n640C11F0 00000000 01870186\n620C01F0 00000000 00000188\n\n",
+        "[Unlock all VIT(artifacts)]---\"Defense\"]": "[Unlock all VIT(artifacts)]---\"Defense\"]\n400C0000 00000000 00000918\n680C11F0 01930192 01910190\n680C11F0 01970196 01950194\n680C11F0 019B019A 01990198\n680C01F0 019F019E 019D019C\n\n"
     },
     "687AB956C7A3914BB2CE96C68238182400000000000000000000000000000000": {
         "[99 Defense]": "[99 Defense]\n02000000 055C4432 00000063\n\n",

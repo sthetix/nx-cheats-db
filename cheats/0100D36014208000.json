@@ -1,0 +1,8 @@
+{
+    "611F8DAED643A82D": {
+        "[Inf.HP]": "[Inf.HP]\n08100000 B00C4690 40590000 00000000\n\n",
+        "[Inf.Stamina]": "[Inf.Stamina]\n08100000 B00C4670 40590000 00000000\n\n",
+        "[Inf.Ammo]": "[Inf.Ammo]\n08100000 B00C4630 408F3800 00000000\n\n",
+        "[Max Blood Vial]": "[Max Blood Vial]\n08100000 B00C4620 40F869F0 00000000\n\n"
+    }
+}

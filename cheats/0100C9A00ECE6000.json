@@ -56,7 +56,9 @@
         "[Sage Mode(always sees truth)]": "[Sage Mode(always sees truth)]\n580F0000 005D20C0\n780F0000 001CA987\n80000020\n610F0000 00000000 00000001\n20000000\n80000010\n610F0000 00000000 00000000\n20000000\n\n",
         "[Disable timers]": "[Disable timers]\n580F0000 005D20C0\n400C0000 00000000 0011C053\n620C01F0 00000000 00000000\n400C0000 00000000 0011C04F\n620C01F0 00000000 00000000\n\n",
         "[Hookshot Anywhere]": "[Hookshot Anywhere]\n580F0000 005D20C0\n780F0000 00034CEC\n680F0000 01000024 00240200\n\n",
-        "{Credit to Arismendy64/Gamerjin/SkyQueen/Rheir}": "{Credit to Arismendy64/Gamerjin/SkyQueen/Rheir}\n20000000\n\n"
+        "{Credit to Arismendy64/Gamerjin/SkyQueen/Rheir}": "{Credit to Arismendy64/Gamerjin/SkyQueen/Rheir}\n20000000\n\n",
+        "[low gravity]": "[low gravity]\n580F0000 005D20C0\n780F0000 001DB35C\n640F0000 00000000 CDCCCC3D\n\n",
+        "[Credit to Arismendy64/Gamerjin/SkyQueen/Rheir]": "[Credit to Arismendy64/Gamerjin/SkyQueen/Rheir]\n20000000\n\n"
     },
     "EB79EF243458597C0540CF92F9FEE006B05B564E000000000000000000000000": {
         "[20 Hearts + Double Defense]": "[20 Hearts + Double Defense]\n580F0000 005D20C0\n780F0000 0011ACAE\n620F0000 00000000 00004001\n780F0000 00000002\n620F0000 00000000 00004001\n780F0000 0000009F\n610F0000 00000000 00000014\n\n",

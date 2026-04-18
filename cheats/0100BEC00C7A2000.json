@@ -27,7 +27,9 @@
         "[Always have Harp of Protection]": "[Always have Harp of Protection]\n01100000 01E8E348 0000008B\n\n",
         "[Always have Necklace of Shell]": "[Always have Necklace of Shell]\n01100000 01E8E349 00000087\n\n",
         "[Always have Wing of Pegasus ]": "[Always have Wing of Pegasus ]\n01100000 01E8E349 0000008B\n\n",
-        "[Always have K ]": "[Always have K ]\n01100000 01E8E34A 00000087\n\n"
+        "[Always have K ]": "[Always have K ]\n01100000 01E8E34A 00000087\n\n",
+        "[Always have Wing of Pegasus]": "[Always have Wing of Pegasus]\n01100000 01E8E349 0000008B\n\n",
+        "[Always have K]": "[Always have K]\n01100000 01E8E34A 00000087\n\n"
     },
     "2769E70ED09EA79086827BB89528FA4B00000000000000000000000000000000": {
         "[Always have Blue Crystall Ball]": "[Always have Blue Crystall Ball]\n01100000 01E8E344 00000087\n\n",

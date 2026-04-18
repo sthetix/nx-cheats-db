@@ -557,7 +557,11 @@
         "[MoonJump (X)\u00e2\u02dc\u2026]": "[MoonJump (X)\u00e2\u02dc\u2026]\n580F0000 047203D0\n580F1000 000000C8\n580F1000 00000178\n580F1000 00000030\n780F0000 000000FC\n80000004\n640F01D0 00000000 41200000\n20000000\n\n",
         "[\u00e2\u02c6\u017e Durability \u00e2\u02dc\u2026]": "[\u00e2\u02c6\u017e Durability \u00e2\u02dc\u2026]\n080E0000 02B1FFE4 177BBA96 B9000901\n040E0000 02B1FFE0 B9401901\n040E0000 00A0EA3C 14844569\n\n",
         "[Buff - Shock Resistance\u00e2\u02dc\u2026]": "[Buff - Shock Resistance\u00e2\u02dc\u2026]\n580F0000 046B1BA8\n580F1000 00000480\n580F1000 00000228\n580F1000 00000160\n780F0000 00000154\n640F1000 00000000 00000004\n\n",
-        "[\u00e2\u02c6\u017e Arrow's]": "[\u00e2\u02c6\u017e Arrow's]\n040E0000 015E6750 2A1F03E1\n\n"
+        "[\u00e2\u02c6\u017e Arrow's]": "[\u00e2\u02c6\u017e Arrow's]\n040E0000 015E6750 2A1F03E1\n\n",
+        "[\u2605 Equepment Spawn MOD's \u2605 will be Removed after Game restart]": "[\u2605 Equepment Spawn MOD's \u2605 will be Removed after Game restart]\n20000000\n\n",
+        "[\u2605 Eiffel Additional Cheats \u2605]": "[\u2605 Eiffel Additional Cheats \u2605]\n20000000\n\n",
+        "[\u2605 Inventory MOD's \u2605]": "[\u2605 Inventory MOD's \u2605]\n20000000\n\n",
+        "[\u2605 Resolution MOD's \u2605]": "[\u2605 Resolution MOD's \u2605]\n20000000\n\n"
     },
     "D5AD6AC71EF53E3E52417C1B81DBC9B4142AA3B3000000000000000000000000": {
         "[(ZL+Y) Hover Add On (Slow MoonJump)]": "[(ZL+Y) Hover Add On (Slow MoonJump)]\n04000000 02A9450C 1E242844\n80000108\n04000000 02A9450C 1E211004\n20000000\n\n",

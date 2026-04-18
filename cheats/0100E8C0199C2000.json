@@ -1,0 +1,16 @@
+{
+    "A949900BA7FB9CB9": {
+        "[P1 1 million gold]": "[P1 1 million gold]\n04100000 044DB69C 3B9AC9FF\n\n",
+        "[P1 Max HP]": "[P1 Max HP]\n04100000 044DB4EC 0000270F\n\n",
+        "[P1 Max HP alt.]": "[P1 Max HP alt.]\n04100000 044DB4EC 270F0000\n\n",
+        "[P1 500 AT/DF]": "[P1 500 AT/DF]\n04100000 044DB4E4 01F401F4\n\n",
+        "[P1 500 MG/SP]": "[P1 500 MG/SP]\n04100000 44DB4E8 01F401F4\n\n"
+    },
+    "59E45830B27264B4": {
+        "[P1 1 million gold]": "[P1 1 million gold]\n04100000 044DB69C 3B9AC9FF\n\n",
+        "[P1 Max HP]": "[P1 Max HP]\n04100000 044DB4EC 0000270F\n\n",
+        "[P1 Max HP alt.]": "[P1 Max HP alt.]\n04100000 044DB4EC 270F0000\n\n",
+        "[P1 500 MG/SP]": "[P1 500 MG/SP]\n04100000 44DB4E8 01F401F4\n\n",
+        "[P1 500 AT/DF]": "[P1 500 AT/DF]\n04100000 044DB4E4 01F401F4\n\n"
+    }
+}

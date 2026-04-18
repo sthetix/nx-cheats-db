@@ -1,0 +1,8 @@
+{
+    "8BF051A6E3110A30": {
+        "[Max Stamina]": "[Max Stamina]\n08000000 043BAFF8 42C80000 D65F03C0\n08000000 043BAFF0 BD001808 1C000068\n04000000 01A8CF58 94A4B826\n\n",
+        "[Max Stamina off]": "[Max Stamina off]\n04000000 01A8CF58 BD001808\n\n",
+        "[Max Star Skill Points]": "[Max Star Skill Points]\n08000000 043BAFE8 461C3C00 D65F03C0\n04000000 043BAFE4 1C000040\n04000000 01A8D678 94A4B65B\n\n",
+        "[Max Star Skill Points off]": "[Max Star Skill Points off]\n04000000 01A8D678 1E282800\n\n"
+    }
+}

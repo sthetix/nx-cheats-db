@@ -1,0 +1,12 @@
+{
+    "9F608961B7C657C2": {
+        "[max money]": "[max money]\n04000000 00B87B30 3B9AC9FF\n\n",
+        "[inf. energy quest]": "[inf. energy quest]\n02000000 00B74124 0000270F\n\n",
+        "[max life]": "[max life]\n02000000 00B84E10 000003E7\n\n",
+        "[max str]": "[max str]\n02000000 00B84E12 000003E7\n\n",
+        "[max int]": "[max int]\n02000000 00B84E1A 000003E7\n\n",
+        "[max ski]": "[max ski]\n02000000 00B84E16 000003E7\n\n",
+        "[max spd]": "[max spd]\n02000000 00B84E18 000003E7\n\n",
+        "[max def]": "[max def]\n02000000 00B84E14 000003E7\n\n"
+    }
+}

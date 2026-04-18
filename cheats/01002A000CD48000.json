@@ -60,7 +60,8 @@
         "[Bullet illimit\u00e9]": "[Bullet illimit\u00e9]\n581F0000 067d84e8\n780F0000 0000507E\n300E0000 00000006\n620F0000 00000000\n000003E7 780F0000\n00000028 310E0000\n20000000\n\n",
         "[Article illimit\u00e9]": "[Article illimit\u00e9]\n581F0000 067d84e8\n780F0000 00005196\n300E0000 00000006\n620F0000 00000000\n000003E7 780F0000\n00000028 310E0000\n20000000\n\n",
         "[Infinite Health Main Character]": "[Infinite Health Main Character]\n581F0000 067d84e8\n780F0000 00001368\n640F0000 00000000 03840384\n\n",
-        "[hit range knife grafic bag]": "[hit range knife grafic bag]\n04000000 004A4D7C 1E2C1001\n\n"
+        "[hit range knife grafic bag]": "[hit range knife grafic bag]\n04000000 004A4D7C 1E2C1001\n\n",
+        "[\ufeff[Speed Up]": "[\ufeff[Speed Up]\n\ufeff[Speed Up]\n581F0000 067d84e8\n780F0000 000011b0\n680F0000 40800000 40800000\n780F0000 00000008\n640F0000 00000000 40800000\n\n"
     },
     "061D2A06CD700785E987C42CE2D7223100000000000000000000000000000000": {
         "[1p all enermy hit kill]": "[1p all enermy hit kill]\n04000000 00970CC8 D503201F\n\n",

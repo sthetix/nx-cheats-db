@@ -1,0 +1,10 @@
+{
+    "6064A722673D68EF": {
+        "[Infinite HP]": "[Infinite HP]\n580f0000 04287c30\n580f1000 000000b8\n580f1000 00000010\n580f1000 00000048\n580f1000 00000028\n580f1000 000000d0\n780f0000 00000030\n640f0000 00000000 00000001\n\n",
+        "[Invincible]": "[Invincible]\n580f0000 04287c30\n580f1000 000000b8\n580f1000 00000010\n580f1000 00000048\n580f1000 00000028\n580f1000 000000d0\n780f0000 00000018\n640f0000 00000000 00000001\n\n",
+        "[Infinite Soul]": "[Infinite Soul]\n04000000 01d1ca00 52800800\n\n",
+        "[Infinite Jump]": "[Infinite Jump]\n04000000 01D42D24 51000129\n\n",
+        "[Infinite Soul OFF]": "[Infinite Soul OFF]\n04000000 01d1ca00 4b130100\n\n",
+        "[Infinite Jump OFF]": "[Infinite Jump OFF]\n04000000 01D42D24 51000529\n\n"
+    }
+}

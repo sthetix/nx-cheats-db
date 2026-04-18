@@ -1,0 +1,10 @@
+{
+    "B628EA55D8E98844": {
+        "[combo_max_restore \u9023\u64ca\u6578\u6700\u5927(\u9084\u539f)]": "[combo_max_restore \u9023\u64ca\u6578\u6700\u5927(\u9084\u539f)]\n04000000 003C5384 11000701\n\n",
+        "[combo_max \u9023\u64ca\u6578\u6700\u5927]": "[combo_max \u9023\u64ca\u6578\u6700\u5927]\n04000000 003C5384 110FA301\n\n",
+        "[dice_inf_times_restore \u7121\u9650\u6295\u9ab0\u5b50(\u9084\u539f)]": "[dice_inf_times_restore \u7121\u9650\u6295\u9ab0\u5b50(\u9084\u539f)]\n04000000 005DCD04 51000508\n\n",
+        "[dice_inf_times \u7121\u9650\u6295\u9ab0\u5b50]": "[dice_inf_times \u7121\u9650\u6295\u9ab0\u5b50]\n04000000 005DCD04 D503201F\n\n",
+        "[dice_value_restore \u9ab0\u5b50\u7d50\u679c(\u9084\u539f)]": "[dice_value_restore \u9ab0\u5b50\u7d50\u679c(\u9084\u539f)]\n04000000 005DCD30 51000508\n\n",
+        "[dice_value_999 \u9ab0\u5b50\u7d50\u679c999]": "[dice_value_999 \u9ab0\u5b50\u7d50\u679c999]\n04000000 005DCD30 52807CF4\n\n"
+    }
+}

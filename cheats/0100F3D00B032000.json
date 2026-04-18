@@ -1,0 +1,12 @@
+{
+    "3A0835D09F6D1544": {
+        "[On]": "[On]\n04000000 0051E63C 0B1502E8\n04000000 0090A02C 6B14011F\n04000000 0090A030 5400018A\n04000000 0051DF60 0B1402A8\n04000000 0051E1A8 B900FA76\n04000000 00909F78 6B14011F\n04000000 00909F7C 5400018A\n\n",
+        "[Experience multiplier x 2]": "[Experience multiplier x 2]\n04000000 0051E63C 0B1506E8\n\n",
+        "[Experience multiplier x 4]": "[Experience multiplier x 4]\n04000000 0051E63C 0B150AE8\n\n",
+        "[Experience multiplier x 8]": "[Experience multiplier x 8]\n04000000 0051E63C 0B150EE8\n\n",
+        "[Level MAX after career experience change]": "[Level MAX after career experience change]\n04000000 0090A02C 529FFFF4\n04000000 0090A030 1400000C\n\n",
+        "[MP does not decrease]": "[MP does not decrease]\n04000000 0051DF60 0B1F02A8\n\n",
+        "[No loss of HP]": "[No loss of HP]\n04000000 0051E1A8 144A4744\n04000000 017AFEB8 B9401663\n04000000 017AFEBC 35000043\n04000000 017AFEC0 B940FE76\n04000000 017AFEC4 B900FA76\n04000000 017AFEC8 17B5B8B9\n\n",
+        "[After JP change 9999]": "[After JP change 9999]\n04000000 00909F78 5284E1F4\n04000000 00909F7C 1400000C\n\n"
+    }
+}

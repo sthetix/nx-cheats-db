@@ -256,7 +256,8 @@
         "[LSC+ZL for inf action points]": "[LSC+ZL for inf action points]\n80000110\n04000000 011606A4 D503201F\n20000000\n\n",
         "[RSC+ZR for normal action points]": "[RSC+ZR for normal action points]\n80000220\n04000000 011606A4 F9023269\n20000000\n\n",
         "[1 attack for inf spirit Gauge]": "[1 attack for inf spirit Gauge]\n04000000 01160894 B829690B\n\n",
-        "[1 attack for inf spirit Gauge disable]": "[1 attack for inf spirit Gauge disable]\n04000000 01160894 B829690A\n\n"
+        "[1 attack for inf spirit Gauge disable]": "[1 attack for inf spirit Gauge disable]\n04000000 01160894 B829690A\n\n",
+        "[Created by Eiffel2018, enjoy!]": "[Created by Eiffel2018, enjoy!]\n080E0000 03E0AEE0 0B000800 7100001F\n080E0000 03E0AEE8 D65F03C0 1A80D3F3\n080E0000 03E0AEF0 7100015F 2942ABE8\n080E0000 03E0AEF8 D65F03C0 1A8AD3EA\n080E0000 03E0AF00 B9403D0A 9B085F08\n080E0000 03E0AF08 36F80053 3500006A\n080E0000 03E0AF10 D65F03C0 2A1F03F3\n080E0000 03E0AF18 7100011F B9400FE8\n080E0000 03E0AF20 D65F03C0 1A88B3E8\n\n"
     },
     "A6A06F3BAEFE4D756D773D7F3AD2D2BB00000000000000000000000000000000": {
         "[5x Exp]": "[5x Exp]\n040E0000 012362D4 0B010833\n040E0000 0124953C 0B010833\n\n",

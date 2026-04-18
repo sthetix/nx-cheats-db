@@ -1,0 +1,9 @@
+{
+    "09CDDE0C4F884143": {
+        "[Infinite HP]": "[Infinite HP]\n580f0000 04281f60\n989bf010\n540b1000 00000064\na4bf0200 00000060\n\n",
+        "[Infinite Stamina]": "[Infinite Stamina]\n580f0000 04281f60\n989bf010\n540b1000 000003a0\na4bf0200 0000039c\n\n",
+        "[Running Speed]": "[Running Speed]\n580f0000 04281f60\n780f0000 000002a9\n610f0000 00000000 00000010\n\n",
+        "[Coins 9999]": "[Coins 9999]\n580f0000 04281f60\n780f0000 00000378\n640f0000 00000000 0000270f\n\n",
+        "[Always Have 1 Key]": "[Always Have 1 Key]\n580f0000 04281f60\n780f0000 0000037c\n640f0000 00000000 00000001\n\n"
+    }
+}

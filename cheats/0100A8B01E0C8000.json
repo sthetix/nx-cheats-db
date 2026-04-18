@@ -1,0 +1,10 @@
+{
+    "B6ACB0F1227E5A35": {
+        "[shinchan speed 2x]": "[shinchan speed 2x]\n04000000 017C2AF0 1E201000\n\n",
+        "[Money not reduced]": "[Money not reduced]\n04000000 02B0F23C 4B1F0116\n\n",
+        "[Fishing 1 Turn]": "[Fishing 1 Turn]\n04000000 0281700C 4B080128\n04000000 0281700C 4B081528\n\n",
+        "[Inf Watering Can]": "[Inf Watering Can]\n04000000 02BC7148 B9005268\n04000000 02BC7148 D503201F\n\n",
+        "[Items not consumed]": "[Items not consumed]\n04000000 02D0C8A0 6B1F0129\n\n",
+        "[Inventory Qty 88]": "[Inventory Qty 88]\n04000000 02E90DB8 3DC00720\n04000000 02E90DB8 152F6498\n04000000 07A6A018 18000080\n04000000 07A6A01C B9001720\n04000000 07A6A020 3DC00720\n04000000 07A6A024 16D09B66\n04000000 07A6A028 00000058\n\n"
+    }
+}

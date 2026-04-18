@@ -1,0 +1,11 @@
+{
+    "D88F4E55D129A034": {
+        "[MASTER CODE / Restore code]": "[MASTER CODE / Restore code]\n04000000 008F6BF0 1A8BB14A\n04000000 00849974 1E209C42\n04000000 008F6C88 1A8BB14A\n04000000 008F6C34 1A8AB16A\n04000000 00834358 2A1603E1\n04000000 0084A0E8 BD028D21\n\n",
+        "[Health does not decrease]": "[Health does not decrease]\n04010000 00834358 14D55B52\n04010000 03D8B0A0 7100037F\n04010000 03D8B0A4 54000040\n04010000 03D8B0A8 B9402416\n04010000 03D8B0AC 2A1603E1\n04010000 03D8B0B0 172AA4AB\n04000000 0084A0E8 BD028D21\n\n",
+        "[Skill No CoolDown]": "[Skill No CoolDown]\n04000000 00849974 1E20AC42\n\n",
+        "[Enhancement Time of Labyrinth Drop Items Does Not Decrease]": "[Enhancement Time of Labyrinth Drop Items Does Not Decrease]\n04000000 0084A0E8 BD428D21\n\n",
+        "[Maximum gold coins after shopping]": "[Maximum gold coins after shopping]\n04000000 008F6BF0 1A8BA14A\n\n",
+        "[Max After Spending Coins]": "[Max After Spending Coins]\n04000000 008F6C88 1A8BB16A\n\n",
+        "[Max After Seed Consumption]": "[Max After Seed Consumption]\n04000000 008F6C34 1A8AB14A\n\n"
+    }
+}

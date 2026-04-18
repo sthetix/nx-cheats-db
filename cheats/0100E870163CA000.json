@@ -40,7 +40,16 @@
         "[exp x2]": "[exp x2]\n04000000 00489A18 0B080528\n\n",
         "[exp x4]": "[exp x4]\n04000000 00489A18 0B080928\n\n",
         "[exp x16]": "[exp x16]\n04000000 00489A18 0B080D28\n\n",
-        "[exp x32]": "[exp x32]\n04000000 00489A18 0B081128\n\n"
+        "[exp x32]": "[exp x32]\n04000000 00489A18 0B081128\n\n",
+        "[RRS 50% [360p]": "[RRS 50% [360p]\nRRS 50% [360p]\n04000000 0249BA50 42480000\n\n",
+        "[RRS 66.6667% [480p]": "[RRS 66.6667% [480p]\nRRS 66.6667% [480p]\n04000000 0249BA50 42855555\n\n",
+        "[RRS 75% [540p]": "[RRS 75% [540p]\nRRS 75% [540p]\n04000000 0249BA50 42960000\n\n",
+        "[RRS 90% [648p]": "[RRS 90% [648p]\nRRS 90% [648p]\n04000000 0249BA50 42B40000\n\n",
+        "[RRS 100% [720p]": "[RRS 100% [720p]\nRRS 100% [720p]\n04000000 0249BA50 42C80000\n\n",
+        "[RRS 66.6667% [720p Docked]": "[RRS 66.6667% [720p Docked]\nRRS 66.6667% [720p Docked]\n04000000 0249BA50 42855555\n\n",
+        "[RRS 75% [812p Docked]": "[RRS 75% [812p Docked]\nRRS 75% [812p Docked]\n04000000 0249BA50 42960000\n\n",
+        "[RRS 83.33% [900p Docked]": "[RRS 83.33% [900p Docked]\nRRS 83.33% [900p Docked]\n04000000 0249BA50 42A6A8F6\n\n",
+        "[RRS 100 % [1080p Docked]": "[RRS 100 % [1080p Docked]\nRRS 100 % [1080p Docked]\n04000000 0249BA50 42C80000\n\n"
     },
     "attribution": {
         "Batman Arkham Asylum.txt": "By masagrator\nRRS cheats by DAVYSGAMING\n"

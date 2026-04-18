@@ -1,0 +1,9 @@
+{
+    "1CC6E9FA89FF25A9": {
+        "[life no dec]": "[life no dec]\n04000000 004537BC 51000129\n\n",
+        "[bomb no dec]": "[bomb no dec]\n04000000 0041BFEC D503201F\n\n",
+        "[turn off asm cheats]": "[turn off asm cheats]\n04000000 004537BC 51000529\n04000000 0041BFEC 51000508\n\n",
+        "[life 3]": "[life 3]\n01000000 00A1BF6E 00000003\n\n",
+        "[bomb 3]": "[bomb 3]\n01000000 00A1BF75 00000003\n\n"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "C26E93197DEB4004": {
+        "[hp full]": "[hp full]\n04000000 00D80704 1E21BC40\n04000000 00D80704 1E21CC40\n\n",
+        "[\ue0a6 moon jump]": "[\ue0a6 moon jump]\n04000000 02ADE2F8 BD00CE6D\n80000100\n04000000 02ADE2F8 BD00CE6D\n04010000 02ADE2F8 146B8A76\n04010000 045C0CD0 1C00006D\n04010000 045C0CD4 BD00CE6D\n04010000 045C0CD8 17947589\n04010000 045C0CDC 447A0000\n20000000\n\n",
+        "[Off enable]": "[Off enable]\n04000000 00D80704 1E21BC40\n\n",
+        "[for info]": "[for info]\n20000000\n\n",
+        "[mj read]": "[mj read]\n04000000 02AD7368 BD400A60\n\n",
+        "[hp read]": "[hp read]\n04000000 00DA473C BD44C400\n\n",
+        "[for info end]": "[for info end]\n20000001\n\n"
+    }
+}

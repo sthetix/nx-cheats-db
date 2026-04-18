@@ -13,7 +13,8 @@
         "[auto win 1 off]": "[auto win 1 off]\n04000000 017E1C98 1E2E1009\n\n",
         "[auto win 1 on]": "[auto win 1 on]\n04000000 017E1C98 1E27F009\n\n",
         "[always stay first 1on ]": "[always stay first 1on ]\n04000000 0181B060 D65F03C0\n\n",
-        "[always stay first 1 off]": "[always stay first 1 off]\n04000000 0181B060 FC1D0FE8\n\n"
+        "[always stay first 1 off]": "[always stay first 1 off]\n04000000 0181B060 FC1D0FE8\n\n",
+        "[always stay first 1on]": "[always stay first 1on]\n04000000 0181B060 D65F03C0\n\n"
     },
     "9346D69ABD4CC24BA10E47C58040024400000000000000000000000000000000": {
         "[accelerartor2 1.25x]": "[accelerartor2 1.25x]\n04000000 01897C8C 1E2E9001\n\n",

@@ -39,6 +39,7 @@
         "[10x EXP Gain (Out-of-Match)]": "[10x EXP Gain (Out-of-Match)]\n04000000 09199D04 00005431\n\n",
         "[Instant Facility Construction]": "[Instant Facility Construction]\n04000000 09199D3C 00005431\n\n",
         "[+1000 to All Attributes]": "[+1000 to All Attributes]\n04000000 09199DBC 00005431\n\n",
-        "[+5431 Currency on Facility Demolition]": "[+5431 Currency on Facility Demolition]\n04000000 09199D94 00005431\n\n"
+        "[+5431 Currency on Facility Demolition]": "[+5431 Currency on Facility Demolition]\n04000000 09199D94 00005431\n\n",
+        "[end]": "[end]\n20000001\n\n"
     }
 }

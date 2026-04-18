@@ -8,7 +8,8 @@
         "[Chim gain x256]": "[Chim gain x256]\n04100000 004ACC10 0B01210A\n\n",
         "[Chim gain x256 off]": "[Chim gain x256 off]\n04100000 004ACC10 0B01010A\n\n",
         "[Chim add instead of subtract]": "[Chim add instead of subtract]\n04100000 004ACC44 0B01010A\n\n",
-        "[Chim add instead of subtract off]": "[Chim add instead of subtract off]\n04100000 004ACC44 4B01010A\n\n"
+        "[Chim add instead of subtract off]": "[Chim add instead of subtract off]\n04100000 004ACC44 4B01010A\n\n",
+        "[master code]": "[master code]\n58000000 0001B600\n40010000 00000000 006B6A90\n98100010\nA8000400 0001FC00\n58010000 0001F760\n98100010\n\n"
     },
     "18455A3B2AE872D77EF2B5F6DB37ED9E6D3AF7A9000000000000000000000000": {
         "[Breeze beta20 .hack//G.U. Last Recode 1.0.0 TID: 0100CA9014A04000 BID: 18455A3B2AE872D7]": "[Breeze beta20 .hack//G.U. Last Recode 1.0.0 TID: 0100CA9014A04000 BID: 18455A3B2AE872D7]\n58000000 0001B600\n40010000 00000000 006B6A90\n98100010\nA8000400 0001FC00\n58010000 0001F760\n98100010\n\n",

@@ -68,7 +68,8 @@
         "[Skill points x16]": "[Skill points x16]\n04000000 00448D58 0B081128\n\n",
         "[Skill points does not decrease]": "[Skill points does not decrease]\n04000000 0052DF54 71000108\n\n",
         "[Master Code]": "[Master Code]\n580F0000 023457D8\n580F1000 00000000\n580F1000 00000090\n\n",
-        "[HP does not decrease]": "[HP does not decrease]\n80001000\n400E0000 00000000 00000704\n640F01E0 00000000 4B18967F\n400E0000 00000000 00000710\n640F01E0 00000000 4B18967F\n20000000\n\n"
+        "[HP does not decrease]": "[HP does not decrease]\n80001000\n400E0000 00000000 00000704\n640F01E0 00000000 4B18967F\n400E0000 00000000 00000710\n640F01E0 00000000 4B18967F\n20000000\n\n",
+        "[\ufeff{Torchlight II V1.01 Master Code]": "[\ufeff{Torchlight II V1.01 Master Code]\n\ufeff{Torchlight II V1.01 Master Code}\n580F0000 023457D8\n580F1000 00000000\n580F1000 00000090\n\n"
     },
     "99A367D031056E1F86291B932D6FD0B5E4088F55000000000000000000000000": {
         "[16]": "[16]\n04000000 00448D58 0B081128\n\n",

@@ -14,6 +14,7 @@
         "[For info]": "[For info]\n20000000\n\n",
         "[form]": "[form]\n04000000 001E3B10 7951B108\n\n",
         "[vector]": "[vector]\n04000000 A85CBFE8 BD02F261\n\n",
-        "[ end]": "[ end]\n20000001\n\n"
+        "[ end]": "[ end]\n20000001\n\n",
+        "[end]": "[end]\n20000001\n\n"
     }
 }

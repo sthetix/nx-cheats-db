@@ -14,7 +14,8 @@
         "[3x speed]": "[3x speed]\n04000000 00A697C0 1E211000\n\n",
         "[2x speed]": "[2x speed]\n04000000 00A697C0 1E201000\n\n",
         "[1p to enemies invincible R pad]": "[1p to enemies invincible R pad]\n04000000 01FEB320 6DB733ED\n80000080\n04000000 01FEB320 D65F03C0\n20000000\n\n",
-        "[normal speed]": "[normal speed]\n04000000 00A697C0 1E2E1000\n\n"
+        "[normal speed]": "[normal speed]\n04000000 00A697C0 1E2E1000\n\n",
+        "[slow speed 0.75x]": "[slow speed 0.75x]\n04000000 00A697C0 1E2D1000\n\n"
     },
     "995105D3E4E6C234F3771A810BDD378700000000000000000000000000000000": {
         "[01# P1 Inf Health]": "[01# P1 Inf Health]\n580A0000 05CD6610\n580A1000 00000230\n580A1000 00000000\n580A1000 000001E0\n580A1000 00000148\n580A1000 00000000\n780A0000 00000048\n680A0000 461C3C00 461C3C00\n\n",

@@ -1,0 +1,50 @@
+{
+    "12F5C6CE3C66DB3E": {
+        "[X-Men Children of the Atom and Marvel Super Heroes]": "[X-Men Children of the Atom and Marvel Super Heroes]\n00000000 00000000 00000000\n\n",
+        "[p1 hp]": "[p1 hp]\n01100000 04FF5190 008F008F\n\n",
+        "[p1 sp]": "[p1 sp]\n01100000 04FF5194 008E008E\n\n",
+        "[inf time]": "[inf time]\n01100000 04FF5809 00000099\n\n",
+        "[X-Men vs. Street Fighter]": "[X-Men vs. Street Fighter]\n00000000 00000000 00000000\n\n",
+        "[p1 hp + partner]": "[p1 hp + partner]\n01100000 04FF5210 00000090\n01100000 04FF521A 00000090\n\n",
+        "[time]": "[time]\n01100000 04FF6009 00000099\n\n",
+        "[Marvel Super Heroes vs. Street Fighter]": "[Marvel Super Heroes vs. Street Fighter]\n00000000 00000000 00000000\n\n",
+        "[Marvel vs. Capcom Clash of Super Heroes]": "[Marvel vs. Capcom Clash of Super Heroes]\n00000000 00000000 00000000\n\n",
+        "[p1 helper]": "[p1 helper]\n01100000 04FF42C7 C4001C05\n\n",
+        "[Marvel vs. Capcom 2 New Age of Heroes]": "[Marvel vs. Capcom 2 New Age of Heroes]\n00000000 00000000 00000000\n\n",
+        "[The Punisher]": "[The Punisher]\n00000000 00000000 00000000\n\n",
+        "[hp ZL+ZR off]": "[hp ZL+ZR off]\n80000300\n01100000 04FF9E9E 007E0000\n21000000\n01100000 04FF9E9E 007E0088\n20000000\n\n",
+        "[bomb ZL+ZR off]": "[bomb ZL+ZR off]\n80000300\n\n"
+    },
+    "EC51E066C8494338": {
+        "[X-Men Children of the Atom and Marvel Super Heroes]": "[X-Men Children of the Atom and Marvel Super Heroes]\n00000000 00000000 00000000\n\n",
+        "[p1 hp]": "[p1 hp]\n01100000 04FF5190 008F008F\n\n",
+        "[p1 sp]": "[p1 sp]\n01100000 04FF5194 008E008E\n\n",
+        "[inf time]": "[inf time]\n01100000 04FF5809 00000099\n\n",
+        "[X-Men vs. Street Fighter]": "[X-Men vs. Street Fighter]\n00000000 00000000 00000000\n\n",
+        "[p1 hp + partner]": "[p1 hp + partner]\n01100000 04FF5210 00000090\n01100000 04FF521A 00000090\n\n",
+        "[time]": "[time]\n01100000 04FF6009 00000099\n\n",
+        "[Marvel Super Heroes vs. Street Fighter]": "[Marvel Super Heroes vs. Street Fighter]\n00000000 00000000 00000000\n\n",
+        "[Marvel vs. Capcom Clash of Super Heroes]": "[Marvel vs. Capcom Clash of Super Heroes]\n00000000 00000000 00000000\n\n",
+        "[p1 helper]": "[p1 helper]\n01100000 04FF42C7 C4001C05\n\n",
+        "[Marvel vs. Capcom 2 New Age of Heroes]": "[Marvel vs. Capcom 2 New Age of Heroes]\n00000000 00000000 00000000\n\n",
+        "[The Punisher]": "[The Punisher]\n00000000 00000000 00000000\n\n",
+        "[hp ZL+ZR off]": "[hp ZL+ZR off]\n80000300\n01100000 04FF9E9E 007E0000\n21000000\n01100000 04FF9E9E 007E0088\n20000000\n\n",
+        "[bomb ZL+ZR off]": "[bomb ZL+ZR off]\n80000300\n01100000 04FF6BCB 00000000\n21000000\n01100000 04FF6BCB 00000005\n20000000\n\n"
+    },
+    "5CC0559D7D4B6C62": {
+        "[X-Men Children of the Atom and Marvel Super Heroes]": "[X-Men Children of the Atom and Marvel Super Heroes]\n00000000 00000000 00000000\n\n",
+        "[p1 hp]": "[p1 hp]\n01100000 04FF5190 008F008F\n\n",
+        "[p1 sp]": "[p1 sp]\n01100000 04FF5194 008E008E\n\n",
+        "[inf time]": "[inf time]\n01100000 04FF5809 00000099\n\n",
+        "[X-Men vs. Street Fighter]": "[X-Men vs. Street Fighter]\n00000000 00000000 00000000\n\n",
+        "[p1 hp + partner]": "[p1 hp + partner]\n01100000 04FF5210 00000090\n01100000 04FF521A 00000090\n\n",
+        "[time]": "[time]\n01100000 04FF6009 00000099\n\n",
+        "[Marvel Super Heroes vs. Street Fighter]": "[Marvel Super Heroes vs. Street Fighter]\n00000000 00000000 00000000\n\n",
+        "[Marvel vs. Capcom Clash of Super Heroes]": "[Marvel vs. Capcom Clash of Super Heroes]\n00000000 00000000 00000000\n\n",
+        "[p1 helper]": "[p1 helper]\n01100000 04FF42C7 C4001C05\n\n",
+        "[Marvel vs. Capcom 2 New Age of Heroes]": "[Marvel vs. Capcom 2 New Age of Heroes]\n00000000 00000000 00000000\n\n",
+        "[The Punisher]": "[The Punisher]\n00000000 00000000 00000000\n\n",
+        "[hp ZL+ZR off]": "[hp ZL+ZR off]\n80000300\n01100000 04FF9E9E 007E0000\n21000000\n01100000 04FF9E9E 007E0088\n20000000\n\n",
+        "[bomb ZL+ZR off]": "[bomb ZL+ZR off]\n80000300\n01100000 04FF6BCB 00000000\n21000000\n01100000 04FF6BCB 00000005\n20000000\n\n"
+    }
+}

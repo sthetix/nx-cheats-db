@@ -50,7 +50,8 @@
         "[Fire Emblem Three Houses V1.0.2]": "[Fire Emblem Three Houses V1.0.2]\n580F0000 01A1A6E0\n580F1000 01A1A908\n580F1000 00000000\n\n",
         "[Highlight - 1 Health X+->]": "[Highlight - 1 Health X+->]\n80004004\n400C0000 00000000 000000DE\n610B01C0 00000000 00000001\n20000000\n\n",
         "[Highlight - Max Health X+<-]": "[Highlight - Max Health X+<-]\n80001004\n400C0000 00000000 000000DE\n610B01C0 00000000 000000FF\n20000000\n\n",
-        "[Highlight Pointer Code]": "[Highlight Pointer Code]\n580B0000 01A3CA48\n580B1000 00021068\n\n"
+        "[Highlight Pointer Code]": "[Highlight Pointer Code]\n580B0000 01A3CA48\n580B1000 00021068\n\n",
+        "[\ufeff{Fire Emblem Three Houses V1.0.2]": "[\ufeff{Fire Emblem Three Houses V1.0.2]\n\ufeff{Fire Emblem Three Houses V1.0.2}\n580F0000 01A1A6E0\n580F1000 01A1A908\n580F1000 00000000\n\n"
     },
     "19BA39BD3EE8131DE3EF55148CF0D59000000000000000000000000000000000": {
         "[ALL ability point +1 level up(Off)]": "[ALL ability point +1 level up(Off)]\n04000000 00392C6C F100251F\n04000000 00392D68 1A89D539\n04000000 00392EF4 1A89D539\n04000000 00392094 F100271F\n04000000 00392150 1A93A668\n04000000 00392350 1A93A668\n\n",

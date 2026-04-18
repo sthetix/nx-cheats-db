@@ -1,0 +1,14 @@
+{
+    "8984373B5DDB1B4B": {
+        "[God Mode]": "[God Mode]\n040B0000 0242E290 D65F03C0\n\n",
+        "[quick gain exp Player]": "[quick gain exp Player]\n040B0000 026FC818 0B14414A\n\n",
+        "[quick gain love exp]": "[quick gain love exp]\n040B0000 022A3564 0B144108\n\n",
+        "[quick gain exp Spirit]": "[quick gain exp Spirit]\n040B0000 026FFA24 0B174337\n\n",
+        "[quick gain exp Spirit Skill]": "[quick gain exp Spirit Skill]\n040B0000 026FFB64 0B152929\n\n",
+        "[Gold max after get some]": "[Gold max after get some]\n040B0000 026FC8CC 3B9AC9FF\n040B0000 026FC8E8 18FFFF29\n\n",
+        "[Gold not decrease]": "[Gold not decrease]\n040B0000 026FC928 51000129\n\n",
+        "[Items 999 if get some - sometimes must have at lease one to work]": "[Items 999 if get some - sometimes must have at lease one to work]\n040B0000 027024EC 52807CF4\n\n",
+        "[Items 999 if spent some]": "[Items 999 if spent some]\n040B0000 02702C64 52807CF4\n\n",
+        "[Items not decrease - use only one - this or 999 at spent]": "[Items not decrease - use only one - this or 999 at spent]\n040B0000 02702C64 71000154\n\n"
+    }
+}

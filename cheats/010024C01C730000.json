@@ -1,0 +1,14 @@
+{
+    "29DDB31581FA7134": {
+        "[Restore Code]": "[Restore Code]\n040A0000 02A57F08 97FD3F4E\n040A0000 02A6B6B4 B9407C08\n040A0000 02A2E1F8 1E2E1008\n040A0000 0287E1E0 D63F0120\n\n",
+        "[1hit kill(Solo)]": "[1hit kill(Solo)]\n040A0000 02A6B6B4 2A1F03E8\n\n",
+        "[Infinite Health Player(Solo and coop)]": "[Infinite Health Player(Solo and coop)]\n040A0000 02A57F08 D503201F\n040A0000 0287E1E0 D503201F\n\n",
+        "[No Skill cooldowns(Solo)]": "[No Skill cooldowns(Solo)]\n040A0000 02A2E1F8 1E3E1008\n\n"
+    },
+    "4C7553AFE4C8C299": {
+        "[Restore Code]": "[Restore Code]\n040A0000 02A59B18 97FD3E7A\n040A0000 02A6D2C4 B9407C08\n040A0000 02A2FC08 1E2E1008\n040A0000 0287FA80 D63F0120\n\n",
+        "[1hit kill(Solo and coop)]": "[1hit kill(Solo and coop)]\n040A0000 02A6D2C4 2A1F03E8\n\n",
+        "[Infinite Health Player(Solo and coop)]": "[Infinite Health Player(Solo and coop)]\n040A0000 02A59B18 D503201F\n040A0000 0287FA80 D503201F\n\n",
+        "[No Skill cooldowns(Solo)]": "[No Skill cooldowns(Solo)]\n040A0000 02A2FC08 1E3E1008\n\n"
+    }
+}

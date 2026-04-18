@@ -97,7 +97,8 @@
         "[No CPU Enhanced Moves ]": "[No CPU Enhanced Moves ]\n580F0000 08BC26A8\n780F0000 00000194\n640F0000 00000000 00000000\n\n",
         "[No CPU Fatal Blows Might not Work]": "[No CPU Fatal Blows Might not Work]\n580F0000 08BC26A8\n580F0000 00000158\n780F0000 000003E4\n640F0000 00000000 00000001\n\n",
         "[CPU 1Hit Death]": "[CPU 1Hit Death]\n580F0000 092B7CD8\n580F1000 00000018\n780F0000 00000C18\n640F0000 00000000 3A000000\n\n",
-        "[CPU 1 Hit Death Press R3]": "[CPU 1 Hit Death Press R3]\n80000020\n580F0000 092B7CD8\n580F1000 00000018\n780F0000 00000C18\n640F0000 00000000 00000000\n20000000\n\n"
+        "[CPU 1 Hit Death Press R3]": "[CPU 1 Hit Death Press R3]\n80000020\n580F0000 092B7CD8\n580F1000 00000018\n780F0000 00000C18\n640F0000 00000000 00000000\n20000000\n\n",
+        "[No CPU Enhanced Moves]": "[No CPU Enhanced Moves]\n580F0000 08BC26A8\n780F0000 00000194\n640F0000 00000000 00000000\n\n"
     },
     "2102A7476C861BE34E6C9B5C1FDCB83500000000000000000000000000000000": {
         "[CPU 1 Hit Death Press R3]": "[CPU 1 Hit Death Press R3]\n80000020\n580F0000 092B7CD8\n580F1000 00000018\n780F0000 00000C18\n640F0000 00000000 00000000\n20000000\n\n",
@@ -184,7 +185,8 @@
         "[CPU 1Hit Death @Smoker1]": "[CPU 1Hit Death @Smoker1]\n580F0000 08701FE8\n580F1000 00000018\n780F0000 00000C20\n640F0000 00000000 3A000000\n\n",
         "[CPU 1 Hit Death Press R3 @Smoker1]": "[CPU 1 Hit Death Press R3 @Smoker1]\n80000020\n580F0000 08701FE8\n580F1000 00000018\n780F0000 00000C20\n640F0000 00000000 00000000\n20000000\n\n",
         "[Unlock Collection Chars Stages OFF DaBlackDeath]": "[Unlock Collection Chars Stages OFF DaBlackDeath]\n04000000 02562D60 2A1303E0\n\n",
-        "[Unlock Collection + Chars + Stages (On) @made by DaBlackDeath]": "[Unlock Collection + Chars + Stages (On) @made by DaBlackDeath]\n04000000 02562D60 52800020\n\n"
+        "[Unlock Collection + Chars + Stages (On) @made by DaBlackDeath]": "[Unlock Collection + Chars + Stages (On) @made by DaBlackDeath]\n04000000 02562D60 52800020\n\n",
+        "[Unlock Collection Chars Stages ON @DaBlackDeath]": "[Unlock Collection Chars Stages ON @DaBlackDeath]\n04000000 02562D60 52800020\n\n"
     },
     "4DB479BDEC804FCA9FE8AE40F099F7E500000000000000000000000000000000": {
         "[1P Inf Enhanced and Interactions]": "[1P Inf Enhanced and Interactions]\n580F0000 080099B0\n780F0000 00000194\n640F0000 00000000 44FA0000\n580F0000 080099B0\n780F0000 00000184\n640F0000 00000000 44FA0000\n\n",
@@ -351,7 +353,8 @@
         "{Unlock Collection Chars Stages ON BlackDeath}": "{Unlock Collection Chars Stages ON BlackDeath}\n04000000 025A6060 52800020\n\n",
         "[Easy Fatalities ON - BlackDeath]": "[Easy Fatalities ON - BlackDeath]\n04000000 024A3668 52800020\n04000000 024A36A8 52800020\n\n",
         "[Easy Fatalities OFF - BlackDeath]": "[Easy Fatalities OFF - BlackDeath]\n04000000 024A3668 2A1F03E0\n04000000 024A36A8 B9447660\n\n",
-        "[Unlock Collection + Chars + Stages (Off) - BlackDeath]": "[Unlock Collection + Chars + Stages (Off) - BlackDeath]\n04000000 025A6060 2A1303E0\n\n"
+        "[Unlock Collection + Chars + Stages (Off) - BlackDeath]": "[Unlock Collection + Chars + Stages (Off) - BlackDeath]\n04000000 025A6060 2A1303E0\n\n",
+        "[Unlock Collection Chars Stages ON BlackDeath]": "[Unlock Collection Chars Stages ON BlackDeath]\n04000000 025A6060 52800020\n\n"
     },
     "71F12F744212CBE8D3AD3E366C182F2B00000000000000000000000000000000": {
         "[1P Inf Enhanced Moves Interactions]": "[1P Inf Enhanced Moves Interactions]\n580F0000 0B7539B0\n780F0000 00000184\n640F0000 00000000 44FA0000\n580F0000 0B7539B0\n780F0000 00000194\n640F0000 00000000 44FA0000\n\n",
