@@ -3,7 +3,7 @@
 
 A database of cheats for the Nintendo Switch. It updates once a day, see the date in the release. Download individual cheats directly from your Switch with [All-in-One-Switch-Updater](https://github.com/HamletDuFromage/aio-switch-updater)
 
-Mirror from https://gbatemp.net/download/cheat-codes-sxos-and-ams-main-cheat-file-updated.36311/ and https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats
+Mirror from https://gbatemp.net/download/cheat-codes-sxos-and-ams-main-cheat-file-updated.36311/, https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats, https://github.com/HamletDuFromage/switch-cheats-db, and https://www.cheatslips.com
 
 All credits go to the authors of the cheat codes.
 
