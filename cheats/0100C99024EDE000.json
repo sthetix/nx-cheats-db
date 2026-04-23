@@ -52,6 +52,7 @@
         "[Get Item x32 (Effect Item Use)]": "[Get Item x32 (Effect Item Use)]\n04000000 00EA07BC 0B161503\n\n",
         "[Get Item x64 (Effect Item Use)]": "[Get Item x64 (Effect Item Use)]\n04000000 00EA07BC 0B161903\n\n",
         "[All Exist Card = 80 Qty (DeckCard Menu)]": "[All Exist Card = 80 Qty (DeckCard Menu)]\n04000000 02304CBC 79403B08\n04000000 02304CBC 15E3E9F5\n04000000 09BFF490 18000068\n04000000 09BFF494 79003B08\n04000000 09BFF498 161C160A\n04000000 09BFF49C 00000050\n\n",
-        "[--SectionEnd: SF 3 Code--]": "[--SectionEnd: SF 3 Code--]\n00000000 00000000 00000000\n\n"
+        "[--SectionEnd: SF 3 Code--]": "[--SectionEnd: SF 3 Code--]\n00000000 00000000 00000000\n\n",
+        "[Limit 240 for each card]": "[Limit 240 for each card]\n04000000 02171FCC 7103C17F\n04000000 02171FD4 7103C57F\n04000000 02171FD8 52801E0B\n\n"
     }
 }
