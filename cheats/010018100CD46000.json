@@ -84,7 +84,21 @@
         "[Barril explosivo Slot 1]": "[Barril explosivo Slot 1]\n08100000 081A3AF4 F0FF0F05 0001017A\n\n",
         "[Hacha DLC Slot 1]": "[Hacha DLC Slot 1]\n08100000 081A3AF4 F0FF0F05 0001017B\n\n",
         "[Flecha explosiva Slot 1]": "[Flecha explosiva Slot 1]\n08100000 081A3AF4 F0FF0F05 00010180\n\n",
-        "[Flecha fuego Slot 1]": "[Flecha fuego Slot 1]\n08100000 081A3AF4 F0FF0F05 00010181\n\n"
+        "[Flecha fuego Slot 1]": "[Flecha fuego Slot 1]\n08100000 081A3AF4 F0FF0F05 00010181\n\n",
+        "[God Mode Enable]": "[God Mode Enable]\n04000000 007A7934 D503201F\n\n",
+        "[free shopping]": "[free shopping]\n04000000 00521200 B900A11F\n04000000 00521204 6B09013F\n\n",
+        "[No Reloading Required]": "[No Reloading Required]\n04000000 00973D18 7100016B\n\n",
+        "[Items Unlimited]": "[Items Unlimited]\n04000000 007BEC3C 71000109\n\n",
+        "[life Unlimited]": "[life Unlimited]\n04000000 007A7604 4B1F03E9\n04000000 007A760C 13003FE1\n\n",
+        "[Time does not decrease on]": "[Time does not decrease on]\n04000000 000EC81C 1E2703E8\n\n",
+        "[Mercenary mode scores 4x]": "[Mercenary mode scores 4x]\n04000000 000F9564 0B16096B\n\n",
+        "[Mercenary mode kill 5x]": "[Mercenary mode kill 5x]\n04000000 000F9578 1100156B\n\n",
+        "[Mercenary mode combo 5x]": "[Mercenary mode combo 5x]\n04000000 000F958C 1100156B\n\n",
+        "[Swap without PTS]": "[Swap without PTS]\n04000000 00587CF4 B901ED1F\n04000000 00587D04 6B09013F\n\n",
+        "[99,999,999 Money]": "[99,999,999 Money]\n580F0000 01CF7A40\n780F0000 00000280\n640F0000 00000000 05F5E0FF\n\n",
+        "[inf health on]": "[inf health on]\n04000000 007A7630 793D726A\n\n",
+        "[inf Vehicle health on]": "[inf Vehicle health on]\n08000000 01194F00 1A880148\n7136B15F 08000000 01194F08\n17BCB553 793D7008 04000000\n000C2454 14434AAB\n\n",
+        "[Machine gun no overheat(flt 0-1)]": "[Machine gun no overheat(flt 0-1)]\n04000000 007EA98C B9287E7F\n\n"
     },
     "C517ECBB79DE9733": {
         "[Infinite/Max Money]": "[Infinite/Max Money]\n04100000 081a0320 05F5E0FF\n\n",
