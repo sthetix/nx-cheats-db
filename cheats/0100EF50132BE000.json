@@ -63,15 +63,15 @@
         "[new fate ptr]": "[new fate ptr]\n580F0000 016B78C0\n580F1000 00000040\n580F1000 000000B8\n580F1000 00000238\n580F1000 00000138\n780F0000 0000030C\n640F0000 00000000 00000109\n\n",
         "[new gold ptr]": "[new gold ptr]\n580F0000 016B78C0\n580F1000 00000040\n580F1000 000000B8\n580F1000 00000238\n580F1000 00000138\n780F0000 00000494\n640F0000 00000000 000F346C\n\n"
     },
-    "attribution": {
-        "Kingdoms of Amalur Re Reckoning ver 1.02 by gamerjin and Xtatu.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}",
-        "Kingdoms of Amalur Re-Reckoning.txt": "by hazerou"
-    },
     "FA48B344ED72F24D": {
         "[HP]": "[HP]\n580F0000 016CD0B0\n580F1000 00000010\n580F1000 00000008\n580F1000 00000008\n780F0000 0000005C\n640F1000 00000000 000003E7\n640F0000 00000000 000003E7\n\n",
         "[Coins 100M (ZL+ZR)]": "[Coins 100M (ZL+ZR)]\n80000300\n580F0000 016C8900\n580F1000 00000160\n580F1000 00000140\n580F1000 00000008\n580F1000 00000008\n580F1000 00000010\n580F1000 00000008\n780F0000 0000017C\n640F0000 00000000 05F5E0FF\n20000000\n\n",
         "[Restore Code]": "[Restore Code]\n04000000 007AD1DC 0B01010A\n04000000 007B3AA4 7100054A\n\n",
         "[Mana]": "[Mana]\n04000000 007AD1DC 52807CEA\n\n",
         "[Items + Arrows x99 (On Use)]": "[Items + Arrows x99 (On Use)]\n04000000 007B3AA4 52800C6A\n\n"
+    },
+    "attribution": {
+        "Kingdoms of Amalur Re Reckoning ver 1.02 by gamerjin and Xtatu.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}",
+        "Kingdoms of Amalur Re-Reckoning.txt": "by hazerou"
     }
 }

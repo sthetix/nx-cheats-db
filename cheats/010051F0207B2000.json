@@ -8,6 +8,12 @@
         "[99 items on change]": "[99 items on change]\n040A0000 01D7D498 52800C68\n\n",
         "[99 Wishes (get/Use one)]": "[99 Wishes (get/Use one)]\n040A0000 01D425AC 52800C68\n\n"
     },
+    "86867CB7D07E4437": {
+        "[Restore Code]": "[Restore Code]\n040A0000 01D6D440 6B09011F\n040A0000 01D7D498 1A88B3E8\n040A0000 01D425AC 71000508\n\n",
+        "[Infinite Money]": "[Infinite Money]\n040A0000 01D6D440 2A0903E8\n\n",
+        "[99 items on change]": "[99 items on change]\n040A0000 01D7D498 52800C68\n\n",
+        "[99 Wishes (get/Use one)]": "[99 Wishes (get/Use one)]\n040A0000 01D425AC 52800C68\n\n"
+    },
     "A1EFE1B6BBB0328F": {
         "[Tomodachi Life: Living the Dream 1.0.2 TID: 010051F0207B2000 BID: A1EFE1B6BBB0328F]": "[Tomodachi Life: Living the Dream 1.0.2 TID: 010051F0207B2000 BID: A1EFE1B6BBB0328F]\n\n",
         "[Restore Code/Off Enable]": "[Restore Code/Off Enable]\n04000000 003FACF0 B9400101\n04000000 01CCE284 B9401000\n04000000 01CD179C B9401015\n04000000 01FAE208 B940DA88\n040A0000 016CA698 6B09011F\n040A0000 01D65820 1A88B3E8\n040A0000 01D2A98C 71000508\n040A0000 016FC8C0 B9000017\n\n",
@@ -23,11 +29,5 @@
     },
     "attribution": {
         "Tomodachi Life Living the Dream.txt": "By masagrator\nHow to update:\nFind nnMain()\nSearch where 0x300000002LL is written, you will find this way a main pointer used by cheat\n\nCheat adjusts max available nvn interval, game will adjust itself nvn interval based on available power\n"
-    },
-    "86867CB7D07E4437": {
-        "[Restore Code]": "[Restore Code]\n040A0000 01D6D440 6B09011F\n040A0000 01D7D498 1A88B3E8\n040A0000 01D425AC 71000508\n\n",
-        "[Infinite Money]": "[Infinite Money]\n040A0000 01D6D440 2A0903E8\n\n",
-        "[99 items on change]": "[99 items on change]\n040A0000 01D7D498 52800C68\n\n",
-        "[99 Wishes (get/Use one)]": "[99 Wishes (get/Use one)]\n040A0000 01D425AC 52800C68\n\n"
     }
 }
