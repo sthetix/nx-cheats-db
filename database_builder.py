@@ -1,291 +1,261 @@
-#!/usr/bin/env python3
-
-import rarfile
-import zipfile
-import cloudscraper
-import json
+import os
 import shutil
+import zipfile
+import logging
 from pathlib import Path
 from datetime import date, datetime
+
+import cloudscraper
+import rarfile
 from bs4 import BeautifulSoup
-import os
 
 import process_cheats
 
-
-def version_parser(version):
-    year = int(version[4:8])
-    month = int(version[0:2])
-    day = int(version[2:4])
-    return date(year, month, day)
-
+# Configure logging
+logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
+logger = logging.getLogger(__name__)
 
 class DatabaseInfo:
     def __init__(self):
         self.scraper = cloudscraper.create_scraper()
-        self.database_version_url = "https://github.com/HamletDuFromage/switch-cheats-db/releases/latest/download/VERSION"
-        self.database_version = self.fetch_database_version()
-
-    def fetch_database_version(self):
-        version = self.scraper.get(self.database_version_url).text
-        return date.fromisoformat(version)
+        self.version_url = "https://github.com/HamletDuFromage/switch-cheats-db/releases/latest/download/VERSION"
 
     def get_database_version(self):
-        return self.database_version
-
+        try:
+            response = self.scraper.get(self.version_url, timeout=10)
+            response.raise_for_status()
+            return date.fromisoformat(response.text.strip())
+        except Exception as e:
+            logger.error(f"Failed to fetch database version: {e}")
+            return date.min
 
 class GbatempCheatsInfo:
     def __init__(self):
         self.scraper = cloudscraper.create_scraper()
-        # Use GitHub mirror as primary source (more reliable than web scraping)
         self.github_api_url = "https://api.github.com/repos/tomvita/NXCheatCode/releases/latest"
-        self.github_download_url = None
         self.page_url = "https://gbatemp.net/download/cheat-codes-sxos-and-ams-main-cheat-file-updated.36311/"
+        self.github_download_url = None
         self.latest_update_id = None
-        self.gbatemp_version = self.fetch_gbatemp_version()
+        self.version = self.fetch_version()
 
-    def fetch_gbatemp_version(self):
-        # Try GitHub mirror first (more reliable)
+    def fetch_version(self):
+        # Try GitHub mirror first
         try:
             token = os.getenv('GITHUB_TOKEN')
             headers = {'Authorization': f'token {token}'} if token else {}
-
-            response = self.scraper.get(self.github_api_url, headers=headers)
-            if response.status_code == 200:
-                release_data = response.json()
-
-                # Get the published date
-                published_at = release_data.get("published_at")
+            resp = self.scraper.get(self.github_api_url, headers=headers)
+            if resp.status_code == 200:
+                data = resp.json()
+                published_at = data.get("published_at")
                 if published_at:
-                    version = datetime.fromisoformat(published_at.replace("Z", "+00:00"))
-                    print(f"Found GitHub mirror release: {release_data.get('tag_name')} from {version.date()}")
-
-                    # Get download URL for titles.zip
-                    for asset in release_data.get("assets", []):
+                    for asset in data.get("assets", []):
                         if asset.get("name") == "titles.zip":
                             self.github_download_url = asset.get("browser_download_url")
-                            print(f"Using GitHub mirror download URL")
                             break
-
-                    return version.date()
+                    return datetime.fromisoformat(published_at.replace("Z", "+00:00")).date()
         except Exception as e:
-            print(f"GitHub mirror fetch failed: {e}, falling back to GBAtemp scraping")
+            logger.warning(f"GitHub mirror check failed: {e}")
 
-        # Fallback to GBAtemp scraping
+        # Fallback to GBAtemp
         try:
-            page = self.scraper.get(f"{self.page_url}/updates")
-            soup = BeautifulSoup(page.content, "html.parser")
+            resp = self.scraper.get(f"{self.page_url}/updates")
+            resp.raise_for_status()
+            soup = BeautifulSoup(resp.content, "html.parser")
 
-            # Try to find update links to get the latest update ID
-            update_links = soup.find_all("a", href=True)
             update_ids = []
-            for link in update_links:
-                href = link.get("href", "")
-                if "/update/" in href:
-                    # Extract update ID from URL like /update/41725/
-                    parts = href.split("/update/")
+            for link in soup.find_all("a", href=True):
+                if "/update/" in link['href']:
+                    parts = link['href'].split("/update/")
                     if len(parts) > 1:
-                        update_id = parts[1].strip("/")
-                        if update_id.isdigit():
-                            update_ids.append(int(update_id))
-
+                        uid = parts[1].strip("/")
+                        if uid.isdigit():
+                            update_ids.append(int(uid))
             if update_ids:
                 self.latest_update_id = max(update_ids)
-                print(f"Found latest GBAtemp update ID: {self.latest_update_id}")
 
-            block_container = soup.find("div", {"class": "block-container"})
-            if block_container is None:
-                print("Warning: Could not parse GBAtemp page, using current date as version")
-                return date.today()
-            dates = block_container.find_all("time", {"class": "u-dt"})
-            if not dates:
-                print("Warning: No dates found on GBAtemp page, using current date as version")
-                return date.today()
-            version = max([datetime.fromisoformat(date.get("datetime")) for date in dates])
-            return version.date()
+            block = soup.find("div", {"class": "block-container"})
+            if block:
+                dates = block.find_all("time", {"class": "u-dt"})
+                if dates:
+                    return max(datetime.fromisoformat(d.get("datetime")).date() for d in dates)
         except Exception as e:
-            print(f"Error fetching GBAtemp version: {e}")
-            return date.today()
+            logger.error(f"GBAtemp scraping failed: {e}")
 
-    def has_new_cheats(self, database_version):
-        return self.gbatemp_version > database_version
+        return date.today()
 
-    def get_gbatemp_version(self):
-        return self.gbatemp_version
+    def has_new_cheats(self, db_version):
+        return self.version > db_version
 
     def get_download_url(self):
-        # Prefer GitHub mirror if available
         if self.github_download_url:
             return self.github_download_url
-        # Try GBAtemp with update ID
         if self.latest_update_id:
             return f"{self.page_url}update/{self.latest_update_id}/download"
-        # Fallback to generic download
         return f"{self.page_url}download"
-
 
 class HighFPSCheatsInfo:
     def __init__(self):
         self.scraper = cloudscraper.create_scraper()
         self.download_url = "https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats/archive/refs/heads/main.zip"
         self.api_url = "https://api.github.com/repos/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats/branches/main"
-        self.highfps_version = self.fetch_high_FPS_cheats_version()
+        self.version = self.fetch_version()
 
-    def fetch_high_FPS_cheats_version(self):
-        token = os.getenv('GITHUB_TOKEN')
-        if token is not None:
-            headers = {'Authorization': f'token {token}'}
-        else:
-            headers = {}
-        repo_info = self.scraper.get(self.api_url, headers=headers).json()
-        last_commit_date = repo_info.get("commit").get("commit").get("author").get("date")
-        return date.fromisoformat(last_commit_date.split("T")[0])
+    def fetch_version(self):
+        try:
+            token = os.getenv('GITHUB_TOKEN')
+            headers = {'Authorization': f'token {token}'} if token else {}
+            resp = self.scraper.get(self.api_url, headers=headers)
+            resp.raise_for_status()
+            last_commit = resp.json().get("commit", {}).get("commit", {}).get("author", {}).get("date")
+            return date.fromisoformat(last_commit.split("T")[0])
+        except Exception as e:
+            logger.error(f"HighFPS version check failed: {e}")
+            return date.today()
 
-    def has_new_cheats(self, database_version):
-        return self.highfps_version > database_version
+    def has_new_cheats(self, db_version):
+        return self.version > db_version
 
-    def get_high_FPS_version(self):
-        return self.highfps_version
-
-    def get_download_url(self):
-        return self.download_url
-
-
-class ArchiveWorker():
+class ArchiveWorker:
     def __init__(self):
         self.scraper = cloudscraper.create_scraper()
 
-    def download_archive(self, url, path):
-        dl = self.scraper.get(url, allow_redirects=True)
-        open(path, "wb").write(dl.content)
+    def download_archive(self, url, dest_path):
+        try:
+            resp = self.scraper.get(url, allow_redirects=True)
+            resp.raise_for_status()
+            Path(dest_path).write_bytes(resp.content)
+            logger.info(f"Downloaded {url} to {dest_path}")
+        except Exception as e:
+            logger.error(f"Download failed: {e}")
 
-    def extract_archive(self, path, extract_path=None):
-        if rarfile.is_rarfile(path):
-            rf = rarfile.RarFile(path)
-            rf.extractall(path=extract_path)
-        elif zipfile.is_zipfile(path):
-            zf = zipfile.ZipFile(path)
-            zf.extractall(path=extract_path)
-        else:
+    def extract_archive(self, archive_path, extract_path):
+        extract_path = Path(extract_path)
+        extract_path.mkdir(parents=True, exist_ok=True)
+        try:
+            if rarfile.is_rarfile(str(archive_path)):
+                with rarfile.RarFile(str(archive_path)) as rf:
+                    rf.extractall(path=str(extract_path))
+            elif zipfile.is_zipfile(str(archive_path)):
+                with zipfile.ZipFile(str(archive_path)) as zf:
+                    zf.extractall(path=str(extract_path))
+            else:
+                logger.error(f"Unsupported archive format: {archive_path}")
+                return False
+            logger.info(f"Extracted {archive_path} to {extract_path}")
+            return True
+        except Exception as e:
+            logger.error(f"Extraction failed for {archive_path}: {e}")
             return False
-        return True
 
     def build_cheat_files(self, cheats_path, out_path):
         cheats_path = Path(cheats_path)
-        titles_path = Path(out_path).joinpath("titles")
-        if not(titles_path.exists()):
-            titles_path.mkdir(parents=True)
-        for tid in cheats_path.iterdir():
-            tid_path = titles_path.joinpath(tid.stem)
+        titles_path = Path(out_path) / "titles"
+        titles_path.mkdir(parents=True, exist_ok=True)
+
+        for json_file in cheats_path.glob("*.json"):
+            tid = json_file.stem
+            tid_path = titles_path / tid
             tid_path.mkdir(exist_ok=True)
-            with open(tid, "r") as cheats_file:
-                cheats_dict = json.load(cheats_file)
-            for key, value in cheats_dict.items():
-                if key == "attribution":
-                    for author, content in value.items():
-                        with open(tid_path.joinpath(author), "w") as attribution_file:
-                            attribution_file.write(content)
-                else:
-                    cheats_folder = tid_path.joinpath("cheats")
-                    cheats_folder.mkdir(exist_ok=True)
-                    cheats = ""
-                    for _, content in value.items():
-                        cheats += content
-                    if cheats:
-                        with open(cheats_folder.joinpath(f"{key}.txt"), "w") as bid_file:
-                            bid_file.write(cheats)
 
-    def touch_all(self, path):
-        for path in path.rglob("*"):
-            if path.is_file():
-                path.touch()
+            try:
+                with open(json_file, "r") as f:
+                    data = json.load(f)
 
-    def create_archives(self, out_path):
-        out_path = Path(out_path)
-        titles_path = out_path.joinpath("titles")
-        self.touch_all(titles_path)
-        shutil.make_archive(str(titles_path.resolve()), "zip", root_dir=out_path, base_dir="titles")
-        try:
-            contents_path = titles_path.rename(titles_path.parent.joinpath("contents"))
-        except OSError:
-            contents_path = out_path.joinpath("contents")
-        self.touch_all(contents_path)
-        shutil.make_archive(str(contents_path.resolve()), "zip", root_dir=out_path, base_dir="contents")
+                for key, value in data.items():
+                    if key == "attribution":
+                        for author, content in value.items():
+                            (tid_path / author).write_text(content, encoding="utf-8")
+                    else:
+                        cheats_folder = tid_path / "cheats"
+                        cheats_folder.mkdir(exist_ok=True)
+                        if isinstance(value, dict):
+                            cheats_content = "".join(value.values())
+                            if cheats_content:
+                                (cheats_folder / f"{key}.txt").write_text(cheats_content, encoding="utf-8")
+            except Exception as e:
+                logger.error(f"Error building cheat files for {tid}: {e}")
 
-    def create_version_file(self, out_path="."):
-        with open(f"{out_path}/VERSION", "w") as version_file:
-            version_file.write(str(date.today()))
+    def create_archives(self, base_dir, name_prefix):
+        base_dir = Path(base_dir)
+        titles_dir = base_dir / "titles"
+        if not titles_dir.exists():
+            return
 
-def count_cheats(cheats_directory):
+        # Atmosphere format (contents/)
+        contents_dir = base_dir / "contents"
+        if contents_dir.exists():
+            shutil.rmtree(contents_dir)
+        shutil.copytree(titles_dir, contents_dir)
+
+        shutil.make_archive(f"contents_{name_prefix}", "zip", root_dir=base_dir, base_dir="contents")
+        shutil.make_archive(f"titles_{name_prefix}", "zip", root_dir=base_dir, base_dir="titles")
+        logger.info(f"Created archives for {name_prefix}")
+
+def count_cheats(cheats_dir):
     n_games = 0
     n_updates = 0
     n_cheats = 0
-    for json_file in Path(cheats_directory).glob('*.json'):
-        with open(json_file, 'r') as file:
-            cheats = json.load(file)
-            for bid in cheats.values():
-                n_cheats += len(bid)
-                n_updates += 1
-        n_games += 1
-
-    readme_file = Path('README.md')
-    with readme_file.open('r') as file:
-        lines = file.readlines()
-    lines[-1] = f"{n_cheats} cheats in {n_games} titles/{n_updates} updates"
-    with readme_file.open('w') as file:
-        file.writelines(lines)
-
-if __name__ == '__main__':
-    cheats_path = "cheats"
-    cheats_gba_path = "cheats_gbatemp"
-    cheats_gfx_path = "cheats_gfx"
-    archive_path = "titles.zip"
-    database = DatabaseInfo()
-    database_version = database.get_database_version()
-    highfps = HighFPSCheatsInfo()
-    gbatemp = GbatempCheatsInfo()
-    #if gbatemp.has_new_cheats(database_version) or highfps.has_new_cheats(database_version):
-    if True:
-        archive_worker = ArchiveWorker()
-        print(f"Downloading cheats")
-        archive_worker.download_archive(gbatemp.get_download_url(), archive_path)
-        archive_worker.extract_archive(archive_path, "gbatemp")
-
-        # Debug: List what was extracted
-        gbatemp_path = Path("gbatemp")
-        if gbatemp_path.exists():
-            print(f"Contents of gbatemp directory: {list(gbatemp_path.iterdir())}")
-
-        archive_worker.download_archive(highfps.get_download_url(), archive_path)
-        archive_worker.extract_archive(archive_path)
-
-        print("Processing the cheat sheets")
-        gbatemp_titles_path = Path("gbatemp/titles")
-        if not gbatemp_titles_path.exists():
-            print(f"Warning: {gbatemp_titles_path} does not exist, skipping GBAtemp processing")
-        else:
-            process_cheats.ProcessCheats("gbatemp/titles", cheats_gba_path)
-            process_cheats.ProcessCheats("gbatemp/titles", cheats_path) # this could be done more elegantly
-
-        process_cheats.ProcessCheats("NX-60FPS-RES-GFX-Cheats-main/titles", cheats_gfx_path)
-        process_cheats.ProcessCheats("NX-60FPS-RES-GFX-Cheats-main/titles", cheats_path)
-
-        print("building complete cheat sheets")
-        out_path = Path("complete")
+    for json_file in Path(cheats_dir).glob("*.json"):
         try:
-           out_path.mkdir()
-        except FileExistsError:
-           pass
-        archive_worker.build_cheat_files(cheats_path, out_path)
+            with open(json_file, "r") as f:
+                data = json.load(f)
+                for key, bid_data in data.items():
+                    if key != "attribution":
+                        if isinstance(bid_data, dict): n_cheats += len(bid_data)
+                        n_updates += 1
+            n_games += 1
+        except Exception:
+            continue
 
-        print("Creating the archives")
-        archive_worker.create_archives("complete")
-        archive_worker.create_archives("NX-60FPS-RES-GFX-Cheats-main")
-        archive_worker.create_archives("gbatemp")
+    stats = f"{n_cheats} cheats in {n_games} titles/{n_updates} updates"
+    readme = Path("README.md")
+    if readme.exists():
+        content = readme.read_text()
+        if "## Cheats count" in content:
+            parts = content.split("## Cheats count")
+            content = parts[0] + "## Cheats count\n" + stats + "\n"
+        else:
+            content += "\n## Cheats count\n" + stats + "\n"
+        readme.write_text(content)
+    logger.info(f"Database stats: {stats}")
 
-        archive_worker.create_version_file()
+if __name__ == "__main__":
+    db = DatabaseInfo()
+    db_version = db.get_database_version()
+    gbatemp = GbatempCheatsInfo()
+    highfps = HighFPSCheatsInfo()
 
-        count_cheats(cheats_path)
+    if gbatemp.has_new_cheats(db_version) or highfps.has_new_cheats(db_version)  :
+        worker = ArchiveWorker()
 
+        # GBAtemp
+        worker.download_archive(gbatemp.get_download_url(), "gbatemp.zip")
+        if worker.extract_archive("gbatemp.zip", "gbatemp_raw"):
+            process_cheats.ProcessCheats("gbatemp_raw/titles", "cheats_gbatemp")
+            process_cheats.ProcessCheats("gbatemp_raw/titles", "cheats")
+
+        # High FPS
+        worker.download_archive(highfps.download_url, "highfps.zip")
+        if worker.extract_archive("highfps.zip", "highfps_raw"):
+            # Find the actual titles directory inside the extracted zip
+            titles_dir = next(Path("highfps_raw").glob("**/titles"), None)
+            if titles_dir:
+                process_cheats.ProcessCheats(titles_dir, "cheats_gfx")
+                process_cheats.ProcessCheats(titles_dir, "cheats")
+
+        # Build complete database
+        worker.build_cheat_files("cheats", "complete")
+
+        # Create final archives
+        worker.create_archives("complete", "complete")
+
+        # Cleanup
+        for p in ["gbatemp.zip", "highfps.zip", "gbatemp_raw", "highfps_raw"]:
+            path = Path(p)
+            if path.is_file(): path.unlink()
+            elif path.is_dir(): shutil.rmtree(path)
+
+        Path("VERSION").write_text(str(date.today()))
+        count_cheats("cheats")
     else:
-        print("Everything is already up to date!")
+        logger.info("Everything is up to date.")

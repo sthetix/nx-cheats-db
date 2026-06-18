@@ -1,114 +1,124 @@
-#!/usr/bin/env python3
-
 import json
+import logging
 import re
+from pathlib import Path
+
 import requests
-import os
+
+# Configure logging
+logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
+logger = logging.getLogger(__name__)
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
 }
 
-
 class ProcessVersions:
     def __init__(self, cnmts_url, titles_url, versions_url):
-        self.json_path = "versions.json"
-        self.dir_path = "versions/"
+        self.json_path = Path("versions.json")
+        self.dir_path = Path("versions/")
         self.changed = False
-        self.versions_dict = dict()
-        self.data = dict()
+        self.versions_dict = {}
+
         try:
-            self.data = self.merge_cmts_and_versions(cnmts_url, versions_url)
-        except ValueError:
-            print("Invalid JSON file!")
-        self.title_dict = self.create_names_dict(titles_url)
+            self.data = self.merge_cnmts_and_versions(cnmts_url, versions_url)
+            self.title_dict = self.create_names_dict(titles_url)
+        except Exception as e:
+            logger.error(f"Initialization failed: {e}")
+            self.data = {}
+            self.title_dict = {}
 
-    def merge_cmts_and_versions(self, cnmts_url, versions_url):
-        cnmt_resp = requests.get(cnmts_url, headers=HEADERS)
-        ver_resp = requests.get(versions_url, headers=HEADERS)
-        cmnts = json.loads(cnmt_resp.text)
-        versions = json.loads(ver_resp.text)
-        for tid, value in versions.items():
-            cmnts[tid] = {**value, **cmnts.get(tid, {})}
-        return cmnts
+    def merge_cnmts_and_versions(self, cnmts_url, versions_url):
+        try:
+            cnmt_resp = requests.get(cnmts_url, headers=HEADERS)
+            ver_resp = requests.get(versions_url, headers=HEADERS)
+            cnmt_resp.raise_for_status()
+            ver_resp.raise_for_status()
 
-    def update_versions(self):
-        if self.data:
-            self.get_version_dict()
-            self.check_for_changes()
-            self.write_master_files()
-            self.write_title_files()
+            cnmts = cnmt_resp.json()
+            versions = ver_resp.json()
 
-    SWITCH2_KEYWORDS = ("Nintendo Switch 2", "Nintendo Switch\u2122 2")
+            for tid, value in versions.items():
+                if tid in cnmts:
+                    cnmts[tid].update(value)
+                else:
+                    cnmts[tid] = value
+            return cnmts
+        except Exception as e:
+            logger.error(f"Failed to merge CNMTs and versions: {e}")
+            return {}
 
     def is_switch2_title(self, title):
-        return any(kw in title for kw in self.SWITCH2_KEYWORDS)
+        keywords = ("Nintendo Switch 2", "Nintendo Switch\u2122 2")
+        return any(kw in title for kw in keywords)
 
     def get_version_dict(self):
-        for tid in self.data:
+        cheats_dir = Path("cheats")
+        for tid, versions in self.data.items():
             tid_base = tid[:13].upper() + "000"
-            if (tid_base) not in self.versions_dict:
+            if tid_base not in self.versions_dict:
                 title = self.title_dict.get(tid_base, "")
-                has_cheats = os.path.exists(f"cheats/{tid_base}.json")
+                has_cheats = (cheats_dir / f"{tid_base}.json").exists()
+
                 if title and self.is_switch2_title(title) and not has_cheats:
                     continue
+
                 self.versions_dict[tid_base] = {}
                 if title:
-                    clean_title = re.sub(
-                        r"[\s\-–:]+Nintendo Switch[\u2122]? 2.*$", "", title
-                    ).strip()
+                    clean_title = re.sub(r"[\s\-–:]+Nintendo Switch[\u2122]? 2.*$", "", title).strip()
                     self.versions_dict[tid_base]["title"] = clean_title or title
 
             latest_ver = 0
-            for ver in self.data[tid]:
+            for ver_num, ver_data in versions.items():
                 try:
-                    if "buildId" in self.data[tid][ver]["contentEntries"][0]:
-                        self.versions_dict[tid_base][str(self.data[tid][ver]["version"])
-                                                                    ] = self.data[tid][ver]["contentEntries"][0]["buildId"][:16].upper()
+                    if "contentEntries" in ver_data and ver_data["contentEntries"]:
+                        bid = ver_data["contentEntries"][0].get("buildId")
+                        if bid:
+                            self.versions_dict[tid_base][str(ver_num)] = bid[:16].upper()
+                    latest_ver = max(latest_ver, int(ver_num))
                 except:
-                    pass
-                latest_ver = max(latest_ver, int(ver))
+                    continue
             self.versions_dict[tid_base]["latest"] = latest_ver
 
-    def check_for_changes(self):
-        try:
-            with open(self.json_path, 'r') as read_file:
-                old = json.load(read_file)
-            if old != self.versions_dict:
+    def update_versions(self):
+        if not self.data: return
+
+        self.get_version_dict()
+
+        # Check for changes
+        if self.json_path.exists():
+            try:
+                with open(self.json_path, "r") as f:
+                    old_data = json.load(f)
+                if old_data != self.versions_dict:
+                    self.changed = True
+                    logger.info(f"{self.json_path} changed")
+            except:
                 self.changed = True
-                print(f"{self.json_path} changed")
-        except FileNotFoundError:
-            print("File doesn't exist")
+        else:
             self.changed = True
 
-    def write_master_files(self):
-        with open(self.json_path, 'w') as json_file:
-            json.dump(self.versions_dict, json_file, indent=4, sort_keys=True)
+        # Write files
+        try:
+            with open(self.json_path, "w") as f:
+                json.dump(self.versions_dict, f, indent=4, sort_keys=True)
 
-    def write_title_files(self):
-        if not(os.path.exists(self.dir_path)):
-            os.mkdir(self.dir_path)
-
-        for tid in self.versions_dict:
-            path = f"{self.dir_path}{tid}.json"
-            with open(path, 'w') as json_file:
-                json.dump(
-                    self.versions_dict[tid], json_file, indent=4, sort_keys=True)
+            self.dir_path.mkdir(exist_ok=True)
+            for tid, data in self.versions_dict.items():
+                with open(self.dir_path / f"{tid}.json", "w") as f:
+                    json.dump(data, f, indent=4, sort_keys=True)
+        except Exception as e:
+            logger.error(f"Failed to write version files: {e}")
 
     def create_names_dict(self, url):
-        out = dict()
-        resp = requests.get(url, headers=HEADERS)
         try:
-            data = json.loads(resp.text)
-        except json.JSONDecodeError as e:
-            print(f"JSON decode error from {url}: {e}")
-            print(f"Response status: {resp.status_code}")
-            print(f"Response (first 500 chars): {resp.text[:500]}")
-            raise
-        for key, value in data.items():
-            out[value["id"]] = value["name"]
-        return out
-
+            resp = requests.get(url, headers=HEADERS)
+            resp.raise_for_status()
+            data = resp.json()
+            return {v["id"]: v["name"] for v in data.values() if "id" in v and "name" in v}
+        except Exception as e:
+            logger.error(f"Failed to create names dict: {e}")
+            return {}
 
 if __name__ == '__main__':
     processor = ProcessVersions(
