@@ -53,7 +53,7 @@ class ProcessCheats:
             title = title.strip()
             code = code.strip()
             if code and re.search(r"[0-9a-fA-F]{8}", code):
-                out[title] = code + "\n\n"
+                out[title] = f"{title}\n{code}\n\n"
         return out
 
     def update_dict(self, new, old):

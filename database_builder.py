@@ -22,7 +22,7 @@ class DatabaseInfo:
 
     def get_database_version(self):
         try:
-            response = self.scraper.get(self.version_url)
+            response = self.scraper.get(self.version_url, timeout=10)
             response.raise_for_status()
             return date.fromisoformat(response.text.strip())
         except Exception as e:
@@ -204,7 +204,7 @@ def count_cheats(cheats_dir):
                         if isinstance(bid_data, dict): n_cheats += len(bid_data)
                         n_updates += 1
             n_games += 1
-        except:
+        except Exception:
             continue
 
     stats = f"{n_cheats} cheats in {n_games} titles/{n_updates} updates"
