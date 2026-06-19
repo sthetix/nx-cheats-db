@@ -100,13 +100,22 @@ class ProcessVersions:
 
         # Write files
         try:
-            with open(self.json_path, "w") as f:
-                json.dump(self.versions_dict, f, indent=4, sort_keys=True)
+            if self.changed:
+                with open(self.json_path, "w") as f:
+                    json.dump(self.versions_dict, f, indent=4, sort_keys=True)
+                logger.info(f"Updated {self.json_path}")
 
             self.dir_path.mkdir(exist_ok=True)
             for tid, data in self.versions_dict.items():
-                with open(self.dir_path / f"{tid}.json", "w") as f:
-                    json.dump(data, f, indent=4, sort_keys=True)
+                file_path = self.dir_path / f"{tid}.json"
+                new_content = json.dumps(data, indent=4, sort_keys=True)
+
+                # Only write if file doesn't exist or content has changed
+                if file_path.exists() and file_path.read_text() == new_content:
+                    continue
+
+                with open(file_path, "w") as f:
+                    f.write(new_content)
         except Exception as e:
             logger.error(f"Failed to write version files: {e}")
 
