@@ -1,0 +1,12 @@
+{
+    "03FF4A3BEC96BDE3": {
+        "[Breeze by Tomswitch and dsrules Rhythm Heaven Groove 1.0.0 TID: 0100D9F01D474000 BID: 03FF4A3BEC96BDE3]": "[Breeze by Tomswitch and dsrules Rhythm Heaven Groove 1.0.0 TID: 0100D9F01D474000 BID: 03FF4A3BEC96BDE3]\n\n",
+        "[off cheat]": "[off cheat]\n04000000 00126D80 11000529 \n04000000 00053270 1A8AB108\n\n",
+        "[miss 0 (always amazing)]": "[miss 0 (always amazing)]\n04000000 00126D80 11000529 \n04000000 00126D80 145F6CE0 \n04000000 01902100 7100043F \n04000000 01902104 54000081 \n04000000 01902108 35000062 \n04000000 0190210C 11000529 \n04000000 01902110 B9000909 \n04000000 01902114 17A0931C\n\n",
+        "[hp full]": "[hp full]\n04000000 00053270 1A8AB108 \n04000000 00053270 1A8AC108\n\n",
+        "[damage x16]": "[damage x16]\n04000000 00020F90 0B140108 \n04000000 00020F90 0B141108\n\n",
+        "[Play Solo All Stages Rainbow P Star]": "[Play Solo All Stages Rainbow P Star]\n300E0000 00000050\n04000000 010A7B98 00000009\n78000000 00000010\n310E0000\n\n",
+        "[Play with Friends All Stages Rainbow P Star]": "[Play with Friends All Stages Rainbow P Star]\n300D0000 0000001E\n04000000 010A8098 00000009\n78000000 00000008\n310D0000\n\n",
+        "[Unlock All  Beatspell Chapters]": "[Unlock All  Beatspell Chapters]\n300C0000 00000009\n04000000 010A878C 00000001\n78000000 00000008\n310C0000\n\n"
+    }
+}
