@@ -172,6 +172,14 @@ def extract_cheatslips_game_links(html: str) -> list[tuple[str, str]]:
     return results
 
 
+def cheatslips_page_matches_title(response, title_id: str) -> bool:
+    """Reject redirects and search pages that do not describe the requested title."""
+    soup = BeautifulSoup(response.text, "html.parser")
+    page_text = soup.get_text(" ", strip=True)
+    match = re.search(r"\b(?:Game|Title)\s+Id:\s*([0-9A-F]{16})\b", page_text, re.IGNORECASE)
+    return bool(match and match.group(1).upper() == title_id.upper())
+
+
 def score_cheatslips_candidate(title_name: str, target_slug: str, candidate_title: str, candidate_url: str) -> int:
     score = 0
     candidate_slug = candidate_url.rstrip("/").split("/game/", 1)[-1].split("/", 1)[0].lower()
@@ -202,7 +210,10 @@ def score_cheatslips_candidate(title_name: str, target_slug: str, candidate_titl
 def resolve_cheatslips_game_url(title_id: str, title_name: str, cache: dict[str, str], verbose: bool = False) -> str | None:
     cached = cache.get(title_id.upper())
     if cached:
-        return cached
+        cached_response, _ = fetch_with_retry(cached, SCRAPER, max_retries=2, base_delay=0.5)
+        if cached_response and cheatslips_page_matches_title(cached_response, title_id):
+            return cached
+        cache.pop(title_id.upper(), None)
 
     slug = normalize_title_name(title_name)
     if not slug:
@@ -210,14 +221,14 @@ def resolve_cheatslips_game_url(title_id: str, title_name: str, cache: dict[str,
 
     direct_url = f"https://www.cheatslips.com/game/{slug}"
     direct_response, _ = fetch_with_retry(direct_url, SCRAPER, max_retries=2, base_delay=0.5)
-    if direct_response and direct_response.status_code == 200:
-        cache[title_id.upper()] = direct_url
-        return direct_url
+    if direct_response and cheatslips_page_matches_title(direct_response, title_id):
+        resolved_url = direct_response.url
+        cache[title_id.upper()] = resolved_url
+        return resolved_url
 
     candidate_urls = [
-        f"https://www.cheatslips.com/games/{slug[:1].upper()}",
-        f"https://www.cheatslips.com/games?terms={requests.utils.quote(title_name)}",
-        f"https://www.cheatslips.com/games?terms={requests.utils.quote(slug.replace('-', ' '))}",
+        f"https://www.cheatslips.com/games/search/?terms={requests.utils.quote(title_name)}",
+        f"https://www.cheatslips.com/games/search/?terms={requests.utils.quote(slug.replace('-', ' '))}",
     ]
 
     candidates: list[tuple[int, str, str]] = []
@@ -244,17 +255,20 @@ def resolve_cheatslips_game_url(title_id: str, title_name: str, cache: dict[str,
         return None
 
     candidates.sort(key=lambda item: (-item[0], item[1].lower(), item[2]))
-    best_score, best_title, best_url = candidates[0]
-    if verbose:
-        print(f"    CheatSlips resolver matched '{title_name}' -> '{best_title}' ({best_url}, score={best_score})")
-
-    if best_score < 75:
+    for score, candidate_title, candidate_url in candidates:
+        if score < 75:
+            break
+        candidate_response, _ = fetch_with_retry(candidate_url, SCRAPER, max_retries=2, base_delay=0.5)
+        if not candidate_response or not cheatslips_page_matches_title(candidate_response, title_id):
+            continue
         if verbose:
-            print(f"    CheatSlips resolver: best match too weak for '{title_name}'")
-        return None
+            print(f"    CheatSlips resolver matched '{title_name}' -> '{candidate_title}' ({candidate_url}, score={score})")
+        cache[title_id.upper()] = candidate_url
+        return candidate_url
 
-    cache[title_id.upper()] = best_url
-    return best_url
+    if verbose:
+        print(f"    CheatSlips resolver: no candidate matched Title ID {title_id}")
+    return None
 
 
 def load_title_names() -> dict[str, str]:
