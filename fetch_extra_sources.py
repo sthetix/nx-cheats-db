@@ -341,7 +341,9 @@ def fetch_hamlet_title(title_id: str) -> OrderedDict:
 def process_hamlet(title_ids: list[str]):
     print(f"Fetching Hamlet for {len(title_ids)} titles ...")
     updated = 0
-    for title_id in title_ids:
+    for index, title_id in enumerate(title_ids, start=1):
+        if index == 1 or index % 100 == 0:
+            print(f"  Hamlet progress: {index}/{len(title_ids)}")
         try:
             new_data = fetch_hamlet_title(title_id)
         except Exception as e:
@@ -520,7 +522,9 @@ def process_cheatslips(title_names: dict[str, str], title_ids: list[str], verbos
     failed = []
     cache = load_cheatslips_cache()
     
-    for title_id in title_ids:
+    for index, title_id in enumerate(title_ids, start=1):
+        if index == 1 or index % 100 == 0:
+            print(f"  CheatSlips progress: {index}/{len(title_ids)}")
         name = title_names.get(title_id)
         if not name:
             if verbose:
@@ -559,20 +563,33 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Fetch cheats from various sources")
     parser.add_argument("--cheatslips-only", action="store_true", 
                         help="Only fetch from CheatSlips (for testing)")
+    parser.add_argument("--shard-index", type=int, default=0,
+                        help="Zero-based shard index")
+    parser.add_argument("--shard-count", type=int, default=1,
+                        help="Total number of shards")
+    parser.add_argument("--title-id",
+                        help="Only process one title ID")
     parser.add_argument("-v", "--verbose", action="store_true",
                         help="Enable verbose logging for debugging")
     args = parser.parse_args()
-    
+
+    if args.shard_count < 1 or not 0 <= args.shard_index < args.shard_count:
+        parser.error("--shard-index must be between 0 and --shard-count - 1")
+    if args.title_id and not is_valid_title_id(args.title_id):
+        parser.error("--title-id must be a 16-character hexadecimal title ID")
+
+    names = load_title_names()
+    if args.title_id:
+        ids = [args.title_id.upper()]
+    else:
+        ids = candidate_title_ids(names)[args.shard_index::args.shard_count]
+
+    print(f"Processing shard {args.shard_index + 1}/{args.shard_count} ({len(ids)} titles)")
+
     if args.cheatslips_only:
-        # Quick test mode - just CheatSlips
-        names = load_title_names()
-        ids   = candidate_title_ids(names)
         process_cheatslips(names, ids, verbose=args.verbose)
     else:
         # Full run - extra sources we keep enabled
-        names = load_title_names()
-        ids   = candidate_title_ids(names)
-
         process_hamlet(ids)
         process_cheatslips(names, ids, verbose=args.verbose)
 

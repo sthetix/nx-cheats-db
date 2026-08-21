@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-repo
+  cancel-in-progress: false
+
 jobs:
   update-versions:
     runs-on: ubuntu-latest
@@ -112,6 +116,11 @@ jobs:
   fetch-extra-sources:
     needs: update-cheats
     runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      max-parallel: 4
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
     steps:
       - name: checkout repo content
         uses: actions/checkout@v4
@@ -130,7 +139,44 @@ jobs:
       - name: fetch Hamlet + CheatSlips cheats
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 fetch_extra_sources.py
+        run: python3 -u fetch_extra_sources.py --shard-index ${{ matrix.shard }} --shard-count 16
+
+      - name: create shard patch
+        run: |
+          git add -- cheats/
+          git diff --cached --binary -- cheats/ > extra-sources-${{ matrix.shard }}.patch
+
+      - name: upload shard patch
+        uses: actions/upload-artifact@v4
+        with:
+          name: extra-sources-${{ matrix.shard }}
+          path: extra-sources-${{ matrix.shard }}.patch
+          retention-days: 1
+
+  merge-extra-sources:
+    needs: fetch-extra-sources
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v4
+        with:
+          ref: 'main'
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: download shard patches
+        uses: actions/download-artifact@v4
+        with:
+          pattern: extra-sources-*
+          path: patches
+          merge-multiple: true
+
+      - name: apply shard patches
+        run: |
+          for patch in patches/*.patch; do
+            if [ -s "$patch" ]; then
+              git apply "$patch"
+            fi
+          done
 
       - name: push changes
         env:
