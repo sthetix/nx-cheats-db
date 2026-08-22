@@ -139,6 +139,7 @@ jobs:
       - name: fetch Hamlet + CheatSlips cheats
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CHEATSLIPS_COOKIE: ${{ secrets.CHEATSLIPS_COOKIE }}
         run: python3 -u fetch_extra_sources.py --shard-index ${{ matrix.shard }} --shard-count 16
 
       - name: create shard patch

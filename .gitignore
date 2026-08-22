@@ -28,6 +28,7 @@ __pycache__*
 .env*
 *.envrc*
 *.git-credentials*
+cookies
 
 
 
@@ -85,5 +86,4 @@ venv/
 ###########  Self and Ignore Ignore  ###########
 .gitignore
 .ignore*
-
 

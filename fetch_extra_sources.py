@@ -16,7 +16,10 @@ import json
 import os
 import re
 import time
+import zipfile
 from collections import OrderedDict
+from http.cookiejar import MozillaCookieJar
+from io import BytesIO
 from pathlib import Path
 from string import hexdigits
 from urllib.parse import urljoin
@@ -31,8 +34,10 @@ CHEATS_DIR.mkdir(exist_ok=True)
 CACHE_DIR = Path(".cache")
 CACHE_DIR.mkdir(exist_ok=True)
 CHEATSLIPS_CACHE_PATH = CACHE_DIR / "cheatslips_game_urls.json"
+CHEATSLIPS_COOKIE_PATH = Path(os.getenv("CHEATSLIPS_COOKIE_FILE", "cookies"))
 
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
+CHEATSLIPS_COOKIE = os.getenv("CHEATSLIPS_COOKIE")
 
 # Regular session for GitHub / raw URLs
 SESSION = requests.Session()
@@ -43,6 +48,14 @@ if GITHUB_TOKEN:
 # Cloudscraper session for sites with Cloudflare (CheatSlips)
 SCRAPER = cloudscraper.create_scraper()
 SCRAPER.headers.update({"User-Agent": "ns-emu-cheats-downloader"})
+if CHEATSLIPS_COOKIE:
+    SCRAPER.headers["Cookie"] = CHEATSLIPS_COOKIE
+elif CHEATSLIPS_COOKIE_PATH.is_file():
+    cookie_jar = MozillaCookieJar(str(CHEATSLIPS_COOKIE_PATH))
+    cookie_jar.load(ignore_discard=True, ignore_expires=True)
+    SCRAPER.cookies.update(cookie_jar)
+
+CHEATSLIPS_AUTH_CONFIGURED = bool(CHEATSLIPS_COOKIE or SCRAPER.cookies)
 
 
 # ── helpers ──────────────────────────────────────────────────────────────────
@@ -176,7 +189,7 @@ def cheatslips_page_matches_title(response, title_id: str) -> bool:
     """Reject redirects and search pages that do not describe the requested title."""
     soup = BeautifulSoup(response.text, "html.parser")
     page_text = soup.get_text(" ", strip=True)
-    match = re.search(r"\b(?:Game|Title)\s+Id:\s*([0-9A-F]{16})\b", page_text, re.IGNORECASE)
+    match = re.search(r"\b(?:Game|Title)\s+Id\s*:\s*([0-9A-F]{16})\b", page_text, re.IGNORECASE)
     return bool(match and match.group(1).upper() == title_id.upper())
 
 
@@ -474,34 +487,47 @@ def fetch_cheatslips_title(title_id: str, title_name: str, cache: dict[str, str]
             if not segment or segment == build_id:
                 continue
 
-            sources_url = f"{game_url.rstrip('/')}/{segment}/sources"
-            response3, err3 = fetch_with_retry(sources_url, SCRAPER)
+            detail_url = urljoin(game_url.rstrip("/") + "/", href)
+            response3, err3 = fetch_with_retry(detail_url, SCRAPER)
             if not response3 or response3.status_code != 200:
                 if verbose and err3:
-                    print(f"      Failed to fetch sources: {err3}")
+                    print(f"      Failed to fetch cheat details: {err3}")
                 time.sleep(0.2)
                 continue
 
             soup3 = BeautifulSoup(response3.text, "html.parser")
-            for tbody in soup3.select("tbody"):
-                strong = tbody.select_one("strong")
-                if not strong:
+            csrf = soup3.select_one("form[method='post'] input[name='csrf_token']")
+            if not csrf or not csrf.get("value"):
+                if verbose:
+                    print("      Download form unavailable (CheatSlips session may be expired)")
+                time.sleep(0.2)
+                continue
+
+            try:
+                download = SCRAPER.post(
+                    detail_url,
+                    data={"csrf_token": csrf["value"], "action": "download"},
+                    timeout=30,
+                )
+                download.raise_for_status()
+                if not download.content.startswith(b"PK"):
+                    if verbose:
+                        print("      Download did not return a ZIP (CheatSlips session may be expired)")
+                    time.sleep(0.2)
                     continue
-                name = strong.get_text(strip=True).strip("[]{}").strip()
-                pre = tbody.select_one("pre")
-                if not pre:
-                    continue
-                source = pre.get_text(strip=True)
-                code_lines = [
-                    l.strip() for l in source.splitlines()
-                    if l.strip() and not l.strip().startswith(("[", "{"))
-                ]
-                if not name or not code_lines:
-                    continue
-                key = f"[{name}]"
-                value = f"{key}\n" + "\n".join(code_lines) + "\n\n"
-                cheats.setdefault(key, value)
-                cheats_found += 1
+
+                with zipfile.ZipFile(BytesIO(download.content)) as archive:
+                    suffix = f"/contents/{title_id.upper()}/cheats/{build_id}.txt".lower()
+                    txt_names = [name for name in archive.namelist() if name.lower().endswith(suffix)]
+                    for txt_name in txt_names:
+                        parsed = parse_cheat_txt(archive.read(txt_name).decode("utf-8-sig", errors="replace"))
+                        for key, value in parsed.items():
+                            if key not in cheats:
+                                cheats[key] = value
+                                cheats_found += 1
+            except (requests.RequestException, zipfile.BadZipFile) as exc:
+                if verbose:
+                    print(f"      Failed to download cheat ZIP: {exc}")
 
             time.sleep(0.2)
 
@@ -517,6 +543,10 @@ def fetch_cheatslips_title(title_id: str, title_name: str, cache: dict[str, str]
 
 
 def process_cheatslips(title_names: dict[str, str], title_ids: list[str], verbose: bool = False):
+    if not CHEATSLIPS_AUTH_CONFIGURED:
+        print("Skipping CheatSlips: no cookie session is configured")
+        return
+
     print(f"Fetching CheatSlips for {len(title_ids)} titles ...")
     updated = 0
     failed = []
@@ -590,7 +620,7 @@ if __name__ == "__main__":
         process_cheatslips(names, ids, verbose=args.verbose)
     else:
         # Full run - extra sources we keep enabled
-        process_hamlet(ids)
         process_cheatslips(names, ids, verbose=args.verbose)
+        process_hamlet(ids)
 
     print("Done.")
