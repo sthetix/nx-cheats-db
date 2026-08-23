@@ -419,9 +419,6 @@
         "[Free Shopping]": "[Free Shopping]\n04000000 023EE478 4B1F0108\n04000000 027ADEE0 18FFFBB4\n04000000 027ADE54 000F4240\n\n",
         "[--SectionEnd: Currency Codes--]": "[--SectionEnd: Currency Codes--]\n00000000 00000000 00000000\n\n"
     },
-    "attribution": {
-        "Hollow Knight Silksong.txt": "Full Resolution \n\nHandheld from 1024x576 to 1280x720\nDocked from 1280x720 to 1920x1080\n\nBy t a s h i \n"
-    },
     "FC9EA4CCC955D579": {
         "[Restore Code (Use after unchecking any cheats below)]": "[Restore Code (Use after unchecking any cheats below)]\n040A0000 02475148 0B150108\n040A0000 0247578C 4B150108\n040A0000 02474FFC 0B150108\n040A0000 02475668 4B150108\n040A0000 0254DE4C B9006268\n040A0000 02206F04 6B00011F\n040A0000 021F6458 4B1502E8\n040A0000 0278C0CC 394B8408\n040A0000 0278C0D0 34000208\n040A0000 0462101C 52800020\n040A0000 0466EF54 F9000909\n040A0000 026F3EA0 D10183FF\n040A0000 026F3EA4 A9027BFD\n040A0000 023A5224 4B150129\n040A0000 021FA0D8 BD400100\n040A0000 0220DE10 A9BE7BFD\n040A0000 0220DE14 F9000BF3\n040A0000 017C6608 BD400120\n\n",
         "[Currency/Resources]": "[Currency/Resources]\n20000001\n\n",
@@ -440,5 +437,8 @@
         "[\u211610. Faster Walk Speed]": "[\u211610. Faster Walk Speed]\n040A0000 021FA0D8 1E27F000\n\n",
         "[\u211611. Infinite Air Jump]": "[\u211611. Infinite Air Jump]\n040A0000 0220DE10 52800020\n040A0000 0220DE14 D65F03C0\n\n",
         "[\u211612. Moonjump]": "[\u211612. Moonjump]\n80000002\n080A0000 064B6FF8 41F00000 16CC3D85\n080A0000 064B6FF0 BD000120 1C000060\n040A0000 017C6608 1533C27A\n21000000\n040A0000 017C6608 BD400120\n20000000\n\n"
+    },
+    "attribution": {
+        "Hollow Knight Silksong.txt": "Full Resolution \n\nHandheld from 1024x576 to 1280x720\nDocked from 1280x720 to 1920x1080\n\nBy t a s h i \n"
     }
 }

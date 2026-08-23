@@ -31,7 +31,8 @@
         "[Max Gold]": "[Max Gold]\n040A0000 003782D4 2A0903E8\n\n",
         "[Inf Attribute Points (have 1)]": "[Inf Attribute Points (have 1)]\n040A0000 00469F68 52800028\n\n",
         "[Restore after max stats to return enemy speed to normal]": "[Restore after max stats to return enemy speed to normal]\n20000000\n\n",
-        "[Max stats (INFINITE) Use Att Point]": "[Max stats (INFINITE) Use Att Point]\n040A0000 003A3364 12B01008\n040A0000 003A3368 1E270100\n\n"
+        "[Max stats (INFINITE) Use Att Point]": "[Max stats (INFINITE) Use Att Point]\n040A0000 003A3364 12B01008\n040A0000 003A3368 1E270100\n\n",
+        "[Credits: crazy_p, ZiT]": "[Credits: crazy_p, ZiT]\n00000000 00000000 00000000\n\n"
     },
     "8F39D37C86EA460A": {
         "[Inf Health]": "[Inf Health]\n580F0000 026FE258\n580F1000 000000F0\n580F1000 00000000\n580F1000 00000028\n580F1000 00000000\n780F0000 000000F0\n640F0000 00000000 461C9000\n\n",

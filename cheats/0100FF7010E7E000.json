@@ -25,7 +25,8 @@
         "[6. ZR/\u2190\u2192 Equip/Switch (AMS only)]": "[6. ZR/\u2190\u2192 Equip/Switch (AMS only)]\n580C0000 004DF878\n780C0000 00000248\n40010000 00000000 000019C9\n989DC000\n580D1000 00000000\nC023D400 000019CD\nC022D400 000019C9\n80004000\n780D0000 00000001\nA2DC0000\n20000000\n20000000\n20000000\nC021D400 000019C9\nC024D400 000019CD\n80001000\n780D1000 00000001\nA2DC0000\n20000000\n20000000\n20000000\n80000200\nA21C0000\n20000000\n\n",
         "[- Slot 2 Skill Set: 1-6 -]": "[- Slot 2 Skill Set: 1-6 -]\n20000000\n\n",
         "[- Slot 3 Skill Set: 1-6 -]": "[- Slot 3 Skill Set: 1-6 -]\n20000000\n\n",
-        "[- Slot 4 Skill Set: 1-6 -]": "[- Slot 4 Skill Set: 1-6 -]\n20000000\n\n"
+        "[- Slot 4 Skill Set: 1-6 -]": "[- Slot 4 Skill Set: 1-6 -]\n20000000\n\n",
+        "[Credits: crazy_p]": "[Credits: crazy_p]\n00000000 00000000 00000000\n\n"
     },
     "E0D8FB949ED755BB": {
         "[EN]": "[EN]\n580F0000 004DB3F8\n780F0000 00000038\n680F0000 00000064 00000064\n\n",

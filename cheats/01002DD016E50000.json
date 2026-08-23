@@ -24,7 +24,8 @@
         "[P1 Inf. Rock Orbs]": "[P1 Inf. Rock Orbs]\n011C0000 05008691 00000006\n\n",
         "[- Hyper Street Fighter II: The Anniversary Edition -]": "[- Hyper Street Fighter II: The Anniversary Edition -]\n00000000 00000000 00000000\n\n",
         "[P1 Inf. Super]": "[P1 Inf. Super]\n021C0000 05008690 00003000\n\n",
-        "[- Warzard/Red Earth -]": "[- Warzard/Red Earth -]\n00000000 00000000 00000000\n\n"
+        "[- Warzard/Red Earth -]": "[- Warzard/Red Earth -]\n00000000 00000000 00000000\n\n",
+        "[Credits: crazy_p, TomSwitch]": "[Credits: crazy_p, TomSwitch]\n00000000 00000000 00000000\n\n"
     },
     "1FF8B9516C2323863F047B95EFC1B2C9D22C7155000000000000000000000000": {
         "[Get Offset]": "[Get Offset]\n580F0000 070C7228\n580E0000 0661C588\n981CE0F0\n981CC100 00000000 050000A0\n\n",

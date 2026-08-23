@@ -1,12 +1,4 @@
 {
-    "C03DBE92E81037A1": {
-        "[Tr 1 Invulnerable]": "[Tr 1 Invulnerable]\n04000000 00B552EA 000003E8\n\n",
-        "[Tr 1 DLC Invulnerable]": "[Tr 1 DLC Invulnerable]\n04000000 00BF9C42 000003E8\n\n",
-        "[Tr 2 Invulnerable]": "[Tr 2 Invulnerable]\n04000000 00C57802 000003E8\n\n",
-        "[Tr 2 DLC Invulnerable]": "[Tr 2 DLC Invulnerable]\n04000000 00D94E4A 000003E8\n\n",
-        "[Tr 3 Invulnerable]": "[Tr 3 Invulnerable]\n04000000 00D08F32 000003E8\n\n",
-        "[Tr 3 DLC Invulnerable]": "[Tr 3 DLC Invulnerable]\n04000000 00DA3CCE 000003E8\n\n"
-    },
     "20AA93B5B902A282": {
         "{master code enable}": "{master code enable}\n58010000 003C0080\n78011000 00053B30\n58020000 000E5060\n78021000 000817D0\n98111020\n\n",
         "[1st generation invincible on]": "[1st generation invincible on]\n04010000 0003FB3C 79C04E68\n04010000 0003FB3C 14010B5D\n04010000 000828B0 52807D08\n04010000 000828B4 B8026268\n04010000 000828B8 79C04E68\n04010000 000828BC 17FEF4A1\n\n",
@@ -64,5 +56,13 @@
         "[III - Speed (Hold R)]": "[III - Speed (Hold R)]\n04010000 00055A30 0B883928\n04010000 00055A4C 0B883928\n04010000 00056DD0 0B884128\n04010000 00056DF4 0B884128\n04010000 0005792C 0B883928\n04010000 00057958 0B893908\n80000080\n04010000 00055A30 0B883528\n04010000 00055A4C 0B883528\n04010000 00056DD0 0B883928\n04010000 00056DF4 0B883928\n04010000 0005792C 0B883528\n04010000 00057958 0B893508\n20000000\n\n",
         "[III - Moonjump (Hold B)]": "[III - Moonjump (Hold B)]\n04010000 00055930 79C04A6A\n80000002\n04010000 00055930 529FF60A\n20000000\n\n",
         "[Tomb Raider III end]": "[Tomb Raider III end]\n20000001\n\n"
+    },
+    "C03DBE92E81037A1": {
+        "[Tr 1 Invulnerable]": "[Tr 1 Invulnerable]\n04000000 00B552EA 000003E8\n\n",
+        "[Tr 1 DLC Invulnerable]": "[Tr 1 DLC Invulnerable]\n04000000 00BF9C42 000003E8\n\n",
+        "[Tr 2 Invulnerable]": "[Tr 2 Invulnerable]\n04000000 00C57802 000003E8\n\n",
+        "[Tr 2 DLC Invulnerable]": "[Tr 2 DLC Invulnerable]\n04000000 00D94E4A 000003E8\n\n",
+        "[Tr 3 Invulnerable]": "[Tr 3 Invulnerable]\n04000000 00D08F32 000003E8\n\n",
+        "[Tr 3 DLC Invulnerable]": "[Tr 3 DLC Invulnerable]\n04000000 00DA3CCE 000003E8\n\n"
     }
 }

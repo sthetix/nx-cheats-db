@@ -1,4 +1,8 @@
 {
+    "0AC3416B1906BE85": {
+        "[ez obj]": "[ez obj]\n04000000 03081FD8 5284E1E8\n\n",
+        "[ez obj off]": "[ez obj off]\n04000000 03081FD8 0B140108\n\n"
+    },
     "5391D7D51021C26B": {
         "[Default 60 FPS]": "[Default 60 FPS]\n580F0000 08FB7120\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
         "[30 FPS]": "[30 FPS]\n580F0000 08FB7120\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
@@ -57,9 +61,5 @@
     },
     "attribution": {
         "Little Kitty, Big City.txt": "By Hazerou\u2060\nFpslocker should also work to change FPS.\nAnd set buffering to triple, save it and reboot the game to fix unstable FPS.\n\nIncluded in the text file;\n[Default 60 FPS]\n[30 FPS]\n[360p Overall Resolution]\n[480p Overall Resolution]\n[540p Overall Resolution]\n[612p Overall Resolution]\n[720p Overall Resolution (Handheld's Default)]\n[810p Overall Resolution]\n[900p Overall Resolution (Docked's Default)]\n[1080p Overall Resolution]\n"
-    },
-    "0AC3416B1906BE85": {
-        "[ez obj]": "[ez obj]\n04000000 03081FD8 5284E1E8\n\n",
-        "[ez obj off]": "[ez obj off]\n04000000 03081FD8 0B140108\n\n"
     }
 }

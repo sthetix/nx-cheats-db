@@ -43,7 +43,8 @@
         "[Shot Height Normal]": "[Shot Height Normal]\n580C0000 00110030\n580C1000 000061E0\n580C1000 0000A558\n580C1000 00001DD0\n780C0000 00000EF4\n640C0000 00000000 3F800000\n\n",
         "[Shot Height Max]": "[Shot Height Max]\n580C0000 00110030\n580C1000 000061E0\n580C1000 0000A558\n580C1000 00001DD0\n780C0000 00000EF4\n640C0000 00000000 41C80000\n\n",
         "[Luck Normal]": "[Luck Normal]\n580C0000 00110030\n580C1000 000061E0\n580C1000 0000A558\n580C1000 00001DD0\n780C0000 00000FD8\n640C0000 00000000 00000000\n\n",
-        "[Luck Max]": "[Luck Max]\n580C0000 00110030\n580C1000 000061E0\n580C1000 0000A558\n580C1000 00001DD0\n780C0000 00000FD8\n640C0000 00000000 447A0000\n\n"
+        "[Luck Max]": "[Luck Max]\n580C0000 00110030\n580C1000 000061E0\n580C1000 0000A558\n580C1000 00001DD0\n780C0000 00000FD8\n640C0000 00000000 447A0000\n\n",
+        "[Credits: crazy_p]": "[Credits: crazy_p]\n00000000 00000000 00000000\n\n"
     },
     "4FB46E8CDFAD75AD": {
         "[Infinite HP]": "[Infinite HP]\n580f0000 005960B8\n580f1000 0000c330\n580f1000 00000000\n780f0000 00002688\n610f0000 00000000 00000018\n\n",
@@ -813,7 +814,8 @@
         "[XXI The World - Open your eyes and see (reveal entire map and icon rooms)]": "[XXI The World - Open your eyes and see (reveal entire map and icon rooms)]\n40000000 00000000 00001C00\n640C0100 00000000 00000016\n\n",
         "[Yo Listen! - Yo Listen!]": "[Yo Listen! - Yo Listen!]\n40000000 00000000 00001954\n640C0100 00000000 000001EC\n\n",
         "[Yum Heart - Reusable Regeneration]": "[Yum Heart - Reusable Regeneration]\n40000000 00000000 00001954\n640C0100 00000000 0000002D\n\n",
-        "[Zodiac - The Heavens Will Change You]": "[Zodiac - The Heavens Will Change You]\n40000000 00000000 00001954\n640C0100 00000000 00000188\n---------------------------------------------------------------------------------------------------\n- TRINKET 1 LIST -\n\n"
+        "[Zodiac - The Heavens Will Change You]": "[Zodiac - The Heavens Will Change You]\n40000000 00000000 00001954\n640C0100 00000000 00000188\n---------------------------------------------------------------------------------------------------\n- TRINKET 1 LIST -\n\n",
+        "[Credits: crazy_p]": "[Credits: crazy_p]\n00000000 00000000 00000000\n\n"
     },
     "B33A680A4EEAEEDF - ITEM LIST": {
         "[Bob's Curse -  +5 Poison Bombs]": "[Bob's Curse -  +5 Poison Bombs]\n40000000 00000000 00001954\n640C0100 00000000 0000008C\n\n",
@@ -1562,7 +1564,8 @@
         "[99 Keys]": "[99 Keys]\n58000000 00110030\n58001000 00000008\n58001000 00005FC8\n58001000 00000018\n58001000 00000570\n58001000 00000190\n78000000 00000554\n64000000 00000000 00000063\n\n",
         "[Inf. Health]": "[Inf. Health]\n58000000 0010FA28\n58001000 000000A0\n58001000 00000018\n58001000 0000490F\n78000000 0000053C\n64000000 00000000 00000063\n\n",
         "[No Bomb Cooldown]": "[No Bomb Cooldown]\n58000000 0010FA28\n58001000 000000A0\n58001000 00000018\n58001000 0000490F\n78000000 00000864\n64000000 00000000 00000000\n\n",
-        "[Untouchable]": "[Untouchable]\n58000000 0010FA28\n58001000 000000A0\n58001000 00000018\n58001000 0000490F\n78000000 000005B4\n64000000 00000000 00000063\n\n"
+        "[Untouchable]": "[Untouchable]\n58000000 0010FA28\n58001000 000000A0\n58001000 00000018\n58001000 0000490F\n78000000 000005B4\n64000000 00000000 00000063\n\n",
+        "[Credits: crazy_p]": "[Credits: crazy_p]\n00000000 00000000 00000000\n\n"
     },
     "CD4463054576D9BE": {
         "[Infinite HP]": "[Infinite HP]\n580f0000 00738b80\n580f1000 0000cab8\n580f1000 00000000\n780f0000 00001c78\n610f0000 00000000 00000018\n\n",
