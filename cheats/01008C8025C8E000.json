@@ -1,0 +1,31 @@
+{
+    "BBA199B4CD2A58D2": {
+        "[off cheat]": "[off cheat]\n04000000 0BD6F878 AD408500\n04000000 0BB80AE4 BD401100\n\n",
+        "[qty 90]": "[qty 90]\n04000000 0BD6F878 AD408500\n04000000 0BD6F878 1509E0D6\n04000000 0FFE7BD0 18000080\n04000000 0FFE7BD4 B9001500\n04000000 0FFE7BD8 AD408500\n04000000 0FFE7BDC 16F61F28\n04000000 0FFE7BE0 0000005A\n\n",
+        "[energy 100]": "[energy 100]\n04000000 0BB80AE4 BD401100\n04000000 0BB80AE4 15119C41\n04000000 0FFE7BE8 1C000060\n04000000 0FFE7BEC BD001100\n04000000 0FFE7BF0 16EE63BE\n04000000 0FFE7BF4 42C80000\n\n",
+        "[For info]": "[For info]\n20000000\n\n",
+        "[mana?]": "[mana?]\n04000000 0BB7F964 BD401100\n\n",
+        "[ end]": "[ end]\n20000001\n\n",
+        "[MASTER RESTORE/OFF ENABLE]": "[MASTER RESTORE/OFF ENABLE]\n04000000 0BA4B05C BD001108\n04000000 0BB7F964 BD401100\n04000000 0BA4B03C 1E282000\n04000000 0BB34168 B9401708\n04000000 0BB343E8 4B150108\n04000000 0BB188B8 6B1C0109\n04000000 0BB321C4 6B09031F\n04000000 0BB321D0 0B080128\n\n",
+        "[--SectionStart: Misc.Adventure Code--]": "[--SectionStart: Misc.Adventure Code--]\n00000000 00000000 00000000\n\n",
+        "[Inf Max Use Energy/Stamina]": "[Inf Max Use Energy/Stamina]\n04000000 0BA4B05C BD001108\n04000000 0BA4B05C 1427F0E1\n04000000 0C4473E0 1C000068\n04000000 0C4473E4 BD001108\n04000000 0C4473E8 17D80F1E\n04000000 0C4473EC 42C80000\n\n",
+        "[Use Energy/Stamina Not Decrease]": "[Use Energy/Stamina Not Decrease]\n04000000 0BA4B03C 1E204100\n\n",
+        "[Inf Use Mana]": "[Inf Use Mana]\n04000000 0BB7F964 BD401100\n04000000 0BB7F964 14231EDF\n04000000 0C4474E0 1C000060\n04000000 0C4474E4 BD401100\n04000000 0C4474E8 17DCE120\n04000000 0C4474EC 42C80000\n\n",
+        "[(Press L+Down Button) Time Stop]": "[(Press L+Down Button) Time Stop]\n80008040\n04000000 0C38796C 1E204000\n20000000\n\n",
+        "[(Press L+Left Button) Time Decrease]": "[(Press L+Left Button) Time Decrease]\n80001040\n04000000 0C38796C 1E283800\n20000000\n\n",
+        "[(Press L+Right Button) Time Restore]": "[(Press L+Right Button) Time Restore]\n80004040\n04000000 0C38796C 1E282800\n20000000\n\n",
+        "[Max Money 1M (View Menu)]": "[Max Money 1M (View Menu)]\n04000000 0BB34168 B9401708\n04000000 0BB34168 14244CA2\n04000000 0C4473F0 18000068\n04000000 0C4473F4 B9001708\n04000000 0C4473F8 17DBB35D\n04000000 0C4473FC 000F4240\n\n",
+        "[Items & Money Not Decrease (Use/Drop/Place)]": "[Items & Money Not Decrease (Use/Drop/Place)]\n04000000 0BB343E8 4B1F0108\n04000000 0BB188B8 6B1F0109\n\n",
+        "[Items & Money Increase (Use/Drop/Place)]": "[Items & Money Increase (Use/Drop/Place)]\n04000000 0BB343E8 0B150108\n04000000 0BB188B8 2B1C0109\n\n",
+        "[Get Maximum Items]": "[Get Maximum Items]\n04000000 0BB321C4 2A0903F8\n\n",
+        "[--SectionEnd: Misc.Adventure Code--]": "[--SectionEnd: Misc.Adventure Code--]\n00000000 00000000 00000000\n\n",
+        "[--SectionStart: Multiplier Code--]": "[--SectionStart: Multiplier Code--]\n00000000 00000000 00000000\n\n",
+        "[Get Item Multiply x2]": "[Get Item Multiply x2]\n04000000 0BB321D0 0B080528\n\n",
+        "[Get Item Multiply x4]": "[Get Item Multiply x4]\n04000000 0BB321D0 0B080928\n\n",
+        "[Get Item Multiply x8]": "[Get Item Multiply x8]\n04000000 0BB321D0 0B080D28\n\n",
+        "[Get Item Multiply x16]": "[Get Item Multiply x16]\n04000000 0BB321D0 0B081128\n\n",
+        "[Get Item Multiply x32]": "[Get Item Multiply x32]\n04000000 0BB321D0 0B081528\n\n",
+        "[Get Item Multiply x64]": "[Get Item Multiply x64]\n04000000 0BB321D0 0B081928\n\n",
+        "[--SectionEnd: Multiplier Code--]": "[--SectionEnd: Multiplier Code--]\n00000000 00000000 00000000\n\n"
+    }
+}

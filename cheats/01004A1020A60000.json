@@ -1,0 +1,11 @@
+{
+    "C30A2D719AAF3A38": {
+        "[Infinite Armor]": "[Infinite Armor]\n11050000 00228D9C 00000002\n01000000 00228624 00000001\n20000000\n\n",
+        "[Infinite Jump]": "[Infinite Jump]\n01000000 0022864c 00000001\n\n",
+        "[Have All Weapons]": "[Have All Weapons]\n02000000 00228842 00000101\n02000000 00228844 00000101\n01000000 00228846 00000001\n\n",
+        "[ZL+UDL Change Charge Weapon Type]": "[ZL+UDL Change Charge Weapon Type]\n80002100\n01000000 00228973 00000001\n20000000\n80008100\n01000000 00228973 00000002\n20000000\n80001100\n01000000 00228973 00000003\n20000000\n\n",
+        "[Quick Charge Weapon]": "[Quick Charge Weapon]\n11010000 00228974 00000010\n01000000 00228974 00000080\n20000000\n\n",
+        "[Infinite Lives]": "[Infinite Lives]\n01000000 0022a6c4 00000009\n\n",
+        "[Invincible]": "[Invincible]\n02000000 00228675 000000ff\n\n"
+    }
+}

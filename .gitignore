@@ -28,6 +28,13 @@ __pycache__*
 .env*
 *.envrc*
 *.git-credentials*
+cookies
+.cache/cheatslips_*
+downloads/cheatslips/
+downloads/vps-baseline-*/
+downloads/vps-rebuild-*/
+downloads/*.tar.gz
+.cache/cheatslips_incremental_state.json
 
 
 
@@ -85,5 +92,3 @@ venv/
 ###########  Self and Ignore Ignore  ###########
 .gitignore
 .ignore*
-
-

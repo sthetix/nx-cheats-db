@@ -13,5 +13,12 @@
     },
     "attribution": {
         "Fight of Gods 1.0.0 by ZiT.txt": "*Activate at the start of each mission\n*Sometimes enemies also have infinite life, disable it and in a few moments they can die."
+    },
+    "A2828CDDB18F1D4B": {
+        "[P1 Infinite HP]": "[P1 Infinite HP]\n580f0000 0232CEF0\n580f1000 00000f28\n580f1000 00000028\n780f0000 0000018c\n640f0000 00000000 44fa0000\n\n",
+        "[P1 Infinite Super]": "[P1 Infinite Super]\n580f0000 0232CEF0\n580f1000 00000f28\n580f1000 00000028\n780f0000 00000190\n640f0000 00000000 42c80000\n\n",
+        "[P1 Infinite DPS]": "[P1 Infinite DPS]\n580f0000 0232CEF0\n580f1000 00000f28\n580f1000 00000028\n780f0000 00000194\n640f0000 00000000 42c80000\n\n",
+        "[CPU no Super]": "[CPU no Super]\n580f0000 0232CEF0\n580f1000 00000f30\n580f1000 00000028\n780f0000 00000190\n640f0000 00000000 00000000\n\n",
+        "[CPU no DPS]": "[CPU no DPS]\n580f0000 0232CEF0\n580f1000 00000f30\n580f1000 00000028\n780f0000 00000194\n640f0000 00000000 00000000\n\n"
     }
 }

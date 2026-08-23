@@ -35,5 +35,28 @@
     },
     "attribution": {
         "Super Robot Wars 30 by Neograzon.txt": "Note: Some cheats are worked only in some stages.\nIf you found any one of them don't work properly, you may simply delete that code."
+    },
+    "8606D491B3218EDB": {
+        "[Stage Turn 0]": "[Stage Turn 0]\n01000000 01DCCC84 00000000\n\n",
+        "[Total Turn 0]": "[Total Turn 0]\n02000000 01DC726C 00000000\n\n",
+        "[Inf.Credits]": "[Inf.Credits]\n04000000 01DCCC60 3B9AC9FF\n04000000 01DCCC64 3B9AC9FF\n04000000 01DCCC68 3B9AC9FF\n\n",
+        "[Inf.PP]": "[Inf.PP]\n04000000 01DCCC78 0098967F\n04000000 01DCCC80 0098967F\n\n",
+        "[Inf.MxP]": "[Inf.MxP]\n04000000 01DCCC6C 05F5E0FF\n\n",
+        "[Inf.All Skill]": "[Inf.All Skill]\n30000000 00000026\n04010000 01DCECD4 00000063\n78010000 00000018\n31000000\n\n",
+        "[Max Score for All]": "[Max Score for All]\n40010000 00000000 00000000\n30000000 0000040B\n02010000 0194C098 0000270F\n78010000 00000240\n31000000\n\n",
+        "[Inf.EN for All]": "[Inf.EN for All]\n40010000 00000000 00000000\n30000000 000004CE\n04010000 019069DC 03E703E7\n78010000 000000D8\n31000000\n\n",
+        "[Inf.SP for All]": "[Inf.SP for All]\n40010000 00000000 00000000\n30000000 000004B0\n02010000 0194C070 000003E7\n78010000 00000240\n31000000\n\n",
+        "[Original Code by \u00e3\u0192\u008d\u00e3\u201a\u00aa\u00e2\u20ac\u00a2\u00e3\u201a\u00b0\u00e3\u0192\u00a9\u00e3\u0192\u00b3\u00e3\u201a\u00be\u00e3\u0192\u00b3]": "[Original Code by \u00e3\u0192\u008d\u00e3\u201a\u00aa\u00e2\u20ac\u00a2\u00e3\u201a\u00b0\u00e3\u0192\u00a9\u00e3\u0192\u00b3\u00e3\u201a\u00be\u00e3\u0192\u00b3]\n20000000\n\n"
+    },
+    "B3A483DC896A379A": {
+        "[Stage Turns 0]": "[Stage Turns 0]\n01000000 01DCAB34 00000000\n\n",
+        "[Total Turns 0]": "[Total Turns 0]\n02000000 01DC5114 00000000\n\n",
+        "[Inf.Credit]": "[Inf.Credit]\n04000000 01DCAB10 05F5E0FF\n04000000 01DCAB18 05F5E0FF\n\n",
+        "[Inf.PP]": "[Inf.PP]\n04000000 01DCAB28 0098967F\n04000000 01DCAB30 0098967F\n\n",
+        "[Inf.MxP]": "[Inf.MxP]\n04000000 01DCAB1C 05F5E0FF\n\n",
+        "[Total Credits]": "[Total Credits]\n04000000 01DC50FC 05F5E0FF\n\n",
+        "[Total PP]": "[Total PP]\n04000000 01DC5100 0098967F\n\n",
+        "[Total MxP]": "[Total MxP]\n04000000 01DC5104 05F5E0FF\n\n",
+        "[Inf.All Skill]": "[Inf.All Skill]\n30000000 00000026\n04010000 01DCCB84 00000063\n78010000 00000018\n31000000\n\n"
     }
 }

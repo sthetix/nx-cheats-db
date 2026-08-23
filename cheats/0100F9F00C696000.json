@@ -292,5 +292,10 @@
         "Crash Team Racing Nitro Fueled v1.0.10 and v1.10.11by Dablackdeath.txt": "WARNING - Enable these when IN-GAME ONLY or will Crash the Full Game",
         "crash team racing 1v015 by xtatu.txt": "",
         "Crash Team Racing Nitro-Fueled v1.0.7 by DBlackDeath.txt": ""
+    },
+    "04D1CFEB1E0B9349": {
+        "[cpu no move]": "[cpu no move]\n04000000 00E2849C 1E27D000\n\n",
+        "[car speed mod 1.75x]": "[car speed mod 1.75x]\n04000000 005D27F0 1E2F9001\n\n",
+        "[jump size mod1.75x]": "[jump size mod1.75x]\n04000000 0141060C 1E2F9000\n\n"
     }
 }

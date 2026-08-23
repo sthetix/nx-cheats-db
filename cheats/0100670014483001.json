@@ -1,0 +1,12 @@
+{
+    "3C84924902DFE3CF": {
+        "[01# Inf Health]": "[01# Inf Health]\n040A0000 013FEFC0 B940AA68\n\n",
+        "[Inf Health (off)]": "[Inf Health (off)]\n040A0000 013FEFC0 1A88C288\n\n",
+        "[02# Max Money And Items]": "[02# Max Money And Items]\n040A0000 01745898 2A0803E8\n\n",
+        "[Max Money And Items (off)]": "[Max Money And Items (off)]\n040A0000 01745898 1A898108\n\n",
+        "[03# Inf Timer]": "[03# Inf Timer]\n040A0000 012A17B8 52800008\n040A0000 012A181C 52800008\n\n",
+        "[Inf Timer (off)]": "[Inf Timer (off)]\n040A0000 012A17B8 39424008\n040A0000 012A181C 39424008\n\n",
+        "[04# Stealth (Press L)]": "[04# Stealth (Press L)]\n04040000 019C6278 3940E108\n80000040\n04040000 019C6278 52800028\n20000000\n\n",
+        "[Stealth (off)]": "[Stealth (off)]\n04040000 019C6278 3940E108\n\n"
+    }
+}

@@ -21,5 +21,21 @@
         "[After checking the prop box, the total number changed to 98]": "[After checking the prop box, the total number changed to 98]\n04010000 02D81D80 140F9FA8\n04010000 03169C20 52800C40\n04010000 03169C24 B9001900\n04010000 03169C28 17F06057\n\n",
         "[The number of times you can practice at home is fixed at 99]": "[The number of times you can practice at home is fixed at 99]\n04000000 0310AA18 52800C69\n\n",
         "[max combat exp]": "[max combat exp]\n04000000 02E491D8 5291B988\n\n"
+    },
+    "5E3F71147A485112": {
+        "[max mana]": "[max mana]\n04000000 02D7423C 5284E1E9\n\n",
+        "[max hp]": "[max hp]\n04000000 0306B154 5284E1E9\n\n",
+        "[max item]": "[max item]\n04000000 02D73DC8 5284E1E9\n04000000 02D78A94 5284E1E9\n\n",
+        "[max combat exp]": "[max combat exp]\n04000000 02E2F428 5291B988\n\n",
+        "[max physical training exp]": "[max physical training exp]\n04000000 030F0930 52800C69\n\n",
+        "[max mental training exp]": "[max mental training exp]\n04000000 030F08B8 5284E1E9\n\n",
+        "[10x combat experience]": "[10x combat experience]\n04000000 0515AB1C 00005431\n\n",
+        "[Infinite Magic]": "[Infinite Magic]\n04000000 0515AB54 00005431\n\n",
+        "[No harm to me (combat)]": "[No harm to me (combat)]\n04000000 0515AB7C 00005431\n\n",
+        "[Instant kill against enemies]": "[Instant kill against enemies]\n04000000 0515ABCC 00005431\n\n",
+        "[Props do not decrease]": "[Props do not decrease]\n04000000 0515AC04 00005431\n04000000 0515AE34 00005431\n\n",
+        "[No harm to me (trap)]": "[No harm to me (trap)]\n04000000 0515AC3C 00005431\n\n",
+        "[Launch strategic critical strike]": "[Launch strategic critical strike]\n04000000 0515AC64 00005431\n\n",
+        "[Hold ZL to set enemy hp 1]": "[Hold ZL to set enemy hp 1]\n04000000 02E63054 4B150129\n80000100\n04000000 02E63054 52800029\n20000000\n\n"
     }
 }

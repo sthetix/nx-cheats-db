@@ -1,0 +1,16 @@
+{
+    "C9E29556249C3100": {
+        "[MASTER RESTORE/OFF ENABLE]": "[MASTER RESTORE/OFF ENABLE]\n04000000 01A843F4 1E2E1001\n04000000 01B45988 1E2E1000\n04000000 01B36B94 1E2E1000\n04000000 01B34E14 BD002100\n04000000 01B34E6C BD002100\n04000000 01B2CA74 1E27F000\n04000000 01B2E4F4 1E2E1000\n\n",
+        "[jump X1.5]": "[jump X1.5]\n04000000 01A843F4 1E2F1000\n\n",
+        "[jump X2]": "[jump X2]\n04000000 01A843F4 1E201000\n\n",
+        "[jump X2.5]": "[jump X2.5]\n04000000 01A843F4 1E209000\n\n",
+        "[2x damage to enemy]": "[2x damage to enemy]\n04000000 01B36B94 1E201000\n\n",
+        "[4x damage to enemy]": "[4x damage to enemy]\n04000000 01B36B94 1E221000\n\n",
+        "[8x damage to enemy]": "[8x damage to enemy]\n04000000 01B36B94 1E241000\n\n",
+        "[16x damage to enemy]": "[16x damage to enemy]\n04000000 01B36B94 1E261000\n\n",
+        "[Damage -1 (Player Damage Received -1)]": "[Damage -1 (Player Damage Received -1)]\n04000000 01B45988 1E37F000\n\n",
+        "[MP inf]": "[MP inf]\n04000000 01B34E14 D503201F\n04000000 01B34E6C D503201F\n\n",
+        "[1 Hit Kill]": "[1 Hit Kill]\n04000000 01B2CA74 1E27F000\n04000000 01B2CA44 1E27F000\n\n",
+        "[1 Hit Kill v2]": "[1 Hit Kill v2]\n04000000 01B2E4F4 1E27F000\n\n"
+    }
+}

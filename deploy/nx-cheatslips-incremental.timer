@@ -1,0 +1,12 @@
+[Unit]
+Description=Check CheatSlips for new submissions every 12 hours
+
+[Timer]
+OnBootSec=10min
+OnUnitActiveSec=12h
+RandomizedDelaySec=30min
+Persistent=true
+Unit=nx-cheatslips-incremental.service
+
+[Install]
+WantedBy=timers.target

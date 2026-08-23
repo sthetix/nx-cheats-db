@@ -1,0 +1,12 @@
+{
+    "4C9D2B6D782B5B05": {
+        "[01# Inf Health]": "[01# Inf Health]\n040A0000 014CC1B4 B940AA68\n\n",
+        "[Inf Health (off)]": "[Inf Health (off)]\n040A0000 014CC1B4 0AA87D08\n\n",
+        "[02# Max Money And Items]": "[02# Max Money And Items]\n040A0000 014A7C1C 2A0803E8\n\n",
+        "[Max Money And Items (off)]": "[Max Money And Items (off)]\n040A0000 014A7C1C 1A898108\n\n",
+        "[03# Inf Time]": "[03# Inf Time]\n040A0000 0192F4D8 52800008\n040A0000 0192F704 52800008\n040A0000 0192F768 52800008\n\n",
+        "[Inf Time (off)]": "[Inf Time (off)]\n040A0000 0192F4D8 39426008\n040A0000 0192F704 39426268\n040A0000 0192F768 39426268\n\n",
+        "[04# Stealth (Press L)]": "[04# Stealth (Press L)]\n04040000 0163A348 3940E108\n80000040\n04040000 0163A348 52800028\n20000000\n\n",
+        "[Stealth (off)]": "[Stealth (off)]\n04040000 0163A348 3940E108\n\n"
+    }
+}

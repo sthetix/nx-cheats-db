@@ -120,5 +120,14 @@
         "R Type 2 ver 1.0.3 by wiitendo84 and Tomswitch.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially",
         "R-Type Final 2 v1.0.5 (v327680) by Eiffel ver 1.0.4 and 1.0.2 and 1.0.6 by xtatu and Tomswitch and Eiffel.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially",
         "R Type 2 ver 1.0.3 by Patjenova and wiitendo84 and Tomswitch.txt": "{Do not steal and distribute these cheats on another site. Exclusive to GBAtemp}\n\nAdded speed up and moonjump codes <3 couldnt have done it without the speedrunning community for Ty the Tasmanian Tiger. thank you especially to Phoenix on discord for his trainer on pc initially"
+    },
+    "D70DAB7DEAC6EC8A": {
+        "[life]": "[life]\n04000000 014CDE28 11000408\n\n",
+        "[inf dose]": "[inf dose]\n04000000 010F5E9C D503201F\n04000000 010F7FF4 D503201F\n\n",
+        "[inv]": "[inv]\n04000000 0161B280 D65F03C0\n\n",
+        "[Off enable]": "[Off enable]\n04000000 010F5E9C 94ED2499\n04000000 010F7FF4 94ED1C43\n04000000 014CDE28 51000408\n04000000 0161B280 D10383FF\n\n"
+    },
+    "E39DE4485DBD213F": {
+        "[Invincible Push ZR to Pick Up or Attach Pod]": "[Invincible Push ZR to Pick Up or Attach Pod]\n04000000 0284F010 52800028\n80000200\n04000000 0284F010 394E6268\n20000000\n\n"
     }
 }

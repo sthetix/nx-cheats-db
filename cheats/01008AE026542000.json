@@ -1,0 +1,27 @@
+{
+    "1B6CDEA6A5E3A322": {
+        "[hp hack]": "[hp hack]\n04000000 0210DE10 BD404669\n04000000 0210DE10 14BBBEA2\n04000000 04FFD898 1C0000A9\n04000000 04FFD89C BD004669\n04000000 04FFD8A0 F0010CC1\n04000000 04FFD8A4 F907F833\n04000000 04FFD8A8 1744415B\n04000000 04FFD8AC 447A0000\n\n",
+        "[heal count and cool down hack]": "[heal count and cool down hack]\n04000000 0210DCFC B9412274\n04000000 0210DCFC 14BBBEED\n04000000 04FFD8B0 B9411A74\n04000000 04FFD8B4 B9011E74\n04000000 04FFD8B8 18000074\n04000000 04FFD8BC B9012274\n04000000 04FFD8C0 17444110\n04000000 04FFD8C4 00000064\n\n",
+        "[damage 999]": "[damage 999]\n04000000 020CA1B0 1E283800\n04000000 020CA1B0 14BCCDC6\n04000000 04FFD8C8 F0010CC0\n04000000 04FFD8CC F947F800\n04000000 04FFD8D0 EB14001F\n04000000 04FFD8D4 54000060\n04000000 04FFD8D8 1C000068\n04000000 04FFD8DC 1E283800\n04000000 04FFD8E0 17433235\n04000000 04FFD8E4 4479C000\n\n",
+        "[Off enable]": "[Off enable]\n04000000 0210DE10 BD404669\n04000000 0210DCFC B9412274\n04000000 020CA1B0 1E283800\n\n",
+        "[movement hack enable]": "[movement hack enable]\n580F0000 06B9B4C0\n580F1000 000000B8\n580F1000 00000000\n580F1000 000001F0\n\n",
+        "[MultiJumpEnabled on]": "[MultiJumpEnabled on]\n014F0000 00000240 00000001\n\n",
+        "[MultiJumpEnabled off]": "[MultiJumpEnabled off]\n014F0000 00000240 00000000\n\n",
+        "[unlimited MultiJump]": "[unlimited MultiJump]\n014F0000 00000234 00000000\n\n",
+        "[ground on]": "[ground on]\n014F0000 00000247 00000001\n\n",
+        "[FastFallingEnabled on]": "[FastFallingEnabled on]\n014F0000 00000241 00000001\n\n",
+        "[FastFallingEnabled off]": "[FastFallingEnabled off]\n014F0000 00000241 00000000\n\n",
+        "[WallJumpEnabled on]": "[WallJumpEnabled on]\n014F0000 00000242 00000001\n\n",
+        "[WallJumpEnabled off]": "[WallJumpEnabled off]\n014F0000 00000242 00000000\n\n",
+        "[WallGrabbingEnabled on]": "[WallGrabbingEnabled on]\n014F0000 00000243 00000001\n\n",
+        "[WallGrabbingEnabled off]": "[WallGrabbingEnabled off]\n014F0000 00000243 00000000\n\n",
+        "[WallHoldingEnabled on]": "[WallHoldingEnabled on]\n014F0000 00000244 00000001\n\n",
+        "[WallHoldingEnabled off]": "[WallHoldingEnabled off]\n014F0000 00000244 00000000\n\n",
+        "[PushbackCanceled on]": "[PushbackCanceled on]\n014F0000 00000245 00000001\n\n",
+        "[PushbackCanceled off]": "[PushbackCanceled off]\n014F0000 00000245 00000000\n\n",
+        "[For info]": "[For info]\n20000000\n\n",
+        "[Pointer to hp]": "[Pointer to hp]\n04010000 07198FF0 00000000\n\n",
+        "[resource read]": "[resource read]\n04000000 034791A4 B9403100\n\n",
+        "[ end]": "[ end]\n20000001\n\n"
+    }
+}

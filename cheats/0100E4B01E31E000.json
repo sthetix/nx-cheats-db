@@ -1,0 +1,13 @@
+{
+    "42273507CFAA0D74": {
+        "[Infinite HP]": "[Infinite HP]\n04000000 00411940 B90E2D0A\n\n",
+        "[Infinite Weapon]": "[Infinite Weapon]\n04000000 0041198C 52808008\n04000000 004123A8 51000129\n04000000 00411BB0 52808008\n\n",
+        "[Chain Full]": "[Chain Full]\n04000000 00420060 B94EC500\n04000000 00420064 B90EC100\n04000000 00420068 17FF3212\n04000000 003EC8AC 1400CDED\n\n",
+        "[Max Power]": "[Max Power]\n04000000 003E7778 528000A0\n\n",
+        "[Begin with Invincibility]": "[Begin with Invincibility]\n04000000 00411524 52A0200A\n\n",
+        "[Have All Main Weapons]": "[Have All Main Weapons]\n04000000 004120BC 52800020\n\n",
+        "[Infinite Rocket Bullets]": "[Infinite Rocket Bullets]\n04000000 003E7784 528000A0\n04000000 00411B38 11000508\n\n",
+        "[Infinite Shock Wave]": "[Infinite Shock Wave]\n04000000 003EC8FC 52800020\n\n",
+        "[Score x9]": "[Score x9]\n04000000 003F4434 52800120\n\n"
+    }
+}

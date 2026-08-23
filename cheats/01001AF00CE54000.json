@@ -61,7 +61,8 @@
         "[No Skill Cool Down]": "[No Skill Cool Down]\n04000000 001B69A0 1E2703E0\n\n",
         "[Inf Weapon Stones]": "[Inf Weapon Stones]\n04000000 00320AB0 52807CE0\n\n",
         "[Shadestones x99]": "[Shadestones x99]\n04000000 00320F80 52800C60\n\n",
-        "[Inf Healing Incense]": "[Inf Healing Incense]\n01000000 00320961 00000014\n\n"
+        "[Inf Healing Incense]": "[Inf Healing Incense]\n01000000 00320961 00000014\n\n",
+        "[Mana Stones x99]": "[Mana Stones x99]\n04000000 00320F80 52800C60\n\n"
     },
     "C949E2576F532C43A8CFD7A03A5D238300000000000000000000000000000000": {
         "[EXP x16]": "[EXP x16]\n04000000 003FD6CC 0B011129\n\n",

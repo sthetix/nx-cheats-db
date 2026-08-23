@@ -1,0 +1,11 @@
+{
+    "EE76FAE8ECC4A13E": {
+        "{master code}": "{master code}\n04000000 00A62404 1E21CC01\n04000000 00A62434 1E21CC01\n04000000 00A62954 4B010121\n04000000 00A62934 0B010121\n04000000 00A47AA8 1E283800\n\n",
+        "[hp inf]": "[hp inf]\n04000000 00A62404 1E21BC01\n\n",
+        "[sp inf]": "[sp inf]\n04000000 00A62434 1E21BC01\n\n",
+        "[coin inf use]": "[coin inf use]\n04000000 00A62954 4B1F0121\n\n",
+        "[coin gain x4]": "[coin gain x4]\n04000000 00A62934 0B010921\n\n",
+        "[coin gain x16]": "[coin gain x16]\n04000000 00A62934 0B011121\n\n",
+        "[ohk]": "[ohk]\n04000000 00A47AA8 1E203800\n\n"
+    }
+}

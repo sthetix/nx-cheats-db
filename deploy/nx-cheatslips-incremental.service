@@ -1,0 +1,15 @@
+[Unit]
+Description=NX Cheats DB incremental CheatSlips fetch
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/opt/nx-cheats-db-crawler
+ExecStart=/usr/bin/flock -n /run/nx-cheatslips-incremental.lock /opt/nx-cheats-db-crawler/.venv/bin/python -u fetch_cheatslips_incremental.py --max-new 50
+Nice=10
+IOSchedulingClass=best-effort
+IOSchedulingPriority=7
+StandardOutput=append:/opt/nx-cheats-db-crawler/logs/cheatslips_incremental_console.log
+StandardError=append:/opt/nx-cheats-db-crawler/logs/cheatslips_incremental_console.log
+
