@@ -1,0 +1,14 @@
+[Unit]
+Description=NX Cheats DB safe incremental CheatSlips publisher
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/opt/nx-cheats-db-publisher
+ExecStart=/usr/bin/flock -n /run/nx-cheatslips-publisher.lock /opt/nx-cheats-db-publisher/.venv/bin/python -u publish_cheatslips_incremental.py --cookies /opt/nx-cheats-db-crawler/cookies --max-new 50
+Nice=10
+IOSchedulingClass=best-effort
+IOSchedulingPriority=7
+StandardOutput=append:/opt/nx-cheats-db-publisher/logs/cheatslips_publisher.log
+StandardError=append:/opt/nx-cheats-db-publisher/logs/cheatslips_publisher.log

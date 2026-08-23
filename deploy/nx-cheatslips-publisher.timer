@@ -1,0 +1,12 @@
+[Unit]
+Description=Publish new validated CheatSlips submissions every 12 hours
+
+[Timer]
+OnBootSec=10min
+OnUnitActiveSec=12h
+RandomizedDelaySec=30min
+Persistent=true
+Unit=nx-cheatslips-publisher.service
+
+[Install]
+WantedBy=timers.target
