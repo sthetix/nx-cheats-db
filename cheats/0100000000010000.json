@@ -63,7 +63,9 @@
         "[Jump height x 2.0]": "[Jump height x 2.0]\n040B0000 00A0FFE8 40000000\n040B0000 003B91F4 1419C707\n\n",
         "[More time for Scarecrow Timer Challenges]": "[More time for Scarecrow Timer Challenges]\n040B0000 001F0FA4 1420E79E\n\n",
         "[Get items from time-limited challenges easily]": "[Get items from time-limited challenges easily]\n040B0000 00209E68 D503201F\n040B0000 00298EAC B9012269\n040B0000 00298EB0 D503201F\n040B0000 00298FD8 B9016A69\n040B0000 00298FDC D503201F\n\n",
-        "[Invalidate the instant death caused by Poison and other areas]": "[Invalidate the instant death caused by Poison and other areas]\n040B0000 003CC358 14000009\n\n"
+        "[Invalidate the instant death caused by Poison and other areas]": "[Invalidate the instant death caused by Poison and other areas]\n040B0000 003CC358 14000009\n\n",
+        "[inf health L disable  ]": "[inf health L disable  ]\n04000000 003EA360 D65F03C0\n80000040\n04000000 003EA360 F81E0FF3\n20000000\n\n",
+        "{Super Mario Odyssey v1.3.0 BY- Kaito B - Patjenova}": "{Super Mario Odyssey v1.3.0 BY- Kaito B - Patjenova}\n040B0000 00A2AE00 1CF28F2A\n040B0000 00A2AE04 1E2A0800\n040B0000 00A2AE08 1E200920\n040B0000 00A2AE0C 17E63E7D\n040B0000 00A2AE10 1CF28ED1\n040B0000 00A2AE14 1E310800\n040B0000 00A2AE18 D65F03C0\n040B0000 00A2AE1C 97F27399\n040B0000 00A2AE20 1E2D100F\n040B0000 00A2AE24 1E220011\n040B0000 00A2AE28 1E2F0A31\n040B0000 00A2AE2C 1E380220\n040B0000 00A2AE30 17DF185E\n\n"
     },
     "B424BE150A8E7D78701CBE7A439D9EBF00000000000000000000000000000000": {
         "[invicible]": "[invicible]\n04000000 006740B0 D65F03C0\n\n",

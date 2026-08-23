@@ -73,7 +73,6 @@
         "[Sunglasses]": "[Sunglasses]\n040C0000 09E83470 00000001\n040C0000 09E83898 0000000A\n\n",
         "[Water]": "[Water]\n040C0000 09E834C0 00000001\n040C0000 09E838E8 0000000A\n\n",
         "[Wrist Watch]": "[Wrist Watch]\n040C0000 09E83468 00000001\n040C0000 09E83890 0000000A\n\n",
-        "[Credits: crazy_p]": "[Credits: crazy_p]\n00000000 00000000 00000000\n\n",
         "[\u00e2\u2020\u2019 Level Up]": "[\u00e2\u2020\u2019 Level Up]\n80004000\n540C0000 09E8339C\nC043C400 00000012\nA4C00400 09E83390\n20000000\n\n"
     },
     "BA30581E9C9E6C3B - ITEM LIST": {
@@ -212,7 +211,6 @@
         "[Chloroform]": "[Chloroform]\n040C0000 09E834B0 00000001\n040C0000 09E838D8 0000000A\n\n",
         "[Cicuit]": "[Cicuit]\n040C0000 09E83438 00000001\n040C0000 09E83860 0000000A\n\n",
         "[Coin]": "[Coin]\n040C0000 09E834A4 00000001\n040C0000 09E838CC 0000000A\n\n",
-        "[Credits: crazy_p]": "[Credits: crazy_p]\n00000000 00000000 00000000\n\n",
         "[Depleted Uranium Ball]": "[Depleted Uranium Ball]\n040C0000 09E834DC 00000001\n040C0000 09E83904 0000000A\n\n",
         "[Electromagnetic Grenade]": "[Electromagnetic Grenade]\n040C0000 09E83540 00000001\n040C0000 09E83968 0000000A\n\n",
         "[Empty Bottle]": "[Empty Bottle]\n040C0000 09E83480 00000001\n040C0000 09E838A8 0000000A\n\n",

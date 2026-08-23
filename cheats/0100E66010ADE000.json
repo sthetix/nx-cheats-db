@@ -89,13 +89,11 @@
         "[Inf. Grenades (Off)]": "[Inf. Grenades (Off)]\n040C0000 009639FC 2A0203F4\n\n",
         "[Inf. Night Vision (On)]": "[Inf. Night Vision (On)]\n040C0000 0051FE24 1E202820\n\n",
         "[Inf. Night Vision (Off)]": "[Inf. Night Vision (Off)]\n040C0000 0051FE24 1E203820\n\n",
-        "[Credits: crazy_p]": "[Credits: crazy_p]\n00000000 00000000 00000000\n\n",
         "[60 FPS]": "[60 FPS]\n04000000 03CB4204 0000003C\n\n",
         "[45 FPS]": "[45 FPS]\n04000000 03CB4204 0000002D\n\n",
         "[Default 30 FPS]": "[Default 30 FPS]\n04000000 03CB4204 0000001E\n\n"
     },
     "CDB9F2FC58064064CE28B4046713CCF681716030000000000000000000000000": {
-        "[Credits: crazy_p]": "[Credits: crazy_p]\n00000000 00000000 00000000\n\n",
         "[Inf. Ammo (Off)]": "[Inf. Ammo (Off)]\n040C0000 004650EC 2A0203F5\n\n",
         "[Inf. Ammo (On)]": "[Inf. Ammo (On)]\n040C0000 004650EC 52807CF5\n\n",
         "[Inf. Grenades (Off)]": "[Inf. Grenades (Off)]\n040C0000 009639FC 2A0203F4\n\n",

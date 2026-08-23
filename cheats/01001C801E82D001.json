@@ -1,0 +1,13 @@
+{
+    "A5E2069AC7F0CFFB": {
+        "[Infinite HP]": "[Infinite HP]\n04000000 02BA34CC bd404400\n\n",
+        "[Invincible]": "[Invincible]\n580f0000 0687E8D0\n580f1000 000000b8\n580f1000 00000000\n580f1000 00000020\n580f1000 00000010\n580f1000 00000020\n780f0000 00000104\n640f0000 00000000 4c000000\n\n",
+        "[Infinite Ammo]": "[Infinite Ammo]\n580f0000 0687E8D0\n580f1000 000000b8\n580f1000 00000000\n580f1000 00000020\n580f1000 00000010\n580f1000 00000020\n780f0000 00000288\n640f0000 00000000 42c80000\n\n",
+        "[ZR Use Charged Attack]": "[ZR Use Charged Attack]\n80000200\n580f0000 0687E8D0\n580f1000 000000b8\n580f1000 00000000\n580f1000 00000020\n580f1000 00000010\n580f1000 00000020\n780f0000 000002cb\n610f0000 00000000 00000040\n20000000\n\n",
+        "[Speed 1.5x]": "[Speed 1.5x]\n04000000 02B8DBC4 1e2f1008\n\n",
+        "[Infinite Nightmare Meter]": "[Infinite Nightmare Meter]\n04000000 02B9F9C8 bd028e68\n04000000 02B9FCB0 bd028e60\n\n",
+        "[Infinite Jump]": "[Infinite Jump]\n04000000 02B9A274 52800029\n\n",
+        "[Currency 32x on gain]": "[Currency 32x on gain]\n04000000 02B76A00 0b0a1529\n\n",
+        "[Tickets no decrease on use]": "[Tickets no decrease on use]\n04000000 02C80344 b90016bf\n\n"
+    }
+}

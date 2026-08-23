@@ -16,5 +16,42 @@
         "[#03. Max Enhancement Points (999)]": "[#03. Max Enhancement Points (999)]\n040E0000 0326D70C 52807CE8\n040E0000 0326FECC 52807CE9\n\n",
         "[#04. Max Dried Fish (99)]": "[#04. Max Dried Fish (99)]\n040E0000 0326D7FC 52800C68\n040E0000 0326FE34 52800C69\n\n",
         "[#05. Unlimited Ink]": "[#05. Unlimited Ink]\n040E0000 02518ED0 1E2E1000\n040E0000 0251272C 1E2E1000\n\n"
+    },
+    "068615923F4D3887": {
+        "[Restore Code (Use after unchecking any cheats below)]": "[Restore Code (Use after unchecking any cheats below)]\n040E0000 025365F8 B9400116\n040E0000 033A88E0 2A0003F9\n040E0000 033C1704 2A0003F3\n040E0000 026B2E8C 0B090149\n040E0000 03581F4C B8696908\n040E0000 03584728 B9401669\n040E0000 0358203C B9408908\n040E0000 03584690 B9401269\n040E0000 026BCDE4 1E22CC20\n\n",
+        "[#01. Power Eggs become 99999 when increased]": "[#01. Power Eggs become 99999 when increased]\n040E0000 025365F8 529FFFF6\n040E0000 033A88E0 529FFFF9\n040E0000 033C1704 5284E213\n\n",
+        "[#02. Maximum R3 Special Power]": "[#02. Maximum R3 Special Power]\n040E0000 026B2E8C 529FFFE9\n\n",
+        "[#03. Max Enhancement Points (999)]": "[#03. Max Enhancement Points (999)]\n040E0000 03581F4C 52807CE8\n040E0000 03584728 52807CE9\n\n",
+        "[#04. Max Dried Fish (99)]": "[#04. Max Dried Fish (99)]\n040E0000 0358203C 52800C68\n040E0000 03584690 52800C69\n\n",
+        "[#05. Unlimited Ink]": "[#05. Unlimited Ink]\n040E0000 026BCDE4 1E2E1000\n\n"
+    },
+    "445E527B719D75A5": {
+        "[Restore Code (Use after unchecking any cheats below)]": "[Restore Code (Use after unchecking any cheats below)]\n040E0000 02B1A394 B9400116\n040E0000 041D1174 2A0003F9\n040E0000 041EA440 2A0003F3\n040E0000 02CC1164 0B090149\n040E0000 0459D770 B8696908\n040E0000 045A0020 B9401669\n040E0000 0459D860 B9408908\n040E0000 0459FF88 B9401269\n\n",
+        "[#01. Power Eggs become 99999 when increased]": "[#01. Power Eggs become 99999 when increased]\n040E0000 02B1A394 529FFFF6\n040E0000 041D1174 529FFFF9\n040E0000 041EA440 5284E213\n\n",
+        "[#02. Maximum R3 Special Power]": "[#02. Maximum R3 Special Power]\n040E0000 02CC1164 529FFFE9\n\n",
+        "[#03. Max Enhancement Points (999)]": "[#03. Max Enhancement Points (999)]\n040E0000 0459D770 52807CE8\n040E0000 045A0020 52807CE9\n\n",
+        "[#04. Max Dried Fish (99)]": "[#04. Max Dried Fish (99)]\n040E0000 0459D860 52800C68\n040E0000 0459FF88 52800C69\n\n"
+    },
+    "6D1AF5A2CEE9D4EC": {
+        "[Restore Code (Use after unchecking any cheats below)]": "[Restore Code (Use after unchecking any cheats below)]\n040E0000 02B12CB4 B9400116\n040E0000 041BD614 2A0003F9\n040E0000 041D68E0 2A0003F3\n040E0000 02CB761C 0B090149\n040E0000 04589BC0 B8696908\n040E0000 0458C470 B9401669\n040E0000 04589CB0 B9408908\n040E0000 0458C3D8 B9401269\n\n",
+        "[#01. Power Eggs become 99999 when increased]": "[#01. Power Eggs become 99999 when increased]\n040E0000 02B12CB4 529FFFF6\n040E0000 041BD614 529FFFF9\n040E0000 041D68E0 5284E213\n\n",
+        "[#02. Maximum R3 Special Power]": "[#02. Maximum R3 Special Power]\n040E0000 02CB761C 529FFFE9\n\n",
+        "[#03. Max Enhancement Points (999)]": "[#03. Max Enhancement Points (999)]\n040E0000 04589BC0 52807CE8\n040E0000 0458C470 52807CE9\n\n",
+        "[#04. Max Dried Fish (99)]": "[#04. Max Dried Fish (99)]\n040E0000 04589CB0 52800C68\n040E0000 0458C3D8 52800C69\n\n"
+    },
+    "8D1A8768E333A516": {
+        "[Restore Code (Use after unchecking any cheats below)]": "[Restore Code (Use after unchecking any cheats below)]\n040E0000 02AF6014 B9400116\n040E0000 041BC134 2A0003F9\n040E0000 041D5F10 2A0003F3\n040E0000 02CA5D20 0B090149\n040E0000 0459A780 B8696908\n040E0000 0459D030 B9401669\n040E0000 0459A870 B9408908\n040E0000 0459CF98 B9401269\n\n",
+        "[#01. Power Eggs become 99999 when increased]": "[#01. Power Eggs become 99999 when increased]\n040E0000 02AF6014 529FFFF6\n040E0000 041BC134 529FFFF9\n040E0000 041D5F10 5284E213\n\n",
+        "[#02. Maximum R3 Special Power]": "[#02. Maximum R3 Special Power]\n040E0000 02CA5D20 529FFFE9\n\n",
+        "[#03. Max Enhancement Points (999)]": "[#03. Max Enhancement Points (999)]\n040E0000 0459A780 52807CE8\n040E0000 0459D030 52807CE9\n\n",
+        "[#04. Max Dried Fish (99)]": "[#04. Max Dried Fish (99)]\n040E0000 0459A870 52800C68\n040E0000 0459CF98 52800C69\n\n",
+        "[#05. Unlimited Ink]": "[#05. Unlimited Ink]\n040E0000 02518ED0 1E2E1000\n040E0000 0251272C 1E2E1000\n\n"
+    },
+    "B4F65AE9BECA79FD": {
+        "[Restore Code (Use after unchecking any cheats below)]": "[Restore Code (Use after unchecking any cheats below)]\n040E0000 02B191C4 B9400116\n040E0000 041CFA74 2A0003F9\n040E0000 041E8D40 2A0003F3\n040E0000 02CBFD8C 0B090149\n040E0000 0459BFC0 B8696908\n040E0000 0459E870 B9401669\n040E0000 0459C0B0 B9408908\n040E0000 0459E7D8 B9401269\n\n",
+        "[#01. Power Eggs become 99999 when increased]": "[#01. Power Eggs become 99999 when increased]\n040E0000 02B191C4 529FFFF6\n040E0000 041CFA74 529FFFF9\n040E0000 041E8D40 5284E213\n\n",
+        "[#02. Maximum R3 Special Power]": "[#02. Maximum R3 Special Power]\n040E0000 02CBFD8C 529FFFE9\n\n",
+        "[#03. Max Enhancement Points (999)]": "[#03. Max Enhancement Points (999)]\n040E0000 0459BFC0 52807CE8\n040E0000 0459E870 52807CE9\n\n",
+        "[#04. Max Dried Fish (99)]": "[#04. Max Dried Fish (99)]\n040E0000 0459C0B0 52800C68\n040E0000 0459E7D8 52800C69\n\n"
     }
 }

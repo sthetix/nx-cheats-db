@@ -30,5 +30,32 @@
         "[Max Studs]": "[Max Studs]\n040A0000 040D9D70 2A0903E9\n\n",
         "[Studs Multiplier x4]": "[Studs Multiplier x4]\n04000000 040D9D68 0B01090A\n\n",
         "[Studs Multiplier x8]": "[Studs Multiplier x8]\n04000000 040D9D68 0B010D0A\n\n"
+    },
+    "B3DFF885ABB66B5C": {
+        "[Max Health]": "[Max Health]\n040A0000 057D7240 BD401C00\n040A0000 057D7244 BD000C00\n040A0000 057D7248 17A49005\n040A0000 057D724C 4479C000\n040A0000 040FB258 145B6FFA\n\n",
+        "[Inf. Blast Boots, Ammo. etc]": "[Inf. Blast Boots, Ammo. etc]\n04000000 04120524 52800B00\n\n",
+        "[Inf. Upgrade Time]": "[Inf. Upgrade Time]\n040A0000 0412076C 6B1F02C8\n\n",
+        "[Max Studs]": "[Max Studs]\n040A0000 040E5B7C 2A0903E9\n\n",
+        "[\ue0a5 8,888 Studs on pick-up (hold R)]": "[\ue0a5 8,888 Studs on pick-up (hold R)]\n04000000 040E5B5C B942A268\n80000080\n04000000 040E5B5C 52845708\n20000000\n\n",
+        "[Studs Multiplier x4]": "[Studs Multiplier x4]\n04000000 040E5B74 0B01090A\n\n",
+        "[Studs Multiplier x8]": "[Studs Multiplier x8]\n04000000 040E5B74 0B010D0A\n\n",
+        "[Exp. Multiplier x16]": "[Exp. Multiplier x16]\n04000000 040E60BC 0B171129\n\n",
+        "[Exp. Multiplier x64]": "[Exp. Multiplier x64]\n04000000 040E60BC 0B171929\n\n",
+        "[Exp. Multiplier x256]": "[Exp. Multiplier x256]\n04000000 040E60BC 0B172129\n\n",
+        "[Cheat off (Use after disabling cheats)]": "[Cheat off (Use after disabling cheats)]\n04000000 04120524 B9401A80\n04000000 040E5B74 0B01010A\n04000000 040E60BC 0B170129\n\n",
+        "[Cheats by: Deadqool]": "[Cheats by: Deadqool]\n20000000\n\n"
+    },
+    "C6F56735E3837278": {
+        "[Max Health]": "[Max Health]\n040A0000 057D7240 BD401C00\n040A0000 057D7244 BD000C00\n040A0000 057D7248 17A49005\n040A0000 057D724C 4479C000\n040A0000 040FB258 145B6FFA\n\n",
+        "[Inf. Blast Boots, Ammo. etc]": "[Inf. Blast Boots, Ammo. etc]\n04000000 04120524 52800B00\n\n",
+        "[Inf. Upgrade Time]": "[Inf. Upgrade Time]\n040A0000 0412076C 6B1F02C8\n\n",
+        "[Max Studs]": "[Max Studs]\n040A0000 040E5B7C 2A0903E9\n\n",
+        "[\ue0a5 8,888 Studs on pick-up (hold R)]": "[\ue0a5 8,888 Studs on pick-up (hold R)]\n04000000 040E5B5C B942A268\n80000080\n04000000 040E5B5C 52845708\n20000000\n\n",
+        "[Studs Multiplier x4]": "[Studs Multiplier x4]\n04000000 040E5B74 0B01090A\n\n",
+        "[Studs Multiplier x8]": "[Studs Multiplier x8]\n04000000 040E5B74 0B010D0A\n\n",
+        "[Exp. Multiplier x16]": "[Exp. Multiplier x16]\n04000000 040E60BC 0B171129\n\n",
+        "[Exp. Multiplier x64]": "[Exp. Multiplier x64]\n04000000 040E60BC 0B171929\n\n",
+        "[Exp. Multiplier x256]": "[Exp. Multiplier x256]\n04000000 040E60BC 0B172129\n\n",
+        "[Cheat off (Use after disabling cheats)]": "[Cheat off (Use after disabling cheats)]\n04000000 04120524 B9401A80\n04000000 040E5B74 0B01010A\n04000000 040E60BC 0B170129\n\n"
     }
 }

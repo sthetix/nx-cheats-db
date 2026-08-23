@@ -1,0 +1,20 @@
+{
+    "5DDEA48E8172F0A9": {
+        "[inf upgrade pts Method 1 restore]": "[inf upgrade pts Method 1 restore]\n04000000 00301B10 34000A68\n\n",
+        "[inf upgrade pts Method 2 restore]": "[inf upgrade pts Method 2 restore]\n04000000 00301B3C 4B180108\n\n",
+        "[inf upgrade pts Method 1 disable 0 check]": "[inf upgrade pts Method 1 disable 0 check]\n04000000 00301B10 D503201F\n\n",
+        "[inf upgrade pts Method 2 force value]": "[inf upgrade pts Method 2 force value]\n04000000 00301B3C 52800C88\n\n",
+        "[attack and move restore code]": "[attack and move restore code]\n04000000 0041CB9C 394872C8\n04000000 00459588 B9421E68\n04000000 00459648 B9421C08\n\n",
+        "[attack and move always on]": "[attack and move always on]\n04000000 0041CB9C 52800008\n04000000 00459588 52800008\n04000000 00459648 52800008\n\n",
+        "[Highlight Unit Pointer]": "[Highlight Unit Pointer]\n580F0000 01595460\n580F1000 00000098\n580F1000 00000048\n580F1000 00000028\n\n",
+        "[enemy codes]": "[enemy codes]\n20000000\n\n",
+        "[+-> Hp set to 1]": "[+-> Hp set to 1]\n400C0000 00000000 00000228\n620C01F0 00000000 00000001\n\n",
+        "[+-> EN set to 0]": "[+-> EN set to 0]\n400C0000 00000000 00000230\n620C01F0 00000000 00000000\n\n",
+        "[+-> morale set to 0]": "[+-> morale set to 0]\n400C0000 00000000 00000236\n620C01F0 00000000 00000000\n\n",
+        "[ally codes]": "[ally codes]\n20000000\n\n",
+        "[+-> Reset actions]": "[+-> Reset actions]\n400C0000 00000000 0000021C\n610C01F0 00000000 00000000\n\n",
+        "[+-> Hp set to 14000]": "[+-> Hp set to 14000]\n400C0000 00000000 00000228\n620C01F0 00000000 000036B0\n\n",
+        "[+-> EN set to 150]": "[+-> EN set to 150]\n400C0000 00000000 00000230\n620C01F0 00000000 00000096\n\n",
+        "[+-> morale set to 400]": "[+-> morale set to 400]\n400C0000 00000000 00000236\n620C01F0 00000000 00000190```\n\n"
+    }
+}

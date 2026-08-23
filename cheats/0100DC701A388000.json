@@ -1,0 +1,7 @@
+{
+    "8C3704DA8ED39372": {
+        "[HP does not decrease]": "[HP does not decrease]\n580F0000 0AA7E6C8\n780F0000 00000094\n981EF100 00000000 00000004\n580F1000 00000000\nA4FE0000\n\n",
+        "[Energy tank always full]": "[Energy tank always full]\n580F0000 0AA7E6C8\n780F0000 0000011C\n640F0000 00000000 00000005\n\n",
+        "[Speed Gauge is always full]": "[Speed Gauge is always full]\n580F0000 0AA7E6C8\n780F0000 00000108\n640F0000 00000000 42C80000\n\n"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "5E5037019143C748": {
+        "[Restore Code (Use after unchecking any cheats below)]": "[Restore Code (Use after unchecking any cheats below)]\n040E0000 028B2EF4 2A0203F6\n040E0000 028AF838 2A0403F5\n040E0000 02D9E63C 51000529\n040E0000 03224314 B9403101\n040E0000 03C64A94 4EA01C09\n040E0000 03797134 2A0103F4\n\n",
+        "[\u2116 1. Items do not decrease (Hold ZL for Cancel temporarily)]": "[\u2116 1. Items do not decrease (Hold ZL for Cancel temporarily)]\n040E0000 028B2EF4 2A1F03F6\n040E0000 028AF838 2A1F03F5\n80000100\n040E0000 028B2EF4 2A0203F6\n040E0000 028AF838 2A0403F5\n20000000\n\n",
+        "[\u2116 2. Watering can does not decrease]": "[\u2116 2. Watering can does not decrease]\n040E0000 02D9E63C D503201F\n\n",
+        "[\u2116 3. Max Money (Press X open menu to activate)]": "[\u2116 3. Max Money (Press X open menu to activate)]\n080E0000 044E6FF8 D65F03C0 B9003101\n080E0000 044E6FF0 72993FE1 52A77341\n040E0000 03224314 944B0B37\n\n",
+        "[\u2116 4. Movement Speed 5x (Hold ZL)]": "[\u2116 4. Movement Speed 5x (Hold ZL)]\n080E0000 044E6FE8 D65F03C0 1E200929\n040E0000 044E6FE4 1E229009\n040E0000 03C64A94 4EA01C09\n80000100\n040E0000 03C64A94 94220954\n20000000\n\n",
+        "[\u2116 5. HP not decrease]": "[\u2116 5. HP not decrease]\n040E0000 03797134 B9403014\n\n"
+    }
+}

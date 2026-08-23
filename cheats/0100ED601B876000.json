@@ -1,0 +1,8 @@
+{
+    "3B47E57FD8B8EE7B": {
+        "[Infinite HP]": "[Infinite HP]\n04000000 04daafec 7100507f\n04000000 04daaff0 5400004c\n04000000 04daaff4 b9401e75\n04000000 04daaff8 b9002275\n04000000 04daaffc 17a3952d\n04000000 036904ac 145c6ad0\n\n",
+        "[Infinite Lives]": "[Infinite Lives]\n04000000 04D8C984 11000109\n\n",
+        "[A No Cooldown]": "[A No Cooldown]\n04000000 0205e540 bd001a81\n\n",
+        "[LStick Stop Battle Time Do Not use on New Game 1st battle]": "[LStick Stop Battle Time Do Not use on New Game 1st battle]\n80000010\n580f0000 06c95388\n580f1000 000000b8\n580f1000 00000000\n580f1000 00000050\n580f1000 000000e0\n580f1000 00000018\n780f0000 000000c9\n610f0000 00000000 00000001\n20000000\n\n"
+    }
+}

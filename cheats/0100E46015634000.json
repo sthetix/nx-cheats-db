@@ -1,0 +1,8 @@
+{
+    "098B9DB864FF2F1B": {
+        "[max AP]": "[max AP]\n040B0000 01C392C4 B9000113\n040B0000 01C392C4 1433D775\n040B0000 0292F098 52800C93\n040B0000 0292F09C B9000113\n040B0000 0292F0A0 17CC288A\n\n",
+        "[max AP off]": "[max AP off]\n040B0000 01C392C4 B9000113\n\n",
+        "[max money]": "[max money]\n040B0000 01D8CBD4 5284E1E1\n\n",
+        "[max money off]": "[max money off]\n040B0000 01D8CBD4 1A89B3E1\n\n"
+    }
+}

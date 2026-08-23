@@ -117,5 +117,8 @@
     "attribution": {
         "Nintendo64 nso Zelda by Arismendy64.txt": "Note: Better use NOEXES to avoid game lag",
         "Nintendo 64 - Nintendo Switch Online.txt": "By cucholix \n\nImportant: must be enabled via EdiZon overlay during gameplay, the cheat doesn't auto-apply."
+    },
+    "99A2B001850E6A6C": {
+        "[infinite coins]": "[infinite coins]\n04100000 7213429D 000000C8\n\n"
     }
 }

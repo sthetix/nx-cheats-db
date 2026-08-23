@@ -1,0 +1,14 @@
+{
+    "C2E2C93EC7AF1C08": {
+        "[max stamina]": "[max stamina]\n04000000 024A5824 1E203820\n\n",
+        "[max stamina off]": "[max stamina off]\n04000000 024A5824 1E202820\n\n",
+        "[max item]": "[max item]\n04000000 02063734 5284E1E8\n04000000 02438048 5284E1E8\n04000000 0242F888 5284E1E9\n\n",
+        "[max item off]": "[max item off]\n04000000 02063734 4B150108\n04000000 02438048 0B080128\n04000000 0242F888 51000529\n\n",
+        "[instant repair]": "[instant repair]\n04000000 02BC5368 52800008\n\n",
+        "[instant repair off]": "[instant repair off]\n04000000 02BC5368 B9402108\n\n",
+        "[instant forge]": "[instant forge]\n04000000 02BBED4C 52800008\n\n",
+        "[instant forge off]": "[instant forge off]\n04000000 02BBED4C 0B080128\n\n",
+        "[max money]": "[max money]\n04000000 021E4C00 529FFFE8\n\n",
+        "[max money off]": "[max money off]\n04000000 021E4C00 0B150108\n\n"
+    }
+}

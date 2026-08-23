@@ -13,5 +13,15 @@
     },
     "attribution": {
         "Rune Factory 5 \u7b26\u6587\u5de5\u5ee05 (HK).txt": "Included in the text file:\nOverall Resolution Cheats from [360p] up to [1080p]\nNeed OC."
+    },
+    "BFD5BD430097654C": {
+        "[Inf. Money]": "[Inf. Money]\n04000000 003D2E18 0098967F\n\n",
+        "[Inf HP]": "[Inf HP]\n041F0000 30E4D030 0000270F\n\n",
+        "[Inf RP]": "[Inf RP]\n041F0000 30E4D034 0270F000\n\n",
+        "[Hit Range UP]": "[Hit Range UP]\n041F0000 30E4D080 FFFFFFFF\n\n",
+        "[Inf. MP]": "[Inf. MP]\n04000000 00D298A8 0098967F\n\n",
+        "[Inf. Stone]": "[Inf. Stone]\n04000000 003D2E20 0098967F\n\n",
+        "[Inf. Lumber]": "[Inf. Lumber]\n04000000 003D2E1C 0098967F\n\n",
+        "[Inf. HP]": "[Inf. HP]\n041F0000 30F4A030 00009999\n\n"
     }
 }

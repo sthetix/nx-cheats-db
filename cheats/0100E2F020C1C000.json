@@ -1,0 +1,11 @@
+{
+    "1CBE2AE85BEB1460": {
+        "[Infinite HP]": "[Infinite HP]\n04000000 01A6258C B9003109\n\n",
+        "[Invincible]": "[Invincible]\n04000000 01A1E034 1E201000\n\n",
+        "[Ammo No Decrease]": "[Ammo No Decrease]\n04000000 019F3D54 51000120\n\n",
+        "[Fuel No Decrease]": "[Fuel No Decrease]\n04000000 01A43AD0 D503201F\n\n",
+        "[Dash No Cooldown]": "[Dash No Cooldown]\n04000000 01A15824 BD00326B\n\n",
+        "[Infinite Time Push LStick to End Time in Defend Stages]": "[Infinite Time Push LStick to End Time in Defend Stages]\n04000000 01A491E0 1E2703E1\n80000010\n04000000 01A491E0 BD404E61\n20000000\n\n",
+        "[Core 9999 on Gain]": "[Core 9999 on Gain]\n04000000 01A6CDD0 5284E1E8\n\n"
+    }
+}

@@ -407,5 +407,36 @@
     },
     "attribution": {
         "Grand Theft Auto San Andreas The Definitive Edition.txt": "By Hazerou"
+    },
+    "44CCC8F4651309D3": {
+        "[Money Max]": "[Money Max]\n04000000 069CE618 05F5E0FF\n\n",
+        "[Playe HP Max]": "[Playe HP Max]\n580F0000 069CE530\n780F0000 00000704\n640F0000 00000000 4479C000\n\n",
+        "[Vehicle Max Hp]": "[Vehicle Max Hp]\n580F0000 069CE530\n580F1000 00000760\n780F0000 000006C4\n640F0000 00000000 461C3C00\n\n",
+        "[Wanted 0]": "[Wanted 0]\n580F0000 069CE530\n580F1000 00000588\n580F1000 00000000\n640F0000 00000000 00000000\n780F0000 00000018\n640F0000 00000000 00000000\n780F0000 00000014\n640F0000 00000000 00000000\n\n",
+        "[There are still achievements using cheats]": "[There are still achievements using cheats]\n04000000 068E8FA8 00000000\n04000000 069C9AE0 00000000\n\n",
+        "[Task time is not reduced on]": "[Task time is not reduced on]\n04000000 00FF7B00 5280000B\n\n",
+        "[Task time is not reduced off]": "[Task time is not reduced off]\n04000000 00FF7B00 1E39000B\n\n",
+        "[The bullet is not reduced on]": "[The bullet is not reduced on]\n04000000 068E8F84 00000001\n\n",
+        "[The bullet is not reduced off]": "[The bullet is not reduced off]\n04000000 068E8F84 00000000\n\n",
+        "[Press R key function off]": "[Press R key function off]\n04000000 00E9C244 52803300\n04000000 00EBE210 D10143FF\n04000000 00EBE214 A9015FF8\n04000000 00EBE218 A90257F6\n04000000 00EBE21C A9034FF4\n\n",
+        "[Press the R key to explode nearby vehicles]": "[Press the R key to explode nearby vehicles]\n04000000 00EBE210 7100CC1F\n04000000 00EBE214 54000041\n04000000 00EBE218 17FF7812\n04000000 00EBE21C D65F03C0\n\n",
+        "[Press R key to get weapon 1]": "[Press R key to get weapon 1]\n04000000 00EBE210 7100CC1F\n04000000 00EBE214 54000041\n04000000 00EBE218 17FF6C6A\n04000000 00EBE21C D65F03C0\n\n",
+        "[Press R key to get weapon 2]": "[Press R key to get weapon 2]\n04000000 00EBE210 7100CC1F\n04000000 00EBE214 54000041\n04000000 00EBE218 17FF6E6E\n04000000 00EBE21C D65F03C0\n\n",
+        "[Press R key to get weapon 3]": "[Press R key to get weapon 3]\n04000000 00EBE210 7100CC1F\n04000000 00EBE214 54000041\n04000000 00EBE218 17FF7062\n04000000 00EBE21C D65F03C0\n\n",
+        "[Press R key to generate jetpac]": "[Press R key to generate jetpac]\n04000000 00EBE210 7100CC1F\n04000000 00EBE214 54000041\n04000000 00EBE218 17FF7BC2\n04000000 00EBE21C D65F03C0\n\n",
+        "[Press R key to generate tank]": "[Press R key to generate tank]\n04000000 00E9C244 52803600\n04000000 00EBE210 7100CC1F\n04000000 00EBE214 54000041\n04000000 00EBE218 17FF780A\n04000000 00EBE21C D65F03C0\n\n",
+        "[Press R key to generate the fastest sports car]": "[Press R key to generate the fastest sports car]\n04000000 00E9C244 52803360\n04000000 00EBE210 7100CC1F\n04000000 00EBE214 54000041\n04000000 00EBE218 17FF780A\n04000000 00EBE21C D65F03C0\n\n",
+        "[Press R key to generate kart]": "[Press R key to generate kart]\n04000000 00E9C244 52804760\n04000000 00EBE210 7100CC1F\n04000000 00EBE214 54000041\n04000000 00EBE218 17FF780A\n04000000 00EBE21C D65F03C0\n\n",
+        "[Press the R key to generate an all-terrain vehicle]": "[Press the R key to generate an all-terrain vehicle]\n04000000 00E9C244 52804700\n04000000 00EBE210 7100CC1F\n04000000 00EBE214 54000041\n04000000 00EBE218 17FF780A\n04000000 00EBE21C D65F03C0\n\n",
+        "[Press R key to generate harvester]": "[Press R key to generate harvester]\n04000000 00E9C244 52804280\n04000000 00EBE210 7100CC1F\n04000000 00EBE214 54000041\n04000000 00EBE218 17FF780A\n04000000 00EBE21C D65F03C0\n\n",
+        "[Press R key to generate FBI hidden car]": "[Press R key to generate FBI hidden car]\n04000000 00E9C244 52804200\n04000000 00EBE210 7100CC1F\n04000000 00EBE214 54000041\n04000000 00EBE218 17FF780A\n04000000 00EBE21C D65F03C0\n\n",
+        "[Press R key to generate military helicopter]": "[Press R key to generate military helicopter]\n04000000 00E9C244 52803520\n04000000 00EBE210 7100CC1F\n04000000 00EBE214 54000041\n04000000 00EBE218 17FF780A\n04000000 00EBE21C D65F03C0\n\n",
+        "[Press R key to generate sea and air helicopter]": "[Press R key to generate sea and air helicopter]\n04000000 00E9C244 528037E0\n04000000 00EBE210 7100CC1F\n04000000 00EBE214 54000041\n04000000 00EBE218 17FF780A\n04000000 00EBE21C D65F03C0\n\n",
+        "[Press R to generate military fighters]": "[Press R to generate military fighters]\n04000000 00E9C244 52804100\n04000000 00EBE210 7100CC1F\n04000000 00EBE214 54000041\n04000000 00EBE218 17FF780A\n04000000 00EBE21C D65F03C0\n\n",
+        "[Press R to generate the fastest ship]": "[Press R to generate the fastest ship]\n04000000 00E9C244 528037C0\n04000000 00EBE210 7100CC1F\n04000000 00EBE214 54000041\n04000000 00EBE218 17FF780A\n04000000 00EBE21C D65F03C0\n\n",
+        "[Press R key to generate a police boat]": "[Press R key to generate a police boat]\n04000000 00E9C244 528035C0\n04000000 00EBE210 7100CC1F\n04000000 00EBE214 54000041\n04000000 00EBE218 17FF780A\n04000000 00EBE21C D65F03C0\n\n",
+        "[Press R key to generate hovercraft]": "[Press R key to generate hovercraft]\n04000000 00E9C244 52804360\n04000000 00EBE210 7100CC1F\n04000000 00EBE214 54000041\n04000000 00EBE218 17FF780A\n04000000 00EBE21C D65F03C0\n\n",
+        "[Press R key to generate mountain bike]": "[Press R key to generate mountain bike]\n04000000 00E9C244 52803FC0\n04000000 00EBE210 7100CC1F\n04000000 00EBE214 54000041\n04000000 00EBE218 17FF780A\n04000000 00EBE21C D65F03C0\n\n",
+        "[Press R to generate the fastest motorcycle]": "[Press R to generate the fastest motorcycle]\n04000000 00E9C244 52804140\n04000000 00EBE210 7100CC1F\n04000000 00EBE214 54000041\n04000000 00EBE218 17FF780A\n04000000 00EBE21C D65F03C0\n\n"
     }
 }

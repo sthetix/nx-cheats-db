@@ -35,6 +35,7 @@ CACHE_DIR = Path(".cache")
 CACHE_DIR.mkdir(exist_ok=True)
 CHEATSLIPS_CACHE_PATH = CACHE_DIR / "cheatslips_game_urls.json"
 CHEATSLIPS_COOKIE_PATH = Path(os.getenv("CHEATSLIPS_COOKIE_FILE", "cookies"))
+CHEATSLIPS_DOWNLOAD_DIR = os.getenv("CHEATSLIPS_DOWNLOAD_DIR")
 
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 CHEATSLIPS_COOKIE = os.getenv("CHEATSLIPS_COOKIE")
@@ -48,12 +49,39 @@ if GITHUB_TOKEN:
 # Cloudscraper session for sites with Cloudflare (CheatSlips)
 SCRAPER = cloudscraper.create_scraper()
 SCRAPER.headers.update({"User-Agent": "ns-emu-cheats-downloader"})
+
+
+def load_browser_cookies(cookie_data):
+    if isinstance(cookie_data, dict):
+        cookie_data = cookie_data.get("cookies", [])
+    if not isinstance(cookie_data, list):
+        return False
+    for cookie in cookie_data:
+        SCRAPER.cookies.set(
+            cookie["name"],
+            cookie["value"],
+            domain=cookie.get("domain"),
+            path=cookie.get("path", "/"),
+            secure=cookie.get("secure", False),
+        )
+    return bool(cookie_data)
+
+
 if CHEATSLIPS_COOKIE:
-    SCRAPER.headers["Cookie"] = CHEATSLIPS_COOKIE
+    try:
+        loaded_cookie_json = load_browser_cookies(json.loads(CHEATSLIPS_COOKIE))
+    except (json.JSONDecodeError, KeyError, TypeError):
+        loaded_cookie_json = False
+    if not loaded_cookie_json:
+        SCRAPER.headers["Cookie"] = CHEATSLIPS_COOKIE
 elif CHEATSLIPS_COOKIE_PATH.is_file():
-    cookie_jar = MozillaCookieJar(str(CHEATSLIPS_COOKIE_PATH))
-    cookie_jar.load(ignore_discard=True, ignore_expires=True)
-    SCRAPER.cookies.update(cookie_jar)
+    try:
+        with open(CHEATSLIPS_COOKIE_PATH, "r", encoding="utf-8") as cookie_file:
+            load_browser_cookies(json.load(cookie_file))
+    except (json.JSONDecodeError, KeyError, TypeError):
+        cookie_jar = MozillaCookieJar(str(CHEATSLIPS_COOKIE_PATH))
+        cookie_jar.load(ignore_discard=True, ignore_expires=True)
+        SCRAPER.cookies.update(cookie_jar)
 
 CHEATSLIPS_AUTH_CONFIGURED = bool(CHEATSLIPS_COOKIE or SCRAPER.cookies)
 
@@ -96,19 +124,34 @@ def merge_into(existing: OrderedDict, new: OrderedDict) -> OrderedDict:
     return existing
 
 
+def is_cheat_metadata_key(key: str) -> bool:
+    normalized = key.strip("[]{} ").lower()
+    return normalized.startswith("credits:") or "www.cheatslips" in normalized
+
+
 def parse_cheat_txt(content: str) -> OrderedDict:
     """Parse a standard .txt cheat file into {[Name]: [Name]\nCODE\n\n}."""
     out = OrderedDict()
     current_key = None
     current_lines = []
+    code_line_pattern = re.compile(r"^[0-9A-F]{8}(?:\s+[0-9A-F]{8}){0,4}$", re.IGNORECASE)
+    inline_header_pattern = re.compile(r"^([\[{].*?[\]}])\s+(.+)$")
 
     def flush():
-        if current_key and len(current_lines) > 1:
+        if current_key and any(code_line_pattern.fullmatch(line) for line in current_lines[1:]):
             out[current_key] = "\n".join(current_lines).strip() + "\n\n"
 
     for line in content.splitlines():
         s = line.strip()
         if not s:
+            continue
+        inline_header = inline_header_pattern.match(s)
+        if inline_header and code_line_pattern.fullmatch(inline_header.group(2).strip()):
+            flush()
+            key = inline_header.group(1)
+            out[key] = f"{key}\n{inline_header.group(2).strip()}\n\n"
+            current_key = None
+            current_lines = []
             continue
         is_header = (s.startswith("[") and s.endswith("]")) or \
                     (s.startswith("{") and s.endswith("}"))
@@ -417,8 +460,16 @@ def fetch_with_retry(url: str, scraper, max_retries: int = 3, base_delay: float 
     return None, "Max retries exceeded"
 
 
-def fetch_cheatslips_title(title_id: str, title_name: str, cache: dict[str, str], verbose: bool = False) -> OrderedDict:
-    game_url = resolve_cheatslips_game_url(title_id, title_name, cache, verbose=verbose)
+def fetch_cheatslips_title(
+    title_id: str,
+    title_name: str,
+    cache: dict[str, str],
+    verbose: bool = False,
+    game_url: str | None = None,
+    game_response=None,
+    missing_builds_only: bool = False,
+) -> OrderedDict:
+    game_url = game_url or resolve_cheatslips_game_url(title_id, title_name, cache, verbose=verbose)
     if not game_url:
         if verbose:
             print(f"    Skipping {title_id}: could not resolve CheatSlips URL for '{title_name}'")
@@ -427,7 +478,10 @@ def fetch_cheatslips_title(title_id: str, title_name: str, cache: dict[str, str]
     if verbose:
         print(f"  Fetching CheatSlips: {title_name} ({title_id}) -> {game_url}")
     
-    response, err = fetch_with_retry(game_url, SCRAPER)
+    if game_response is None:
+        response, err = fetch_with_retry(game_url, SCRAPER)
+    else:
+        response, err = game_response, None
     if not response or response.status_code != 200:
         if verbose and err:
             print(f"    Failed to fetch game page: {err}")
@@ -450,10 +504,15 @@ def fetch_cheatslips_title(title_id: str, title_name: str, cache: dict[str, str]
 
     new_data = OrderedDict()
     cheats_found = 0
+    existing_builds = set(load_existing(title_id)) if missing_builds_only else set()
 
     for a_tag in build_links:
         build_id = a_tag.get_text(strip=True).upper()
-        if not is_valid_title_id(build_id):
+        if not is_valid_title_id(build_id) or build_id == title_id.upper():
+            continue
+        if build_id in existing_builds:
+            if verbose:
+                print(f"    Skipping existing build: {build_id}")
             continue
 
         if verbose:
@@ -488,40 +547,80 @@ def fetch_cheatslips_title(title_id: str, title_name: str, cache: dict[str, str]
                 continue
 
             detail_url = urljoin(game_url.rstrip("/") + "/", href)
-            response3, err3 = fetch_with_retry(detail_url, SCRAPER)
-            if not response3 or response3.status_code != 200:
-                if verbose and err3:
-                    print(f"      Failed to fetch cheat details: {err3}")
-                time.sleep(0.2)
-                continue
-
-            soup3 = BeautifulSoup(response3.text, "html.parser")
-            csrf = soup3.select_one("form[method='post'] input[name='csrf_token']")
-            if not csrf or not csrf.get("value"):
-                if verbose:
-                    print("      Download form unavailable (CheatSlips session may be expired)")
-                time.sleep(0.2)
-                continue
-
-            try:
-                download = SCRAPER.post(
-                    detail_url,
-                    data={"csrf_token": csrf["value"], "action": "download"},
-                    timeout=30,
+            archive_path = None
+            if CHEATSLIPS_DOWNLOAD_DIR:
+                archive_path = (
+                    Path(CHEATSLIPS_DOWNLOAD_DIR) /
+                    title_id.upper() /
+                    build_id /
+                    f"{segment}.zip"
                 )
-                download.raise_for_status()
-                if not download.content.startswith(b"PK"):
-                    if verbose:
-                        print("      Download did not return a ZIP (CheatSlips session may be expired)")
+
+            if archive_path and archive_path.is_file():
+                archive_source = archive_path
+            else:
+                response3, err3 = fetch_with_retry(detail_url, SCRAPER)
+                if not response3 or response3.status_code != 200:
+                    if verbose and err3:
+                        print(f"      Failed to fetch cheat details: {err3}")
                     time.sleep(0.2)
                     continue
 
-                with zipfile.ZipFile(BytesIO(download.content)) as archive:
+                soup3 = BeautifulSoup(response3.text, "html.parser")
+                csrf = soup3.select_one("form[method='post'] input[name='csrf_token']")
+                if not csrf or not csrf.get("value"):
+                    if verbose:
+                        print("      Download form unavailable (CheatSlips session may be expired)")
+                    time.sleep(0.2)
+                    continue
+
+                try:
+                    download = SCRAPER.post(
+                        detail_url,
+                        data={"csrf_token": csrf["value"], "action": "download"},
+                        timeout=30,
+                        stream=bool(archive_path),
+                    )
+                    download.raise_for_status()
+                except requests.RequestException as exc:
+                    if verbose:
+                        print(f"      Failed to download cheat ZIP: {exc}")
+                    time.sleep(0.2)
+                    continue
+
+                if archive_path:
+                    chunks = download.iter_content(chunk_size=64 * 1024)
+                    first_chunk = next(chunks, b"")
+                    if not first_chunk.startswith(b"PK"):
+                        if verbose:
+                            print("      Download did not return a ZIP (CheatSlips session may be expired)")
+                        time.sleep(0.2)
+                        continue
+                    archive_path.parent.mkdir(parents=True, exist_ok=True)
+                    temporary_path = archive_path.with_suffix(".zip.tmp")
+                    with open(temporary_path, "wb") as archive_file:
+                        archive_file.write(first_chunk)
+                        for chunk in chunks:
+                            archive_file.write(chunk)
+                    temporary_path.replace(archive_path)
+                    archive_source = archive_path
+                else:
+                    if not download.content.startswith(b"PK"):
+                        if verbose:
+                            print("      Download did not return a ZIP (CheatSlips session may be expired)")
+                        time.sleep(0.2)
+                        continue
+                    archive_source = BytesIO(download.content)
+
+            try:
+                with zipfile.ZipFile(archive_source) as archive:
                     suffix = f"/contents/{title_id.upper()}/cheats/{build_id}.txt".lower()
                     txt_names = [name for name in archive.namelist() if name.lower().endswith(suffix)]
                     for txt_name in txt_names:
                         parsed = parse_cheat_txt(archive.read(txt_name).decode("utf-8-sig", errors="replace"))
                         for key, value in parsed.items():
+                            if is_cheat_metadata_key(key):
+                                continue
                             if key not in cheats:
                                 cheats[key] = value
                                 cheats_found += 1
