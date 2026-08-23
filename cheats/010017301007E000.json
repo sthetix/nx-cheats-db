@@ -357,7 +357,8 @@
         "[Black Pansy]": "[Black Pansy]\n640C0000 00000000 00019A2C\n\n",
         "[Golden Peach]": "[Golden Peach]\n640C0000 00000000 00019E1C\n\n",
         "[Olive]": "[Olive]\n640C0000 00000000 00019E20\n\n",
-        "[{Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555}]": "[{Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555}]\n20000000\n\n"
+        "[{Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555}]": "[{Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555}]\n20000000\n\n",
+        "[Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555]": "[Credits: Angely, bbhark, crazy_p, IMNoob, Merlin555]\n20000000\n\n"
     },
     "A4095ADD59310847": {
         "[Row 3 Slot 5 999]": "[Row 3 Slot 5 999]\n58060000 04671B88\n58061000 000000B8\n58061000 00000000\n58061000 00000028\n58061000 00000010\n58061000 00000018\n58061000 00000210\n78060000 00000014\n64060000 00000000 000003E7\n\n",
