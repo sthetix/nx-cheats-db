@@ -17,4 +17,4 @@ https://github.com/sthetix/nx-cheats-db/releases/latest
 | Gameplay + graphics codes | contents_complete.zip       | titles_complete.zip       |
 
 ## Cheats count
-150865 cheats in 3077 titles/10235 updates
+150872 cheats in 3077 titles/10235 updates
