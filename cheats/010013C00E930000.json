@@ -436,7 +436,8 @@
         "[\u2116 9. One Hit Kill]": "[\u2116 9. One Hit Kill]\n040A0000 023A5224 52800009\n\n",
         "[\u211610. Faster Walk Speed]": "[\u211610. Faster Walk Speed]\n040A0000 021FA0D8 1E27F000\n\n",
         "[\u211611. Infinite Air Jump]": "[\u211611. Infinite Air Jump]\n040A0000 0220DE10 52800020\n040A0000 0220DE14 D65F03C0\n\n",
-        "[\u211612. Moonjump]": "[\u211612. Moonjump]\n80000002\n080A0000 064B6FF8 41F00000 16CC3D85\n080A0000 064B6FF0 BD000120 1C000060\n040A0000 017C6608 1533C27A\n21000000\n040A0000 017C6608 BD400120\n20000000\n\n"
+        "[\u211612. Moonjump]": "[\u211612. Moonjump]\n80000002\n080A0000 064B6FF8 41F00000 16CC3D85\n080A0000 064B6FF0 BD000120 1C000060\n040A0000 017C6608 1533C27A\n21000000\n040A0000 017C6608 BD400120\n20000000\n\n",
+        "[Invincibility]": "[Invincibility]\n04000000 022050A0 52800028\n\n"
     },
     "attribution": {
         "Hollow Knight Silksong.txt": "Full Resolution \n\nHandheld from 1024x576 to 1280x720\nDocked from 1280x720 to 1920x1080\n\nBy t a s h i \n"
