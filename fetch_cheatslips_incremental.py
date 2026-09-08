@@ -18,6 +18,7 @@ from urllib.parse import urlparse
 STATE_PATH = Path(".cache/cheatslips_incremental_state.json")
 ERROR_LOG_PATH = Path("logs/cheatslips_incremental_errors.log")
 DOWNLOAD_DIR = Path("downloads/cheatslips")
+CODE_LINE_PATTERN = re.compile(r"^(?:[0-9A-F]{8})(?:\s+[0-9A-F]{8}){1,4}$", re.IGNORECASE)
 
 
 def save_json(path: Path, data):
@@ -106,6 +107,7 @@ def download_submission(crawler, detail_url: str) -> tuple[Path, dict[str, Order
                 (key, value)
                 for key, value in cheats.items()
                 if not crawler.is_cheat_metadata_key(key)
+                and any(CODE_LINE_PATTERN.fullmatch(line.strip()) for line in value.splitlines())
             )
             if not cheats:
                 continue

@@ -70,13 +70,16 @@ def validate_file(ref: str, path: Path) -> list[str]:
     for build_id, cheats in current.items():
         if build_id == "attribution":
             continue
+        old_cheats = (base or {}).get(build_id)
         if not BUILD_ID_PATTERN.fullmatch(build_id.upper()):
+            if old_cheats == cheats:
+                continue
             errors.append(f"invalid Build ID: {title_id}/{build_id}")
             continue
         if not isinstance(cheats, dict):
             errors.append(f"cheat collection is not an object: {title_id}/{build_id}")
             continue
-        old_cheats = (base or {}).get(build_id, {})
+        old_cheats = old_cheats or {}
         for key, value in cheats.items():
             if key in old_cheats:
                 continue
