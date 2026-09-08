@@ -1,0 +1,6 @@
+{
+    "8C63DC11B503FF79": {
+        "[infinite hp]": "[infinite hp]\n04000000 003A1064 D503201F\n04000000 003A1070 17FFFFCC\n\n",
+        "[infinite hp off]": "[infinite hp off]\n04000000 003A1064 3707F800\n04000000 003A1070 3707F980\n\n"
+    }
+}
