@@ -68,6 +68,8 @@ def validate_file(ref: str, path: Path) -> list[str]:
                     errors.append(f"modified cheat: {title_id}/{build_id}/{key}")
 
     for build_id, cheats in current.items():
+        if build_id == "attribution":
+            continue
         if not BUILD_ID_PATTERN.fullmatch(build_id.upper()):
             errors.append(f"invalid Build ID: {title_id}/{build_id}")
             continue
