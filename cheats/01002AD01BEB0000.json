@@ -1,0 +1,8 @@
+{
+    "C8BA76F05CDCBA2B": {
+        "[GlobalVariables player_Gold 10000]": "[GlobalVariables player_Gold 10000]\n580F0000 05836128\n580F1000 000000B8\n044F0000 0000003C 00002710\n\n",
+        "[GlobalVariables player_Life 800]": "[GlobalVariables player_Life 800]\n580F0000 05836128\n580F1000 000000B8\n044F0000 00000010 44480000\n044F0000 00000014 00000320\n044F0000 00000018 00000320\n\n",
+        "[GlobalVariables player_Stammina 600]": "[GlobalVariables player_Stammina 600]\n580F0000 05836128\n580F1000 000000B8\n044F0000 00000028 44160000\n044F0000 0000002C 00000258\n044F0000 00000030 00000258\n\n",
+        "[GlobalVariables playerDamage 6000]": "[GlobalVariables playerDamage 6000]\n580F0000 05836128\n580F1000 000000B8\n044F0000 00000044 00001770\n\n"
+    }
+}
