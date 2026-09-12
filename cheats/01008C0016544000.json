@@ -72,5 +72,23 @@
         "easy combo.txt": "ldr w1, a\nstr w1, [x19, #0x80]\nreturn: b code1+4\na:.word 3000\n",
         "hp mp full.txt": "ldr w20, a\nstr w20, [x0, #0x78]\nstr w20, [x0, #0x7c]\nreturn: b code1+4\na:.word 256\n",
         "D7D215C308C6B0BE.txt": "[Breeze beta82  Sea of Stars 1.0.46047 TID: 01008C0016544000 BID: D7D215C308C6B0BE]\n\n[easy combo]\n04000000 03DFFA54 B9008261 \n04000000 03DFFA54 14086A75 \n04000000 0401A428 18000061 \n04000000 0401A42C B9008261 \n04000000 0401A430 17F7958A \n04000000 0401A434 00000BB8 \n\n[mp full]\n04000000 0200B18C 1A80B288 \n04000000 0200B18C 1A80C288 \n\n[hp full]\n04000000 0200B024 1A80B268 \n04000000 0200B024 1A80C268 \n\n[gold 999]\n04000000 038388E8 B9403108 \n04000000 038388E8 52807CE8 \n\n[\ue0a6 ohk]\n04000000 023A3AB0 B9409000 \n80000100 \n04000000 023A3AB0 B9409000 \n04000000 023A3AB0 52800000 \n20000000 \n\n[Off enable]\n04000000 03DFFA54 B9008261 \n04000000 0200B18C 1A80B288 \n04000000 0200B024 1A80B268 \n04000000 038388E8 B9403108 \n\n"
+    },
+    "A98AED47B317106C": {
+        "[MASTER RESTORE/OFF ENABLE]": "[MASTER RESTORE/OFF ENABLE]\n04000000 01DB5EE0 6B00027F\n04000000 01DB6020 6B00029F\n04000000 01BFAEF0 6B0A011F\n04000000 01BFB0A8 6B0A013F\n04000000 04273CA0 B9409000\n04000000 0403C0C8 B9403108\n04000000 01C02E18 6B1302E2\n04000000 028B86D0 B9401116\n04000000 03E33E08 B9403108\n04000000 02685BB0 1E203900\n\n",
+        "[Inf HP Not Decrease]": "[Inf HP Not Decrease]\n04000000 01DB5EE0 2A0003F3\n\n",
+        "[Inf MP Not Decrease]": "[Inf MP Not Decrease]\n04000000 01DB6020 2A0003F4\n\n",
+        "[Max Combo Obtain]": "[Max Combo Obtain]\n04000000 01BFAEF0 2A0A03E8\n\n",
+        "[Inf Use Max Combo]": "[Inf Use Max Combo]\n04000000 01BFB0A8 2A0A03E9\n\n",
+        "[\ue0a6 (Hold ZL) One Hit Kill]": "[\ue0a6 (Hold ZL) One Hit Kill]\n04000000 04273CA0 B9409000\n80000100\n04000000 04273CA0 52800000\n20000000\n\n",
+        "[Max Gold = 999 (View Menu)]": "[Max Gold = 999 (View Menu)]\n04000000 0403C0C8 52807CE8\n\n",
+        "[Gold Not Decrease (Use/Buy)]": "[Gold Not Decrease (Use/Buy)]\n04000000 01C02E18 6B1F02E2\n\n",
+        "[Gold Increase (Use/Buy)]": "[Gold Increase (Use/Buy)]\n04000000 01C02E18 2B1302E2\n\n",
+        "[All Exist Item = 80 Qty (View Menu)]": "[All Exist Item = 80 Qty (View Menu)]\n04000000 028B86D0 B9401116\n04000000 028B86D0 146DA4ED\n04000000 04421A84 18000076\n04000000 04421A88 B9001116\n04000000 04421A8C 17925B12\n04000000 04421A90 00000050\n\n",
+        "[Inf Item = 99 Qty]": "[Inf Item = 99 Qty]\n04000000 03E33E08 52800C68\n\n",
+        "[Easy Fishing (Fish Net Will Not Cut)]": "[Easy Fishing (Fish Net Will Not Cut)]\n04000000 02685BB0 1E204100\n\n",
+        "[HP Infinito en Combate (God Mode)]": "[HP Infinito en Combate (God Mode)]\n04000000 00B45670 1A9F07E0\n\n",
+        "[MP Infinito (Max Mana)]": "[MP Infinito (Max Mana)]\n04000000 00C789A0 52800020\n\n",
+        "[Multiplicador de Experiencia x4 (Exp x4)]": "[Multiplicador de Experiencia x4 (Exp x4)]\n04000000 00D11220 0B000000\n\n",
+        "[Combo Meter Siempre Lleno]": "[Combo Meter Siempre Lleno]\n04000000 00E33440 52800060\n\n"
     }
 }
